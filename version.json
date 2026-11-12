@@ -1,12 +1,13 @@
 {
- "version": "202611120213",
- "fecha": "2026-11-12T02:13:55",
- "notas": "Primera versión",
+ "version": "202611120236",
+ "fecha": "2026-11-12T02:36:30",
+ "notas": "Alas: cómo se consigue cada una y las que solo existen en Corea",
  "archivos": [
   "comun.db",
   "parches.json",
   "alas.json",
   "alas_detalle.json",
+  "alas_corea.json",
   "mascotas.json",
   "mascotas_detalle.json",
   "mapa_ids.json"
