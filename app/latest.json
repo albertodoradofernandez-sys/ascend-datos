@@ -1,11 +1,11 @@
 {
- "version": "0.2.0",
- "notes": "Primera versión con actualizaciones automáticas, idioma inglés y bienvenida",
- "pub_date": "2026-11-12T02:12:54Z",
+ "version": "0.2.1",
+ "notes": "Colecciones con Pantheon visual, Mascotas y Alas dentro; Cara a cara más claro; consejos «Qué hacer ahora» en la Ruta",
+ "pub_date": "2026-11-12T22:59:31Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXhxdS8wMHA5WFNCMHRlZnAxREN3TnU5RTN4VWhDYWdSS3BoY3p6MWpkSTZPcVBObTF0dXNYNEsvWVBwaFBqaWMwMGtwbVZITDFtSlJJYkNadC9Od2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDQ5NTc0CWZpbGU6QXNjZW5kXzAuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMApyMXVEeE9JYU5OMllGaDNhYXA2NFRqdE1MRStmUlhGWFRKSFp2VFBxdzlpWllQb0xxM1VDRnFYVGxkSCtZckRkZmZPb05VdlE0V1VWQytaRVVyWldDQT09Cg==",
-   "url": "https://raw.githubusercontent.com/albertodoradofernandez-sys/ascend-datos/main/app/Ascend_0.2.0_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXlUTk1qOU00Vk9BdFBLWVkwU3V1TThoU0VYM1NnQWJGQnFpR1lmcUZ3YzBYWjZYK21IanY4QVdUdXBVUGloUjRQR2hJTFNrSU1BQkN5YUNsVUJsbmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI0MzcxCWZpbGU6QXNjZW5kXzAuMi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMQp6S0VqQVNtd0t1aHpIWkY0aFNaa3oyV25ZZTdRc0kvOWNrUEtLTE9qN1NCZUFiN09OdEFKM05peGRzeHkycjF6d3QvdVJpcHR0UlExVUJJWWUxVVNEZz09Cg==",
+   "url": "https://raw.githubusercontent.com/albertodoradofernandez-sys/ascend-datos/main/app/Ascend_0.2.1_x64-setup.exe"
   }
  }
 }
