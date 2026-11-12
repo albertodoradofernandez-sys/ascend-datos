@@ -1,9 +1,9 @@
 {
- "version": "202611130035",
- "fecha": "2026-11-13T00:35:29",
- "notas": "Pantheon con imágenes y piezas heroicas; obra Wrathful Urugugu",
+ "version": "202611130043",
+ "fecha": "2026-11-13T00:43:23",
+ "notas": "Paquete comprimido",
  "archivos": [
-  "comun.db",
+  "comun.db.gz",
   "parches.json",
   "alas.json",
   "alas_detalle.json",
