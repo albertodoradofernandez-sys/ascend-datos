@@ -1,11 +1,11 @@
 {
- "version": "0.2.2",
- "notes": "Botón Buscar actualizaciones en Ajustes y esta ventana de novedades; Genus como en el juego, con qué línea cambiar en cada rama; Pantheon con imágenes, puntos por deidad y piezas heroicas que te faltan; Mascotas y Alas dentro de Colecciones; Cara a cara más claro: buscar amigo, nº 1 del servidor o descargados; Ruta: qué hacer ahora y presupuesto hasta amplificación +5; Panel con scroll en ventanas pequeñas",
- "pub_date": "2026-11-12T23:39:19Z",
+ "version": "0.2.3",
+ "notes": "Novedades más claras y datos 10 veces más ligeros",
+ "pub_date": "2026-11-12T23:49:24Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQThCd293a3dxVFErdWU3bTZnZDhWbHNWb09ET2NOZVVSQnNoOWJrRVJFRW1KcFlLcFdqWlhra1l2MXRiNjRiR05iV2JMVHJ5Sll4bC9uVE1CckdhcGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI2NzU5CWZpbGU6QXNjZW5kXzAuMi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMgo3ek9adVg1QkVEVit2VjBUTURVUUJYMTV5YmN5T0s5TEVYWm9kRDF4ZFYrOE5vclFkZFlnRFRTdGJMMWhNcFdNeWxBUDFxN2V4ZnNCbFRJK0tFc1FBZz09Cg==",
-   "url": "https://raw.githubusercontent.com/albertodoradofernandez-sys/ascend-datos/main/app/Ascend_0.2.2_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTJPUGRVemhFczk3L0NvOHcxZlVXV3B6OU9jRlhRRHJWN3cwajN2VTF6ZXpKakl2bnpHa3UrZWZnZk4rYkVhMDVPKytmVlRTNm5pRUQ3bTFJOTRTemdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI3MzYzCWZpbGU6QXNjZW5kXzAuMi4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMwpqbWg5R1M2V25MN0VmaDM3MnBsZlV3dzdqUWpRK2VwY3RVcVJrNncyM0IrQTFGR3dveFIzYTcyZ2NyM2xrVGs0bFdKQnp6Y1IwaEVGOEJKUWdybkxBdz09Cg==",
+   "url": "https://raw.githubusercontent.com/albertodoradofernandez-sys/ascend-datos/main/app/Ascend_0.2.3_x64-setup.exe"
   }
  }
 }
