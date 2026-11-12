@@ -1,0 +1,11 @@
+{
+ "version": "0.2.0",
+ "notes": "Primera versión con actualizaciones automáticas, idioma inglés y bienvenida",
+ "pub_date": "2026-11-12T02:12:54Z",
+ "platforms": {
+  "windows-x86_64": {
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXhxdS8wMHA5WFNCMHRlZnAxREN3TnU5RTN4VWhDYWdSS3BoY3p6MWpkSTZPcVBObTF0dXNYNEsvWVBwaFBqaWMwMGtwbVZITDFtSlJJYkNadC9Od2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDQ5NTc0CWZpbGU6QXNjZW5kXzAuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMApyMXVEeE9JYU5OMllGaDNhYXA2NFRqdE1MRStmUlhGWFRKSFp2VFBxdzlpWllQb0xxM1VDRnFYVGxkSCtZckRkZmZPb05VdlE0V1VWQytaRVVyWldDQT09Cg==",
+   "url": "https://raw.githubusercontent.com/albertodoradofernandez-sys/ascend-datos/main/app/Ascend_0.2.0_x64-setup.exe"
+  }
+ }
+}
