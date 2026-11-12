@@ -1,0 +1,281 @@
+[
+ {
+  "id": "blazing-sun-wings",
+  "nombre": "Blazing Sun Wings",
+  "grado": "Special",
+  "equipada": "",
+  "poseida": "",
+  "origen": "Boxes and chests",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_015.png"
+ },
+ {
+  "id": "maid-ribbon-wings",
+  "nombre": "Maid Ribbon Wings",
+  "grado": "Special",
+  "equipada": "",
+  "poseida": "",
+  "origen": "—",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_011.png"
+ },
+ {
+  "id": "punk-bunny-bag-wings",
+  "nombre": "Punk Bunny Bag Wings",
+  "grado": "Special",
+  "equipada": "",
+  "poseida": "",
+  "origen": "—",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingZ_004.png"
+ },
+ {
+  "id": "spider-wings",
+  "nombre": "Spider Wings",
+  "grado": "Special",
+  "equipada": "",
+  "poseida": "",
+  "origen": "—",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingZ_010.png"
+ },
+ {
+  "id": "void-rending-wings",
+  "nombre": "Void Rending Wings",
+  "grado": "Special",
+  "equipada": "",
+  "poseida": "",
+  "origen": "—",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_033.png"
+ },
+ {
+  "id": "abyssal-waves-wings",
+  "nombre": "Abyssal Waves Wings",
+  "grado": "Unique",
+  "equipada": "Attack Bonus +60, PvE Damage Boost +3.5%, PvE Damage Tolerance +3.5%, Cooldown Reduction +4%",
+  "poseida": "+10: Flight Power +300, Attack Bonus +10, Defense Bonus +100, Accuracy Bonus +20",
+  "origen": "Conversion",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_021.png"
+ },
+ {
+  "id": "ancient-aullaeu-wings",
+  "nombre": "Ancient Aullaeu Wings",
+  "grado": "Unique",
+  "equipada": "Attack Bonus +60, Defense Bonus +400, MP +250, Natural MP Regen +90",
+  "poseida": "+10: Flight Power +300, Accuracy Bonus +20, Penetration +100, Critical Hit +25",
+  "origen": "Conversion",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingE_002.png"
+ },
+ {
+  "id": "black-fragment-wings",
+  "nombre": "Black Fragment Wings",
+  "grado": "Unique",
+  "equipada": "Critical Hit +35, Critical Attack +95, HP +500, Natural HP Regen +250",
+  "poseida": "+10: Flight Power +300, Evasion Bonus +20, Block +20, Attack Bonus +10",
+  "origen": "Conversion",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_012.png"
+ },
+ {
+  "id": "blue-butterfly-wings",
+  "nombre": "Blue Butterfly Wings",
+  "grado": "Unique",
+  "equipada": "Defense Bonus +400, HP +500, HP Potion Recovery +300, HP Potion Recovery increase +5%",
+  "poseida": "+10: Flight Power +300, Accuracy Bonus +20, Penetration +100, Critical Hit +25",
+  "origen": "Boxes and chests",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingF_003.png"
+ },
+ {
+  "id": "blue-wave-wings",
+  "nombre": "Blue Wave Wings",
+  "grado": "Unique",
+  "equipada": "Evasion Bonus +35, Critical Hit Resist +35, MP +250, Natural MP Regen +90",
+  "poseida": "+10: Flight Power +300, Critical Hit Resist +20, Back Attack Critical Hit Resist +40, PvE Attack +20",
+  "origen": "Conversion",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_004.png"
+ },
+ {
+  "id": "brawler-wings",
+  "nombre": "Brawler Wings",
+  "grado": "Unique",
+  "equipada": "Status Effect Resist +3%, Status Effect Chance +3%, HP +500, Defense Bonus +400",
+  "poseida": "+10: Flight Power +300, Status Effect Chance +2.5%, PvP Damage Boost +1%, PvP Defense +100",
+  "origen": "Currency shops",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_003.png"
+ },
+ {
+  "id": "dark-veil-wings",
+  "nombre": "Dark Veil Wings",
+  "grado": "Unique",
+  "equipada": "Damage Boost +2.5%, Attack Bonus +60, Boss Defense +500, Boss Damage Tolerance +3.5%",
+  "poseida": "+10: Flight Power +300, Damage Boost +1%, Boss Defense +300, PvE Attack +20",
+  "origen": "Conversion",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_019.png"
+ },
+ {
+  "id": "forest-spirit-wings",
+  "nombre": "Forest Spirit Wings",
+  "grado": "Unique",
+  "equipada": "Damage Tolerance +2.5%, Defense Bonus +400, Boss Attack +95, Boss Damage Boost +3.5%",
+  "poseida": "+10: Flight Power +300, Damage Tolerance +1%, Boss Attack +30, Accuracy Bonus +20",
+  "origen": "Conversion",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_010.png"
+ },
+ {
+  "id": "kromede-wings",
+  "nombre": "Kromede Wings",
+  "grado": "Unique",
+  "equipada": "Attack Bonus +60, Critical Hit +35, HP +500, Natural HP Regen +250",
+  "poseida": "+10: Flight Power +300, HP +50, Natural HP Regen +50, Attack Bonus +10",
+  "origen": "Conversion",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_014.png"
+ },
+ {
+  "id": "nightmare-wings",
+  "nombre": "Nightmare Wings",
+  "grado": "Unique",
+  "equipada": "Boss Damage Boost +3.5%, Attack Bonus +60, Critical Hit +35, Accuracy Bonus +35",
+  "poseida": "+10: Flight Power +300, Boss Attack +20, Boss Defense +300, PvE Damage Boost +1%",
+  "origen": "Currency shops",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_005.png"
+ },
+ {
+  "id": "radiant-love-wings",
+  "nombre": "Radiant Love Wings",
+  "grado": "Unique",
+  "equipada": "Defense Bonus +400, Evasion Bonus +35, HP Potion Recovery increase +5.5%, Natural MP Regen +90",
+  "poseida": "+10: Flight Power +300, Back Attack +10, Critical Hit +25, Accuracy Bonus +20",
+  "origen": "Hidden Cubes",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_003.png"
+ },
+ {
+  "id": "springflower-butterfly-wings",
+  "nombre": "Springflower Butterfly Wings",
+  "grado": "Unique",
+  "equipada": "Penetration +500, Block Penetration +60, Attack Bonus +60, Accuracy Bonus +35",
+  "poseida": "+10: Flight Power +300, Evasion Bonus +20, Block +20, Front Attack +20",
+  "origen": "Currency shops",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_005.png"
+ },
+ {
+  "id": "talisra-wings",
+  "nombre": "Talisra Wings",
+  "grado": "Unique",
+  "equipada": "Attack Bonus +60, Accuracy Bonus +35, Cooldown Reduction +4%, Defense Bonus +400",
+  "poseida": "+10: Flight Power +300, Defense Bonus +100, Attack Bonus +10, Accuracy Bonus +20",
+  "origen": "Currency shops",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_011.png"
+ },
+ {
+  "id": "ultimate-daeva-wings",
+  "nombre": "Ultimate Daeva Wings",
+  "grado": "Unique",
+  "equipada": "HP +500, MP +250, Penetration +500, Critical Hit +35",
+  "poseida": "+10: Flight Power +1,000, Penetration +100, Accuracy Bonus +20, Attack Bonus +10",
+  "origen": "—",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_001.png"
+ },
+ {
+  "id": "conqueror-wings",
+  "nombre": "Conqueror Wings",
+  "grado": "Epic",
+  "equipada": "Defense Bonus +300, Boss Attack +80, Boss Defense +400",
+  "poseida": "+10: Flight Power +300, Boss Attack +20, PvE Damage Tolerance +1%, Evasion Bonus +100",
+  "origen": "Currency shops",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingC_003.png"
+ },
+ {
+  "id": "glorious-wings",
+  "nombre": "Glorious Wings",
+  "grado": "Epic",
+  "equipada": "MP Cost Reduction +3%, MP +200, Natural MP Regen +80",
+  "poseida": "+10: Flight Power +300, Defense Bonus +100, Critical Hit +25, Incoming Heal +3%",
+  "origen": "Conversion",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingE_001A.png"
+ },
+ {
+  "id": "odyle-wings",
+  "nombre": "Odyle Wings",
+  "grado": "Epic",
+  "equipada": "HP +400, MP +200, Natural MP Regen +80",
+  "poseida": "+10: Flight Power +300, Attack Bonus +10, MP +50, Regeneration +3%",
+  "origen": "Boxes and chests",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingF_002.png"
+ },
+ {
+  "id": "sealing-wings",
+  "nombre": "Sealing Wings",
+  "grado": "Epic",
+  "equipada": "HP +400, Natural HP Regen +200, Incoming Heal +5%",
+  "poseida": "+10: Flight Power +300, Attack Bonus +10, Accuracy Bonus +20, Block +100",
+  "origen": "Conversion",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingE_001.png"
+ },
+ {
+  "id": "spirit-wings",
+  "nombre": "Spirit Wings",
+  "grado": "Epic",
+  "equipada": "HP +400, Defense Bonus +300, Block +50",
+  "poseida": "+10: Flight Power +300, Defense Bonus +100, MP +50, PvE Defense +300",
+  "origen": "Currency shops",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_002.png"
+ },
+ {
+  "id": "superior-daeva-wings",
+  "nombre": "Superior Daeva Wings",
+  "grado": "Epic",
+  "equipada": "HP +400, MP +200, Accuracy Bonus +25",
+  "poseida": "+10: Flight Power +1,000, Defense Bonus +100, Front Attack Critical Hit Resist +40, Critical Hit Resist +100",
+  "origen": "—",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_007.png"
+ },
+ {
+  "id": "warrior-wings",
+  "nombre": "Warrior Wings",
+  "grado": "Epic",
+  "equipada": "Status Effect Chance +3%, Defense Bonus +300, MP +200",
+  "poseida": "+10: Flight Power +300, Status Effect Resist +2.5%, PvP Damage Tolerance +1%",
+  "origen": "Currency shops",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_003A.png"
+ },
+ {
+  "id": "aullaeu-wings",
+  "nombre": "Aullaeu Wings",
+  "grado": "Rare",
+  "equipada": "MP +200, Natural MP Regen +50",
+  "poseida": "+10: Flight Power +300, HP +50, Natural HP Regen +50",
+  "origen": "Quests",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_004.png"
+ },
+ {
+  "id": "fairy-s-dream-wings",
+  "nombre": "Fairy's Dream Wings",
+  "grado": "Rare",
+  "equipada": "HP Potion Recovery +300, HP Potion Recovery increase +5%",
+  "poseida": "+10: Flight Power +300, HP +50",
+  "origen": "Boxes and chests",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingF_001.png"
+ },
+ {
+  "id": "intermediate-daeva-wings",
+  "nombre": "Intermediate Daeva Wings",
+  "grado": "Rare",
+  "equipada": "HP +300, Defense Bonus +200",
+  "poseida": "+10: Flight Power +1,000, Attack Bonus +10, HP +500",
+  "origen": "—",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_005C.png"
+ },
+ {
+  "id": "violet-butterfly-wings",
+  "nombre": "Violet Butterfly Wings",
+  "grado": "Rare",
+  "equipada": "Attack Bonus +40, Defense Bonus +200",
+  "poseida": "+10: Flight Power +300, HP +50, Natural HP Regen +50",
+  "origen": "Currency shops",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_009.png"
+ },
+ {
+  "id": "lesser-daeva-wings",
+  "nombre": "Lesser Daeva Wings",
+  "grado": "Common",
+  "equipada": "HP +200",
+  "poseida": "+10: Flight Power +2,500, HP +50",
+  "origen": "Quests",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_006A.png"
+ }
+]

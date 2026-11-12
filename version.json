@@ -1,0 +1,14 @@
+{
+ "version": "202611120213",
+ "fecha": "2026-11-12T02:13:55",
+ "notas": "Primera versión",
+ "archivos": [
+  "comun.db",
+  "parches.json",
+  "alas.json",
+  "alas_detalle.json",
+  "mascotas.json",
+  "mascotas_detalle.json",
+  "mapa_ids.json"
+ ]
+}

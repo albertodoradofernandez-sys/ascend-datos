@@ -1,0 +1,3988 @@
+{
+ "30203300": {
+  "nombre": "Void Rending Wings",
+  "grado": "Special",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_033.png",
+  "equipada": {},
+  "poseida": {
+   "0": {}
+  }
+ },
+ "40203300": {
+  "nombre": "Void Rending Wings",
+  "grado": "Special",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_033.png",
+  "equipada": {},
+  "poseida": {
+   "0": {}
+  }
+ },
+ "30100300": {
+  "nombre": "Brawler Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_003.png",
+  "equipada": {
+   "hpmax": 500,
+   "defense": 400,
+   "abnormalaccuracy": 300,
+   "abnormalresistance": 300
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "1": {
+    "fpmax": 21000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "2": {
+    "fpmax": 22000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "3": {
+    "fpmax": 23000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "4": {
+    "fpmax": 24000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "5": {
+    "fpmax": 25000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "6": {
+    "fpmax": 26000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "7": {
+    "fpmax": 27000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "8": {
+    "fpmax": 28000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "9": {
+    "fpmax": 29000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "10": {
+    "fpmax": 30000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   }
+  }
+ },
+ "30100301": {
+  "nombre": "Warrior Wings",
+  "grado": "Epic",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_003A.png",
+  "equipada": {
+   "mpmax": 200,
+   "defense": 300,
+   "abnormalaccuracy": 300
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "1": {
+    "fpmax": 21000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "2": {
+    "fpmax": 22000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "3": {
+    "fpmax": 23000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "4": {
+    "fpmax": 24000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "5": {
+    "fpmax": 25000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "6": {
+    "fpmax": 26000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "7": {
+    "fpmax": 27000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "8": {
+    "fpmax": 28000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "9": {
+    "fpmax": 29000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "10": {
+    "fpmax": 30000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   }
+  }
+ },
+ "30100500": {
+  "nombre": "Nightmare Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_005.png",
+  "equipada": {
+   "accuracy": 35,
+   "critical": 35,
+   "fixingdamage": 60,
+   "bossnpcamplifydamage": 350
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "1": {
+    "fpmax": 21000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "2": {
+    "fpmax": 22000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "3": {
+    "fpmax": 23000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "4": {
+    "fpmax": 24000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "5": {
+    "fpmax": 25000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "6": {
+    "fpmax": 26000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "7": {
+    "fpmax": 27000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "8": {
+    "fpmax": 28000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "9": {
+    "fpmax": 29000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "10": {
+    "fpmax": 30000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   }
+  }
+ },
+ "30101000": {
+  "nombre": "Forest Spirit Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_010.png",
+  "equipada": {
+   "defense": 400,
+   "decreasedamage": 250,
+   "bossnpcadddamage": 95,
+   "bossnpcamplifydamage": 350
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "1": {
+    "fpmax": 21000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "2": {
+    "fpmax": 22000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "3": {
+    "fpmax": 23000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "4": {
+    "fpmax": 24000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "5": {
+    "fpmax": 25000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "6": {
+    "fpmax": 26000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "7": {
+    "fpmax": 27000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "8": {
+    "fpmax": 28000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "9": {
+    "fpmax": 29000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "10": {
+    "fpmax": 30000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   }
+  }
+ },
+ "30101100": {
+  "nombre": "Talisra Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_011.png",
+  "equipada": {
+   "defense": 400,
+   "accuracy": 35,
+   "fixingdamage": 60,
+   "cooltimedecrease": 400
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "1": {
+    "fpmax": 21000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "2": {
+    "fpmax": 22000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "3": {
+    "fpmax": 23000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "4": {
+    "fpmax": 24000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "5": {
+    "fpmax": 25000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "6": {
+    "fpmax": 26000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "7": {
+    "fpmax": 27000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "8": {
+    "fpmax": 28000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "9": {
+    "fpmax": 29000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "10": {
+    "fpmax": 30000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   }
+  }
+ },
+ "30101200": {
+  "nombre": "Black Fragment Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_012.png",
+  "equipada": {
+   "hpmax": 500,
+   "hpregen": 250,
+   "critical": 35,
+   "criticaladddamage": 95
+  },
+  "poseida": {
+   "0": {
+    "block": 20,
+    "fpmax": 20000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "1": {
+    "block": 20,
+    "fpmax": 21000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "2": {
+    "block": 20,
+    "fpmax": 22000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "3": {
+    "block": 20,
+    "fpmax": 23000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "4": {
+    "block": 20,
+    "fpmax": 24000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "5": {
+    "block": 20,
+    "fpmax": 25000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "6": {
+    "block": 20,
+    "fpmax": 26000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "7": {
+    "block": 20,
+    "fpmax": 27000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "8": {
+    "block": 20,
+    "fpmax": 28000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "9": {
+    "block": 20,
+    "fpmax": 29000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "10": {
+    "block": 20,
+    "fpmax": 30000,
+    "evasion": 20,
+    "fixingdamage": 10
+   }
+  }
+ },
+ "30200101": {
+  "nombre": "Ultimate Daeva Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_001A.png",
+  "equipada": {
+   "hpmax": 500,
+   "mpmax": 250,
+   "critical": 35,
+   "defensepierce": 500
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "1": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "2": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "3": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "4": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "5": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "6": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "7": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "8": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "9": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "10": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   }
+  }
+ },
+ "30200400": {
+  "nombre": "Aullaeu Wings",
+  "grado": "Rare",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_004.png",
+  "equipada": {
+   "mpmax": 200,
+   "mpregen": 50
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "hpmax": 50
+   },
+   "1": {
+    "fpmax": 21000,
+    "hpmax": 50,
+    "hpregen": 5
+   },
+   "2": {
+    "fpmax": 22000,
+    "hpmax": 50,
+    "hpregen": 10
+   },
+   "3": {
+    "fpmax": 23000,
+    "hpmax": 50,
+    "hpregen": 15
+   },
+   "4": {
+    "fpmax": 24000,
+    "hpmax": 50,
+    "hpregen": 20
+   },
+   "5": {
+    "fpmax": 25000,
+    "hpmax": 50,
+    "hpregen": 25
+   },
+   "6": {
+    "fpmax": 26000,
+    "hpmax": 50,
+    "hpregen": 30
+   },
+   "7": {
+    "fpmax": 27000,
+    "hpmax": 50,
+    "hpregen": 35
+   },
+   "8": {
+    "fpmax": 28000,
+    "hpmax": 50,
+    "hpregen": 40
+   },
+   "9": {
+    "fpmax": 29000,
+    "hpmax": 50,
+    "hpregen": 45
+   },
+   "10": {
+    "fpmax": 30000,
+    "hpmax": 50,
+    "hpregen": 50
+   }
+  }
+ },
+ "30200500": {
+  "nombre": "Intermediate Daeva Wings",
+  "grado": "Rare",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_005.png",
+  "equipada": {
+   "hpmax": 300,
+   "defense": 200
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 100000,
+    "fixingdamage": 10
+   },
+   "1": {
+    "fpmax": 100000,
+    "hpmax": 50,
+    "fixingdamage": 10
+   },
+   "2": {
+    "fpmax": 100000,
+    "hpmax": 100,
+    "fixingdamage": 10
+   },
+   "3": {
+    "fpmax": 100000,
+    "hpmax": 150,
+    "fixingdamage": 10
+   },
+   "4": {
+    "fpmax": 100000,
+    "hpmax": 200,
+    "fixingdamage": 10
+   },
+   "5": {
+    "fpmax": 100000,
+    "hpmax": 250,
+    "fixingdamage": 10
+   },
+   "6": {
+    "fpmax": 100000,
+    "hpmax": 300,
+    "fixingdamage": 10
+   },
+   "7": {
+    "fpmax": 100000,
+    "hpmax": 350,
+    "fixingdamage": 10
+   },
+   "8": {
+    "fpmax": 100000,
+    "hpmax": 400,
+    "fixingdamage": 10
+   },
+   "9": {
+    "fpmax": 100000,
+    "hpmax": 450,
+    "fixingdamage": 10
+   },
+   "10": {
+    "fpmax": 100000,
+    "hpmax": 500,
+    "fixingdamage": 10
+   }
+  }
+ },
+ "30200600": {
+  "nombre": "Lesser Daeva Wings",
+  "grado": "Common",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_006.png",
+  "equipada": {
+   "hpmax": 200
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "1": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "2": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "3": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "4": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "5": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "6": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "7": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "8": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "9": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "10": {
+    "fpmax": 250000,
+    "hpmax": 50
+   }
+  }
+ },
+ "30200703": {
+  "nombre": "Superior Daeva Wings",
+  "grado": "Epic",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_007C.png",
+  "equipada": {
+   "hpmax": 400,
+   "mpmax": 200,
+   "accuracy": 25
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 100000,
+    "defense": 100,
+    "frontattackcriticalresist": 40
+   },
+   "1": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 10,
+    "frontattackcriticalresist": 40
+   },
+   "2": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 20,
+    "frontattackcriticalresist": 40
+   },
+   "3": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 30,
+    "frontattackcriticalresist": 40
+   },
+   "4": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 40,
+    "frontattackcriticalresist": 40
+   },
+   "5": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 50,
+    "frontattackcriticalresist": 40
+   },
+   "6": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 60,
+    "frontattackcriticalresist": 40
+   },
+   "7": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 70,
+    "frontattackcriticalresist": 40
+   },
+   "8": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 80,
+    "frontattackcriticalresist": 40
+   },
+   "9": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 90,
+    "frontattackcriticalresist": 40
+   },
+   "10": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 100,
+    "frontattackcriticalresist": 40
+   }
+  }
+ },
+ "30201400": {
+  "nombre": "Kromede Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_014.png",
+  "equipada": {
+   "hpmax": 500,
+   "hpregen": 250,
+   "critical": 35,
+   "fixingdamage": 60
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "1": {
+    "fpmax": 21000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "2": {
+    "fpmax": 22000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "3": {
+    "fpmax": 23000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "4": {
+    "fpmax": 24000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "5": {
+    "fpmax": 25000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "6": {
+    "fpmax": 26000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "7": {
+    "fpmax": 27000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "8": {
+    "fpmax": 28000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "9": {
+    "fpmax": 29000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "10": {
+    "fpmax": 30000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   }
+  }
+ },
+ "30201900": {
+  "nombre": "Dark Veil Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_019.png",
+  "equipada": {
+   "fixingdamage": 60,
+   "bossnpcdefense": 500,
+   "amplifyalldamage": 250,
+   "bossnpcdecreasedamage": 350
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "1": {
+    "fpmax": 21000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "2": {
+    "fpmax": 22000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "3": {
+    "fpmax": 23000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "4": {
+    "fpmax": 24000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "5": {
+    "fpmax": 25000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "6": {
+    "fpmax": 26000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "7": {
+    "fpmax": 27000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "8": {
+    "fpmax": 28000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "9": {
+    "fpmax": 29000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "10": {
+    "fpmax": 30000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   }
+  }
+ },
+ "30300300": {
+  "nombre": "Conqueror Wings",
+  "grado": "Epic",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingC_003.png",
+  "equipada": {
+   "defense": 300,
+   "bossnpcdefense": 400,
+   "bossnpcadddamage": 80
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "1": {
+    "fpmax": 21000,
+    "evasion": 10,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "2": {
+    "fpmax": 22000,
+    "evasion": 20,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "3": {
+    "fpmax": 23000,
+    "evasion": 30,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "4": {
+    "fpmax": 24000,
+    "evasion": 40,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "5": {
+    "fpmax": 25000,
+    "evasion": 50,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "6": {
+    "fpmax": 26000,
+    "evasion": 60,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "7": {
+    "fpmax": 27000,
+    "evasion": 70,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "8": {
+    "fpmax": 28000,
+    "evasion": 80,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "9": {
+    "fpmax": 29000,
+    "evasion": 90,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "10": {
+    "fpmax": 30000,
+    "evasion": 100,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   }
+  }
+ },
+ "30400200": {
+  "nombre": "Spirit Wings",
+  "grado": "Epic",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_002.png",
+  "equipada": {
+   "block": 50,
+   "hpmax": 400,
+   "defense": 300
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "mpmax": 50,
+    "defense": 100
+   },
+   "1": {
+    "fpmax": 21000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 30
+   },
+   "2": {
+    "fpmax": 22000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 60
+   },
+   "3": {
+    "fpmax": 23000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 90
+   },
+   "4": {
+    "fpmax": 24000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 120
+   },
+   "5": {
+    "fpmax": 25000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 150
+   },
+   "6": {
+    "fpmax": 26000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 180
+   },
+   "7": {
+    "fpmax": 27000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 210
+   },
+   "8": {
+    "fpmax": 28000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 240
+   },
+   "9": {
+    "fpmax": 29000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 270
+   },
+   "10": {
+    "fpmax": 30000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 300
+   }
+  }
+ },
+ "30400300": {
+  "nombre": "Radiant Love Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_003.png",
+  "equipada": {
+   "defense": 400,
+   "evasion": 35,
+   "mpregen": 90,
+   "hppotionrate": 550
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "1": {
+    "fpmax": 21000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "2": {
+    "fpmax": 22000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "3": {
+    "fpmax": 23000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "4": {
+    "fpmax": 24000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "5": {
+    "fpmax": 25000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "6": {
+    "fpmax": 26000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "7": {
+    "fpmax": 27000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "8": {
+    "fpmax": 28000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "9": {
+    "fpmax": 29000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "10": {
+    "fpmax": 30000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   }
+  }
+ },
+ "30400400": {
+  "nombre": "Blue Wave Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_004.png",
+  "equipada": {
+   "mpmax": 250,
+   "evasion": 35,
+   "mpregen": 90,
+   "criticalresist": 35
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "1": {
+    "fpmax": 21000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "2": {
+    "fpmax": 22000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "3": {
+    "fpmax": 23000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "4": {
+    "fpmax": 24000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "5": {
+    "fpmax": 25000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "6": {
+    "fpmax": 26000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "7": {
+    "fpmax": 27000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "8": {
+    "fpmax": 28000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "9": {
+    "fpmax": 29000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "10": {
+    "fpmax": 30000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   }
+  }
+ },
+ "30400500": {
+  "nombre": "Springflower Butterfly Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_005.png",
+  "equipada": {
+   "accuracy": 35,
+   "blockpierce": 60,
+   "fixingdamage": 60,
+   "defensepierce": 500
+  },
+  "poseida": {
+   "0": {
+    "block": 20,
+    "fpmax": 20000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "1": {
+    "block": 20,
+    "fpmax": 21000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "2": {
+    "block": 20,
+    "fpmax": 22000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "3": {
+    "block": 20,
+    "fpmax": 23000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "4": {
+    "block": 20,
+    "fpmax": 24000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "5": {
+    "block": 20,
+    "fpmax": 25000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "6": {
+    "block": 20,
+    "fpmax": 26000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "7": {
+    "block": 20,
+    "fpmax": 27000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "8": {
+    "block": 20,
+    "fpmax": 28000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "9": {
+    "block": 20,
+    "fpmax": 29000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "10": {
+    "block": 20,
+    "fpmax": 30000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   }
+  }
+ },
+ "30400900": {
+  "nombre": "Violet Butterfly Wings",
+  "grado": "Rare",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_009.png",
+  "equipada": {
+   "defense": 200,
+   "fixingdamage": 40
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "hpmax": 50
+   },
+   "1": {
+    "fpmax": 21000,
+    "hpmax": 50,
+    "hpregen": 5
+   },
+   "2": {
+    "fpmax": 22000,
+    "hpmax": 50,
+    "hpregen": 10
+   },
+   "3": {
+    "fpmax": 23000,
+    "hpmax": 50,
+    "hpregen": 15
+   },
+   "4": {
+    "fpmax": 24000,
+    "hpmax": 50,
+    "hpregen": 20
+   },
+   "5": {
+    "fpmax": 25000,
+    "hpmax": 50,
+    "hpregen": 25
+   },
+   "6": {
+    "fpmax": 26000,
+    "hpmax": 50,
+    "hpregen": 30
+   },
+   "7": {
+    "fpmax": 27000,
+    "hpmax": 50,
+    "hpregen": 35
+   },
+   "8": {
+    "fpmax": 28000,
+    "hpmax": 50,
+    "hpregen": 40
+   },
+   "9": {
+    "fpmax": 29000,
+    "hpmax": 50,
+    "hpregen": 45
+   },
+   "10": {
+    "fpmax": 30000,
+    "hpmax": 50,
+    "hpregen": 50
+   }
+  }
+ },
+ "30401100": {
+  "nombre": "Maid Ribbon Wings",
+  "grado": "Special",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_011.png",
+  "equipada": {},
+  "poseida": {
+   "0": {}
+  }
+ },
+ "30500100": {
+  "nombre": "Sealing Wings",
+  "grado": "Epic",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingE_001.png",
+  "equipada": {
+   "hpmax": 400,
+   "hpregen": 200,
+   "amplifyhphealget": 500
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "1": {
+    "block": 10,
+    "fpmax": 21000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "2": {
+    "block": 20,
+    "fpmax": 22000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "3": {
+    "block": 30,
+    "fpmax": 23000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "4": {
+    "block": 40,
+    "fpmax": 24000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "5": {
+    "block": 50,
+    "fpmax": 25000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "6": {
+    "block": 60,
+    "fpmax": 26000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "7": {
+    "block": 70,
+    "fpmax": 27000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "8": {
+    "block": 80,
+    "fpmax": 28000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "9": {
+    "block": 90,
+    "fpmax": 29000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "10": {
+    "block": 100,
+    "fpmax": 30000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   }
+  }
+ },
+ "30500101": {
+  "nombre": "Glorious Wings",
+  "grado": "Epic",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingE_001A.png",
+  "equipada": {
+   "mpmax": 200,
+   "mpregen": 80,
+   "mpusedecrease": 300
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "defense": 100,
+    "critical": 25
+   },
+   "1": {
+    "fpmax": 21000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 30
+   },
+   "2": {
+    "fpmax": 22000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 60
+   },
+   "3": {
+    "fpmax": 23000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 90
+   },
+   "4": {
+    "fpmax": 24000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 120
+   },
+   "5": {
+    "fpmax": 25000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 150
+   },
+   "6": {
+    "fpmax": 26000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 180
+   },
+   "7": {
+    "fpmax": 27000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 210
+   },
+   "8": {
+    "fpmax": 28000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 240
+   },
+   "9": {
+    "fpmax": 29000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 270
+   },
+   "10": {
+    "fpmax": 30000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 300
+   }
+  }
+ },
+ "30500200": {
+  "nombre": "Ancient Aullaeu Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingE_002.png",
+  "equipada": {
+   "mpmax": 250,
+   "defense": 400,
+   "mpregen": 90,
+   "fixingdamage": 60
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "1": {
+    "fpmax": 21000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "2": {
+    "fpmax": 22000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "3": {
+    "fpmax": 23000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "4": {
+    "fpmax": 24000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "5": {
+    "fpmax": 25000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "6": {
+    "fpmax": 26000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "7": {
+    "fpmax": 27000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "8": {
+    "fpmax": 28000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "9": {
+    "fpmax": 29000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "10": {
+    "fpmax": 30000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   }
+  }
+ },
+ "30600100": {
+  "nombre": "Fairy's Dream Wings",
+  "grado": "Rare",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingF_001.png",
+  "equipada": {
+   "hppotionrate": 500,
+   "hppotionregen": 300
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "hpmax": 50
+   },
+   "1": {
+    "fpmax": 21000,
+    "hpmax": 50
+   },
+   "2": {
+    "fpmax": 22000,
+    "hpmax": 50
+   },
+   "3": {
+    "fpmax": 23000,
+    "hpmax": 50
+   },
+   "4": {
+    "fpmax": 24000,
+    "hpmax": 50
+   },
+   "5": {
+    "fpmax": 25000,
+    "hpmax": 50
+   },
+   "6": {
+    "fpmax": 26000,
+    "hpmax": 50
+   },
+   "7": {
+    "fpmax": 27000,
+    "hpmax": 50
+   },
+   "8": {
+    "fpmax": 28000,
+    "hpmax": 50
+   },
+   "9": {
+    "fpmax": 29000,
+    "hpmax": 50
+   },
+   "10": {
+    "fpmax": 30000,
+    "hpmax": 50
+   }
+  }
+ },
+ "30600200": {
+  "nombre": "Odyle Wings",
+  "grado": "Epic",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingF_002.png",
+  "equipada": {
+   "hpmax": 400,
+   "mpmax": 200,
+   "mpregen": 80
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "mpmax": 50,
+    "fixingdamage": 10
+   },
+   "1": {
+    "fpmax": 21000,
+    "mpmax": 50,
+    "restoration": 30,
+    "fixingdamage": 10
+   },
+   "2": {
+    "fpmax": 22000,
+    "mpmax": 50,
+    "restoration": 60,
+    "fixingdamage": 10
+   },
+   "3": {
+    "fpmax": 23000,
+    "mpmax": 50,
+    "restoration": 90,
+    "fixingdamage": 10
+   },
+   "4": {
+    "fpmax": 24000,
+    "mpmax": 50,
+    "restoration": 120,
+    "fixingdamage": 10
+   },
+   "5": {
+    "fpmax": 25000,
+    "mpmax": 50,
+    "restoration": 150,
+    "fixingdamage": 10
+   },
+   "6": {
+    "fpmax": 26000,
+    "mpmax": 50,
+    "restoration": 180,
+    "fixingdamage": 10
+   },
+   "7": {
+    "fpmax": 27000,
+    "mpmax": 50,
+    "restoration": 210,
+    "fixingdamage": 10
+   },
+   "8": {
+    "fpmax": 28000,
+    "mpmax": 50,
+    "restoration": 240,
+    "fixingdamage": 10
+   },
+   "9": {
+    "fpmax": 29000,
+    "mpmax": 50,
+    "restoration": 270,
+    "fixingdamage": 10
+   },
+   "10": {
+    "fpmax": 30000,
+    "mpmax": 50,
+    "restoration": 300,
+    "fixingdamage": 10
+   }
+  }
+ },
+ "30600300": {
+  "nombre": "Blue Butterfly Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingF_003.png",
+  "equipada": {
+   "hpmax": 500,
+   "defense": 400,
+   "hppotionrate": 500,
+   "hppotionregen": 300
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "1": {
+    "fpmax": 21000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "2": {
+    "fpmax": 22000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "3": {
+    "fpmax": 23000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "4": {
+    "fpmax": 24000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "5": {
+    "fpmax": 25000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "6": {
+    "fpmax": 26000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "7": {
+    "fpmax": 27000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "8": {
+    "fpmax": 28000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "9": {
+    "fpmax": 29000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "10": {
+    "fpmax": 30000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   }
+  }
+ },
+ "40100300": {
+  "nombre": "Brawler Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_003.png",
+  "equipada": {
+   "hpmax": 500,
+   "defense": 400,
+   "abnormalaccuracy": 300,
+   "abnormalresistance": 300
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "1": {
+    "fpmax": 21000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "2": {
+    "fpmax": 22000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "3": {
+    "fpmax": 23000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "4": {
+    "fpmax": 24000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "5": {
+    "fpmax": 25000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "6": {
+    "fpmax": 26000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "7": {
+    "fpmax": 27000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "8": {
+    "fpmax": 28000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "9": {
+    "fpmax": 29000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   },
+   "10": {
+    "fpmax": 30000,
+    "abnormalaccuracy": 250,
+    "pvpamplifydamage": 100,
+    "pvpdamagedefense": 100
+   }
+  }
+ },
+ "40100301": {
+  "nombre": "Warrior Wings",
+  "grado": "Epic",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_003A.png",
+  "equipada": {
+   "mpmax": 200,
+   "defense": 300,
+   "abnormalaccuracy": 300
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "1": {
+    "fpmax": 21000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "2": {
+    "fpmax": 22000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "3": {
+    "fpmax": 23000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "4": {
+    "fpmax": 24000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "5": {
+    "fpmax": 25000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "6": {
+    "fpmax": 26000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "7": {
+    "fpmax": 27000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "8": {
+    "fpmax": 28000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "9": {
+    "fpmax": 29000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   },
+   "10": {
+    "fpmax": 30000,
+    "pvpdecreasedamage": 100,
+    "abnormalresistance": 250
+   }
+  }
+ },
+ "40100500": {
+  "nombre": "Nightmare Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_005.png",
+  "equipada": {
+   "accuracy": 35,
+   "critical": 35,
+   "fixingdamage": 60,
+   "bossnpcamplifydamage": 350
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "1": {
+    "fpmax": 21000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "2": {
+    "fpmax": 22000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "3": {
+    "fpmax": 23000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "4": {
+    "fpmax": 24000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "5": {
+    "fpmax": 25000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "6": {
+    "fpmax": 26000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "7": {
+    "fpmax": 27000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "8": {
+    "fpmax": 28000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "9": {
+    "fpmax": 29000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   },
+   "10": {
+    "fpmax": 30000,
+    "bossnpcdefense": 300,
+    "bossnpcadddamage": 20,
+    "pveamplifydamage": 100
+   }
+  }
+ },
+ "40101000": {
+  "nombre": "Forest Spirit Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_010.png",
+  "equipada": {
+   "defense": 400,
+   "decreasedamage": 250,
+   "bossnpcadddamage": 95,
+   "bossnpcamplifydamage": 350
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "1": {
+    "fpmax": 21000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "2": {
+    "fpmax": 22000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "3": {
+    "fpmax": 23000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "4": {
+    "fpmax": 24000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "5": {
+    "fpmax": 25000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "6": {
+    "fpmax": 26000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "7": {
+    "fpmax": 27000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "8": {
+    "fpmax": 28000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "9": {
+    "fpmax": 29000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   },
+   "10": {
+    "fpmax": 30000,
+    "accuracy": 20,
+    "decreasedamage": 100,
+    "bossnpcadddamage": 30
+   }
+  }
+ },
+ "40101100": {
+  "nombre": "Talisra Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_011.png",
+  "equipada": {
+   "defense": 400,
+   "accuracy": 35,
+   "fixingdamage": 60,
+   "cooltimedecrease": 400
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "1": {
+    "fpmax": 21000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "2": {
+    "fpmax": 22000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "3": {
+    "fpmax": 23000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "4": {
+    "fpmax": 24000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "5": {
+    "fpmax": 25000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "6": {
+    "fpmax": 26000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "7": {
+    "fpmax": 27000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "8": {
+    "fpmax": 28000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "9": {
+    "fpmax": 29000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "10": {
+    "fpmax": 30000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   }
+  }
+ },
+ "40101200": {
+  "nombre": "Black Fragment Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingA_012.png",
+  "equipada": {
+   "hpmax": 500,
+   "hpregen": 250,
+   "critical": 35,
+   "criticaladddamage": 95
+  },
+  "poseida": {
+   "0": {
+    "block": 20,
+    "fpmax": 20000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "1": {
+    "block": 20,
+    "fpmax": 21000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "2": {
+    "block": 20,
+    "fpmax": 22000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "3": {
+    "block": 20,
+    "fpmax": 23000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "4": {
+    "block": 20,
+    "fpmax": 24000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "5": {
+    "block": 20,
+    "fpmax": 25000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "6": {
+    "block": 20,
+    "fpmax": 26000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "7": {
+    "block": 20,
+    "fpmax": 27000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "8": {
+    "block": 20,
+    "fpmax": 28000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "9": {
+    "block": 20,
+    "fpmax": 29000,
+    "evasion": 20,
+    "fixingdamage": 10
+   },
+   "10": {
+    "block": 20,
+    "fpmax": 30000,
+    "evasion": 20,
+    "fixingdamage": 10
+   }
+  }
+ },
+ "40200100": {
+  "nombre": "Ultimate Daeva Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_001.png",
+  "equipada": {
+   "hpmax": 500,
+   "mpmax": 250,
+   "critical": 35,
+   "defensepierce": 500
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "1": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "2": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "3": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "4": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "5": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "6": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "7": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "8": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "9": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   },
+   "10": {
+    "fpmax": 100000,
+    "accuracy": 20,
+    "fixingdamage": 10,
+    "defensepierce": 100
+   }
+  }
+ },
+ "40200400": {
+  "nombre": "Aullaeu Wings",
+  "grado": "Rare",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_004.png",
+  "equipada": {
+   "mpmax": 200,
+   "mpregen": 50
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "hpmax": 50
+   },
+   "1": {
+    "fpmax": 21000,
+    "hpmax": 50,
+    "hpregen": 5
+   },
+   "2": {
+    "fpmax": 22000,
+    "hpmax": 50,
+    "hpregen": 10
+   },
+   "3": {
+    "fpmax": 23000,
+    "hpmax": 50,
+    "hpregen": 15
+   },
+   "4": {
+    "fpmax": 24000,
+    "hpmax": 50,
+    "hpregen": 20
+   },
+   "5": {
+    "fpmax": 25000,
+    "hpmax": 50,
+    "hpregen": 25
+   },
+   "6": {
+    "fpmax": 26000,
+    "hpmax": 50,
+    "hpregen": 30
+   },
+   "7": {
+    "fpmax": 27000,
+    "hpmax": 50,
+    "hpregen": 35
+   },
+   "8": {
+    "fpmax": 28000,
+    "hpmax": 50,
+    "hpregen": 40
+   },
+   "9": {
+    "fpmax": 29000,
+    "hpmax": 50,
+    "hpregen": 45
+   },
+   "10": {
+    "fpmax": 30000,
+    "hpmax": 50,
+    "hpregen": 50
+   }
+  }
+ },
+ "40200503": {
+  "nombre": "Intermediate Daeva Wings",
+  "grado": "Rare",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_005C.png",
+  "equipada": {
+   "hpmax": 300,
+   "defense": 200
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 100000,
+    "fixingdamage": 10
+   },
+   "1": {
+    "fpmax": 100000,
+    "hpmax": 50,
+    "fixingdamage": 10
+   },
+   "2": {
+    "fpmax": 100000,
+    "hpmax": 100,
+    "fixingdamage": 10
+   },
+   "3": {
+    "fpmax": 100000,
+    "hpmax": 150,
+    "fixingdamage": 10
+   },
+   "4": {
+    "fpmax": 100000,
+    "hpmax": 200,
+    "fixingdamage": 10
+   },
+   "5": {
+    "fpmax": 100000,
+    "hpmax": 250,
+    "fixingdamage": 10
+   },
+   "6": {
+    "fpmax": 100000,
+    "hpmax": 300,
+    "fixingdamage": 10
+   },
+   "7": {
+    "fpmax": 100000,
+    "hpmax": 350,
+    "fixingdamage": 10
+   },
+   "8": {
+    "fpmax": 100000,
+    "hpmax": 400,
+    "fixingdamage": 10
+   },
+   "9": {
+    "fpmax": 100000,
+    "hpmax": 450,
+    "fixingdamage": 10
+   },
+   "10": {
+    "fpmax": 100000,
+    "hpmax": 500,
+    "fixingdamage": 10
+   }
+  }
+ },
+ "40200601": {
+  "nombre": "Lesser Daeva Wings",
+  "grado": "Common",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_006A.png",
+  "equipada": {
+   "hpmax": 200
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "1": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "2": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "3": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "4": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "5": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "6": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "7": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "8": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "9": {
+    "fpmax": 250000,
+    "hpmax": 50
+   },
+   "10": {
+    "fpmax": 250000,
+    "hpmax": 50
+   }
+  }
+ },
+ "40200700": {
+  "nombre": "Superior Daeva Wings",
+  "grado": "Epic",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_007.png",
+  "equipada": {
+   "hpmax": 400,
+   "mpmax": 200,
+   "accuracy": 25
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 100000,
+    "defense": 100,
+    "frontattackcriticalresist": 40
+   },
+   "1": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 10,
+    "frontattackcriticalresist": 40
+   },
+   "2": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 20,
+    "frontattackcriticalresist": 40
+   },
+   "3": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 30,
+    "frontattackcriticalresist": 40
+   },
+   "4": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 40,
+    "frontattackcriticalresist": 40
+   },
+   "5": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 50,
+    "frontattackcriticalresist": 40
+   },
+   "6": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 60,
+    "frontattackcriticalresist": 40
+   },
+   "7": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 70,
+    "frontattackcriticalresist": 40
+   },
+   "8": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 80,
+    "frontattackcriticalresist": 40
+   },
+   "9": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 90,
+    "frontattackcriticalresist": 40
+   },
+   "10": {
+    "fpmax": 100000,
+    "defense": 100,
+    "criticalresist": 100,
+    "frontattackcriticalresist": 40
+   }
+  }
+ },
+ "40201400": {
+  "nombre": "Kromede Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_014.png",
+  "equipada": {
+   "hpmax": 500,
+   "hpregen": 250,
+   "critical": 35,
+   "fixingdamage": 60
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "1": {
+    "fpmax": 21000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "2": {
+    "fpmax": 22000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "3": {
+    "fpmax": 23000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "4": {
+    "fpmax": 24000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "5": {
+    "fpmax": 25000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "6": {
+    "fpmax": 26000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "7": {
+    "fpmax": 27000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "8": {
+    "fpmax": 28000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "9": {
+    "fpmax": 29000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   },
+   "10": {
+    "fpmax": 30000,
+    "hpmax": 50,
+    "hpregen": 50,
+    "fixingdamage": 10
+   }
+  }
+ },
+ "40201900": {
+  "nombre": "Dark Veil Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_019.png",
+  "equipada": {
+   "fixingdamage": 60,
+   "bossnpcdefense": 500,
+   "amplifyalldamage": 250,
+   "bossnpcdecreasedamage": 350
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "1": {
+    "fpmax": 21000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "2": {
+    "fpmax": 22000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "3": {
+    "fpmax": 23000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "4": {
+    "fpmax": 24000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "5": {
+    "fpmax": 25000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "6": {
+    "fpmax": 26000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "7": {
+    "fpmax": 27000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "8": {
+    "fpmax": 28000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "9": {
+    "fpmax": 29000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   },
+   "10": {
+    "fpmax": 30000,
+    "pveadddamage": 20,
+    "bossnpcdefense": 300,
+    "amplifyalldamage": 100
+   }
+  }
+ },
+ "40300300": {
+  "nombre": "Conqueror Wings",
+  "grado": "Epic",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingC_003.png",
+  "equipada": {
+   "defense": 300,
+   "bossnpcdefense": 400,
+   "bossnpcadddamage": 80
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "1": {
+    "fpmax": 21000,
+    "evasion": 10,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "2": {
+    "fpmax": 22000,
+    "evasion": 20,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "3": {
+    "fpmax": 23000,
+    "evasion": 30,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "4": {
+    "fpmax": 24000,
+    "evasion": 40,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "5": {
+    "fpmax": 25000,
+    "evasion": 50,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "6": {
+    "fpmax": 26000,
+    "evasion": 60,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "7": {
+    "fpmax": 27000,
+    "evasion": 70,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "8": {
+    "fpmax": 28000,
+    "evasion": 80,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "9": {
+    "fpmax": 29000,
+    "evasion": 90,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   },
+   "10": {
+    "fpmax": 30000,
+    "evasion": 100,
+    "bossnpcadddamage": 20,
+    "pvedecreasedamage": 100
+   }
+  }
+ },
+ "40400200": {
+  "nombre": "Spirit Wings",
+  "grado": "Epic",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_002.png",
+  "equipada": {
+   "block": 50,
+   "hpmax": 400,
+   "defense": 300
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "mpmax": 50,
+    "defense": 100
+   },
+   "1": {
+    "fpmax": 21000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 30
+   },
+   "2": {
+    "fpmax": 22000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 60
+   },
+   "3": {
+    "fpmax": 23000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 90
+   },
+   "4": {
+    "fpmax": 24000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 120
+   },
+   "5": {
+    "fpmax": 25000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 150
+   },
+   "6": {
+    "fpmax": 26000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 180
+   },
+   "7": {
+    "fpmax": 27000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 210
+   },
+   "8": {
+    "fpmax": 28000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 240
+   },
+   "9": {
+    "fpmax": 29000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 270
+   },
+   "10": {
+    "fpmax": 30000,
+    "mpmax": 50,
+    "defense": 100,
+    "pvedamagedefense": 300
+   }
+  }
+ },
+ "40400300": {
+  "nombre": "Radiant Love Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_003.png",
+  "equipada": {
+   "defense": 400,
+   "evasion": 35,
+   "mpregen": 90,
+   "hppotionrate": 550
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "1": {
+    "fpmax": 21000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "2": {
+    "fpmax": 22000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "3": {
+    "fpmax": 23000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "4": {
+    "fpmax": 24000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "5": {
+    "fpmax": 25000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "6": {
+    "fpmax": 26000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "7": {
+    "fpmax": 27000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "8": {
+    "fpmax": 28000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "9": {
+    "fpmax": 29000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   },
+   "10": {
+    "fpmax": 30000,
+    "accuracy": 20,
+    "critical": 25,
+    "backattackdamage": 10
+   }
+  }
+ },
+ "40400400": {
+  "nombre": "Blue Wave Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_004.png",
+  "equipada": {
+   "mpmax": 250,
+   "evasion": 35,
+   "mpregen": 90,
+   "criticalresist": 35
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "1": {
+    "fpmax": 21000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "2": {
+    "fpmax": 22000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "3": {
+    "fpmax": 23000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "4": {
+    "fpmax": 24000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "5": {
+    "fpmax": 25000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "6": {
+    "fpmax": 26000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "7": {
+    "fpmax": 27000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "8": {
+    "fpmax": 28000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "9": {
+    "fpmax": 29000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   },
+   "10": {
+    "fpmax": 30000,
+    "pveadddamage": 20,
+    "criticalresist": 20,
+    "backattackcriticalresist": 40
+   }
+  }
+ },
+ "40400500": {
+  "nombre": "Springflower Butterfly Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_005.png",
+  "equipada": {
+   "accuracy": 35,
+   "blockpierce": 60,
+   "fixingdamage": 60,
+   "defensepierce": 500
+  },
+  "poseida": {
+   "0": {
+    "block": 20,
+    "fpmax": 20000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "1": {
+    "block": 20,
+    "fpmax": 21000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "2": {
+    "block": 20,
+    "fpmax": 22000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "3": {
+    "block": 20,
+    "fpmax": 23000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "4": {
+    "block": 20,
+    "fpmax": 24000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "5": {
+    "block": 20,
+    "fpmax": 25000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "6": {
+    "block": 20,
+    "fpmax": 26000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "7": {
+    "block": 20,
+    "fpmax": 27000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "8": {
+    "block": 20,
+    "fpmax": 28000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "9": {
+    "block": 20,
+    "fpmax": 29000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   },
+   "10": {
+    "block": 20,
+    "fpmax": 30000,
+    "evasion": 20,
+    "frontattackdamage": 20
+   }
+  }
+ },
+ "40400900": {
+  "nombre": "Violet Butterfly Wings",
+  "grado": "Rare",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_009.png",
+  "equipada": {
+   "defense": 200,
+   "fixingdamage": 40
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "hpmax": 50
+   },
+   "1": {
+    "fpmax": 21000,
+    "hpmax": 50,
+    "hpregen": 5
+   },
+   "2": {
+    "fpmax": 22000,
+    "hpmax": 50,
+    "hpregen": 10
+   },
+   "3": {
+    "fpmax": 23000,
+    "hpmax": 50,
+    "hpregen": 15
+   },
+   "4": {
+    "fpmax": 24000,
+    "hpmax": 50,
+    "hpregen": 20
+   },
+   "5": {
+    "fpmax": 25000,
+    "hpmax": 50,
+    "hpregen": 25
+   },
+   "6": {
+    "fpmax": 26000,
+    "hpmax": 50,
+    "hpregen": 30
+   },
+   "7": {
+    "fpmax": 27000,
+    "hpmax": 50,
+    "hpregen": 35
+   },
+   "8": {
+    "fpmax": 28000,
+    "hpmax": 50,
+    "hpregen": 40
+   },
+   "9": {
+    "fpmax": 29000,
+    "hpmax": 50,
+    "hpregen": 45
+   },
+   "10": {
+    "fpmax": 30000,
+    "hpmax": 50,
+    "hpregen": 50
+   }
+  }
+ },
+ "40401100": {
+  "nombre": "Maid Ribbon Wings",
+  "grado": "Special",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingD_011.png",
+  "equipada": {},
+  "poseida": {
+   "0": {}
+  }
+ },
+ "40500100": {
+  "nombre": "Sealing Wings",
+  "grado": "Epic",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingE_001.png",
+  "equipada": {
+   "hpmax": 400,
+   "hpregen": 200,
+   "amplifyhphealget": 500
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "1": {
+    "block": 10,
+    "fpmax": 21000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "2": {
+    "block": 20,
+    "fpmax": 22000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "3": {
+    "block": 30,
+    "fpmax": 23000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "4": {
+    "block": 40,
+    "fpmax": 24000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "5": {
+    "block": 50,
+    "fpmax": 25000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "6": {
+    "block": 60,
+    "fpmax": 26000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "7": {
+    "block": 70,
+    "fpmax": 27000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "8": {
+    "block": 80,
+    "fpmax": 28000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "9": {
+    "block": 90,
+    "fpmax": 29000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "10": {
+    "block": 100,
+    "fpmax": 30000,
+    "accuracy": 20,
+    "fixingdamage": 10
+   }
+  }
+ },
+ "40500101": {
+  "nombre": "Glorious Wings",
+  "grado": "Epic",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingE_001A.png",
+  "equipada": {
+   "mpmax": 200,
+   "mpregen": 80,
+   "mpusedecrease": 300
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "defense": 100,
+    "critical": 25
+   },
+   "1": {
+    "fpmax": 21000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 30
+   },
+   "2": {
+    "fpmax": 22000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 60
+   },
+   "3": {
+    "fpmax": 23000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 90
+   },
+   "4": {
+    "fpmax": 24000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 120
+   },
+   "5": {
+    "fpmax": 25000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 150
+   },
+   "6": {
+    "fpmax": 26000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 180
+   },
+   "7": {
+    "fpmax": 27000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 210
+   },
+   "8": {
+    "fpmax": 28000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 240
+   },
+   "9": {
+    "fpmax": 29000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 270
+   },
+   "10": {
+    "fpmax": 30000,
+    "defense": 100,
+    "critical": 25,
+    "amplifyhphealget": 300
+   }
+  }
+ },
+ "40500200": {
+  "nombre": "Ancient Aullaeu Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingE_002.png",
+  "equipada": {
+   "mpmax": 250,
+   "defense": 400,
+   "mpregen": 90,
+   "fixingdamage": 60
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "1": {
+    "fpmax": 21000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "2": {
+    "fpmax": 22000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "3": {
+    "fpmax": 23000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "4": {
+    "fpmax": 24000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "5": {
+    "fpmax": 25000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "6": {
+    "fpmax": 26000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "7": {
+    "fpmax": 27000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "8": {
+    "fpmax": 28000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "9": {
+    "fpmax": 29000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "10": {
+    "fpmax": 30000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   }
+  }
+ },
+ "40600100": {
+  "nombre": "Fairy's Dream Wings",
+  "grado": "Rare",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingF_001.png",
+  "equipada": {
+   "hppotionrate": 500,
+   "hppotionregen": 300
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "hpmax": 50
+   },
+   "1": {
+    "fpmax": 21000,
+    "hpmax": 50
+   },
+   "2": {
+    "fpmax": 22000,
+    "hpmax": 50
+   },
+   "3": {
+    "fpmax": 23000,
+    "hpmax": 50
+   },
+   "4": {
+    "fpmax": 24000,
+    "hpmax": 50
+   },
+   "5": {
+    "fpmax": 25000,
+    "hpmax": 50
+   },
+   "6": {
+    "fpmax": 26000,
+    "hpmax": 50
+   },
+   "7": {
+    "fpmax": 27000,
+    "hpmax": 50
+   },
+   "8": {
+    "fpmax": 28000,
+    "hpmax": 50
+   },
+   "9": {
+    "fpmax": 29000,
+    "hpmax": 50
+   },
+   "10": {
+    "fpmax": 30000,
+    "hpmax": 50
+   }
+  }
+ },
+ "40600200": {
+  "nombre": "Odyle Wings",
+  "grado": "Epic",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingF_002.png",
+  "equipada": {
+   "hpmax": 400,
+   "mpmax": 200,
+   "mpregen": 80
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "mpmax": 50,
+    "fixingdamage": 10
+   },
+   "1": {
+    "fpmax": 21000,
+    "mpmax": 50,
+    "restoration": 30,
+    "fixingdamage": 10
+   },
+   "2": {
+    "fpmax": 22000,
+    "mpmax": 50,
+    "restoration": 60,
+    "fixingdamage": 10
+   },
+   "3": {
+    "fpmax": 23000,
+    "mpmax": 50,
+    "restoration": 90,
+    "fixingdamage": 10
+   },
+   "4": {
+    "fpmax": 24000,
+    "mpmax": 50,
+    "restoration": 120,
+    "fixingdamage": 10
+   },
+   "5": {
+    "fpmax": 25000,
+    "mpmax": 50,
+    "restoration": 150,
+    "fixingdamage": 10
+   },
+   "6": {
+    "fpmax": 26000,
+    "mpmax": 50,
+    "restoration": 180,
+    "fixingdamage": 10
+   },
+   "7": {
+    "fpmax": 27000,
+    "mpmax": 50,
+    "restoration": 210,
+    "fixingdamage": 10
+   },
+   "8": {
+    "fpmax": 28000,
+    "mpmax": 50,
+    "restoration": 240,
+    "fixingdamage": 10
+   },
+   "9": {
+    "fpmax": 29000,
+    "mpmax": 50,
+    "restoration": 270,
+    "fixingdamage": 10
+   },
+   "10": {
+    "fpmax": 30000,
+    "mpmax": 50,
+    "restoration": 300,
+    "fixingdamage": 10
+   }
+  }
+ },
+ "40600300": {
+  "nombre": "Blue Butterfly Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingF_003.png",
+  "equipada": {
+   "hpmax": 500,
+   "defense": 400,
+   "hppotionrate": 500,
+   "hppotionregen": 300
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "1": {
+    "fpmax": 21000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "2": {
+    "fpmax": 22000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "3": {
+    "fpmax": 23000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "4": {
+    "fpmax": 24000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "5": {
+    "fpmax": 25000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "6": {
+    "fpmax": 26000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "7": {
+    "fpmax": 27000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "8": {
+    "fpmax": 28000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "9": {
+    "fpmax": 29000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   },
+   "10": {
+    "fpmax": 30000,
+    "accuracy": 20,
+    "critical": 25,
+    "defensepierce": 100
+   }
+  }
+ },
+ "30701000": {
+  "nombre": "Spider Wings",
+  "grado": "Special",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingZ_010.png",
+  "equipada": {},
+  "poseida": {
+   "0": {}
+  }
+ },
+ "40701000": {
+  "nombre": "Spider Wings",
+  "grado": "Special",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingZ_010.png",
+  "equipada": {},
+  "poseida": {
+   "0": {}
+  }
+ },
+ "30201500": {
+  "nombre": "Blazing Sun Wings",
+  "grado": "Special",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_015.png",
+  "equipada": {},
+  "poseida": {
+   "0": {}
+  }
+ },
+ "40201500": {
+  "nombre": "Blazing Sun Wings",
+  "grado": "Special",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_015.png",
+  "equipada": {},
+  "poseida": {
+   "0": {}
+  }
+ },
+ "30700400": {
+  "nombre": "Punk Bunny Bag Wings",
+  "grado": "Special",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingZ_004.png",
+  "equipada": {},
+  "poseida": {
+   "0": {}
+  }
+ },
+ "40700400": {
+  "nombre": "Punk Bunny Bag Wings",
+  "grado": "Special",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingZ_004.png",
+  "equipada": {},
+  "poseida": {
+   "0": {}
+  }
+ },
+ "30202100": {
+  "nombre": "Abyssal Waves Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_021.png",
+  "equipada": {
+   "fixingdamage": 60,
+   "cooltimedecrease": 400,
+   "pveamplifydamage": 350,
+   "pvedecreasedamage": 350
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "1": {
+    "fpmax": 21000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "2": {
+    "fpmax": 22000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "3": {
+    "fpmax": 23000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "4": {
+    "fpmax": 24000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "5": {
+    "fpmax": 25000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "6": {
+    "fpmax": 26000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "7": {
+    "fpmax": 27000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "8": {
+    "fpmax": 28000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "9": {
+    "fpmax": 29000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "10": {
+    "fpmax": 30000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   }
+  }
+ },
+ "40202100": {
+  "nombre": "Abyssal Waves Wings",
+  "grado": "Unique",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingB_021.png",
+  "equipada": {
+   "fixingdamage": 60,
+   "cooltimedecrease": 400,
+   "pveamplifydamage": 350,
+   "pvedecreasedamage": 350
+  },
+  "poseida": {
+   "0": {
+    "fpmax": 20000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "1": {
+    "fpmax": 21000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "2": {
+    "fpmax": 22000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "3": {
+    "fpmax": 23000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "4": {
+    "fpmax": 24000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "5": {
+    "fpmax": 25000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "6": {
+    "fpmax": 26000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "7": {
+    "fpmax": 27000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "8": {
+    "fpmax": 28000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "9": {
+    "fpmax": 29000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   },
+   "10": {
+    "fpmax": 30000,
+    "defense": 100,
+    "accuracy": 20,
+    "fixingdamage": 10
+   }
+  }
+ },
+ "30300800": {
+  "nombre": "Creepy Night Cat Wings",
+  "grado": "Special",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingC_008.png",
+  "equipada": {},
+  "poseida": {
+   "0": {}
+  }
+ },
+ "40300800": {
+  "nombre": "Creepy Night Cat Wings",
+  "grado": "Special",
+  "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingC_008.png",
+  "equipada": {},
+  "poseida": {
+   "0": {}
+  }
+ }
+}
