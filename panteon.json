@@ -1,0 +1,1432 @@
+{
+ "fuente": "aion2hub.com (planificador de builds), 2026-11-12. Puntos de deidad: cada dominio llega a 200 y se convierte en stats.",
+ "decos": {
+  "5002": {
+   "item": 514330003,
+   "tipo": "Colossus",
+   "grado": "Heroic",
+   "nombre": "Guardian Lord Nahma",
+   "raza": "All",
+   "dominios": {
+    "Destruction": 55,
+    "Justice": 55,
+    "Time": 55
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514330003"
+  },
+  "5010": {
+   "item": 534330011,
+   "tipo": "Colossus",
+   "grado": "Unique",
+   "nombre": "Zikel's Apparition",
+   "raza": "All",
+   "dominios": {
+    "Destruction": 45,
+    "Justice": 45,
+    "Time": 45
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534330011"
+  },
+  "5014": {
+   "item": 534330015,
+   "tipo": "Colossus",
+   "grado": "Rare",
+   "nombre": "Warden Santras",
+   "raza": "Dark",
+   "dominios": {
+    "Justice": 35,
+    "Time": 35
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534330015"
+  },
+  "5015": {
+   "item": 534330016,
+   "tipo": "Colossus",
+   "grado": "Rare",
+   "nombre": "Incarnated Warding Feather",
+   "raza": "Light",
+   "dominios": {
+    "Justice": 35,
+    "Time": 35
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534330016"
+  },
+  "1000": {
+   "item": 534320001,
+   "tipo": "Statue",
+   "grado": "Unique",
+   "nombre": "Transcendent Bakarma",
+   "raza": "All",
+   "dominios": {
+    "Death": 12,
+    "Freedom": 12,
+    "Space": 12
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320001"
+  },
+  "1001": {
+   "item": 534320002,
+   "tipo": "Statue",
+   "grado": "Epic",
+   "nombre": "Kibelisk",
+   "raza": "Light",
+   "dominios": {
+    "Freedom": 10,
+    "Space": 10
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320002"
+  },
+  "1002": {
+   "item": 534320003,
+   "tipo": "Statue",
+   "grado": "Rare",
+   "nombre": "Sealing Wings",
+   "raza": "Light",
+   "dominios": {
+    "Freedom": 8,
+    "Space": 8
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320003"
+  },
+  "1004": {
+   "item": 534320005,
+   "tipo": "Statue",
+   "grado": "Rare",
+   "nombre": "Teina",
+   "raza": "Light",
+   "dominios": {
+    "Death": 8,
+    "Space": 8
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320005"
+  },
+  "1005": {
+   "item": 534320006,
+   "tipo": "Statue",
+   "grado": "Rare",
+   "nombre": "Glorious Wings",
+   "raza": "Dark",
+   "dominios": {
+    "Freedom": 8,
+    "Space": 8
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320006"
+  },
+  "1006": {
+   "item": 534320007,
+   "tipo": "Statue",
+   "grado": "Common",
+   "nombre": "Torn Forbidden Bookcase",
+   "raza": "Light",
+   "dominios": {
+    "Death": 6
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320007"
+  },
+  "1007": {
+   "item": 534320008,
+   "tipo": "Statue",
+   "grado": "Common",
+   "nombre": "Urd",
+   "raza": "Dark",
+   "dominios": {
+    "Death": 6
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320008"
+  },
+  "1008": {
+   "item": 534320009,
+   "tipo": "Statue",
+   "grado": "Rare",
+   "nombre": "Dream Fragment",
+   "raza": "All",
+   "dominios": {
+    "Death": 8,
+    "Freedom": 8
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320009"
+  },
+  "1013": {
+   "item": 534320014,
+   "tipo": "Statue",
+   "grado": "Common",
+   "nombre": "Selvis",
+   "raza": "All",
+   "dominios": {
+    "Freedom": 6
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320014"
+  },
+  "1020": {
+   "item": 534320021,
+   "tipo": "Statue",
+   "grado": "Epic",
+   "nombre": "Kibelisk",
+   "raza": "Dark",
+   "dominios": {
+    "Freedom": 10,
+    "Space": 10
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320021"
+  },
+  "1021": {
+   "item": 534320022,
+   "tipo": "Statue",
+   "grado": "Epic",
+   "nombre": "Artifact of Eternity",
+   "raza": "All",
+   "dominios": {
+    "Death": 10,
+    "Freedom": 10
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320022"
+  },
+  "1022": {
+   "item": 534320023,
+   "tipo": "Statue",
+   "grado": "Rare",
+   "nombre": "Mirror of Desire",
+   "raza": "All",
+   "dominios": {
+    "Freedom": 8,
+    "Space": 8
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320023"
+  },
+  "1023": {
+   "item": 534320024,
+   "tipo": "Statue",
+   "grado": "Epic",
+   "nombre": "Asahr's Mirror",
+   "raza": "All",
+   "dominios": {
+    "Death": 10,
+    "Space": 10
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320024"
+  },
+  "1028": {
+   "item": 534320029,
+   "tipo": "Statue",
+   "grado": "Rare",
+   "nombre": "Fafnir's Poison Blood",
+   "raza": "All",
+   "dominios": {
+    "Death": 8,
+    "Freedom": 8
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320029"
+  },
+  "1031": {
+   "item": 534320032,
+   "tipo": "Statue",
+   "grado": "Rare",
+   "nombre": "Gatekeeper Pinopi",
+   "raza": "All",
+   "dominios": {
+    "Death": 8,
+    "Space": 8
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320032"
+  },
+  "1032": {
+   "item": 534320033,
+   "tipo": "Statue",
+   "grado": "Rare",
+   "nombre": "Grisilla",
+   "raza": "Dark",
+   "dominios": {
+    "Death": 8,
+    "Space": 8
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320033"
+  },
+  "1034": {
+   "item": 534320035,
+   "tipo": "Statue",
+   "grado": "Rare",
+   "nombre": "Furious Feruk",
+   "raza": "All",
+   "dominios": {
+    "Death": 8,
+    "Space": 8
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320035"
+  },
+  "1046": {
+   "item": 534320047,
+   "tipo": "Statue",
+   "grado": "Rare",
+   "nombre": "Wraith Giselle",
+   "raza": "All",
+   "dominios": {
+    "Freedom": 8,
+    "Space": 8
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320047"
+  },
+  "1054": {
+   "item": 534320055,
+   "tipo": "Statue",
+   "grado": "Epic",
+   "nombre": "Fortress Guardian Notun",
+   "raza": "All",
+   "dominios": {
+    "Death": 10,
+    "Space": 10
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320055"
+  },
+  "1055": {
+   "item": 534320056,
+   "tipo": "Statue",
+   "grado": "Epic",
+   "nombre": "Gerod",
+   "raza": "All",
+   "dominios": {
+    "Freedom": 10,
+    "Space": 10
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534320056"
+  },
+  "9": {
+   "item": 534310009,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Wind Breeze Merchants",
+   "raza": "Light",
+   "dominios": {
+    "Illusion": 2,
+    "Life": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310009"
+  },
+  "10": {
+   "item": 534310010,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Quai Merchants",
+   "raza": "Dark",
+   "dominios": {
+    "Illusion": 2,
+    "Life": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310010"
+  },
+  "11": {
+   "item": 534310011,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Shulak",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 3,
+    "Illusion": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310011"
+  },
+  "12": {
+   "item": 534310012,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Artisan Handicrafter",
+   "raza": "Light",
+   "dominios": {
+    "Destiny": 2,
+    "Life": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310012"
+  },
+  "13": {
+   "item": 534310013,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Artisan Alchemist",
+   "raza": "Light",
+   "dominios": {
+    "Illusion": 2,
+    "Wisdom": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310013"
+  },
+  "14": {
+   "item": 534310014,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Artisan Chef",
+   "raza": "Light",
+   "dominios": {
+    "Illusion": 2,
+    "Life": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310014"
+  },
+  "30": {
+   "item": 534310030,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Artisan Chef",
+   "raza": "Dark",
+   "dominios": {
+    "Illusion": 2,
+    "Life": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310030"
+  },
+  "31": {
+   "item": 534310031,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Artisan Armorsmith",
+   "raza": "Dark",
+   "dominios": {
+    "Destiny": 2,
+    "Wisdom": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310031"
+  },
+  "32": {
+   "item": 534310032,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Artisan Armorsmith",
+   "raza": "Light",
+   "dominios": {
+    "Destiny": 2,
+    "Wisdom": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310032"
+  },
+  "35": {
+   "item": 514310035,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Fire Temple",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Life": 4,
+    "Wisdom": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310035"
+  },
+  "43": {
+   "item": 534310043,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Teina's Portrait",
+   "raza": "Light",
+   "dominios": {
+    "Destiny": 3,
+    "Life": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310043"
+  },
+  "52": {
+   "item": 514310052,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Urugugu",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Life": 4,
+    "Wisdom": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310052"
+  },
+  "54": {
+   "item": 514310054,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Draupnir",
+   "raza": "All",
+   "dominios": {
+    "Illusion": 4,
+    "Life": 4,
+    "Wisdom": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310054"
+  },
+  "57": {
+   "item": 534310057,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Artisan Blacksmith",
+   "raza": "Light",
+   "dominios": {
+    "Destiny": 2,
+    "Illusion": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310057"
+  },
+  "58": {
+   "item": 534310058,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Artisan Blacksmith",
+   "raza": "Dark",
+   "dominios": {
+    "Destiny": 2,
+    "Illusion": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310058"
+  },
+  "59": {
+   "item": 534310059,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Artisan Handicrafter",
+   "raza": "Dark",
+   "dominios": {
+    "Destiny": 2,
+    "Life": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310059"
+  },
+  "60": {
+   "item": 534310060,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Artisan Alchemist",
+   "raza": "Dark",
+   "dominios": {
+    "Illusion": 2,
+    "Wisdom": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310060"
+  },
+  "61": {
+   "item": 534310061,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Artisan Essence Extractor",
+   "raza": "Light",
+   "dominios": {
+    "Destiny": 2,
+    "Wisdom": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310061"
+  },
+  "62": {
+   "item": 534310062,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Artisan Essence Extractor",
+   "raza": "Dark",
+   "dominios": {
+    "Destiny": 2,
+    "Wisdom": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310062"
+  },
+  "63": {
+   "item": 534310063,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Destruction Archons High Priest Hystan",
+   "raza": "Dark",
+   "dominios": {
+    "Destiny": 3,
+    "Life": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310063"
+  },
+  "64": {
+   "item": 514310064,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Specter Archon Axios",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Illusion": 4,
+    "Life": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310064"
+  },
+  "65": {
+   "item": 514310065,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Addicted Hardirun",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 3,
+    "Life": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310065"
+  },
+  "66": {
+   "item": 514310066,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Executioner Barthien",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Illusion": 4,
+    "Life": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310066"
+  },
+  "67": {
+   "item": 514310067,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Drakan Battalion Weapon Guruta",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Illusion": 4,
+    "Wisdom": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310067"
+  },
+  "68": {
+   "item": 514310068,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Sentinel K'nash",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Illusion": 4,
+    "Wisdom": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310068"
+  },
+  "69": {
+   "item": 514310069,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Veteran Shujakan",
+   "raza": "All",
+   "dominios": {
+    "Illusion": 3,
+    "Wisdom": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310069"
+  },
+  "70": {
+   "item": 514310070,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Visionary Karuka",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Illusion": 4,
+    "Life": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310070"
+  },
+  "71": {
+   "item": 514310071,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Dark Shadow Vishwada",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Illusion": 4,
+    "Life": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310071"
+  },
+  "72": {
+   "item": 514310072,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Researcher Setram",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Illusion": 4,
+    "Life": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310072"
+  },
+  "73": {
+   "item": 514310073,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Sharp Shylak",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Illusion": 4,
+    "Wisdom": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310073"
+  },
+  "74": {
+   "item": 514310074,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Black Tentacle Lawa",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Illusion": 4,
+    "Wisdom": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310074"
+  },
+  "75": {
+   "item": 514310075,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Heretic Layla",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 3,
+    "Life": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310075"
+  },
+  "76": {
+   "item": 514310121,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Centurion Demiros",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Illusion": 4,
+    "Wisdom": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310121"
+  },
+  "77": {
+   "item": 514310077,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Divine Ansas",
+   "raza": "All",
+   "dominios": {
+    "Illusion": 4,
+    "Life": 4,
+    "Wisdom": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310077"
+  },
+  "78": {
+   "item": 514310078,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Harvest Manager Moshav",
+   "raza": "All",
+   "dominios": {
+    "Illusion": 3,
+    "Wisdom": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310078"
+  },
+  "79": {
+   "item": 514310079,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Advisor Resana",
+   "raza": "All",
+   "dominios": {
+    "Illusion": 3,
+    "Life": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310079"
+  },
+  "80": {
+   "item": 514310080,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Phantasm Kasia",
+   "raza": "All",
+   "dominios": {
+    "Illusion": 4,
+    "Life": 4,
+    "Wisdom": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310080"
+  },
+  "81": {
+   "item": 514310081,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Melted Danar",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 2,
+    "Life": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310081"
+  },
+  "82": {
+   "item": 514310082,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Black Warrior Aed",
+   "raza": "All",
+   "dominios": {
+    "Illusion": 2,
+    "Wisdom": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310082"
+  },
+  "83": {
+   "item": 514310083,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Faithful Rajit",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 2,
+    "Life": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310083"
+  },
+  "84": {
+   "item": 514310084,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Berserker Vargor",
+   "raza": "All",
+   "dominios": {
+    "Illusion": 2,
+    "Wisdom": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310084"
+  },
+  "85": {
+   "item": 514310085,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Predator Garsan",
+   "raza": "All",
+   "dominios": {
+    "Illusion": 3,
+    "Life": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310085"
+  },
+  "86": {
+   "item": 514310086,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Blood Warrior Lannar",
+   "raza": "All",
+   "dominios": {
+    "Illusion": 2,
+    "Life": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310086"
+  },
+  "87": {
+   "item": 514310087,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Deceiver Trid",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 3,
+    "Wisdom": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310087"
+  },
+  "88": {
+   "item": 514310088,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Blue Wave Kelpina",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 3,
+    "Wisdom": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310088"
+  },
+  "89": {
+   "item": 514310089,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "High Overseer Nutah",
+   "raza": "All",
+   "dominios": {
+    "Life": 3,
+    "Wisdom": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310089"
+  },
+  "90": {
+   "item": 514310090,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Special Operations Leader Linx",
+   "raza": "All",
+   "dominios": {
+    "Life": 3,
+    "Wisdom": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310090"
+  },
+  "91": {
+   "item": 514310091,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Desecrator Newbold",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Illusion": 4,
+    "Wisdom": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310091"
+  },
+  "92": {
+   "item": 514310092,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Kernon of the West",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 2,
+    "Wisdom": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310092"
+  },
+  "93": {
+   "item": 514310093,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Neikel of the East",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 2,
+    "Illusion": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310093"
+  },
+  "94": {
+   "item": 514310094,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Rotten Kutar",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 2,
+    "Illusion": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310094"
+  },
+  "95": {
+   "item": 514310095,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Blooming Korin",
+   "raza": "All",
+   "dominios": {
+    "Life": 2,
+    "Wisdom": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310095"
+  },
+  "96": {
+   "item": 514310096,
+   "tipo": "Artwork",
+   "grado": "Rare",
+   "nombre": "Bodyguard Teegant",
+   "raza": "All",
+   "dominios": {
+    "Life": 2,
+    "Wisdom": 2
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310096"
+  },
+  "97": {
+   "item": 514310097,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Kusan the Mad Gladiator",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 3,
+    "Illusion": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310097"
+  },
+  "98": {
+   "item": 514310098,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Ritualist Garshim",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 3,
+    "Illusion": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310098"
+  },
+  "99": {
+   "item": 514310099,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Bloodfang Pnyn",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 3,
+    "Life": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310099"
+  },
+  "100": {
+   "item": 514310100,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Furious Saursus",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 3,
+    "Life": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310100"
+  },
+  "101": {
+   "item": 514310101,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Scholar Aulla",
+   "raza": "All",
+   "dominios": {
+    "Illusion": 3,
+    "Wisdom": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310101"
+  },
+  "102": {
+   "item": 514310102,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Forest Warrior Aullamu",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Illusion": 4,
+    "Wisdom": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310102"
+  },
+  "103": {
+   "item": 514310103,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Chaser Taulo",
+   "raza": "All",
+   "dominios": {
+    "Illusion": 3,
+    "Wisdom": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310103"
+  },
+  "109": {
+   "item": 534310109,
+   "tipo": "Artwork",
+   "grado": "Heroic",
+   "nombre": "Abyssal Ludra",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 5,
+    "Illusion": 5,
+    "Wisdom": 5
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310109"
+  },
+  "110": {
+   "item": 514310110,
+   "tipo": "Artwork",
+   "grado": "Heroic",
+   "nombre": "Immortal Gartua",
+   "raza": "All",
+   "dominios": {
+    "Illusion": 5,
+    "Life": 5,
+    "Wisdom": 5,
+    "Destiny": 5
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310110"
+  },
+  "111": {
+   "item": 514310111,
+   "tipo": "Artwork",
+   "grado": "Heroic",
+   "nombre": "Eternal Gartua",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 5,
+    "Life": 5,
+    "Wisdom": 5,
+    "Illusion": 5
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310111"
+  },
+  "112": {
+   "item": 514310112,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Argo, the Spirit King",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Illusion": 4,
+    "Life": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310112"
+  },
+  "113": {
+   "item": 514310113,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Soul Ruler Kashapa",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Life": 4,
+    "Wisdom": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310113"
+  },
+  "114": {
+   "item": 514310114,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "High Commander Lagta",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Life": 4,
+    "Wisdom": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310114"
+  },
+  "115": {
+   "item": 514310115,
+   "tipo": "Artwork",
+   "grado": "Heroic",
+   "nombre": "Guardian Lord Nahma",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 5,
+    "Illusion": 5,
+    "Life": 5
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310115"
+  },
+  "116": {
+   "item": 514310116,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Silent Dartan",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Life": 4,
+    "Wisdom": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310116"
+  },
+  "117": {
+   "item": 514310117,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Watcher Kaira",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Illusion": 4,
+    "Wisdom": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310117"
+  },
+  "118": {
+   "item": 514310118,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Vakron Sky Island",
+   "raza": "All",
+   "dominios": {
+    "Illusion": 4,
+    "Life": 4,
+    "Wisdom": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310118"
+  },
+  "119": {
+   "item": 514310119,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Ferocious Horn Den",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Illusion": 4,
+    "Wisdom": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310119"
+  },
+  "120": {
+   "item": 514310120,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Krao",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 4,
+    "Illusion": 4,
+    "Wisdom": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310120"
+  },
+  "177": {
+   "item": 534310048,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Cantas Valley",
+   "raza": "Light",
+   "dominios": {
+    "Illusion": 3,
+    "Wisdom": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310048"
+  },
+  "178": {
+   "item": 534310049,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Ellun River Marsh",
+   "raza": "Light",
+   "dominios": {
+    "Illusion": 3,
+    "Life": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310049"
+  },
+  "179": {
+   "item": 534310003,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Verteron Fortress Ruins",
+   "raza": "Light",
+   "dominios": {
+    "Destiny": 3,
+    "Wisdom": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310003"
+  },
+  "180": {
+   "item": 534310050,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Tolbas Forest",
+   "raza": "Light",
+   "dominios": {
+    "Destiny": 3,
+    "Illusion": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310050"
+  },
+  "181": {
+   "item": 534310045,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Ellun River Midstream",
+   "raza": "Light",
+   "dominios": {
+    "Illusion": 3,
+    "Wisdom": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310045"
+  },
+  "182": {
+   "item": 534310047,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Pilgrim's Ridge",
+   "raza": "Light",
+   "dominios": {
+    "Destiny": 3,
+    "Illusion": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310047"
+  },
+  "183": {
+   "item": 534310001,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Zumion Stone Gate",
+   "raza": "Light",
+   "dominios": {
+    "Destiny": 3,
+    "Life": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310001"
+  },
+  "184": {
+   "item": 534310046,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Dawn Legion Base",
+   "raza": "Light",
+   "dominios": {
+    "Illusion": 3,
+    "Life": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310046"
+  },
+  "186": {
+   "item": 534310015,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Shugo Alchemist",
+   "raza": "All",
+   "dominios": {
+    "Destiny": 3,
+    "Illusion": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310015"
+  },
+  "187": {
+   "item": 534310044,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Ardus Shrine",
+   "raza": "Light",
+   "dominios": {
+    "Destiny": 4,
+    "Illusion": 4,
+    "Life": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310044"
+  },
+  "188": {
+   "item": 534310040,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Dredgion Crash Site",
+   "raza": "Dark",
+   "dominios": {
+    "Illusion": 3,
+    "Wisdom": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310040"
+  },
+  "189": {
+   "item": 534310041,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Nameless Cemetery",
+   "raza": "Dark",
+   "dominios": {
+    "Illusion": 3,
+    "Life": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310041"
+  },
+  "190": {
+   "item": 534310042,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Sanctum Outpost",
+   "raza": "Dark",
+   "dominios": {
+    "Destiny": 3,
+    "Wisdom": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310042"
+  },
+  "191": {
+   "item": 534310033,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Moslan Forest",
+   "raza": "Dark",
+   "dominios": {
+    "Destiny": 3,
+    "Illusion": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310033"
+  },
+  "192": {
+   "item": 534310038,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Quai Campsite",
+   "raza": "Dark",
+   "dominios": {
+    "Illusion": 3,
+    "Wisdom": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310038"
+  },
+  "193": {
+   "item": 534310039,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Calderon Canyon",
+   "raza": "Dark",
+   "dominios": {
+    "Destiny": 3,
+    "Illusion": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310039"
+  },
+  "194": {
+   "item": 534310056,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Archon Underground Fortress Door",
+   "raza": "Dark",
+   "dominios": {
+    "Destiny": 3,
+    "Life": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310056"
+  },
+  "195": {
+   "item": 534310036,
+   "tipo": "Artwork",
+   "grado": "Epic",
+   "nombre": "Safe Haven",
+   "raza": "Dark",
+   "dominios": {
+    "Illusion": 3,
+    "Life": 3
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310036"
+  },
+  "197": {
+   "item": 534310055,
+   "tipo": "Artwork",
+   "grado": "Unique",
+   "nombre": "Impetusium",
+   "raza": "Dark",
+   "dominios": {
+    "Destiny": 4,
+    "Illusion": 4,
+    "Life": 4
+   },
+   "icono": "https://aion2hub.com/api/icon/items/534310055"
+  },
+  "200": {
+   "item": null,
+   "tipo": "Artwork",
+   "grado": "Heroic",
+   "nombre": "Wrathful Urugugu",
+   "raza": "All",
+   "dominios": {
+    "Life": 5,
+    "Wisdom": 5,
+    "Destiny": 5
+   },
+   "icono": "https://aion2hub.com/api/icon/items/514310052",
+   "nota": "Añadida a mano desde el juego (2026-11-13); imagen de la obra Urugugu"
+  }
+ }
+}

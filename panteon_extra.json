@@ -1,0 +1,899 @@
+{
+ "514310100": {
+  "nombre": "Artwork: Furious Saursus",
+  "grado": "Epic",
+  "dominios": {
+   "Destiny": 3,
+   "Life": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310100"
+ },
+ "514310101": {
+  "nombre": "Artwork: Scholar Aulla",
+  "grado": "Epic",
+  "dominios": {
+   "Illusion": 3,
+   "Wisdom": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310101"
+ },
+ "514310102": {
+  "nombre": "Artwork: Forest Warrior Aullamu",
+  "grado": "Unique",
+  "dominios": {
+   "Destiny": 4,
+   "Illusion": 4,
+   "Wisdom": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310102"
+ },
+ "514310103": {
+  "nombre": "Artwork: Chaser Taulo",
+  "grado": "Epic",
+  "dominios": {
+   "Illusion": 3,
+   "Wisdom": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310103"
+ },
+ "514310110": {
+  "nombre": "Artwork: Immortal Gartua",
+  "grado": "Heroic",
+  "dominios": {
+   "Illusion": 5,
+   "Life": 5,
+   "Wisdom": 5,
+   "Destiny": 5
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310110"
+ },
+ "514310111": {
+  "nombre": "Artwork: Eternal Gartua",
+  "grado": "Heroic",
+  "dominios": {
+   "Destiny": 5,
+   "Life": 5,
+   "Wisdom": 5,
+   "Illusion": 5
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310111"
+ },
+ "514310112": {
+  "nombre": "Artwork: Argo, the Spirit King",
+  "grado": "Unique",
+  "dominios": {
+   "Destiny": 4,
+   "Illusion": 4,
+   "Life": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310112"
+ },
+ "514310113": {
+  "nombre": "Artwork: Soul Ruler Kashapa",
+  "grado": "Unique",
+  "dominios": {
+   "Destiny": 4,
+   "Life": 4,
+   "Wisdom": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310113"
+ },
+ "514310114": {
+  "nombre": "Artwork: High Commander Lagta",
+  "grado": "Unique",
+  "dominios": {
+   "Destiny": 4,
+   "Life": 4,
+   "Wisdom": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310114"
+ },
+ "514310115": {
+  "nombre": "Artwork: Guardian Lord Nahma",
+  "grado": "Heroic",
+  "dominios": {
+   "Destiny": 5,
+   "Illusion": 5,
+   "Life": 5
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310115"
+ },
+ "514310116": {
+  "nombre": "Artwork: Silent Dartan",
+  "grado": "Unique",
+  "dominios": {
+   "Destiny": 4,
+   "Life": 4,
+   "Wisdom": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310116"
+ },
+ "514310117": {
+  "nombre": "Artwork: Watcher Kaira",
+  "grado": "Unique",
+  "dominios": {
+   "Destiny": 4,
+   "Illusion": 4,
+   "Wisdom": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310117"
+ },
+ "514310118": {
+  "nombre": "Artwork: Vakron Sky Island",
+  "grado": "Unique",
+  "dominios": {
+   "Illusion": 4,
+   "Life": 4,
+   "Wisdom": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310118"
+ },
+ "514310119": {
+  "nombre": "Artwork: Ferocious Horn Den",
+  "grado": "Unique",
+  "dominios": {
+   "Destiny": 4,
+   "Illusion": 4,
+   "Wisdom": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310119"
+ },
+ "514310120": {
+  "nombre": "Artwork: Krao",
+  "grado": "Unique",
+  "dominios": {
+   "Destiny": 4,
+   "Illusion": 4,
+   "Wisdom": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310120"
+ },
+ "514310121": {
+  "nombre": "Artwork: Centurion Demiros",
+  "grado": "Unique",
+  "dominios": {
+   "Destiny": 4,
+   "Illusion": 4,
+   "Wisdom": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310121"
+ },
+ "514310122": {
+  "nombre": "Artwork: Cradle of Nihility",
+  "grado": "Unique",
+  "dominios": {
+   "Life": 4,
+   "Destiny": 4,
+   "Wisdom": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310122"
+ },
+ "514310123": {
+  "nombre": "Artwork: Hall of Illusion",
+  "grado": "Unique",
+  "dominios": {
+   "Destiny": 4,
+   "Illusion": 4,
+   "Wisdom": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310123"
+ },
+ "514310124": {
+  "nombre": "Artwork: Azure Breath Island",
+  "grado": "Unique",
+  "dominios": {
+   "Life": 4,
+   "Destiny": 4,
+   "Illusion": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310124"
+ },
+ "514310125": {
+  "nombre": "Artwork: Executor Tamasa",
+  "grado": "Unique",
+  "dominios": {
+   "Life": 4,
+   "Destiny": 4,
+   "Wisdom": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310125"
+ },
+ "514310126": {
+  "nombre": "Artwork: Executioner Dramos",
+  "grado": "Unique",
+  "dominios": {
+   "Life": 4,
+   "Destiny": 4,
+   "Illusion": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310126"
+ },
+ "514310127": {
+  "nombre": "Artwork: Turncoat Ducal",
+  "grado": "Unique",
+  "dominios": {
+   "Life": 4,
+   "Illusion": 4,
+   "Wisdom": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310127"
+ },
+ "514310128": {
+  "nombre": "Artwork: Ravager Marakha",
+  "grado": "Unique",
+  "dominios": {
+   "Destiny": 4,
+   "Illusion": 4,
+   "Wisdom": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310128"
+ },
+ "514310129": {
+  "nombre": "Artwork: Citadel of the Fallen Daeva",
+  "grado": "Unique",
+  "dominios": {
+   "Life": 4,
+   "Illusion": 4,
+   "Wisdom": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310129"
+ },
+ "514310130": {
+  "nombre": "Artwork: Consumed Deus Research Base",
+  "grado": "Unique",
+  "dominios": {
+   "Destiny": 4,
+   "Illusion": 4,
+   "Wisdom": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310130"
+ },
+ "514310131": {
+  "nombre": "Artwork: Agglomerated Verenom",
+  "grado": "Epic",
+  "dominios": {
+   "Destiny": 3,
+   "Illusion": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310131"
+ },
+ "514310132": {
+  "nombre": "Artwork: Old Boss Vigor",
+  "grado": "Epic",
+  "dominios": {
+   "Illusion": 3,
+   "Wisdom": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310132"
+ },
+ "514310133": {
+  "nombre": "Artwork: Severed Wings Zvein",
+  "grado": "Epic",
+  "dominios": {
+   "Wisdom": 3,
+   "Life": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310133"
+ },
+ "514310134": {
+  "nombre": "Artwork: Gluttonous Egetis",
+  "grado": "Epic",
+  "dominios": {
+   "Life": 3,
+   "Destiny": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310134"
+ },
+ "514310135": {
+  "nombre": "Artwork: Superbia, Sacred Beast of Life",
+  "grado": "Epic",
+  "dominios": {
+   "Destiny": 3,
+   "Illusion": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310135"
+ },
+ "514310136": {
+  "nombre": "Artwork: Rotten Root Meltlim",
+  "grado": "Epic",
+  "dominios": {
+   "Illusion": 3,
+   "Wisdom": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310136"
+ },
+ "514310137": {
+  "nombre": "Artwork: Rabid Nihogg",
+  "grado": "Epic",
+  "dominios": {
+   "Wisdom": 3,
+   "Life": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310137"
+ },
+ "514310138": {
+  "nombre": "Artwork: First Test Subject K'tima",
+  "grado": "Epic",
+  "dominios": {
+   "Life": 3,
+   "Destiny": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310138"
+ },
+ "514310139": {
+  "nombre": "Artwork: Three-Horned Mino",
+  "grado": "Epic",
+  "dominios": {
+   "Destiny": 3,
+   "Illusion": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310139"
+ },
+ "514310140": {
+  "nombre": "Artwork: Lamphus of Agony",
+  "grado": "Epic",
+  "dominios": {
+   "Illusion": 3,
+   "Wisdom": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310140"
+ },
+ "514310141": {
+  "nombre": "Artwork: Third Unit Captain Karkoti",
+  "grado": "Unique",
+  "dominios": {
+   "Life": 4,
+   "Destiny": 4,
+   "Illusion": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310141"
+ },
+ "514310142": {
+  "nombre": "Artwork: Deputy Commander Vivajra",
+  "grado": "Unique",
+  "dominios": {
+   "Destiny": 4,
+   "Illusion": 4,
+   "Wisdom": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310142"
+ },
+ "514310143": {
+  "nombre": "Artwork: Edgewalker Pargon",
+  "grado": "Epic",
+  "dominios": {
+   "Wisdom": 3,
+   "Life": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310143"
+ },
+ "514310144": {
+  "nombre": "Artwork: Predator Colossus Balakh",
+  "grado": "Epic",
+  "dominios": {
+   "Life": 3,
+   "Destiny": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310144"
+ },
+ "514310145": {
+  "nombre": "Artwork: Crimson Blizzard Renulf",
+  "grado": "Epic",
+  "dominios": {
+   "Destiny": 3,
+   "Illusion": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310145"
+ },
+ "514310146": {
+  "nombre": "Artwork: Frostarmor Harkhan",
+  "grado": "Epic",
+  "dominios": {
+   "Illusion": 3,
+   "Wisdom": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310146"
+ },
+ "514310147": {
+  "nombre": "Artwork: Azure Tear Glacia",
+  "grado": "Epic",
+  "dominios": {
+   "Wisdom": 3,
+   "Life": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310147"
+ },
+ "514310148": {
+  "nombre": "Artwork: Wings of Hellfire Fios",
+  "grado": "Epic",
+  "dominios": {
+   "Life": 3,
+   "Destiny": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310148"
+ },
+ "514310149": {
+  "nombre": "Artwork: Lava Heart Batu",
+  "grado": "Epic",
+  "dominios": {
+   "Destiny": 3,
+   "Illusion": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310149"
+ },
+ "514310150": {
+  "nombre": "Artwork: Elite Inquisitor Verant",
+  "grado": "Epic",
+  "dominios": {
+   "Illusion": 3,
+   "Wisdom": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310150"
+ },
+ "514310151": {
+  "nombre": "Artwork: Mad Watcher Bulagan",
+  "grado": "Epic",
+  "dominios": {
+   "Wisdom": 3,
+   "Life": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310151"
+ },
+ "514310152": {
+  "nombre": "Artwork: Vulcanarch Grymnir",
+  "grado": "Epic",
+  "dominios": {
+   "Life": 3,
+   "Destiny": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310152"
+ },
+ "514310153": {
+  "nombre": "Artwork: Third Unit Captain Minasara",
+  "grado": "Unique",
+  "dominios": {
+   "Life": 4,
+   "Destiny": 4,
+   "Illusion": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310153"
+ },
+ "514310154": {
+  "nombre": "Artwork: Deputy Commander Sarvakha",
+  "grado": "Unique",
+  "dominios": {
+   "Destiny": 4,
+   "Illusion": 4,
+   "Wisdom": 4
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310154"
+ },
+ "514310155": {
+  "nombre": "Artwork: Shugo's Dilemma",
+  "grado": "Epic",
+  "dominios": {
+   "Destiny": 3,
+   "Illusion": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/514310155"
+ },
+ "534310104": {
+  "nombre": "Artwork: Zikel's Apparition (Bound)",
+  "grado": "Heroic",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534310104"
+ },
+ "534310105": {
+  "nombre": "Artwork: Pino Gatekeeper (Bound)",
+  "grado": "Rare",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534310105"
+ },
+ "534310106": {
+  "nombre": "Artwork: Furious Feruk (Bound)",
+  "grado": "Epic",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534310106"
+ },
+ "534310107": {
+  "nombre": "Artwork: Fafnir's Poison Blood (Bound)",
+  "grado": "Rare",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534310107"
+ },
+ "534310108": {
+  "nombre": "Artwork: Wraith Giselle (Bound)",
+  "grado": "Epic",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534310108"
+ },
+ "534310109": {
+  "nombre": "Artwork: Abyssal Ludra (Bound)",
+  "grado": "Heroic",
+  "dominios": {
+   "Destiny": 5,
+   "Illusion": 5,
+   "Wisdom": 5
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534310109"
+ },
+ "534310122": {
+  "nombre": "Artwork: Corroded Decontamination Facility (Bound)",
+  "grado": "Heroic",
+  "dominios": {
+   "Destiny": 5,
+   "Illusion": 5,
+   "Wisdom": 5
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534310122"
+ },
+ "534310123": {
+  "nombre": "Artwork: Kaisinel's Illusion [Season 2] (Bound)",
+  "grado": "Heroic",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534310123"
+ },
+ "534310124": {
+  "nombre": "Artwork: Enraged Reda [Season 2] (Bound)",
+  "grado": "Unique",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534310124"
+ },
+ "534310126": {
+  "nombre": "Artwork: Mutated Ulgorn [Season 2] (Bound)",
+  "grado": "Epic",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534310126"
+ },
+ "534310128": {
+  "nombre": "Artwork: Sharp Aulak [Season 2] (Bound)",
+  "grado": "Rare",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534310128"
+ },
+ "534310129": {
+  "nombre": "Artwork: Sealed Sura [Season 2] (Bound)",
+  "grado": "Rare",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534310129"
+ },
+ "534310132": {
+  "nombre": "Artwork: Chalice of Muspel (Bound)",
+  "grado": "Heroic",
+  "dominios": {
+   "Life": 5,
+   "Illusion": 5,
+   "Wisdom": 5
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534310132"
+ },
+ "534310133": {
+  "nombre": "Artwork: Sanctum Guardian Gauss [Season 3] (Bound)",
+  "grado": "Rare",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534310133"
+ },
+ "534310134": {
+  "nombre": "Artwork: Ritualist Aulisa [Season 3] (Bound)",
+  "grado": "Rare",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534310134"
+ },
+ "534310135": {
+  "nombre": "Artwork: Incarnated Warding Feather [Season 3] (Bound)",
+  "grado": "Unique",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534310135"
+ },
+ "534310136": {
+  "nombre": "Artwork: Mythical Bird Aultross [Season 3] (Bound)",
+  "grado": "Epic",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534310136"
+ },
+ "534310137": {
+  "nombre": "Artwork: Oathbreaker Gartua [Season 3] (Bound)",
+  "grado": "Epic",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534310137"
+ },
+ "534310138": {
+  "nombre": "Artwork: Modified Bargott [Season 3] (Bound)",
+  "grado": "Unique",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534310138"
+ },
+ "534310139": {
+  "nombre": "Artwork: Tyrant Tassin [Season 3] (Bound)",
+  "grado": "Heroic",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534310139"
+ },
+ "534310140": {
+  "nombre": "Artwork: Secret Shop Shugo (Bound)",
+  "grado": "Epic",
+  "dominios": {
+   "Life": 3,
+   "Wisdom": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534310140"
+ },
+ "534310141": {
+  "nombre": "Artwork: Shugo Festival Manager (Bound)",
+  "grado": "Epic",
+  "dominios": {
+   "Destiny": 3,
+   "Wisdom": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534310141"
+ },
+ "534310142": {
+  "nombre": "Artwork: Village Piano (Bound)",
+  "grado": "Epic",
+  "dominios": {
+   "Life": 3,
+   "Illusion": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534310142"
+ },
+ "534310143": {
+  "nombre": "Artwork: Adventure Together (Bound)",
+  "grado": "Epic",
+  "dominios": {
+   "Destiny": 3,
+   "Illusion": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534310143"
+ },
+ "534310144": {
+  "nombre": "Artwork: Snowfield of Sorrow (Bound)",
+  "grado": "Heroic",
+  "dominios": {
+   "Destiny": 5,
+   "Illusion": 5,
+   "Wisdom": 5
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534310144"
+ },
+ "534310145": {
+  "nombre": "Artwork: Eltnen (Bound)",
+  "grado": "Epic",
+  "dominios": {
+   "Illusion": 3,
+   "Wisdom": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534310145"
+ },
+ "534310146": {
+  "nombre": "Artwork: Morheim (Bound)",
+  "grado": "Epic",
+  "dominios": {
+   "Wisdom": 3,
+   "Life": 3
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534310146"
+ },
+ "534320055": {
+  "nombre": "Statue: Fortress Guardian Notun (Bound)",
+  "grado": "Epic",
+  "dominios": {
+   "Death": 10,
+   "Space": 10
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534320055"
+ },
+ "534320056": {
+  "nombre": "Statue: Gerod (Bound)",
+  "grado": "Epic",
+  "dominios": {
+   "Freedom": 10,
+   "Space": 10
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534320056"
+ },
+ "534320057": {
+  "nombre": "Statue: Enraged Reda (Bound)",
+  "grado": "Epic",
+  "dominios": {
+   "Freedom": 10,
+   "Space": 10
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534320057"
+ },
+ "534320058": {
+  "nombre": "Statue: Warden Santras (Bound)",
+  "grado": "Epic",
+  "dominios": {
+   "Death": 10,
+   "Space": 10
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534320058"
+ },
+ "534320059": {
+  "nombre": "Statue: Submerged Emon [Season 2] (Bound)",
+  "grado": "Heroic",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534320059"
+ },
+ "534320060": {
+  "nombre": "Statue: Deep Sea Pydeon [Season 2] (Bound)",
+  "grado": "Unique",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534320060"
+ },
+ "534320061": {
+  "nombre": "Statue: Singing Ellyde [Season 2] (Bound)",
+  "grado": "Epic",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534320061"
+ },
+ "534320062": {
+  "nombre": "Statue: Radiant Elyos Leader [Season 2] (Bound)",
+  "grado": "Heroic",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534320062"
+ },
+ "534320063": {
+  "nombre": "Statue: Radiant Asmodian Leader [Season 2] (Bound)",
+  "grado": "Heroic",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534320063"
+ },
+ "534320064": {
+  "nombre": "Statue: Silvermoon Elyos Leader [Season 2] (Bound)",
+  "grado": "Unique",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534320064"
+ },
+ "534320065": {
+  "nombre": "Statue: Silvermoon Asmodian Leader [Season 2] (Bound)",
+  "grado": "Unique",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534320065"
+ },
+ "534320066": {
+  "nombre": "Statue: Glimmering Elyos Leader [Season 2] (Bound)",
+  "grado": "Epic",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534320066"
+ },
+ "534320067": {
+  "nombre": "Statue: Glimmering Asmodian Leader [Season 2] (Bound)",
+  "grado": "Epic",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534320067"
+ },
+ "534320071": {
+  "nombre": "Statue: Ritualist Aulisa (Bound)",
+  "grado": "Rare",
+  "dominios": {
+   "Freedom": 8,
+   "Space": 8
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534320071"
+ },
+ "534320072": {
+  "nombre": "Statue: Incarnated Warding Feather (Bound)",
+  "grado": "Epic",
+  "dominios": {
+   "Freedom": 10,
+   "Death": 10
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534320072"
+ },
+ "534320073": {
+  "nombre": "Statue: Radiant Elyos Leader [Season 3] (Bound)",
+  "grado": "Heroic",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534320073"
+ },
+ "534320074": {
+  "nombre": "Statue: Radiant Asmodian Leader [Season 3] (Bound)",
+  "grado": "Heroic",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534320074"
+ },
+ "534320075": {
+  "nombre": "Statue: Silvermoon Elyos Leader [Season 3] (Bound)",
+  "grado": "Unique",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534320075"
+ },
+ "534320076": {
+  "nombre": "Statue: Silvermoon Asmodian Leader [Season 3] (Bound)",
+  "grado": "Unique",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534320076"
+ },
+ "534320077": {
+  "nombre": "Statue: Glimmering Elyos Leader [Season 3] (Bound)",
+  "grado": "Epic",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534320077"
+ },
+ "534320078": {
+  "nombre": "Statue: Glimmering Asmodian Leader [Season 3] (Bound)",
+  "grado": "Epic",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534320078"
+ },
+ "534320079": {
+  "nombre": "Statue: Lieutenant Hebran (Bound)",
+  "grado": "Rare",
+  "dominios": {
+   "Freedom": 8,
+   "Death": 8
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534320079"
+ },
+ "534330002": {
+  "nombre": "Colossus: Kaisinel's Illusion (Bound)",
+  "grado": "Unique",
+  "dominios": {
+   "Time": 45,
+   "Wisdom": 45,
+   "Destruction": 45
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534330002"
+ },
+ "534330003": {
+  "nombre": "Colossus: Guardian Lord Nahma (Bound)",
+  "grado": "Heroic",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534330003"
+ },
+ "534330004": {
+  "nombre": "Colossus: Kromede's Desire (Bound)",
+  "grado": "Unique",
+  "dominios": {},
+  "icono": "https://aion2hub.com/api/icon/items/534330004"
+ },
+ "534330005": {
+  "nombre": "Colossus: Tyrant Tassin (Bound)",
+  "grado": "Unique",
+  "dominios": {
+   "Wisdom": 48,
+   "Time": 48,
+   "Destruction": 48
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534330005"
+ },
+ "534330006": {
+  "nombre": "Colossus: Ascended Atheron (Bound)",
+  "grado": "Unique",
+  "dominios": {
+   "Wisdom": 50,
+   "Time": 50,
+   "Destruction": 50
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534330006"
+ },
+ "534330011": {
+  "nombre": "Colossus: Zikel's Apparition (Bound)",
+  "grado": "Unique",
+  "dominios": {
+   "Destruction": 45,
+   "Justice": 45,
+   "Time": 45
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534330011"
+ },
+ "534330015": {
+  "nombre": "Colossus: Warden Santras (Bound)",
+  "grado": "Rare",
+  "dominios": {
+   "Justice": 35,
+   "Time": 35
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534330015"
+ },
+ "534330016": {
+  "nombre": "Colossus: Incarnated Warding Feather (Bound)",
+  "grado": "Rare",
+  "dominios": {
+   "Justice": 35,
+   "Time": 35
+  },
+  "icono": "https://aion2hub.com/api/icon/items/534330016"
+ }
+}

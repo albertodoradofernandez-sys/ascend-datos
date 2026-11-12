@@ -1,15 +1,18 @@
 {
- "version": "202611120236",
- "fecha": "2026-11-12T02:36:30",
- "notas": "Alas: cómo se consigue cada una y las que solo existen en Corea",
+ "version": "202611130035",
+ "fecha": "2026-11-13T00:35:29",
+ "notas": "Pantheon con imágenes y piezas heroicas; obra Wrathful Urugugu",
  "archivos": [
   "comun.db",
   "parches.json",
   "alas.json",
   "alas_detalle.json",
   "alas_corea.json",
+  "panteon.json",
+  "panteon_extra.json",
   "mascotas.json",
   "mascotas_detalle.json",
-  "mapa_ids.json"
+  "mapa_ids.json",
+  "colecciones.json"
  ]
 }
