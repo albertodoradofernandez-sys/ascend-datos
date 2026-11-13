@@ -1,5 +1,22 @@
 [
  {
+  "version": "0.4.5",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "diamond",
+    "es": [
+     "Manastones más claras",
+     "Leyenda de qué buscar con colores (aumentos de daño › Ataque › Crítico o Precisión) y una barra Flojas / Normales / Buenas con la marca de una tirada media."
+    ],
+    "en": [
+     "Clearer manastones",
+     "Colour legend of what to look for and a Weak / Average / Good bar with an average-roll marker."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.4.4",
   "fecha": "2026-11-13",
   "cambios": [
