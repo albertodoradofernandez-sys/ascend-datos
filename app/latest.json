@@ -1,11 +1,11 @@
 {
- "version": "0.2.5",
- "notes": "Guía con soul bind destacado, alas y mascotas que te convienen; Genus: por dónde empezar según el coste",
- "pub_date": "2026-11-13T00:08:50Z",
+ "version": "0.2.6",
+ "notes": "Guía ordenada por importancia: soul bind por líneas, runas hasta +5, alas según dificultad",
+ "pub_date": "2026-11-13T00:16:45Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXpGM3A3WmxXbVp3OU5STk8wOGpwc3lUOE9YdmI3cjRLT1ordlo1Z2JSWkhxVHkrcmQ1OG9oSzA5aC9GdjZiYzVzWXd6b2kvVk1kRlF6ZnVLR2syckFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI4NTMwCWZpbGU6QXNjZW5kXzAuMi41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNQowRmc1QlNkNmJ1NGd2emhqekcrTU9CNDkvNmUwMG5LR1pCRkZiRVJIeW5HY2ZUWDMrZDBsTGhBVFc4YXpZU3o3c3J5RGRsTkc4NWdnT0s3Y25PQmpCdz09Cg==",
-   "url": "https://raw.githubusercontent.com/albertodoradofernandez-sys/ascend-datos/main/app/Ascend_0.2.5_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQS8xSTl3WEIyWWgrRGYwMmRQNXd5Q1RJVDdaNXk0QVhocmJsblMyT2taT0dqU29PY1J3WWxpTk91WXRnTHdLTkJ0M1lhaHFiL1Rlc1h6Wk1KMUhMZmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI5MDA1CWZpbGU6QXNjZW5kXzAuMi42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNgpDUXpKcklsZlk0OG9VM3B1RVplckFTVUlBbmgxWEpKZW5hQW14ZExYRVU0M1pQS09lWStydFdvZ1NxTnVpR1NCcjVJV3BzTnY4Y05XaWxDeWtYcFJCUT09Cg==",
+   "url": "https://raw.githubusercontent.com/albertodoradofernandez-sys/ascend-datos/main/app/Ascend_0.2.6_x64-setup.exe"
   }
  }
 }

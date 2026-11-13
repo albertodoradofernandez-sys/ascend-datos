@@ -1,5 +1,55 @@
 [
  {
+  "version": "0.2.6",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "link",
+    "es": [
+     "Soul bind: qué líneas buscar",
+     "En cada pieza ves las líneas del top que ya tienes (✓) y las que te faltan, y qué línea cambiar con Sync. El % de vínculo queda en pequeño: es lo fácil de subir."
+    ],
+    "en": [
+     "Soul bind: which lines to find",
+     "Each piece shows the top lines you have and the ones you miss, and which line to Sync."
+    ]
+   },
+   {
+    "icono": "diamond",
+    "es": [
+     "Runas: hasta dónde subirlas",
+     "Recomendación de +5: más allá la probabilidad baja del 33 % al 10 % y la runa puede romperse. El top de Europa las lleva a +3; Corea, a +7, va un parche por delante."
+    ],
+    "en": [
+     "Runes: how far",
+     "Recommended +5: beyond it the chance drops from 33% to 10% and the rune can break."
+    ]
+   },
+   {
+    "icono": "flight",
+    "es": [
+     "Alas según lo que cuestan",
+     "Ordenadas por CP frente a lo difícil que es conseguirlas, con una etiqueta de dificultad. Las difíciles que dan poco, al final."
+    ],
+    "en": [
+     "Wings by effort",
+     "Sorted by CP versus difficulty, with a difficulty tag."
+    ]
+   },
+   {
+    "icono": "low_priority",
+    "es": [
+     "Lo importante, arriba",
+     "En la Guía, lo que más CP da va arriba; runas, mascotas y alas pasan al final («Para después»), salvo que algo sea muy importante y fácil: entonces sale arriba destacado."
+    ],
+    "en": [
+     "Important first",
+     "In the Guide, the biggest CP gains go first; runes, pets and wings move to the end unless something is very important and easy."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.2.5",
   "fecha": "2026-11-13",
   "cambios": [
