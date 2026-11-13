@@ -103,8 +103,8 @@
   "poseida": "+10: Flight Power +300, Accuracy Bonus +20, Penetration +100, Critical Hit +25",
   "origen": "Boxes and chests",
   "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingF_003.png",
-  "tipo_origen": "paquete",
-  "origen_es": "Paquete de skins de Poko",
+  "tipo_origen": "poko",
+  "origen_es": "Mercado (kinah) o bolsas de Poko",
   "region": "global"
  },
  {
@@ -259,8 +259,8 @@
   "poseida": "+10: Flight Power +300, Attack Bonus +10, MP +50, Regeneration +3%",
   "origen": "Boxes and chests",
   "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingF_002.png",
-  "tipo_origen": "paquete",
-  "origen_es": "Paquete de skins de Poko",
+  "tipo_origen": "poko",
+  "origen_es": "Mercado (kinah) o bolsas de Poko",
   "region": "global"
  },
  {
@@ -331,8 +331,8 @@
   "poseida": "+10: Flight Power +300, HP +50",
   "origen": "Boxes and chests",
   "icono": "https://assets.playnccdn.com/static-aion2-gamedata/resources/Icon_WingF_001.png",
-  "tipo_origen": "paquete",
-  "origen_es": "Paquete de skins de Poko",
+  "tipo_origen": "poko",
+  "origen_es": "Mercado (kinah) o bolsas de Poko",
   "region": "global"
  },
  {
