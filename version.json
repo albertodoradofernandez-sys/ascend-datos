@@ -1,7 +1,7 @@
 {
- "version": "202611130437",
- "fecha": "2026-11-13T04:37:25",
- "notas": "Alas de Poko: mercado o bolsas de Poko",
+ "version": "202611130541",
+ "fecha": "2026-11-13T05:41:13",
+ "notas": "Ranking real de EU y títulos en español",
  "archivos": [
   "comun.db.gz",
   "parches.json",
@@ -14,6 +14,7 @@
   "mascotas_detalle.json",
   "mapa_ids.json",
   "colecciones.json",
-  "titulos.json"
+  "titulos.json",
+  "ranking.json"
  ]
 }
