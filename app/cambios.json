@@ -1,22 +1,119 @@
 [
  {
+  "version": "0.2.4",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "genetics",
+    "es": [
+     "Genus con sentido",
+     "Solo revisa las líneas que importan: 1, 4 y 5 (ataque y aumentos de daño) y 3, 6 y 9 (crítico). Si llevan una stat que no sirve a tu clase, te dice qué buscar. Las líneas de bloqueo, MP o defensas ya no se marcan, y una buena stat no se toca aunque no sea del grado máximo."
+    ],
+    "en": [
+     "Smarter Genus",
+     "Only checks the lines that matter (1, 4, 5 damage; 3, 6, 9 crit) and tells you what to look for. Block, MP and defense lines are no longer flagged."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.2.3",
   "fecha": "2026-11-13",
   "cambios": [
-   {"icono": "campaign", "es": ["Novedades más claras", "Al haber versión nueva sale un aviso corto con «Ver cambios», y esta página explica cada cambio por separado."], "en": ["Clearer release notes", "A new version shows a short notice with \"See changes\", and this page explains each change."]},
-   {"icono": "compress", "es": ["Datos 10 veces más ligeros", "El paquete con el top y las builds pasa de 71 MB a 7 MB: se descarga mucho antes."], "en": ["Data 10× lighter", "The top and builds package goes from 71 MB to 7 MB: much faster to download."]}
+   {
+    "icono": "campaign",
+    "es": [
+     "Novedades más claras",
+     "Al haber versión nueva sale un aviso corto con «Ver cambios», y esta página explica cada cambio por separado."
+    ],
+    "en": [
+     "Clearer release notes",
+     "A new version shows a short notice with \"See changes\", and this page explains each change."
+    ]
+   },
+   {
+    "icono": "compress",
+    "es": [
+     "Datos 10 veces más ligeros",
+     "El paquete con el top y las builds pasa de 71 MB a 7 MB: se descarga mucho antes."
+    ],
+    "en": [
+     "Data 10× lighter",
+     "The top and builds package goes from 71 MB to 7 MB: much faster to download."
+    ]
+   }
   ]
  },
  {
   "version": "0.2.2",
   "fecha": "2026-11-13",
   "cambios": [
-   {"icono": "genetics", "es": ["Genus como en el juego", "Cuadrícula 3×3 por rama (Cogni, Fera, Natura, Varian, Especial) con el color de cada grado. En cada rama te dice qué línea cambiar primero y la marca en rojo."], "en": ["Genus like in game", "3×3 grid per branch with grade colours. Each branch tells you which line to reroll first."]},
-   {"icono": "account_balance", "es": ["Pantheon visual", "Tus estatuas, obras y coloso con imagen, grado y puntos por deidad (cada deidad llega a 200). Abajo, las piezas heroicas que aún no tienes."], "en": ["Visual Pantheon", "Your statues, artworks and colossus with image, grade and deity points. Below, the heroic pieces you still lack."]},
-   {"icono": "collections_bookmark", "es": ["Mascotas y Alas en Colecciones", "Ahora son pestañas de Colecciones, junto a Pantheon, Genus, Monolitos, Títulos y Skins."], "en": ["Pets and Wings in Collections", "They are now tabs in Collections, next to Pantheon, Genus, Monoliths, Titles and Skins."]},
-   {"icono": "compare_arrows", "es": ["Cara a cara más claro", "Tres formas de elegir rival: buscar a un amigo, el nº 1 de un servidor o alguien ya descargado. La tabla explica qué es cada diferencia."], "en": ["Clearer head to head", "Three ways to pick a rival: find a friend, a server's #1 or someone downloaded."]},
-   {"icono": "bolt", "es": ["Ruta: qué hacer ahora", "Qué manastone cambiar primero pieza a pieza y qué skill subir. El presupuesto llega hasta la amplificación (+5), que vale unas 5 veces un +1."], "en": ["Path: what to do now", "Which manastone to swap first and which skill to level. The budget reaches amplification (+5)."]},
-   {"icono": "update", "es": ["Buscar actualizaciones", "Botón en Ajustes para comprobar si hay versión nueva cuando quieras."], "en": ["Check for updates", "A Settings button to check for a new version any time."]}
+   {
+    "icono": "genetics",
+    "es": [
+     "Genus como en el juego",
+     "Cuadrícula 3×3 por rama (Cogni, Fera, Natura, Varian, Especial) con el color de cada grado. En cada rama te dice qué línea cambiar primero y la marca en rojo."
+    ],
+    "en": [
+     "Genus like in game",
+     "3×3 grid per branch with grade colours. Each branch tells you which line to reroll first."
+    ]
+   },
+   {
+    "icono": "account_balance",
+    "es": [
+     "Pantheon visual",
+     "Tus estatuas, obras y coloso con imagen, grado y puntos por deidad (cada deidad llega a 200). Abajo, las piezas heroicas que aún no tienes."
+    ],
+    "en": [
+     "Visual Pantheon",
+     "Your statues, artworks and colossus with image, grade and deity points. Below, the heroic pieces you still lack."
+    ]
+   },
+   {
+    "icono": "collections_bookmark",
+    "es": [
+     "Mascotas y Alas en Colecciones",
+     "Ahora son pestañas de Colecciones, junto a Pantheon, Genus, Monolitos, Títulos y Skins."
+    ],
+    "en": [
+     "Pets and Wings in Collections",
+     "They are now tabs in Collections, next to Pantheon, Genus, Monoliths, Titles and Skins."
+    ]
+   },
+   {
+    "icono": "compare_arrows",
+    "es": [
+     "Cara a cara más claro",
+     "Tres formas de elegir rival: buscar a un amigo, el nº 1 de un servidor o alguien ya descargado. La tabla explica qué es cada diferencia."
+    ],
+    "en": [
+     "Clearer head to head",
+     "Three ways to pick a rival: find a friend, a server's #1 or someone downloaded."
+    ]
+   },
+   {
+    "icono": "bolt",
+    "es": [
+     "Ruta: qué hacer ahora",
+     "Qué manastone cambiar primero pieza a pieza y qué skill subir. El presupuesto llega hasta la amplificación (+5), que vale unas 5 veces un +1."
+    ],
+    "en": [
+     "Path: what to do now",
+     "Which manastone to swap first and which skill to level. The budget reaches amplification (+5)."
+    ]
+   },
+   {
+    "icono": "update",
+    "es": [
+     "Buscar actualizaciones",
+     "Botón en Ajustes para comprobar si hay versión nueva cuando quieras."
+    ],
+    "en": [
+     "Check for updates",
+     "A Settings button to check for a new version any time."
+    ]
+   }
   ]
  }
 ]

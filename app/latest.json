@@ -1,11 +1,11 @@
 {
- "version": "0.2.3",
- "notes": "Novedades más claras y datos 10 veces más ligeros",
- "pub_date": "2026-11-12T23:49:24Z",
+ "version": "0.2.4",
+ "notes": "Genus con sentido: solo las líneas que importan y qué buscar",
+ "pub_date": "2026-11-12T23:59:59Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTJPUGRVemhFczk3L0NvOHcxZlVXV3B6OU9jRlhRRHJWN3cwajN2VTF6ZXpKakl2bnpHa3UrZWZnZk4rYkVhMDVPKytmVlRTNm5pRUQ3bTFJOTRTemdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI3MzYzCWZpbGU6QXNjZW5kXzAuMi4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMwpqbWg5R1M2V25MN0VmaDM3MnBsZlV3dzdqUWpRK2VwY3RVcVJrNncyM0IrQTFGR3dveFIzYTcyZ2NyM2xrVGs0bFdKQnp6Y1IwaEVGOEJKUWdybkxBdz09Cg==",
-   "url": "https://raw.githubusercontent.com/albertodoradofernandez-sys/ascend-datos/main/app/Ascend_0.2.3_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXhpTEhrMEFOWmVvMzVWRkMvUmJ1S2RPWjdGOEJtb3pHRDNLVWkveGVsRXYydlI1c0RGbjcxVkdOQ0pWZjNSNlY2Rm9qbjRDQjdISjRpQ1JSZEZQb1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI3OTk5CWZpbGU6QXNjZW5kXzAuMi40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNAplYnZwaDJyMmd1SDZkYTlvVWdPOE02YnE0a043d1FISCtlTmVkdWkzSmRXTU4wdkpnYWFRUE1YY0dKWmlDbnNIbFBPL2JaOHhnWE56MlpsbnR5QVVCdz09Cg==",
+   "url": "https://raw.githubusercontent.com/albertodoradofernandez-sys/ascend-datos/main/app/Ascend_0.2.4_x64-setup.exe"
   }
  }
 }
