@@ -1,11 +1,11 @@
 {
- "version": "0.2.11",
- "notes": "Puesto real, ranking de clases con nota, top de verdad, manastones mejor recomendados, temas de color, títulos más claros e iconos",
- "pub_date": "2026-11-13T04:19:11Z",
+ "version": "0.2.12",
+ "notes": "Genus según tu clase, la ficha sigue el tema, tu main al abrir y coste explicado",
+ "pub_date": "2026-11-13T04:38:38Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQStSQ2c1TW51RlFuUFkvZ1dSMEJoZWZlSDVBUm1XODNXOGx1amg0cm5oMk9Sc256VkJPRVBvSFNyUVdFM0xtbkprMlZxdk9WOVRIT05xbW03aERSL2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQzNTQ2CWZpbGU6QXNjZW5kXzAuMi4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjExCjFISEZLclJ5a2JpQ1VmWDRJb1hYdXVkSnFMNk1lcXdESmdBZXdJaGs1RnpFMWxkN2tPbDl0bytmNndoS0tYMTZza2hBb3IzK2RpYmlDRDVxVngvekRBPT0K",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.2.11/Ascend_0.2.11_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTdWMU0zRUlKK2NNZEF0MzdVUlYrYVF5ZTZEQy9PNjNLNHNYZ2UvOGxjb21tRkFybWpFeWEwYkc0dVBkcFhqTG5UYkJSdkxrZkV0Ti9QUlhMNEVTQWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQ0NzE0CWZpbGU6QXNjZW5kXzAuMi4xMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjEyCmhkc0pxdUdMYVJLdlRUOE1hMmdzU1o0ZUtwQXc4SWhqNTlmM05FOTk1TmxFMEY2bmZTblJ4NHhaOFB0OEVlOWtDc0d0S1JlM3pZZFArdDhrRS9aOENnPT0K",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.2.12/Ascend_0.2.12_x64-setup.exe"
   }
  }
 }

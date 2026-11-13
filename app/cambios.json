@@ -1,5 +1,55 @@
 [
  {
+  "version": "0.2.12",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "genetics",
+    "es": [
+     "Genus según tu clase",
+     "Qué buscar en cada línea según la clase (precisión, crítico, crítico trasero solo Asesino, frontal para Templario, bloqueo) y las líneas 2, 7 y 8 como secundarias con lo que conviene."
+    ],
+    "en": [
+     "Genus by class",
+     "What to look for in each line by class, with lines 2, 7 and 8 as secondary."
+    ]
+   },
+   {
+    "icono": "palette",
+    "es": [
+     "La ficha sigue el tema",
+     "La ficha del personaje y Colecciones cambian de color con el tema."
+    ],
+    "en": [
+     "Sheet follows the theme",
+     "The character sheet and Collections follow the colour theme."
+    ]
+   },
+   {
+    "icono": "star",
+    "es": [
+     "Tu main al abrir",
+     "La estrella marca tu main: la app empieza siempre por él."
+    ],
+    "en": [
+     "Your main on start",
+     "The star marks your main: the app always opens on it."
+    ]
+   },
+   {
+    "icono": "payments",
+    "es": [
+     "Coste explicado",
+     "El plan de la Ruta explica que el kinah es la media contando los fallos."
+    ],
+    "en": [
+     "Cost explained",
+     "The Path plan explains kinah is the average counting failures."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.2.11",
   "fecha": "2026-11-13",
   "cambios": [
