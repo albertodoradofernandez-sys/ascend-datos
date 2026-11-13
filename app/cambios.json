@@ -1,5 +1,22 @@
 [
  {
+  "version": "0.2.16",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "calculate",
+    "es": [
+     "CP según tu personaje en todo",
+     "Títulos, manastones, alas, mascotas y Panteón calculan el CP con tus stats: una stat plana se multiplica por el % que ya tienes (por ejemplo, +5 de ataque con un +17 % valen ~5,9)."
+    ],
+    "en": [
+     "CP based on your character everywhere",
+     "Titles, manastones, wings, pets and Pantheon use your stats: flat stats are multiplied by the % you already have."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.2.15",
   "fecha": "2026-11-13",
   "cambios": [
