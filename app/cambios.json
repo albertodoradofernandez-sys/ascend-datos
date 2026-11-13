@@ -1,5 +1,88 @@
 [
  {
+  "version": "0.3.0",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "auto_awesome",
+    "es": [
+     "Más bonita",
+     "Las páginas entran con un fundido suave, el fondo tiene un brillo ambiental del color del tema, las tarjetas se iluminan donde pasas el ratón, el CP y el puesto suben animados y las cargas brillan."
+    ],
+    "en": [
+     "Prettier",
+     "Smooth page transitions, ambient theme glow, cards light up under the cursor, animated CP and rank, shimmering loaders."
+    ]
+   },
+   {
+    "icono": "wifi_off",
+    "es": [
+     "Sin conexión",
+     "Si no hay internet sale un aviso con el fondo borroso y un botón de Reintentar; ya no se queda esperando minutos."
+    ],
+    "en": [
+     "Offline",
+     "Without internet a blurred overlay with a Retry button appears; no more minutes of waiting."
+    ]
+   },
+   {
+    "icono": "bug_report",
+    "es": [
+     "Más robusta",
+     "Buscar dos veces seguidas ya no mezcla resultados, y se evita un cierre raro al calcular el meta."
+    ],
+    "en": [
+     "Sturdier",
+     "Searching twice no longer mixes results, and a rare crash when computing the meta is avoided."
+    ]
+   },
+   {
+    "icono": "diamond",
+    "es": [
+     "Manastones sin repetir",
+     "Cada hueco malo de una pieza recibe una línea distinta (Ataque, Crítico, Precisión; luego un aumento de daño)."
+    ],
+    "en": [
+     "No repeated manastones",
+     "Each bad socket gets a different line (Attack, Critical, Accuracy, then a damage boost)."
+    ]
+   },
+   {
+    "icono": "account_balance",
+    "es": [
+     "Panteón más claro",
+     "Cada pieza dice si está colocada o no, y las caras ya no salen oscurecidas."
+    ],
+    "en": [
+     "Clearer Pantheon",
+     "Each piece says whether it is placed, and costly ones are no longer dimmed."
+    ]
+   },
+   {
+    "icono": "link",
+    "es": [
+     "Soul bind con CP",
+     "Cada línea que buscas muestra su CP (con el valor medio del top) y cada cambio dice cuánto pierdes y ganas: «Cambia Back Attack 97 → Combat Speed: +1.190 CP»."
+    ],
+    "en": [
+     "Soul bind with CP",
+     "Each line you look for shows its CP and each swap shows what you lose and gain."
+    ]
+   },
+   {
+    "icono": "account_balance",
+    "es": [
+     "CP del Panteón corregido",
+     "Las deidades dan porcentajes, que pesan mucho en el CP: ~20 CP por punto (una estatua de 20 puntos ≈ 400 CP)."
+    ],
+    "en": [
+     "Pantheon CP fixed",
+     "Deities give percentages, which weigh a lot in CP: ~20 CP per point."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.2.16",
   "fecha": "2026-11-13",
   "cambios": [

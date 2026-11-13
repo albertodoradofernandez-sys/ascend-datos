@@ -1,11 +1,11 @@
 {
- "version": "0.2.16",
- "notes": "CP según tu personaje en todo (multiplicativo)",
- "pub_date": "2026-11-13T05:35:15Z",
+ "version": "0.3.0",
+ "notes": "Más bonita, aviso de sin conexión, más robusta, soul bind con CP, Panteón y manastones mejorados",
+ "pub_date": "2026-11-13T05:54:12Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTRmZjBPRWV3UVpHT2x0S1dvZ0JXMEI1WWU2WmxXazdZT1ZFZkpmcGJ0STRxOTJFbk11VXBaVlZFZ2Z2czFXSUo0bVFxemRGQmRUTFg3SWdsZ25xTHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQ4MTEwCWZpbGU6QXNjZW5kXzAuMi4xNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjE2CnBLSmw2NHBXVmFzanpQZmZQRTc4UUJGaTlKVkp2WlRmQ0RBeDdOT3VFdStYdHhnc2FlTXFCRVBPMVUvR3hVSnd2YjExZTY5dkFOc1AwMi84dTUvUUFnPT0K",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.2.16/Ascend_0.2.16_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTExd01WUlRGQ1NNWHdmZk4yR1JreVhDeFpSNm9Lcmg3ZE5NcWpSWW9yK2xoV2dsZTRxdDFBM0htbDlyREl4Um1OcGhJcldPZ0hPNzY4akEycVd1TWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQ5MjQ3CWZpbGU6QXNjZW5kXzAuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMApaQ1dBMExvNDZ3bnk3KzliVERHYnVwYzNyQ2srVXZjbFpIc0xRdFNhSllMTGY0WXl3Yk9uQjRjbEhHQnlQWW5jSkpkTzF1U2xmckJuYnJEU3RGY2FBdz09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.3.0/Ascend_0.3.0_x64-setup.exe"
   }
  }
 }
