@@ -1,11 +1,11 @@
 {
- "version": "0.4.0",
- "notes": "Guía para empezar con aviso para nuevos y página Rendimiento (Astral Vision)",
- "pub_date": "2026-11-13T15:36:02Z",
+ "version": "0.4.1",
+ "notes": "Arcanas más limpias",
+ "pub_date": "2026-11-13T16:12:20Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQSt1SXd1UG5HQ0VJL05rR1BMZ09VWVU0OHQvZkZ0SUp0WVkwcFU1SmU4Mkdra2VqdlNZeHp6MEV0enQrTWZBQ1FCcjFmN3VGY0JLeXNFdUxLUWdxYWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTg0MTU3CWZpbGU6QXNjZW5kXzAuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMApXRUcxTnc5b1hQZHQ1T1ptMGgvL0I2WDZ0bTZxQXIxZGducU9uS20xaG1JQTRFU204R2dtSHdZYXpkbDM2UE41R1VRMW1yU3pQTDVoQVlJNVVHclNCdz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.4.0/Ascend_0.4.0_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTYyRHJsRGdJcU9ueDJxSEhHSVZMYmtYRFhMV1RjcHcwcGJLUVRUUlhzcUZDS1U2elJGMEduTnhRT1dWYUwvbjVmVjA5MmpwUG5pMldqWlZLNFduT0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTg2MzM1CWZpbGU6QXNjZW5kXzAuNC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMQpHQWk4RUZCR3N5aGpxcHpmSks3cUE3ODcvajZYdm5PK1RZS0l1YXpobHFqb3BFS1c3OVd3ek1TdkdHWW1VQ0RUNTk0bHdkU3dvNERFWXV5b2N4THRCUT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.4.1/Ascend_0.4.1_x64-setup.exe"
   }
  }
 }

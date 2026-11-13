@@ -1,5 +1,22 @@
 [
  {
+  "version": "0.4.1",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "style",
+    "es": [
+     "Arcanas más limpias",
+     "Quitada la etiqueta «top +N» junto al nombre: cada carta muestra solo tu nivel y lo que le falta."
+    ],
+    "en": [
+     "Cleaner arcanas",
+     "Removed the «top +N» tag next to the name: each card shows your level and what it is missing."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.4.0",
   "fecha": "2026-11-13",
   "cambios": [
