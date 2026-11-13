@@ -1,5 +1,88 @@
 [
  {
+  "version": "0.2.11",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "leaderboard",
+    "es": [
+     "Tu puesto real",
+     "«Tu puesto» y el objetivo usan el ranking de CP de toda la región (top 5000 de cada clase); por debajo, estimado (≈)."
+    ],
+    "en": [
+     "Your real rank",
+     "«Your rank» and the goal use the whole region's CP ranking (top 5,000 per class); below that, estimated (≈)."
+    ]
+   },
+   {
+    "icono": "military_tech",
+    "es": [
+     "Ranking de clases con nota",
+     "Élite muestra cada clase con nota S-D, media del top 100, mediana, peso en el top 1000 y DPS en jefes."
+    ],
+    "en": [
+     "Class tiers",
+     "Elite shows each class with an S-D tier, top 100 average, median, share of the top 1000 and boss DPS."
+    ]
+   },
+   {
+    "icono": "groups",
+    "es": [
+     "Top de verdad",
+     "El top de cada clase sale del ranking real y los CP falsos de PvP se descartan."
+    ],
+    "en": [
+     "A real top",
+     "Each class top comes from the real ranking and fake PvP CP values are dropped."
+    ]
+   },
+   {
+    "icono": "diamond",
+    "es": [
+     "Manastones mejor recomendados",
+     "Cada hueco recibe la mezcla que usa el top, no la misma piedra en todos; las piezas se quedan desplegadas."
+    ],
+    "en": [
+     "Better manastone advice",
+     "Each socket gets the mix the top uses, not the same stone everywhere; pieces stay expanded."
+    ]
+   },
+   {
+    "icono": "palette",
+    "es": [
+     "Temas de color",
+     "En Ajustes → Apariencia: Carmesí, Elyos, Asmodiano, Abismo, Jade y Medianoche."
+    ],
+    "en": [
+     "Colour themes",
+     "In Settings → Appearance: Crimson, Elyos, Asmodian, Abyss, Jade and Midnight."
+    ]
+   },
+   {
+    "icono": "military_tech",
+    "es": [
+     "Títulos más claros",
+     "Efecto equipado y al tenerlo, y cómo se consigue en español."
+    ],
+    "en": [
+     "Clearer titles",
+     "Equipped and owned effects, and how to get it."
+    ]
+   },
+   {
+    "icono": "image",
+    "es": [
+     "Más visual",
+     "Iconos en las skills recomendadas y el +5 de las runas destacado."
+    ],
+    "en": [
+     "More visual",
+     "Icons on recommended skills and the rune +5 highlighted."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.2.10",
   "fecha": "2026-11-13",
   "cambios": [
