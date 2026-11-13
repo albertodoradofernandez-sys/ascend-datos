@@ -1,11 +1,11 @@
 {
- "version": "0.5.0",
- "notes": "Especialidades, arcanas sin fallo por nivel y diseño pulido",
- "pub_date": "2026-11-13T18:05:05Z",
+ "version": "0.6.0",
+ "notes": "Especialidades con guías de la comunidad, menú del juego y app más fluida",
+ "pub_date": "2026-11-13T18:32:57Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXdYM2RXZTZlUmxpbU5jQUFzc0NqdGlRcUgwbmhNbUkwSlVlbUFYUVZUT21MMTMxWCs1VnFkOEN5MENXMGJBbEMvemxwZyt5ZGNySDBJeTU2Q2dLcndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTkzMDkxCWZpbGU6QXNjZW5kXzAuNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMAppcEpDRjlYK05ENWhORjcySkFCUUFjQWdEZWc0S0NHenJRbTFzaVI5WEFlZnRDYk9kM3lENGZsSUE2eVNmZFNveXpFdCs0aTZmWnRXQzdQclRRNTVEZz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.5.0/Ascend_0.5.0_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTE1VkpFei9pT1B5ZlRsanRIeTFwZzRrQjdDQnBCZlR1bHhuNlpISWFWTXZqbFhROXZZSzZaNGRFeXh0TGFuUmdtY0tRN1FmQzdZRGxsU3NSb3NFT2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTk0NzcyCWZpbGU6QXNjZW5kXzAuNi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMAp1dVp6Q0h4WmhNV0VNb3F0dzBrSVRXZ1BPVExaV3R6dWpYaUUxZ3pqVzVnbTg4QXBxZmRYeS9DRFVrd3YzOVlFclJzbHllME1NQzhwaXNEME1vbjZCdz09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.6.0/Ascend_0.6.0_x64-setup.exe"
   }
  }
 }

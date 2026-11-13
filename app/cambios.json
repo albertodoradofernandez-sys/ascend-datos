@@ -1,5 +1,44 @@
 [
  {
+  "version": "0.6.0",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "tune",
+    "es": [
+     "Especialidades revisadas",
+     "Ahora salen de las guías de la comunidad (versión global) para las 8 clases, con la importancia de cada skill y su nivel objetivo. Las alternativas válidas ya no se piden cambiar, «urgente» solo en skills importantes y cada skill se ve con 5 casillas como en el juego."
+    ],
+    "en": [
+     "Specializations reviewed",
+     "Now based on community guides (global version) for all 8 classes, with each skill's importance and target level. Valid alternatives are no longer flagged, «urgent» only on important skills, and each skill shows 5 slots like in game."
+    ]
+   },
+   {
+    "icono": "menu",
+    "es": [
+     "Menú con estilo del juego",
+     "Iconos en rombos dorados, separadores con adorno y retrato con marco."
+    ],
+    "en": [
+     "Game-style menu",
+     "Icons in golden diamonds, ornate separators and a framed portrait."
+    ]
+   },
+   {
+    "icono": "speed",
+    "es": [
+     "Más fluida",
+     "Las lecturas de datos ya no bloquean la ventana: la app no se queda congelada al cambiar de página."
+    ],
+    "en": [
+     "Smoother",
+     "Data reads no longer block the window: the app does not freeze when switching pages."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.5.0",
   "fecha": "2026-11-13",
   "cambios": [
