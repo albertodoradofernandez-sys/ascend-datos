@@ -1,5 +1,22 @@
 [
  {
+  "version": "0.2.9",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "palette",
+    "es": [
+     "Retoques de diseño",
+     "Élite se abre en la clase de tu personaje y muestra las ranuras en español; el Panel separa qué mejorar y cómo; textos que ya no se cortan."
+    ],
+    "en": [
+     "Design touches",
+     "Elite opens on your character's class with translated slot names; the Dashboard splits what to upgrade and how; text no longer gets cut."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.2.8",
   "fecha": "2026-11-13",
   "cambios": [
