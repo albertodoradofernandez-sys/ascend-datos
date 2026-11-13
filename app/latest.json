@@ -1,11 +1,11 @@
 {
- "version": "0.2.9",
- "notes": "Retoques de diseño: Élite en tu clase y en español, Panel más claro",
- "pub_date": "2026-11-13T03:25:44Z",
+ "version": "0.2.10",
+ "notes": "Una sola ventana, todo sigue al personaje elegido, títulos con origen, Cara a cara con amplificación y arreglos",
+ "pub_date": "2026-11-13T03:42:14Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTdoeUFsb3lkYUl3bjJjMThoRWVzZ2lwSkZJNGNVSEdnNnhwZjZvM3NpYzRHUFhPRUk0RWpQdThvZUkzQk9wb2NWQVJIQXdzc0FYdURvdkxrUlI4VVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQwMzQwCWZpbGU6QXNjZW5kXzAuMi45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuOQozdEduTVhXOE9YcDRqYlRHYUx6ZW1KOHQ2YVRSdEljSnVDcmxHMTZZaGkrN1VlaVJtaWFYUEYrNW5yT3dmOGYvMkhuQ2ZrQWlIQTRHdmRsWnd4bDhDdz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.2.9/Ascend_0.2.9_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXp5eEJTcUFPYzBPbHdrTEp2NXZDRjNyVEFrV0xYS1hycnh6VzQ0bWpib3R4OWZMUktYWksvaGw5SWdnZXczTmp2dGdLMzUxRElZOG5PMzFuRU9GN1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQxMzMwCWZpbGU6QXNjZW5kXzAuMi4xMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjEwCnFnMVlYVU5FZ3czRUZwVHpCd0pQVGhKaTJtVnZWcGpoUmp4a0M0ajA3b2IxQzFycURzMUE2bXBoZHQ2T3lJWHBmZzYyQjlseENreTFTOHpDb0w5MUNBPT0K",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.2.10/Ascend_0.2.10_x64-setup.exe"
   }
  }
 }

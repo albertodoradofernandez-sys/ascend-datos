@@ -1,5 +1,66 @@
 [
  {
+  "version": "0.2.10",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "sync",
+    "es": [
+     "Todo cambia al elegir personaje",
+     "Colecciones y Élite se actualizan solas al elegir otro personaje en la barra lateral."
+    ],
+    "en": [
+     "Everything follows your character",
+     "Collections and Elite update by themselves when you pick another character in the sidebar."
+    ]
+   },
+   {
+    "icono": "filter_1",
+    "es": [
+     "Una sola ventana",
+     "Si Ascend ya está abierta, al abrirla otra vez se trae al frente en vez de abrir otra."
+    ],
+    "en": [
+     "Single window",
+     "If Ascend is already open, opening it again brings it to the front instead of starting another one."
+    ]
+   },
+   {
+    "icono": "military_tech",
+    "es": [
+     "Títulos: de dónde salen",
+     "Cada título que te falta dice si es de desafío, mazmorra, misión…, la pista del juego y un botón para buscar cómo conseguirlo."
+    ],
+    "en": [
+     "Titles: where they come from",
+     "Each missing title shows its type (challenge, dungeon, quest…), the in-game hint and a button to look up how to get it."
+    ]
+   },
+   {
+    "icono": "compare_arrows",
+    "es": [
+     "Cara a cara con amplificación",
+     "La columna de soul bind pasa a ser la diferencia de amplificación de cada pieza."
+    ],
+    "en": [
+     "Head to head with exceed",
+     "The soul bind column is now each piece's exceed difference."
+    ]
+   },
+   {
+    "icono": "build",
+    "es": [
+     "Arreglos",
+     "El número del Panteón sale centrado; las alas de Poko ya no salen como de pago (mercado por kinah o bolsas de Poko)."
+    ],
+    "en": [
+     "Fixes",
+     "The Pantheon count is centred; Poko wings no longer show as paid (market for kinah or Poko bags)."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.2.9",
   "fecha": "2026-11-13",
   "cambios": [
