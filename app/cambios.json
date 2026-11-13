@@ -1,5 +1,33 @@
 [
  {
+  "version": "0.4.4",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "diamond",
+    "es": [
+     "Manastones por pieza",
+     "Cada intento tira todos los huecos a la vez: ahora cada pieza tiene una calidad /10 frente a una tirada media y solo se recomienda tirar las que valen menos. Las piedras se ven en colores según sirvan para daño."
+    ],
+    "en": [
+     "Manastones per piece",
+     "Each attempt rerolls every socket: each piece gets a quality /10 vs an average roll, and only worse pieces are recommended."
+    ]
+   },
+   {
+    "icono": "style",
+    "es": [
+     "Arcanas más bonitas",
+     "Las 5 cartas en una fila, verticales, con el arte grande y un brillo según su estado."
+    ],
+    "en": [
+     "Prettier arcanas",
+     "All 5 cards in one row, vertical, big art and a glow by state."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.4.3",
   "fecha": "2026-11-13",
   "cambios": [
