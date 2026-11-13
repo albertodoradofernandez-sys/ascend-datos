@@ -1,114 +1,847 @@
-{"fuente":"Resumen de aion2hub.com (web de fans que recopila las notas oficiales), revisado el 2026-11-11. La región KR está deducida de la serie «AION 2 Update».",
-"parches":[
-{"region":"KR","fecha":"2026-11-11","titulo":"Capítulo 1: nivel 55, rework de clases y entrada por CP","url":"https://aion2.plaync.com/ko-kr/board/update/view?articleId=6af370b8577e8c01355e047b","resumen":"Nota oficial. El parche más grande hasta ahora: nivel máximo 55, zonas nuevas, las mazmorras piden CP en vez de item level y rework profundo de casi todas las clases.","cambios":[
-{"tipo":"nuevo","area":"contenido","clase":null,"titulo":"Nivel máximo 55 y zonas nuevas","detalle":"Abren las partes 2 de Eltnen y Morheim; cubos ocultos grandes (10 llaves, 10 veces la recompensa).","importante":true},
-{"tipo":"cambio","area":"sistema","clase":null,"titulo":"Las mazmorras piden CP, no item level","detalle":"Expedición, Trascendencia y Santuario pasan a exigir Combat Power (p. ej. Urugugu fanático 800K normal y 1M difícil).","importante":true},
-{"tipo":"cambio","area":"sistema","clase":null,"titulo":"El CP valora más ciertas stats","detalle":"Suben en el cálculo del CP las de amplificación, Strike (강타), reducción de recarga y velocidad de combate.","importante":true},
-{"tipo":"nerf","area":"sistema","clase":null,"titulo":"Stats de dioses a la mitad","detalle":"Cada punto de stat de dios pasa de 0,2% a 0,1%. En PvP la amplificación de daño se atenúa si la diferencia con la resistencia es grande.","importante":true},
-{"tipo":"nuevo","area":"sistema","clase":null,"titulo":"Redistribuir niveles de arcana","detalle":"Las habilidades de una arcana se quedan, pero sus niveles se reparten al azar de nuevo por 100.000 kinah cada vez.","importante":true},
-{"tipo":"cambio","area":"objeto","clase":null,"titulo":"Exceed hasta 7 y cambia lo que da","detalle":"El equipo Heroic llega a 7 de exceed. En armas y accesorios da amplificación de daño en vez de ataque; en armaduras, resistencia al daño en vez de defensa.","importante":true},
-{"tipo":"buff","area":"habilidad","clase":"Assassin","titulo":"Rework de marcas (문양)","detalle":"Las marcas pasan a ser un buff tuyo de 15 s. Insignia Explosion: 5 marcas = +500% de daño PvE (antes 160%), recarga de 10 a 5 s, y con 5 marcas activa «instinto asesino» (+5% Perfect).","importante":true},
-{"tipo":"buff","area":"habilidad","clase":"Assassin","titulo":"Heart Gore más fuerte","detalle":"+70% de daño con instinto asesino; especialización 5 pasa a +2 lanzamientos seguidos.","importante":true},
-{"tipo":"buff","area":"habilidad","clase":"Assassin","titulo":"Triniel's Dagger +30% PvE","detalle":"Especialización 3: recarga -15 s.","importante":false},
-{"tipo":"cambio","area":"habilidad","clase":"Assassin","titulo":"Ambush, Savage Fang y Evasion Stance","detalle":"Ambush se puede usar en movimiento y reinicia Heart Gore; Savage Fang da 3 marcas al lanzarla; Evasion Stance: recarga de 20 a 10 s.","importante":false},
-{"tipo":"nerf","area":"habilidad","clase":"Assassin","titulo":"Illusive Clone pierde el reinicio de Heart Gore","detalle":"Ya no quita la recarga de Heart Gore; su especialización 5 pasa a -30 s de recarga.","importante":true},
-{"tipo":"buff","area":"habilidad","clase":"Gladiator","titulo":"Nuevo estado «Frenesí» (광분)","detalle":"Muchas skills dan Frenesí (+20% amplificación PvE, hasta 2 cargas); golpes básicos +30% PvE; 파멸의 맹타 +50% de daño base.","importante":true},
-{"tipo":"nerf","area":"habilidad","clase":"Gladiator","titulo":"내려찍기 y 올려치기 -50%","detalle":"Pierden la mitad del daño base pero sin recarga; se activan con Frenesí. 노련한 반격 baja mucho su amplificación.","importante":false},
-{"tipo":"buff","area":"habilidad","clase":"Ranger","titulo":"Nuevo estado «Sensibilidad» (감응)","detalle":"폭발 화살 +80% PvE y mucho más daño con Sensibilidad; 파열 화살 +10% y +150% extra en estado preciso.","importante":true},
-{"tipo":"nerf","area":"habilidad","clase":"Ranger","titulo":"속사 -25% y 조준 화살 -10% PvE","detalle":"Se compensa con el daño de los estados nuevos.","importante":false},
-{"tipo":"nuevo","area":"contenido","clase":null,"titulo":"Mazmorras nuevas y 47 mascotas","detalle":"Expedición Urugugu fanático, Trascendencia Erakus (5 jefes/semana), tablero Daevanion Lumiel y 47 mascotas nuevas.","importante":false}
-]},
-{"region":"EU","fecha":"2026-11-11","titulo":"Ludra más fácil y Expedition Hard nuevas","url":"https://aion2.plaync.com/en-us/board/update/view?articleId=6af42a1affaccc00c265785f","resumen":"Nota oficial. Ludra da más tiempo y mejores recompensas, llegan dos Expedition Hard y las pociones duran el doble. Sin cambios de clase.","cambios":[
-{"tipo":"buff","area":"contenido","clase":null,"titulo":"Ludra: 2 horas y mejor botín","detalle":"Normal y Hard pasan de 1 a 2 horas, el reactor central tiene menos HP y el grupo de recompensas 5 sale siempre (30% → 100%) con Wrathful Mind, Will y Ego.","importante":true},
-{"tipo":"nuevo","area":"contenido","clase":null,"titulo":"Expedition Hard: Fire Temple y Ferocious Horn Den","detalle":"IL 2.800, Frenzy a los 4 min, 3 revives; Philosopher's Stone: Revelation elegible como recompensa garantizada y Ariel Fragment al 100%.","importante":true},
-{"tipo":"buff","area":"objeto","clase":null,"titulo":"Pociones, comida y pergaminos de 10 min","detalle":"Los consumibles de 5 minutos duran 10 y ya no se pierden al morir.","importante":true},
-{"tipo":"buff","area":"sistema","clase":null,"titulo":"Sync Stones semanales","detalle":"Hasta 3 Sync Stone (Unique) por semana en las misiones de temporada de Transcendence.","importante":true},
-{"tipo":"buff","area":"sistema","clase":null,"titulo":"Más Abyss Points sin PvP","detalle":"Misiones semanales del Shugo Festival y Duties de 1.000 a 2.500 puntos; más puntos en Chaotic Outer Reshanta.","importante":false},
-{"tipo":"cambio","area":"sistema","clase":null,"titulo":"Kina ligada en Abyss inferior y Tier 1","detalle":"La kina de monstruos del Lower Abyss y de Krao Cave / Draupnir Conquest pasa a ser Bound.","importante":false},
-{"tipo":"arreglo","area":"contenido","clase":null,"titulo":"Arreglos varios","detalle":"Precarga de gráficos para evitar tirones; arreglos en Zikel's Sanctum, mazmorras submarinas y Ludra's Trial.","importante":false}
-]},
-{"region":"EU","fecha":"2026-11-04","titulo":"Abyssal Forge: Ludra y Chaotic Outer Reshanta","url":"https://aion2hub.com/updates/aion-2-global-update-2026-11-04","resumen":"Llega la raid Ludra, el PvP igualado en Outer Reshanta y menos asedios de artefactos. Sin cambios de clase.","cambios":[
-{"tipo":"nuevo","area":"contenido","clase":null,"titulo":"Abyssal Forge: Ludra","detalle":"Normal a IL 2.800 y Hard a IL 3.000, límite de 1 hora; suelta Ludra's Weapon, Guard, Ludra's Bracelet, Abyssal Bracelet (Bound), alas y artwork.","importante":true},
-{"tipo":"nuevo","area":"objeto","clase":null,"titulo":"Pulseras con Amplify","detalle":"Abyssal Bracelet (Bound) amplifica hasta nivel 3 y Ludra's Bracelet (Bound) hasta nivel 5.","importante":true},
-{"tipo":"nuevo","area":"sistema","clase":null,"titulo":"Chaotic Outer Reshanta (PvP igualado)","detalle":"Zona PvP desde nivel 45 con stats, skills y estigmas estandarizados; 3 h/semana base; los Abyss Points de ese PvP se reducen un 50%.","importante":true},
-{"tipo":"cambio","area":"contenido","clase":null,"titulo":"Artifact Siege solo 2 veces por semana","detalle":"Pasa de 3 a 2 veces (jueves y sábados, 21:00 asedio y 21:30 jefes de artefacto).","importante":true},
-{"tipo":"buff","area":"contenido","clase":null,"titulo":"Recompensas de Expedition subidas","detalle":"Draupnir, Vakron y Ferocious Horn Den dan más Enhance Stones, Kina, Silentium y Soul Codex, y añaden Amplify Stone Fragment (Unique) (Bound).","importante":true},
-{"tipo":"nuevo","area":"objeto","clase":null,"titulo":"Recetas True/Star Dragon al 100%","detalle":"Nuevas recetas de crafteo con 100% de éxito, sin COMBO y con resultado Bound.","importante":false},
-{"tipo":"buff","area":"sistema","clase":null,"titulo":"Abyss Corridor +50% Abyss Points","detalle":"Los puntos por partida suben un 50%.","importante":false},
-{"tipo":"cambio","area":"contenido","clase":null,"titulo":"Argo, el Rey Espíritu","detalle":"Aparece a diario a las 10:30 y 22:30.","importante":false},
-{"tipo":"cambio","area":"sistema","clase":null,"titulo":"Almas de mascota desde mazmorras","detalle":"Algunas almas de mascota que solo salían de cofres ahora caen en Expedition y Transcendence.","importante":false},
-{"tipo":"nuevo","area":"evento","clase":null,"titulo":"Ludra Hunt y Check-In","detalle":"Hunt del 4 al 24 nov (PST): título para las 20 primeras parties Hard por región. Check-in del 4 al 17 nov con 500.000 y 1.000.000 Kina (Bound), 30.000 Abyss Points.","importante":true}
-]},
-{"region":"EU","fecha":"2026-10-28","titulo":"Urugugu y Vakron Hard, Odylium Repository, HP base","url":"https://aion2hub.com/updates/aion-2-global-update-2026-10-28","resumen":"Sube la vida base de todas las clases, mejoran Assassin (Illusive Clone) y se amplía el límite de Amplify del equipo crafteado.","cambios":[
-{"tipo":"buff","area":"clase","clase":"Assassin","titulo":"Illusive Clone con menos cooldown","detalle":"Cooldown base de 90 a 60 segundos.","importante":true},
-{"tipo":"buff","area":"habilidad","clase":"Assassin","titulo":"Heightened Sixth Sense: más HP","detalle":"El efecto de HP sube a 1.000 / 2.000 / 4.000 (nivel 5 / 10 / 20).","importante":true},
-{"tipo":"buff","area":"clase","clase":"Gladiator","titulo":"HP base +1.500","detalle":"HP base a nivel 45: de 4.702 a 6.202. Igual para Templar.","importante":true},
-{"tipo":"buff","area":"clase","clase":"Assassin","titulo":"HP base +1.000","detalle":"HP base a nivel 45: de 4.702 a 5.702.","importante":true},
-{"tipo":"buff","area":"clase","clase":"Ranger","titulo":"HP base +1.000","detalle":"HP base a nivel 45: de 4.702 a 5.702. Igual para Sorcerer, Spiritmaster, Chanter y Cleric.","importante":true},
-{"tipo":"buff","area":"objeto","clase":null,"titulo":"Más Amplify máximo en equipo crafteado","detalle":"True/Star Dragon de 1 a 3; White/Dark Dragon de 3 a 5 (también Splendent).","importante":true},
-{"tipo":"nuevo","area":"objeto","clase":null,"titulo":"Nuevas vías de transferencia","detalle":"Expedition Tier 3 a Crafted Tier 2 y Expedition Tier 2 a Crafted Tier 1.","importante":false},
-{"tipo":"nuevo","area":"contenido","clase":null,"titulo":"Expedition Hard: Urugugu Canyon y Vakron Sky Island","detalle":"IL 2.700, Frenzy a los 4 min, 3 revives; da Philosopher's Stone: Revelation y Ariel Fragments.","importante":true},
-{"tipo":"nuevo","area":"contenido","clase":null,"titulo":"Odylium Repository (diaria)","detalle":"Nueva mazmorra diaria que da Soul Crystal (Bound); comparte entradas con Daeva Bio-Research Base.","importante":false},
-{"tipo":"nerf","area":"contenido","clase":null,"titulo":"Jefes de Expedition/Transcendence más débiles","detalle":"Ataque -15% en Normal y Stage 1; -10% ataque y daño en Hard; HP de jefe -6,5% en Transcendence 1-2.","importante":true},
-{"tipo":"cambio","area":"sistema","clase":null,"titulo":"Límite de recolección","detalle":"1.000 recolecciones por servidor y día; nivel mínimo sube de 10 a 45.","importante":false},
-{"tipo":"cambio","area":"sistema","clase":null,"titulo":"Abyss: Dimensional Core más duro","detalle":"Más HP y debuff Dissipation of Power si el combate de artefacto dura 10 min o más.","importante":false},
-{"tipo":"arreglo","area":"contenido","clase":null,"titulo":"Revives en Expedition Hard","detalle":"Corrige que el contador de resurrecciones no se reiniciara al reintentar.","importante":false},
-{"tipo":"nuevo","area":"evento","clase":null,"titulo":"Atreia's Call (asistencia 28 días)","detalle":"Del 28 oct hasta antes del 2 dic; Soul Crystal x2.000 los días 6, 13, 20 y 27.","importante":false}
-]},
-{"region":"EU","fecha":"2026-10-21","titulo":"Expedition Hard Krao Cave y Draupnir, Ariel Daevanion","url":"https://aion2hub.com/updates/aion-2-global-update-2026-10-21","resumen":"Primeros Expedition Hard y nuevo tablero Daevanion de Ariel. Solo arreglos de clase (Sorcerer y Chanter).","cambios":[
-{"tipo":"nuevo","area":"contenido","clase":null,"titulo":"Expedition Hard: Krao Cave y Draupnir","detalle":"IL 2.600, Frenzy a los 4 min, 3 revives; dan Ariel Fragments y opción a Philosopher's Stone: Revelation.","importante":true},
-{"tipo":"nuevo","area":"sistema","clase":null,"titulo":"Tablero Daevanion de Ariel","detalle":"100 Ariel Fragments dan 1 Daevanion Crystal: Ariel (máx. 30 por personaje); 1 fragmento da 5 Enhance Stones.","importante":true},
-{"tipo":"arreglo","area":"habilidad","clase":"Sorcerer","titulo":"Cold Storm y Fire Wall","detalle":"Corrige el daño extra con Frostbite acumulado y el daño de Fire Wall sin Embers.","importante":false},
-{"tipo":"arreglo","area":"habilidad","clase":"Chanter","titulo":"Spinning Strike","detalle":"Corrige los efectos visuales de la skill.","importante":false},
-{"tipo":"cambio","area":"contenido","clase":null,"titulo":"Abyss: jefes con más HP","detalle":"Más HP en el Dimensional Core y los jefes del Abyss; se amplía el máximo de jugadores.","importante":false},
-{"tipo":"nuevo","area":"evento","clase":null,"titulo":"Rise to the Challenge","detalle":"Hasta el 15-16 dic; Resurrection Spiritstone (Season 1) a 25.000 y 50.000 Kina, 30 por paso y semana.","importante":false}
-]},
-{"region":"EU","fecha":"2026-10-14","titulo":"Halloween Trick or Treat y arreglos de Sorcerer","url":"https://aion2hub.com/updates/aion-2-global-update-2026-10-14","resumen":"Evento de Halloween, más cupos de Odyle Energy y arreglos de Sorcerer y Spiritmaster. Sin balance numérico.","cambios":[
-{"tipo":"nuevo","area":"evento","clase":null,"titulo":"Trick or Treat (Halloween)","detalle":"Del 14 oct al 4 nov; monedas Pumpkin y Candy Keys que dan Battle Enhance Scroll, Abyss Points y Odyle Energy.","importante":false},
-{"tipo":"arreglo","area":"habilidad","clase":"Sorcerer","titulo":"Fire Wall, Cold Storm y Bittercold Wind","detalle":"Corrige el daño extra con desniveles y que Embers/Frostbite los quitara el nivel superior de otro jugador.","importante":false},
-{"tipo":"arreglo","area":"habilidad","clase":"Spiritmaster","titulo":"Summon: Ancient Spirit","detalle":"Funciona con nivel 15 o menos.","importante":false},
-{"tipo":"cambio","area":"sistema","clase":null,"titulo":"Odyle Energy (Bound)","detalle":"El tope semanal por personaje sube de 4 a 20 y se quita el de 16 por servidor.","importante":false},
-{"tipo":"cambio","area":"sistema","clase":null,"titulo":"Tope de tiempo de entrada al Abyss","detalle":"El tiempo acumulado se limita a 7 horas.","importante":false}
-]},
-{"region":"KR","fecha":"2026-11-04","titulo":"Abyss Outland, límite de recolección y evento de otoño","url":"https://aion2hub.com/updates/aion-2-update-2026-11-04","resumen":"Ajustes del modo battle royale Abyss Outland y evento de otoño. Sin cambios de clase en la nota.","cambios":[
-{"tipo":"cambio","area":"contenido","clase":null,"titulo":"Abyss Outland: horarios y mapa","detalle":"Las entradas se retrasan 10 min (11:10-13:40 y 20:10-23:40); el veneno de la planta alta llega 30 s más tarde.","importante":false},
-{"tipo":"nerf","area":"objeto","clase":null,"titulo":"Pociones en Abyss Outland","detalle":"La Invincibility Potion dura menos (aunque permite moverse y usar skills) y atacar con Stealth Potion rompe el sigilo.","importante":true},
-{"tipo":"arreglo","area":"contenido","clase":null,"titulo":"Fire Bomb","detalle":"Corrige el daño mal aplicado.","importante":false},
-{"tipo":"nuevo","area":"sistema","clase":null,"titulo":"Power Shard en cadena","detalle":"Nuevo ajuste de uso automático que gasta Power Shards del mismo grado, primero los no comerciables.","importante":false},
-{"tipo":"arreglo","area":"contenido","clase":null,"titulo":"Sanctuary Snowfield of Sorrow","detalle":"Corrige que Deltras, con Frozen Bind, pudiera moverse y lanzar skills usando Defiance.","importante":false},
-{"tipo":"nuevo","area":"evento","clase":null,"titulo":"Pase Crimson Autumn Leaves y Red Maple Leaf","detalle":"Hasta el 11 nov; las hojas se cambian por Artisan's Ultimate Refining Stone x3, Amplify Stone (Heroic) x10 y más.","importante":false}
-]},
-{"region":"KR","fecha":"2026-10-28","titulo":"Abyss Outland (nuevo modo) y límite de recolección","url":"https://aion2hub.com/updates/aion-2-update-2026-10-28","resumen":"Nuevo modo PvP battle royale para unos 100 jugadores y tope de recolección anti-macros. Sin cambios de clase.","cambios":[
-{"tipo":"nuevo","area":"contenido","clase":null,"titulo":"Abyss Outland (battle royale)","detalle":"Solitario para unos 100 jugadores, nivel 45+ e IL 3.000+; da Wanderer's Coins para la tienda del Abyss.","importante":true},
-{"tipo":"cambio","area":"sistema","clase":null,"titulo":"Límite diario de recolección","detalle":"Tope por servidor que cuenta éxitos, fallos y cancelaciones; se reinicia a las 5:00.","importante":false},
-{"tipo":"cambio","area":"contenido","clase":null,"titulo":"Argo, el Rey Espíritu","detalle":"Pasa de cada 12 h a aparecer a diario a las 9:00 y 21:00.","importante":false},
-{"tipo":"arreglo","area":"contenido","clase":null,"titulo":"Ludra y movimiento","detalle":"Corrige el teletransporte a la entrada de personajes fuera de su posición en el jefe medio de Ludra; sprint y monturas ya no se cancelan por DoT fuera de combate.","importante":false}
-]},
-{"region":"KR","fecha":"2026-10-21","titulo":"Reducción de curación por clase, Arcanas y Transfer Flame","url":"https://aion2hub.com/updates/aion-2-update-2026-10-21","resumen":"Sube la reducción de curación de casi todas las clases, bajan las Arcanas máximas y se retrasa el final de la Temporada 4.","cambios":[
-{"tipo":"buff","area":"habilidad","clase":"Gladiator","titulo":"Blade Toss: más reducción de curación","detalle":"Base de 70% a 75%; bonus de Spec #1 de +20% a +25%.","importante":true},
-{"tipo":"buff","area":"habilidad","clase":"Assassin","titulo":"Apply Poison: más reducción de curación","detalle":"Nivel 1 de 12% a 25%.","importante":true},
-{"tipo":"buff","area":"habilidad","clase":"Ranger","titulo":"Drill Dart: más reducción de curación","detalle":"Base de 60% a 75%.","importante":true},
-{"tipo":"buff","area":"habilidad","clase":"Cleric","titulo":"Voice of Doom y Heal Block","detalle":"Voice of Doom de 60% a 100%; Heal Block nivel 1 de 32% a 52%.","importante":false},
-{"tipo":"buff","area":"habilidad","clase":"Chanter","titulo":"Marchutan's Wrath Spec #3","detalle":"Reducción de curación de 70% a 100%.","importante":false},
-{"tipo":"buff","area":"habilidad","clase":"Templar","titulo":"Debilitating Smash Spec #3","detalle":"Reducción de curación de 60% a 75%.","importante":false},
-{"tipo":"buff","area":"habilidad","clase":"Sorcerer","titulo":"Firestorm Spec #3","detalle":"Reducción de curación de 60% a 75%; también arregla Cold Storm y Fire Wall.","importante":false},
-{"tipo":"buff","area":"habilidad","clase":"Spiritmaster","titulo":"Jointstrike: Corrode","detalle":"Reducción base del 75% y +25% con Spec #3.","importante":false},
-{"tipo":"buff","area":"habilidad","clase":null,"titulo":"Assault: skills un 50% más rápidas","detalle":"Todas las clases.","importante":false},
-{"tipo":"nerf","area":"sistema","clase":null,"titulo":"Arcanas: máximo 500","detalle":"Baja de 1.100 a 500; el exceso hay que extraerlo y ahora da Superior Training Arcana.","importante":true},
-{"tipo":"cambio","area":"objeto","clase":null,"titulo":"Transfer Flame sustituye a Transfer Stone Fragment","detalle":"El fragmento (Unique y Heroic, Soul-bound) se reemplaza por Transfer Flame.","importante":false},
-{"tipo":"cambio","area":"evento","clase":null,"titulo":"La Temporada 4 se alarga","detalle":"Termina el 11 nov en vez del 4 nov, y con ella los pases y apoyos de crecimiento.","importante":true}
-]},
-{"region":"KR","fecha":"2026-10-14","titulo":"Rework de combate cuerpo a cuerpo en RvR (PvP -30%)","url":"https://aion2hub.com/updates/aion-2-update-2026-10-14","resumen":"Bajada general del daño PvP, defensa de Assault hasta +80% y atributos elementales para casters. Hubo mantenimiento de emergencia el mismo día.","cambios":[
-{"tipo":"nerf","area":"clase","clase":null,"titulo":"Daño PvP -30% a todas las clases","detalle":"Reducción aproximada del 30% en el daño PvP.","importante":true},
-{"tipo":"buff","area":"habilidad","clase":null,"titulo":"Skills Assault: defensa hasta +80%","detalle":"Antes hasta +20%; dura 5 s, añade tolerancia a todos los atributos y quita la reducción de recast.","importante":true},
-{"tipo":"cambio","area":"habilidad","clase":"Gladiator","titulo":"Focused Block reduce recast al bloquear","detalle":"Una defensa exitosa reduce el recast 0,3 s; la nota de emergencia del mismo día lo deja en 0,1 s.","importante":true},
-{"tipo":"cambio","area":"habilidad","clase":"Assassin","titulo":"Evasion Stance reduce recast al defender","detalle":"Una defensa exitosa reduce el recast 0,3 s; la nota de emergencia del mismo día lo deja en 0,1 s.","importante":true},
-{"tipo":"arreglo","area":"habilidad","clase":"Ranger","titulo":"Vaizel's Authority","detalle":"Corrige la aplicación del efecto.","importante":false},
-{"tipo":"cambio","area":"habilidad","clase":"Sorcerer","titulo":"Ataques con atributo elemental","detalle":"Fuego: Lumiel's Space, Perdition; agua: Soul Freeze, Cold Snap. Embers y Frostbite ya no los quita otro jugador.","importante":false},
-{"tipo":"cambio","area":"habilidad","clase":"Spiritmaster","titulo":"Ataques con atributo elemental","detalle":"Fuego: Soul's Cry, Curse of Despair; viento: Siphon, Seize Magic; tierra: Spirit's Descent, entre otros.","importante":false},
-{"tipo":"cambio","area":"habilidad","clase":"Cleric","titulo":"Ataques con atributo elemental","detalle":"Viento: Lightning Strike Scattershot; tierra: Noble Aura, Empyrean Lord's Grace.","importante":false},
-{"tipo":"cambio","area":"objeto","clase":null,"titulo":"Transfer Stones pasan a Transfer Flames","detalle":"Las piedras viejas pasan a Faded Transfer Stones (inservibles) y se convierten por Material Conversion.","importante":true},
-{"tipo":"buff","area":"evento","clase":null,"titulo":"Halloween: Enhance Stones x1,5","detalle":"Los Odyle Energy Cubes de las Expedition y Transcendence listadas dan x1,5 Enhance Stones.","importante":false},
-{"tipo":"arreglo","area":"sistema","clase":null,"titulo":"Defensa por encima del tope","detalle":"El stat de Defensa vuelve a subir pasado cierto tope.","importante":false}
-]}
-]}
+{
+ "fuente": "Resumen de aion2hub.com (web de fans que recopila las notas oficiales), revisado el 2026-11-13 con la nota oficial de NC.",
+ "parches": [
+  {
+   "region": "KR",
+   "fecha": "2026-11-11",
+   "titulo": "Capítulo 1: nivel 55, rework de clases y entrada por CP",
+   "url": "https://aion2.plaync.com/ko-kr/board/update/view?articleId=6af370b8577e8c01355e047b",
+   "resumen": "Nota oficial. El parche más grande hasta ahora: nivel máximo 55, zonas nuevas, las mazmorras piden CP en vez de item level y rework profundo de casi todas las clases.",
+   "cambios": [
+    {
+     "tipo": "nuevo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Nivel máximo 55 y zonas nuevas",
+     "detalle": "Abren las partes 2 de Eltnen y Morheim; cubos ocultos grandes (10 llaves, 10 veces la recompensa).",
+     "importante": true
+    },
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Las mazmorras piden CP, no item level",
+     "detalle": "Expedición, Trascendencia y Santuario pasan a exigir Combat Power (p. ej. Urugugu fanático 800K normal y 1M difícil).",
+     "importante": true
+    },
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "El CP valora más ciertas stats",
+     "detalle": "Suben en el cálculo del CP las de amplificación, Strike (강타), reducción de recarga y velocidad de combate.",
+     "importante": true
+    },
+    {
+     "tipo": "nerf",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Stats de dioses a la mitad",
+     "detalle": "Cada punto de stat de dios pasa de 0,2% a 0,1%. En PvP la amplificación de daño se atenúa si la diferencia con la resistencia es grande.",
+     "importante": true
+    },
+    {
+     "tipo": "nuevo",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Redistribuir niveles de arcana",
+     "detalle": "Las habilidades de una arcana se quedan, pero sus niveles se reparten al azar de nuevo por 100.000 kinah cada vez.",
+     "importante": true
+    },
+    {
+     "tipo": "cambio",
+     "area": "objeto",
+     "clase": null,
+     "titulo": "Exceed hasta 7 y cambia lo que da",
+     "detalle": "El equipo Heroic llega a 7 de exceed. En armas y accesorios da amplificación de daño en vez de ataque; en armaduras, resistencia al daño en vez de defensa.",
+     "importante": true
+    },
+    {
+     "tipo": "buff",
+     "area": "habilidad",
+     "clase": "Assassin",
+     "titulo": "Rework de marcas (문양)",
+     "detalle": "Las marcas pasan a ser un buff tuyo de 15 s. Insignia Explosion: 5 marcas = +500% de daño PvE (antes 160%), recarga de 10 a 5 s, y con 5 marcas activa «instinto asesino» (+5% Perfect).",
+     "importante": true
+    },
+    {
+     "tipo": "buff",
+     "area": "habilidad",
+     "clase": "Assassin",
+     "titulo": "Heart Gore más fuerte",
+     "detalle": "+70% de daño con instinto asesino; especialización 5 pasa a +2 lanzamientos seguidos.",
+     "importante": true
+    },
+    {
+     "tipo": "buff",
+     "area": "habilidad",
+     "clase": "Assassin",
+     "titulo": "Triniel's Dagger +30% PvE",
+     "detalle": "Especialización 3: recarga -15 s.",
+     "importante": false
+    },
+    {
+     "tipo": "cambio",
+     "area": "habilidad",
+     "clase": "Assassin",
+     "titulo": "Ambush, Savage Fang y Evasion Stance",
+     "detalle": "Ambush se puede usar en movimiento y reinicia Heart Gore; Savage Fang da 3 marcas al lanzarla; Evasion Stance: recarga de 20 a 10 s.",
+     "importante": false
+    },
+    {
+     "tipo": "nerf",
+     "area": "habilidad",
+     "clase": "Assassin",
+     "titulo": "Illusive Clone pierde el reinicio de Heart Gore",
+     "detalle": "Ya no quita la recarga de Heart Gore; su especialización 5 pasa a -30 s de recarga.",
+     "importante": true
+    },
+    {
+     "tipo": "buff",
+     "area": "habilidad",
+     "clase": "Gladiator",
+     "titulo": "Nuevo estado «Frenesí» (광분)",
+     "detalle": "Muchas skills dan Frenesí (+20% amplificación PvE, hasta 2 cargas); golpes básicos +30% PvE; 파멸의 맹타 +50% de daño base.",
+     "importante": true
+    },
+    {
+     "tipo": "nerf",
+     "area": "habilidad",
+     "clase": "Gladiator",
+     "titulo": "내려찍기 y 올려치기 -50%",
+     "detalle": "Pierden la mitad del daño base pero sin recarga; se activan con Frenesí. 노련한 반격 baja mucho su amplificación.",
+     "importante": false
+    },
+    {
+     "tipo": "buff",
+     "area": "habilidad",
+     "clase": "Ranger",
+     "titulo": "Nuevo estado «Sensibilidad» (감응)",
+     "detalle": "폭발 화살 +80% PvE y mucho más daño con Sensibilidad; 파열 화살 +10% y +150% extra en estado preciso.",
+     "importante": true
+    },
+    {
+     "tipo": "nerf",
+     "area": "habilidad",
+     "clase": "Ranger",
+     "titulo": "속사 -25% y 조준 화살 -10% PvE",
+     "detalle": "Se compensa con el daño de los estados nuevos.",
+     "importante": false
+    },
+    {
+     "tipo": "nuevo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Mazmorras nuevas y 47 mascotas",
+     "detalle": "Expedición Urugugu fanático, Trascendencia Erakus (5 jefes/semana), tablero Daevanion Lumiel y 47 mascotas nuevas.",
+     "importante": false
+    }
+   ]
+  },
+  {
+   "region": "EU",
+   "fecha": "2026-11-11",
+   "titulo": "Ludra más fácil y Expedition Hard nuevas",
+   "url": "https://aion2.plaync.com/en-us/board/update/view?articleId=6af42a1affaccc00c265785f",
+   "resumen": "Nota oficial. Ludra da más tiempo y mejores recompensas, llegan Fire Temple y Ferocious Horn Den en Hard (con una obra heroica nueva para el Panteón) y las pociones duran el doble. Sin cambios de clase.",
+   "cambios": [
+    {
+     "tipo": "buff",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Ludra: 2 horas y mejor botín",
+     "detalle": "Normal y Hard pasan de 1 a 2 horas, el reactor central tiene menos HP y el grupo de recompensas 5 sale siempre (30% → 100%) con Wrathful Mind, Will y Ego.",
+     "importante": true
+    },
+    {
+     "tipo": "nuevo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Expedition Hard: Fire Temple y Ferocious Horn Den",
+     "detalle": "IL 2.800, Frenzy a los 4 min, 3 revives. Más kina que en Normal, Philosopher's Stone: Revelation elegible como recompensa garantizada, Ariel Fragment al 100%, todos los materiales de fabricación Unique y Wrathful Mind, Will y Ego.",
+     "importante": true
+    },
+    {
+     "tipo": "nuevo",
+     "area": "objeto",
+     "clase": null,
+     "titulo": "Obra heroica de Expedition (Panteón)",
+     "detalle": "Las Expedition Hard (Fire Temple y Ferocious Horn Den) pueden dar una «Expedition Hero Artwork», una obra nueva para el Panteón.",
+     "importante": true
+    },
+    {
+     "tipo": "nuevo",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Ariel Fragment → Daevanion y piedras",
+     "detalle": "Con Substance Morph: 100 Ariel Fragment = 1 Daevanion Crystal: Ariel (hasta 30 por personaje) y 1 Ariel Fragment = 5 Enhance Stones sin límite.",
+     "importante": false
+    },
+    {
+     "tipo": "nuevo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Logros de Expedition Hard con skins",
+     "detalle": "Nuevos logros de Expedition (Hard) que dan skins Unique.",
+     "importante": false
+    },
+    {
+     "tipo": "buff",
+     "area": "objeto",
+     "clase": null,
+     "titulo": "Pociones, comida y pergaminos de 10 min",
+     "detalle": "Los consumibles de 5 minutos duran 10 y ya no se pierden al morir.",
+     "importante": true
+    },
+    {
+     "tipo": "buff",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Sync Stones semanales",
+     "detalle": "Hasta 3 Sync Stone (Unique) por semana en las misiones de temporada de Transcendence.",
+     "importante": true
+    },
+    {
+     "tipo": "buff",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Más Abyss Points sin PvP",
+     "detalle": "Misiones semanales del Shugo Festival y Duties de 1.000 a 2.500 puntos; más puntos en Chaotic Outer Reshanta.",
+     "importante": false
+    },
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Kina ligada en Abyss inferior y Tier 1",
+     "detalle": "La kina de monstruos del Lower Abyss y de Krao Cave / Draupnir Conquest pasa a ser Bound.",
+     "importante": false
+    },
+    {
+     "tipo": "arreglo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Arreglos varios",
+     "detalle": "Precarga de gráficos para evitar tirones; arreglos en Zikel's Sanctum, mazmorras submarinas y Ludra's Trial.",
+     "importante": false
+    }
+   ]
+  },
+  {
+   "region": "EU",
+   "fecha": "2026-11-04",
+   "titulo": "Abyssal Forge: Ludra y Chaotic Outer Reshanta",
+   "url": "https://aion2hub.com/updates/aion-2-global-update-2026-11-04",
+   "resumen": "Llega la raid Ludra, el PvP igualado en Outer Reshanta y menos asedios de artefactos. Sin cambios de clase.",
+   "cambios": [
+    {
+     "tipo": "nuevo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Abyssal Forge: Ludra",
+     "detalle": "Normal a IL 2.800 y Hard a IL 3.000, límite de 1 hora; suelta Ludra's Weapon, Guard, Ludra's Bracelet, Abyssal Bracelet (Bound), alas y artwork.",
+     "importante": true
+    },
+    {
+     "tipo": "nuevo",
+     "area": "objeto",
+     "clase": null,
+     "titulo": "Pulseras con Amplify",
+     "detalle": "Abyssal Bracelet (Bound) amplifica hasta nivel 3 y Ludra's Bracelet (Bound) hasta nivel 5.",
+     "importante": true
+    },
+    {
+     "tipo": "nuevo",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Chaotic Outer Reshanta (PvP igualado)",
+     "detalle": "Zona PvP desde nivel 45 con stats, skills y estigmas estandarizados; 3 h/semana base; los Abyss Points de ese PvP se reducen un 50%.",
+     "importante": true
+    },
+    {
+     "tipo": "cambio",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Artifact Siege solo 2 veces por semana",
+     "detalle": "Pasa de 3 a 2 veces (jueves y sábados, 21:00 asedio y 21:30 jefes de artefacto).",
+     "importante": true
+    },
+    {
+     "tipo": "buff",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Recompensas de Expedition subidas",
+     "detalle": "Draupnir, Vakron y Ferocious Horn Den dan más Enhance Stones, Kina, Silentium y Soul Codex, y añaden Amplify Stone Fragment (Unique) (Bound).",
+     "importante": true
+    },
+    {
+     "tipo": "nuevo",
+     "area": "objeto",
+     "clase": null,
+     "titulo": "Recetas True/Star Dragon al 100%",
+     "detalle": "Nuevas recetas de crafteo con 100% de éxito, sin COMBO y con resultado Bound.",
+     "importante": false
+    },
+    {
+     "tipo": "buff",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Abyss Corridor +50% Abyss Points",
+     "detalle": "Los puntos por partida suben un 50%.",
+     "importante": false
+    },
+    {
+     "tipo": "cambio",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Argo, el Rey Espíritu",
+     "detalle": "Aparece a diario a las 10:30 y 22:30.",
+     "importante": false
+    },
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Almas de mascota desde mazmorras",
+     "detalle": "Algunas almas de mascota que solo salían de cofres ahora caen en Expedition y Transcendence.",
+     "importante": false
+    },
+    {
+     "tipo": "nuevo",
+     "area": "evento",
+     "clase": null,
+     "titulo": "Ludra Hunt y Check-In",
+     "detalle": "Hunt del 4 al 24 nov (PST): título para las 20 primeras parties Hard por región. Check-in del 4 al 17 nov con 500.000 y 1.000.000 Kina (Bound), 30.000 Abyss Points.",
+     "importante": true
+    }
+   ]
+  },
+  {
+   "region": "EU",
+   "fecha": "2026-10-28",
+   "titulo": "Urugugu y Vakron Hard, Odylium Repository, HP base",
+   "url": "https://aion2hub.com/updates/aion-2-global-update-2026-10-28",
+   "resumen": "Sube la vida base de todas las clases, mejoran Assassin (Illusive Clone) y se amplía el límite de Amplify del equipo crafteado.",
+   "cambios": [
+    {
+     "tipo": "buff",
+     "area": "clase",
+     "clase": "Assassin",
+     "titulo": "Illusive Clone con menos cooldown",
+     "detalle": "Cooldown base de 90 a 60 segundos.",
+     "importante": true
+    },
+    {
+     "tipo": "buff",
+     "area": "habilidad",
+     "clase": "Assassin",
+     "titulo": "Heightened Sixth Sense: más HP",
+     "detalle": "El efecto de HP sube a 1.000 / 2.000 / 4.000 (nivel 5 / 10 / 20).",
+     "importante": true
+    },
+    {
+     "tipo": "buff",
+     "area": "clase",
+     "clase": "Gladiator",
+     "titulo": "HP base +1.500",
+     "detalle": "HP base a nivel 45: de 4.702 a 6.202. Igual para Templar.",
+     "importante": true
+    },
+    {
+     "tipo": "buff",
+     "area": "clase",
+     "clase": "Assassin",
+     "titulo": "HP base +1.000",
+     "detalle": "HP base a nivel 45: de 4.702 a 5.702.",
+     "importante": true
+    },
+    {
+     "tipo": "buff",
+     "area": "clase",
+     "clase": "Ranger",
+     "titulo": "HP base +1.000",
+     "detalle": "HP base a nivel 45: de 4.702 a 5.702. Igual para Sorcerer, Spiritmaster, Chanter y Cleric.",
+     "importante": true
+    },
+    {
+     "tipo": "buff",
+     "area": "objeto",
+     "clase": null,
+     "titulo": "Más Amplify máximo en equipo crafteado",
+     "detalle": "True/Star Dragon de 1 a 3; White/Dark Dragon de 3 a 5 (también Splendent).",
+     "importante": true
+    },
+    {
+     "tipo": "nuevo",
+     "area": "objeto",
+     "clase": null,
+     "titulo": "Nuevas vías de transferencia",
+     "detalle": "Expedition Tier 3 a Crafted Tier 2 y Expedition Tier 2 a Crafted Tier 1.",
+     "importante": false
+    },
+    {
+     "tipo": "nuevo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Expedition Hard: Urugugu Canyon y Vakron Sky Island",
+     "detalle": "IL 2.700, Frenzy a los 4 min, 3 revives; da Philosopher's Stone: Revelation y Ariel Fragments.",
+     "importante": true
+    },
+    {
+     "tipo": "nuevo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Odylium Repository (diaria)",
+     "detalle": "Nueva mazmorra diaria que da Soul Crystal (Bound); comparte entradas con Daeva Bio-Research Base.",
+     "importante": false
+    },
+    {
+     "tipo": "nerf",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Jefes de Expedition/Transcendence más débiles",
+     "detalle": "Ataque -15% en Normal y Stage 1; -10% ataque y daño en Hard; HP de jefe -6,5% en Transcendence 1-2.",
+     "importante": true
+    },
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Límite de recolección",
+     "detalle": "1.000 recolecciones por servidor y día; nivel mínimo sube de 10 a 45.",
+     "importante": false
+    },
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Abyss: Dimensional Core más duro",
+     "detalle": "Más HP y debuff Dissipation of Power si el combate de artefacto dura 10 min o más.",
+     "importante": false
+    },
+    {
+     "tipo": "arreglo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Revives en Expedition Hard",
+     "detalle": "Corrige que el contador de resurrecciones no se reiniciara al reintentar.",
+     "importante": false
+    },
+    {
+     "tipo": "nuevo",
+     "area": "evento",
+     "clase": null,
+     "titulo": "Atreia's Call (asistencia 28 días)",
+     "detalle": "Del 28 oct hasta antes del 2 dic; Soul Crystal x2.000 los días 6, 13, 20 y 27.",
+     "importante": false
+    }
+   ]
+  },
+  {
+   "region": "EU",
+   "fecha": "2026-10-21",
+   "titulo": "Expedition Hard Krao Cave y Draupnir, Ariel Daevanion",
+   "url": "https://aion2hub.com/updates/aion-2-global-update-2026-10-21",
+   "resumen": "Primeros Expedition Hard y nuevo tablero Daevanion de Ariel. Solo arreglos de clase (Sorcerer y Chanter).",
+   "cambios": [
+    {
+     "tipo": "nuevo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Expedition Hard: Krao Cave y Draupnir",
+     "detalle": "IL 2.600, Frenzy a los 4 min, 3 revives; dan Ariel Fragments y opción a Philosopher's Stone: Revelation.",
+     "importante": true
+    },
+    {
+     "tipo": "nuevo",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Tablero Daevanion de Ariel",
+     "detalle": "100 Ariel Fragments dan 1 Daevanion Crystal: Ariel (máx. 30 por personaje); 1 fragmento da 5 Enhance Stones.",
+     "importante": true
+    },
+    {
+     "tipo": "arreglo",
+     "area": "habilidad",
+     "clase": "Sorcerer",
+     "titulo": "Cold Storm y Fire Wall",
+     "detalle": "Corrige el daño extra con Frostbite acumulado y el daño de Fire Wall sin Embers.",
+     "importante": false
+    },
+    {
+     "tipo": "arreglo",
+     "area": "habilidad",
+     "clase": "Chanter",
+     "titulo": "Spinning Strike",
+     "detalle": "Corrige los efectos visuales de la skill.",
+     "importante": false
+    },
+    {
+     "tipo": "cambio",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Abyss: jefes con más HP",
+     "detalle": "Más HP en el Dimensional Core y los jefes del Abyss; se amplía el máximo de jugadores.",
+     "importante": false
+    },
+    {
+     "tipo": "nuevo",
+     "area": "evento",
+     "clase": null,
+     "titulo": "Rise to the Challenge",
+     "detalle": "Hasta el 15-16 dic; Resurrection Spiritstone (Season 1) a 25.000 y 50.000 Kina, 30 por paso y semana.",
+     "importante": false
+    }
+   ]
+  },
+  {
+   "region": "EU",
+   "fecha": "2026-10-14",
+   "titulo": "Halloween Trick or Treat y arreglos de Sorcerer",
+   "url": "https://aion2hub.com/updates/aion-2-global-update-2026-10-14",
+   "resumen": "Evento de Halloween, más cupos de Odyle Energy y arreglos de Sorcerer y Spiritmaster. Sin balance numérico.",
+   "cambios": [
+    {
+     "tipo": "nuevo",
+     "area": "evento",
+     "clase": null,
+     "titulo": "Trick or Treat (Halloween)",
+     "detalle": "Del 14 oct al 4 nov; monedas Pumpkin y Candy Keys que dan Battle Enhance Scroll, Abyss Points y Odyle Energy.",
+     "importante": false
+    },
+    {
+     "tipo": "arreglo",
+     "area": "habilidad",
+     "clase": "Sorcerer",
+     "titulo": "Fire Wall, Cold Storm y Bittercold Wind",
+     "detalle": "Corrige el daño extra con desniveles y que Embers/Frostbite los quitara el nivel superior de otro jugador.",
+     "importante": false
+    },
+    {
+     "tipo": "arreglo",
+     "area": "habilidad",
+     "clase": "Spiritmaster",
+     "titulo": "Summon: Ancient Spirit",
+     "detalle": "Funciona con nivel 15 o menos.",
+     "importante": false
+    },
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Odyle Energy (Bound)",
+     "detalle": "El tope semanal por personaje sube de 4 a 20 y se quita el de 16 por servidor.",
+     "importante": false
+    },
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Tope de tiempo de entrada al Abyss",
+     "detalle": "El tiempo acumulado se limita a 7 horas.",
+     "importante": false
+    }
+   ]
+  },
+  {
+   "region": "KR",
+   "fecha": "2026-11-04",
+   "titulo": "Abyss Outland, límite de recolección y evento de otoño",
+   "url": "https://aion2hub.com/updates/aion-2-update-2026-11-04",
+   "resumen": "Ajustes del modo battle royale Abyss Outland y evento de otoño. Sin cambios de clase en la nota.",
+   "cambios": [
+    {
+     "tipo": "cambio",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Abyss Outland: horarios y mapa",
+     "detalle": "Las entradas se retrasan 10 min (11:10-13:40 y 20:10-23:40); el veneno de la planta alta llega 30 s más tarde.",
+     "importante": false
+    },
+    {
+     "tipo": "nerf",
+     "area": "objeto",
+     "clase": null,
+     "titulo": "Pociones en Abyss Outland",
+     "detalle": "La Invincibility Potion dura menos (aunque permite moverse y usar skills) y atacar con Stealth Potion rompe el sigilo.",
+     "importante": true
+    },
+    {
+     "tipo": "arreglo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Fire Bomb",
+     "detalle": "Corrige el daño mal aplicado.",
+     "importante": false
+    },
+    {
+     "tipo": "nuevo",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Power Shard en cadena",
+     "detalle": "Nuevo ajuste de uso automático que gasta Power Shards del mismo grado, primero los no comerciables.",
+     "importante": false
+    },
+    {
+     "tipo": "arreglo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Sanctuary Snowfield of Sorrow",
+     "detalle": "Corrige que Deltras, con Frozen Bind, pudiera moverse y lanzar skills usando Defiance.",
+     "importante": false
+    },
+    {
+     "tipo": "nuevo",
+     "area": "evento",
+     "clase": null,
+     "titulo": "Pase Crimson Autumn Leaves y Red Maple Leaf",
+     "detalle": "Hasta el 11 nov; las hojas se cambian por Artisan's Ultimate Refining Stone x3, Amplify Stone (Heroic) x10 y más.",
+     "importante": false
+    }
+   ]
+  },
+  {
+   "region": "KR",
+   "fecha": "2026-10-28",
+   "titulo": "Abyss Outland (nuevo modo) y límite de recolección",
+   "url": "https://aion2hub.com/updates/aion-2-update-2026-10-28",
+   "resumen": "Nuevo modo PvP battle royale para unos 100 jugadores y tope de recolección anti-macros. Sin cambios de clase.",
+   "cambios": [
+    {
+     "tipo": "nuevo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Abyss Outland (battle royale)",
+     "detalle": "Solitario para unos 100 jugadores, nivel 45+ e IL 3.000+; da Wanderer's Coins para la tienda del Abyss.",
+     "importante": true
+    },
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Límite diario de recolección",
+     "detalle": "Tope por servidor que cuenta éxitos, fallos y cancelaciones; se reinicia a las 5:00.",
+     "importante": false
+    },
+    {
+     "tipo": "cambio",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Argo, el Rey Espíritu",
+     "detalle": "Pasa de cada 12 h a aparecer a diario a las 9:00 y 21:00.",
+     "importante": false
+    },
+    {
+     "tipo": "arreglo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Ludra y movimiento",
+     "detalle": "Corrige el teletransporte a la entrada de personajes fuera de su posición en el jefe medio de Ludra; sprint y monturas ya no se cancelan por DoT fuera de combate.",
+     "importante": false
+    }
+   ]
+  },
+  {
+   "region": "KR",
+   "fecha": "2026-10-21",
+   "titulo": "Reducción de curación por clase, Arcanas y Transfer Flame",
+   "url": "https://aion2hub.com/updates/aion-2-update-2026-10-21",
+   "resumen": "Sube la reducción de curación de casi todas las clases, bajan las Arcanas máximas y se retrasa el final de la Temporada 4.",
+   "cambios": [
+    {
+     "tipo": "buff",
+     "area": "habilidad",
+     "clase": "Gladiator",
+     "titulo": "Blade Toss: más reducción de curación",
+     "detalle": "Base de 70% a 75%; bonus de Spec #1 de +20% a +25%.",
+     "importante": true
+    },
+    {
+     "tipo": "buff",
+     "area": "habilidad",
+     "clase": "Assassin",
+     "titulo": "Apply Poison: más reducción de curación",
+     "detalle": "Nivel 1 de 12% a 25%.",
+     "importante": true
+    },
+    {
+     "tipo": "buff",
+     "area": "habilidad",
+     "clase": "Ranger",
+     "titulo": "Drill Dart: más reducción de curación",
+     "detalle": "Base de 60% a 75%.",
+     "importante": true
+    },
+    {
+     "tipo": "buff",
+     "area": "habilidad",
+     "clase": "Cleric",
+     "titulo": "Voice of Doom y Heal Block",
+     "detalle": "Voice of Doom de 60% a 100%; Heal Block nivel 1 de 32% a 52%.",
+     "importante": false
+    },
+    {
+     "tipo": "buff",
+     "area": "habilidad",
+     "clase": "Chanter",
+     "titulo": "Marchutan's Wrath Spec #3",
+     "detalle": "Reducción de curación de 70% a 100%.",
+     "importante": false
+    },
+    {
+     "tipo": "buff",
+     "area": "habilidad",
+     "clase": "Templar",
+     "titulo": "Debilitating Smash Spec #3",
+     "detalle": "Reducción de curación de 60% a 75%.",
+     "importante": false
+    },
+    {
+     "tipo": "buff",
+     "area": "habilidad",
+     "clase": "Sorcerer",
+     "titulo": "Firestorm Spec #3",
+     "detalle": "Reducción de curación de 60% a 75%; también arregla Cold Storm y Fire Wall.",
+     "importante": false
+    },
+    {
+     "tipo": "buff",
+     "area": "habilidad",
+     "clase": "Spiritmaster",
+     "titulo": "Jointstrike: Corrode",
+     "detalle": "Reducción base del 75% y +25% con Spec #3.",
+     "importante": false
+    },
+    {
+     "tipo": "buff",
+     "area": "habilidad",
+     "clase": null,
+     "titulo": "Assault: skills un 50% más rápidas",
+     "detalle": "Todas las clases.",
+     "importante": false
+    },
+    {
+     "tipo": "nerf",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Arcanas: máximo 500",
+     "detalle": "Baja de 1.100 a 500; el exceso hay que extraerlo y ahora da Superior Training Arcana.",
+     "importante": true
+    },
+    {
+     "tipo": "cambio",
+     "area": "objeto",
+     "clase": null,
+     "titulo": "Transfer Flame sustituye a Transfer Stone Fragment",
+     "detalle": "El fragmento (Unique y Heroic, Soul-bound) se reemplaza por Transfer Flame.",
+     "importante": false
+    },
+    {
+     "tipo": "cambio",
+     "area": "evento",
+     "clase": null,
+     "titulo": "La Temporada 4 se alarga",
+     "detalle": "Termina el 11 nov en vez del 4 nov, y con ella los pases y apoyos de crecimiento.",
+     "importante": true
+    }
+   ]
+  },
+  {
+   "region": "KR",
+   "fecha": "2026-10-14",
+   "titulo": "Rework de combate cuerpo a cuerpo en RvR (PvP -30%)",
+   "url": "https://aion2hub.com/updates/aion-2-update-2026-10-14",
+   "resumen": "Bajada general del daño PvP, defensa de Assault hasta +80% y atributos elementales para casters. Hubo mantenimiento de emergencia el mismo día.",
+   "cambios": [
+    {
+     "tipo": "nerf",
+     "area": "clase",
+     "clase": null,
+     "titulo": "Daño PvP -30% a todas las clases",
+     "detalle": "Reducción aproximada del 30% en el daño PvP.",
+     "importante": true
+    },
+    {
+     "tipo": "buff",
+     "area": "habilidad",
+     "clase": null,
+     "titulo": "Skills Assault: defensa hasta +80%",
+     "detalle": "Antes hasta +20%; dura 5 s, añade tolerancia a todos los atributos y quita la reducción de recast.",
+     "importante": true
+    },
+    {
+     "tipo": "cambio",
+     "area": "habilidad",
+     "clase": "Gladiator",
+     "titulo": "Focused Block reduce recast al bloquear",
+     "detalle": "Una defensa exitosa reduce el recast 0,3 s; la nota de emergencia del mismo día lo deja en 0,1 s.",
+     "importante": true
+    },
+    {
+     "tipo": "cambio",
+     "area": "habilidad",
+     "clase": "Assassin",
+     "titulo": "Evasion Stance reduce recast al defender",
+     "detalle": "Una defensa exitosa reduce el recast 0,3 s; la nota de emergencia del mismo día lo deja en 0,1 s.",
+     "importante": true
+    },
+    {
+     "tipo": "arreglo",
+     "area": "habilidad",
+     "clase": "Ranger",
+     "titulo": "Vaizel's Authority",
+     "detalle": "Corrige la aplicación del efecto.",
+     "importante": false
+    },
+    {
+     "tipo": "cambio",
+     "area": "habilidad",
+     "clase": "Sorcerer",
+     "titulo": "Ataques con atributo elemental",
+     "detalle": "Fuego: Lumiel's Space, Perdition; agua: Soul Freeze, Cold Snap. Embers y Frostbite ya no los quita otro jugador.",
+     "importante": false
+    },
+    {
+     "tipo": "cambio",
+     "area": "habilidad",
+     "clase": "Spiritmaster",
+     "titulo": "Ataques con atributo elemental",
+     "detalle": "Fuego: Soul's Cry, Curse of Despair; viento: Siphon, Seize Magic; tierra: Spirit's Descent, entre otros.",
+     "importante": false
+    },
+    {
+     "tipo": "cambio",
+     "area": "habilidad",
+     "clase": "Cleric",
+     "titulo": "Ataques con atributo elemental",
+     "detalle": "Viento: Lightning Strike Scattershot; tierra: Noble Aura, Empyrean Lord's Grace.",
+     "importante": false
+    },
+    {
+     "tipo": "cambio",
+     "area": "objeto",
+     "clase": null,
+     "titulo": "Transfer Stones pasan a Transfer Flames",
+     "detalle": "Las piedras viejas pasan a Faded Transfer Stones (inservibles) y se convierten por Material Conversion.",
+     "importante": true
+    },
+    {
+     "tipo": "buff",
+     "area": "evento",
+     "clase": null,
+     "titulo": "Halloween: Enhance Stones x1,5",
+     "detalle": "Los Odyle Energy Cubes de las Expedition y Transcendence listadas dan x1,5 Enhance Stones.",
+     "importante": false
+    },
+    {
+     "tipo": "arreglo",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Defensa por encima del tope",
+     "detalle": "El stat de Defensa vuelve a subir pasado cierto tope.",
+     "importante": false
+    }
+   ]
+  }
+ ]
+}

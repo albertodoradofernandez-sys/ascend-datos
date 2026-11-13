@@ -1,7 +1,7 @@
 {
- "version": "202611130541",
- "fecha": "2026-11-13T05:41:13",
- "notas": "Ranking real de EU y títulos en español",
+ "version": "202611130624",
+ "fecha": "2026-11-13T06:24:05",
+ "notas": "Parche del 11/11 completo: Expedition Hard y su obra heroica",
  "archivos": [
   "comun.db.gz",
   "parches.json",
