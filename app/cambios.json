@@ -1,5 +1,44 @@
 [
  {
+  "version": "0.2.8",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "bolt",
+    "es": [
+     "Más rápida",
+     "El Panel y la Ruta reutilizan el cálculo de la ruta al cambiar de personaje y leen el top una sola vez."
+    ],
+    "en": [
+     "Faster",
+     "The Dashboard and Path reuse the path calculation and read the top only once."
+    ]
+   },
+   {
+    "icono": "payments",
+    "es": [
+     "Kinah del objetivo y del plan más exacto",
+     "Las mejoras se cuentan pieza a pieza y en orden (+11 antes que +12): el kinah ya no sale por debajo de lo real."
+    ],
+    "en": [
+     "More accurate kinah",
+     "Upgrades are counted piece by piece and in order, so kinah is no longer underestimated."
+    ]
+   },
+   {
+    "icono": "build",
+    "es": [
+     "Arreglos",
+     "Avisa si tu clase no tiene aún tantos jugadores conocidos como el objetivo; los errores al buscar o al crear la imagen ahora se ven; Títulos ya no se queda cargando."
+    ],
+    "en": [
+     "Fixes",
+     "Warns when the goal is beyond the known players; search and image errors are shown; Titles no longer hangs loading."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.2.7",
   "fecha": "2026-11-13",
   "cambios": [

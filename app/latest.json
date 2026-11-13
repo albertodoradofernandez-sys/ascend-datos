@@ -1,11 +1,11 @@
 {
- "version": "0.2.7",
- "notes": "Títulos necesarios, tu puesto y objetivo, imagen para compartir, avisos del meta y ranking de clases",
- "pub_date": "2026-11-13T01:51:05Z",
+ "version": "0.2.8",
+ "notes": "Más rápida, kinah más exacto, arreglos y retoques de diseño",
+ "pub_date": "2026-11-13T03:15:37Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXliWWlOV0hsdUJUdlhIQVBWQ0Y5WmJmbFBzSElBcVNEd2t4a0U1TkZFOURsSzVvd1lENkFOeGNMSmtwZUdNbUhZbThqZURPVUxWbFFRQ3pxa254a2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTM0NjYwCWZpbGU6QXNjZW5kXzAuMi43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNwpTOEVpeUhzRlEyL0IvYkN1V1d2aFdNdXFhRk5XU1JCNHRnSVdwdlNqK3VDNVJXc0VUd0RCa1VDQWEyNVlVYXJodkxFdEhaZ0J1TnVFRmRzRzEwUUxCUT09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.2.7/Ascend_0.2.7_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQSsyamdoQTNxcURNQU9FVVZudENrY1ZvanZFQU5vZFBHY1pwSC9oWDUyb3oxR1VMTDUrRE1UNVNZNGI0TmZ2Q0t1SVV1cDluU0Z1WGR6dEh5MHVWbkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTM5NzMzCWZpbGU6QXNjZW5kXzAuMi44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuOAp2em1xN0JqVjVKcUI5cjFhclM0MzNxeU0zUWxvWWVpZkg1RGtFL3BPSmJSbjNpcGRmeVhIUk1sT0NLZmlkWWc3dWcrakh0dngvdWZGRW5LQ0hrNUVEZz09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.2.8/Ascend_0.2.8_x64-setup.exe"
   }
  }
 }
