@@ -1,5 +1,33 @@
 [
  {
+  "version": "0.2.15",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "account_balance",
+    "es": [
+     "Panteón más claro",
+     "Cada cambio dice qué quitar y qué poner, con los puntos de cada pieza y cómo cambian las deidades de tu clase. El CP se calcula con las stats de tu personaje (cada punto es un +0,1 % de la stat)."
+    ],
+    "en": [
+     "Clearer Pantheon",
+     "Each swap says what to remove and what to place, with points and how your class deities change. CP uses your character's stats (each point is +0.1% of the stat)."
+    ]
+   },
+   {
+    "icono": "new_releases",
+    "es": [
+     "Piezas nuevas",
+     "Una pieza recién salida (como la obra heroica de Ferocious Horn Den Hard) ya no cuenta como hueco vacío."
+    ],
+    "en": [
+     "New pieces",
+     "A just-released piece (like the Feroucius raid artwork) no longer counts as an empty slot."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.2.14",
   "fecha": "2026-11-13",
   "cambios": [

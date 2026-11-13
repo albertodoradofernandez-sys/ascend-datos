@@ -1,11 +1,11 @@
 {
- "version": "0.2.14",
- "notes": "Las páginas ya no se mueven al cambiar de pestaña",
- "pub_date": "2026-11-13T05:18:01Z",
+ "version": "0.2.15",
+ "notes": "Panteón más claro con el CP de tu personaje y piezas nuevas; parche del 11/11 completo",
+ "pub_date": "2026-11-13T05:28:34Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTFEbUhoYTdXbjVUN21tR25nYUQ1aGR0Z04rTms3VUpYSExVWnhmU1BaN3RlYlVnQno0ZFl6NnlDZC9jSy92a1doNlBqQlMvWEs5b3NYbkxkRUhxa3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQ3MDc3CWZpbGU6QXNjZW5kXzAuMi4xNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjE0CkxwRDRHNzRNWkdZMFgvbmd6Z3ZVYmJBM2RkdUFzamxkOWF2czQyNElqNEpUbmJVdDNLNXowbVlNL0QwRkJjaWcvRGJtdG42N3dxdEozMzArZk5WT0JRPT0K",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.2.14/Ascend_0.2.14_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQS9oTVVxWlVsa3VVRnVWbnJaZExodzUxajZ6b21UeW42Q2cxRVBXOFZBa1NxL216d2E2eWxEVm5oMjlnUC9LSmpGZFRmQWdmUENFbU53ZkNiY3A5ZHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQ3NzA5CWZpbGU6QXNjZW5kXzAuMi4xNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjE1Ck5oR0hSNFo1KytZZnd2Y01RZ0ZmRC9od3NqUUc3TDNyMDJhQklCUUwrSkJiS08zNmxPRno1SDV1WHB4aWhYaUZpT1hPZjVKT0ZXQVNGQWdQVEdUQkFnPT0K",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.2.15/Ascend_0.2.15_x64-setup.exe"
   }
  }
 }
