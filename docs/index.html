@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ascend — AION 2 CP Tracker</title>
+<meta name="description" content="Free desktop app for AION 2: your real rank, what raises your CP the most and what the top players of your class use.">
+<meta property="og:title" content="Ascend — AION 2 CP Tracker">
+<meta property="og:description" content="Your real rank, what raises your CP the most and what the top of your class uses. Free, Windows.">
+<meta property="og:image" content="https://albertodoradofernandez-sys.github.io/ascend-datos/logo.svg">
+<link rel="icon" href="logo.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL@24,500,0..1&display=swap" rel="stylesheet">
+<style>
+  :root { --fondo:#0e1015; --panel:#15181e; --panel-2:#1c1f25; --borde:#2a2d34; --borde-2:#343741; --texto:#ebecf0; --tenue:#96989f; --apagado:#6c6f78;
+    --acento:#f5003d; --acento-2:#ff2e57; --verde:#3ccf8e; --ambar:#f5b14c; --azul:#4ea1ff; --r:12px; color-scheme: dark; }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body { margin: 0; background: var(--fondo); color: var(--texto); font: 16px/1.55 Inter, system-ui, sans-serif; -webkit-font-smoothing: antialiased; overflow-x: hidden; }
+  a { color: inherit; text-decoration: none; }
+  .mi { font-family: 'Material Symbols Rounded'; font-weight: normal; font-style: normal; font-size: 22px; line-height: 1; display: inline-block; font-feature-settings: 'liga'; }
+  .aurora { position: fixed; inset: -20%; z-index: -1; pointer-events: none;
+    background: radial-gradient(40% 35% at 20% 10%, rgba(245,0,61,.16), transparent 70%), radial-gradient(35% 30% at 85% 70%, rgba(255,46,87,.09), transparent 70%);
+    animation: aurora 26s ease-in-out infinite alternate; }
+  @keyframes aurora { to { transform: translate(4%, -3%) scale(1.08); } }
+  .wrap { max-width: 1120px; margin: 0 auto; padding: 0 22px; }
+  nav { display: flex; align-items: center; justify-content: space-between; padding: 18px 0; }
+  .marca { display: flex; align-items: center; gap: 10px; font-weight: 900; letter-spacing: .18em; }
+  .marca img { width: 34px; height: 34px; }
+  .nav-d { display: flex; gap: 8px; align-items: center; }
+  .idioma { display: flex; background: var(--panel); border: 1px solid var(--borde); border-radius: 999px; padding: 3px; }
+  .idioma button { background: none; border: 0; color: var(--tenue); font: inherit; font-size: 13px; font-weight: 600; padding: 4px 10px; border-radius: 999px; cursor: pointer; }
+  .idioma button.on { background: rgba(245,0,61,.16); color: var(--texto); }
+  .btn { display: inline-flex; align-items: center; gap: 8px; background: var(--acento); color: #fff; border: 0; border-radius: var(--r); padding: 12px 20px; font-weight: 700; cursor: pointer; transition: .18s; box-shadow: 0 10px 30px rgba(245,0,61,.25); }
+  .btn:hover { background: var(--acento-2); transform: translateY(-2px); }
+  .btn.sec { background: var(--panel); border: 1px solid var(--borde); box-shadow: none; color: var(--texto); }
+  .btn.sec:hover { border-color: var(--borde-2); }
+  .hero { display: grid; grid-template-columns: 1.05fr .95fr; gap: 48px; align-items: center; padding: 56px 0 72px; }
+  .chip { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; font-weight: 600; color: var(--acento-2); background: rgba(245,0,61,.1); border: 1px solid rgba(245,0,61,.35); padding: 4px 12px; border-radius: 999px; }
+  h1 { font-size: clamp(38px, 6vw, 62px); line-height: 1.04; letter-spacing: -.02em; margin: 18px 0 16px; font-weight: 900; }
+  h1 em { font-style: normal; background: linear-gradient(90deg, #fff, var(--acento-2)); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  .lead { color: var(--tenue); font-size: 18px; max-width: 540px; }
+  .cta { display: flex; gap: 10px; flex-wrap: wrap; margin: 26px 0 14px; }
+  .mini { color: var(--apagado); font-size: 13px; }
+  /* Maqueta de la app (datos de ejemplo) */
+  .mock { position: relative; border-radius: 18px; border: 1px solid var(--borde); background: var(--panel); padding: 18px; box-shadow: 0 40px 80px rgba(0,0,0,.45), 0 0 60px rgba(245,0,61,.1); transform: perspective(1200px) rotateY(-6deg) rotateX(3deg); }
+  .mock h4 { margin: 0 0 10px; font-size: 12px; color: var(--tenue); text-transform: uppercase; letter-spacing: .06em; display: flex; gap: 6px; align-items: center; }
+  .mock h4 .mi { font-size: 16px; color: var(--acento-2); }
+  .puesto b { font-size: 34px; color: var(--verde); font-weight: 900; } .puesto span { color: var(--tenue); font-size: 14px; }
+  .tag { font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 999px; background: rgba(245,0,61,.18); color: var(--acento-2); margin-left: 6px; }
+  .filas { display: flex; flex-direction: column; gap: 6px; margin-top: 16px; }
+  .fila { display: grid; grid-template-columns: 1fr 90px 64px; gap: 10px; align-items: center; padding: 8px 10px; border-radius: 10px; background: var(--panel-2); font-size: 13px; }
+  .fila .bar { height: 7px; border-radius: 4px; background: var(--panel); overflow: hidden; } .fila .bar i { display: block; height: 100%; background: linear-gradient(90deg, rgba(60,207,142,.5), var(--verde)); border-radius: 4px; }
+  .fila em { font-style: normal; color: var(--verde); font-weight: 700; text-align: right; }
+  .kpis { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-top: 14px; }
+  .kpis div { background: var(--panel-2); border-radius: 10px; padding: 8px 10px; } .kpis small { display: block; color: var(--apagado); font-size: 11px; } .kpis b { font-size: 17px; }
+  section { padding: 64px 0; }
+  h2 { font-size: clamp(28px, 4vw, 40px); letter-spacing: -.01em; margin: 0 0 10px; font-weight: 800; }
+  h2::before { content: ''; display: inline-block; width: 5px; height: 28px; background: var(--acento); border-radius: 3px; margin-right: 14px; vertical-align: -3px; }
+  .sub { color: var(--tenue); margin: 0 0 30px; max-width: 640px; }
+  .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+  .card { position: relative; padding: 20px; border-radius: 16px; border: 1px solid var(--borde); background: var(--panel); transition: .2s; overflow: hidden; }
+  .card::after { content: ''; position: absolute; inset: 0; pointer-events: none; opacity: 0; transition: opacity .25s; background: radial-gradient(260px circle at var(--mx,50%) var(--my,50%), rgba(245,0,61,.13), transparent 65%); }
+  .card:hover { transform: translateY(-4px); border-color: var(--borde-2); } .card:hover::after { opacity: 1; }
+  .card .mi { font-size: 28px; color: var(--acento-2); background: rgba(245,0,61,.1); border-radius: 12px; padding: 8px; }
+  .card h3 { margin: 14px 0 6px; font-size: 18px; } .card p { margin: 0; color: var(--tenue); font-size: 14.5px; }
+  .pasos { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; counter-reset: p; }
+  .paso { padding: 20px; border-radius: 16px; background: var(--panel); border: 1px solid var(--borde); }
+  .paso::before { counter-increment: p; content: counter(p); display: grid; place-items: center; width: 32px; height: 32px; border-radius: 9px; background: rgba(245,0,61,.16); color: var(--acento-2); font-weight: 900; margin-bottom: 12px; }
+  .paso b { display: block; margin-bottom: 4px; } .paso span { color: var(--tenue); font-size: 14.5px; }
+  .seguro { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+  .seguro div { display: flex; gap: 12px; padding: 16px 18px; border-radius: 14px; background: var(--panel); border: 1px solid var(--borde); }
+  .seguro .mi { color: var(--verde); } .seguro p { margin: 0; color: var(--tenue); font-size: 14.5px; } .seguro b { color: var(--texto); }
+  .final { text-align: center; padding: 70px 22px; border-radius: 24px; border: 1px solid rgba(245,0,61,.35);
+    background: radial-gradient(80% 120% at 50% 0%, rgba(245,0,61,.18), transparent 70%), var(--panel); }
+  .final h2::before { display: none; }
+  footer { color: var(--apagado); font-size: 13px; padding: 34px 0 44px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
+  footer a:hover { color: var(--texto); }
+  .entra { opacity: 0; transform: translateY(16px); transition: opacity .6s ease, transform .6s cubic-bezier(.2,.8,.2,1); } .entra.si { opacity: 1; transform: none; }
+  @media (max-width: 900px) { .hero { grid-template-columns: 1fr; padding-top: 24px; } .mock { transform: none; } .grid, .pasos { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 600px) { .grid, .pasos, .seguro { grid-template-columns: 1fr; } .nav-d .btn { display: none; } }
+  @media (prefers-reduced-motion: reduce) { .aurora, .entra { animation: none; transition: none; opacity: 1; transform: none; } }
+</style>
+</head>
+<body>
+<div class="aurora" aria-hidden="true"></div>
+<div class="wrap">
+  <nav>
+    <a class="marca" href="#"><img src="logo.svg" alt="">ASCEND</a>
+    <div class="nav-d">
+      <div class="idioma" role="group" aria-label="Language"><button data-l="en" class="on">EN</button><button data-l="es">ES</button></div>
+      <a class="btn" href="https://github.com/albertodoradofernandez-sys/ascend-datos/releases/latest"><span class="mi">download</span><span data-t="nav">Download</span></a>
+    </div>
+  </nav>
+
+  <header class="hero">
+    <div>
+      <span class="chip"><span class="mi" style="font-size:16px">bolt</span><span data-t="chip">Free · Windows · AION 2 Global & Korea</span></span>
+      <h1 data-t="h1">Know exactly what to upgrade to <em>ascend</em>.</h1>
+      <p class="lead" data-t="lead">Ascend compares your character with the real top players of your class and tells you your true rank, what raises your CP the most and how much kinah it will cost.</p>
+      <div class="cta">
+        <a class="btn" href="https://github.com/albertodoradofernandez-sys/ascend-datos/releases/latest"><span class="mi">download</span><span data-t="cta">Download for Windows</span></a>
+        <a class="btn sec" href="#funciones"><span class="mi">explore</span><span data-t="cta2">See what it does</span></a>
+      </div>
+      <p class="mini" data-t="mini">Never touches the game · Uses NC's public API and your local Questlog data · Updates itself</p>
+    </div>
+    <div class="mock entra" aria-hidden="true">
+      <h4><span class="mi">leaderboard</span><span data-t="m1">Your rank</span></h4>
+      <div class="puesto"><b>#424</b> <span data-t="m2">of 25,223 Assassins in EU</span><span class="tag">top 1.7%</span></div>
+      <h4 style="margin-top:18px"><span class="mi">savings</span><span data-t="m3">Budget plan · 20M kinah</span></h4>
+      <div class="filas">
+        <div class="fila"><span data-t="m4">Earring 1 · amp. +2 → +3</span><span class="bar"><i style="width:100%"></i></span><em>+580</em></div>
+        <div class="fila"><span data-t="m5">Ring 2 · amp. +2 → +3</span><span class="bar"><i style="width:100%"></i></span><em>+580</em></div>
+        <div class="fila"><span data-t="m6">Chest +11 → +12</span><span class="bar"><i style="width:20%"></i></span><em>+116</em></div>
+      </div>
+      <div class="kpis"><div><small data-t="m7">Spend</small><b>19M</b></div><div><small data-t="m8">Gain</small><b style="color:var(--verde)">+2,898</b></div><div><small data-t="m9">Per day</small><b>+1,540</b></div></div>
+    </div>
+  </header>
+
+  <section id="funciones">
+    <h2 data-t="f">Everything that raises your CP</h2>
+    <p class="sub" data-t="fs">Each tool compares you with the top 30 of your own class and region, and explains why.</p>
+    <div class="grid">
+      <div class="card entra"><span class="mi">leaderboard</span><h3 data-t="c1">Real rank &amp; goal</h3><p data-t="c1p">Your rank in your class from the real CP ranking, and how much CP and kinah you need for the top 10, 25, 50 or 100.</p></div>
+      <div class="card entra"><span class="mi">bar_chart</span><h3 data-t="c2">Ascension path</h3><p data-t="c2p">The upgrades that give the most CP per kinah, counting failure chances, with a budget planner.</p></div>
+      <div class="card entra"><span class="mi">link</span><h3 data-t="c3">Soul bind &amp; manastones</h3><p data-t="c3p">Which lines to Sync with CP per line, and which pieces are worth rerolling.</p></div>
+      <div class="card entra"><span class="mi">style</span><h3 data-t="c4">Arcanas &amp; Genus</h3><p data-t="c4p">What the top uses in each slot, missing skills, and the Genus lines that matter for your class.</p></div>
+      <div class="card entra"><span class="mi">account_balance</span><h3 data-t="c5">Pantheon, titles &amp; pets</h3><p data-t="c5p">Which artworks and statues to swap for your class, the CP of every title and which pets to level.</p></div>
+      <div class="card entra"><span class="mi">speed</span><h3 data-t="c6">Performance</h3><p data-t="c6p">More FPS with Erunur's Astral Vision presets, recommended for your GPU, applied and undone in one click.</p></div>
+    </div>
+  </section>
+
+  <section>
+    <h2 data-t="p">Up and running in a minute</h2>
+    <p class="sub" data-t="ps">No account, no setup.</p>
+    <div class="pasos">
+      <div class="paso entra"><b data-t="p1">Download &amp; install</b><span data-t="p1p">Run the installer. If Windows SmartScreen appears, click «More info» → «Run anyway» (the app is not signed with a paid certificate).</span></div>
+      <div class="paso entra"><b data-t="p2">Add your character</b><span data-t="p2p">Search your name in EU, NA or Korea and mark it as yours. Add your alts too.</span></div>
+      <div class="paso entra"><b data-t="p3">Follow the plan</b><span data-t="p3p">Ascend tells you what to do next and keeps your characters updated every 2 hours.</span></div>
+    </div>
+  </section>
+
+  <section>
+    <h2 data-t="s">Safe by design</h2>
+    <div class="seguro">
+      <div><span class="mi">shield</span><p><b data-t="s1">Never touches the game.</b> <span data-t="s1p">It only reads NC's public character API and the Questlog files on your PC.</span></p></div>
+      <div><span class="mi">lock</span><p><b data-t="s2">No accounts or passwords.</b> <span data-t="s2p">Nothing to log into; your data stays on your PC.</span></p></div>
+      <div><span class="mi">update</span><p><b data-t="s3">Signed auto-updates.</b> <span data-t="s3p">New versions install themselves, verified with a signature.</span></p></div>
+      <div><span class="mi">code</span><p><b data-t="s4">Open and free.</b> <span data-t="s4p">Downloads and data are public on GitHub.</span></p></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="final entra">
+      <h2 data-t="fin">Ready to climb the ranking?</h2>
+      <p class="sub" style="margin:0 auto 24px" data-t="fins">Free for Windows 10 and 11. English and Spanish.</p>
+      <a class="btn" href="https://github.com/albertodoradofernandez-sys/ascend-datos/releases/latest"><span class="mi">download</span><span data-t="cta">Download for Windows</span></a>
+    </div>
+  </section>
+
+  <footer>
+    <span data-t="foot">Ascend is a fan-made tool, not affiliated with NCSOFT. AION is a trademark of NCSOFT.</span>
+    <span><a href="https://github.com/albertodoradofernandez-sys/ascend-datos">GitHub</a> · <a href="https://github.com/albertodoradofernandez-sys/ascend-datos/issues/new" data-t="bug">Report a bug</a></span>
+  </footer>
+</div>
+
+<script>
+  const ES = {
+    nav: 'Descargar', chip: 'Gratis · Windows · AION 2 Global y Corea', h1: 'Sabe exactamente qué mejorar para <em>ascender</em>.',
+    lead: 'Ascend compara tu personaje con el top real de tu clase y te dice tu puesto de verdad, qué te sube más el CP y cuánto kinah te va a costar.',
+    cta: 'Descargar para Windows', cta2: 'Ver qué hace', mini: 'Nunca toca el juego · Usa la API pública de NC y tus datos locales de Questlog · Se actualiza sola',
+    m1: 'Tu puesto', m2: 'de 25.223 Asesinos en EU', m3: 'Plan de presupuesto · 20 M de kinah', m4: 'Pendiente 1 · amp. +2 → +3', m5: 'Anillo 2 · amp. +2 → +3', m6: 'Pecho +11 → +12',
+    m7: 'Gastas', m8: 'Subes', m9: 'Por día',
+    f: 'Todo lo que te sube el CP', fs: 'Cada herramienta te compara con el top 30 de tu clase y tu región, y te explica por qué.',
+    c1: 'Puesto real y objetivo', c1p: 'Tu puesto en tu clase con el ranking real de CP, y cuánto CP y kinah te faltan para el top 10, 25, 50 o 100.',
+    c2: 'Ruta de ascenso', c2p: 'Las mejoras que más CP dan por kinah, contando la probabilidad de fallo, con planificador de presupuesto.',
+    c3: 'Soul bind y manastones', c3p: 'Qué líneas cambiar con Sync, con el CP de cada una, y qué piezas merece la pena volver a tirar.',
+    c4: 'Arcanas y Genus', c4p: 'Qué lleva el top en cada ranura, qué habilidades te faltan y qué líneas de Genus importan para tu clase.',
+    c5: 'Panteón, títulos y mascotas', c5p: 'Qué obras y estatuas cambiar para tu clase, el CP de cada título y qué mascotas subir.',
+    c6: 'Rendimiento', c6p: 'Más FPS con los presets de Astral Vision de Erunur, recomendados para tu gráfica, aplicados y deshechos con un clic.',
+    p: 'Listo en un minuto', ps: 'Sin cuenta ni configuración.',
+    p1: 'Descarga e instala', p1p: 'Abre el instalador. Si sale Windows SmartScreen, pulsa «Más información» → «Ejecutar de todas formas» (la app no lleva un certificado de pago).',
+    p2: 'Añade tu personaje', p2p: 'Busca tu nombre en EU, NA o Corea y márcalo como tuyo. Añade también tus alts.',
+    p3: 'Sigue el plan', p3p: 'Ascend te dice qué hacer después y mantiene tus personajes al día cada 2 horas.',
+    s: 'Segura por diseño', s1: 'Nunca toca el juego.', s1p: 'Solo lee la API pública de personajes de NC y los archivos de Questlog de tu PC.',
+    s2: 'Sin cuentas ni contraseñas.', s2p: 'No hay que iniciar sesión; tus datos se quedan en tu PC.',
+    s3: 'Actualizaciones firmadas.', s3p: 'Las versiones nuevas se instalan solas y se verifican con una firma.',
+    s4: 'Abierta y gratis.', s4p: 'Descargas y datos públicos en GitHub.',
+    fin: '¿Listo para subir en el ranking?', fins: 'Gratis para Windows 10 y 11. En español e inglés.',
+    foot: 'Ascend es una herramienta hecha por fans, sin relación con NCSOFT. AION es una marca de NCSOFT.', bug: 'Reportar un fallo'
+  };
+  const EN = {};
+  document.querySelectorAll('[data-t]').forEach((el) => (EN[el.dataset.t] = el.innerHTML));
+  function idioma(l) {
+    const t = l === 'es' ? ES : EN;
+    document.querySelectorAll('[data-t]').forEach((el) => { if (t[el.dataset.t]) el.innerHTML = t[el.dataset.t]; });
+    document.documentElement.lang = l;
+    document.querySelectorAll('.idioma button').forEach((b) => b.classList.toggle('on', b.dataset.l === l));
+    try { localStorage.setItem('ascend.web.idioma', l); } catch {}
+  }
+  document.querySelectorAll('.idioma button').forEach((b) => b.addEventListener('click', () => idioma(b.dataset.l)));
+  let ini = 'en'; try { ini = localStorage.getItem('ascend.web.idioma') || (navigator.language.startsWith('es') ? 'es' : 'en'); } catch {}
+  idioma(ini);
+  // Entradas suaves al hacer scroll y luz bajo el ratón en las tarjetas
+  const obs = new IntersectionObserver((xs) => xs.forEach((x) => { if (x.isIntersecting) { x.target.classList.add('si'); obs.unobserve(x.target); } }), { threshold: .15 });
+  document.querySelectorAll('.entra').forEach((el) => obs.observe(el));
+  document.addEventListener('pointermove', (e) => { const c = e.target.closest && e.target.closest('.card'); if (!c) return; const r = c.getBoundingClientRect(); c.style.setProperty('--mx', (e.clientX - r.left) + 'px'); c.style.setProperty('--my', (e.clientY - r.top) + 'px'); });
+</script>
+</body>
+</html>
