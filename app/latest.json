@@ -1,11 +1,11 @@
 {
- "version": "0.3.2",
- "notes": "CP según tu personaje, mascotas bien valoradas y Arcanas claras",
- "pub_date": "2026-11-13T14:35:41Z",
+ "version": "0.4.0",
+ "notes": "Guía para empezar con aviso para nuevos y página Rendimiento (Astral Vision)",
+ "pub_date": "2026-11-13T15:36:02Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQS9qY1NSYnQwRFU5ZzNvRlc1VTVadFZId1hSM1lOZDJpRGlpRGZWU1dHSVJlNG9ZdSsyZW5WN1lrRG16UER5SXJkZDB5M3BubUgvWEgraTIxZGRhaGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTgwNTM2CWZpbGU6QXNjZW5kXzAuMy4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMgpJK1lxcmVSWlY3MGNZRnBkMFBlL0R2NXJwazFRaC81OUFFcjNxMCtkK2VKZUQ5M09JTXE0N0lvVjMzWEIrVm1YYWs3SzZOcS9GbGJyUDlOQ3hjTHFCZz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.3.2/Ascend_0.3.2_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQSt1SXd1UG5HQ0VJL05rR1BMZ09VWVU0OHQvZkZ0SUp0WVkwcFU1SmU4Mkdra2VqdlNZeHp6MEV0enQrTWZBQ1FCcjFmN3VGY0JLeXNFdUxLUWdxYWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTg0MTU3CWZpbGU6QXNjZW5kXzAuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMApXRUcxTnc5b1hQZHQ1T1ptMGgvL0I2WDZ0bTZxQXIxZGducU9uS20xaG1JQTRFU204R2dtSHdZYXpkbDM2UE41R1VRMW1yU3pQTDVoQVlJNVVHclNCdz09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.4.0/Ascend_0.4.0_x64-setup.exe"
   }
  }
 }

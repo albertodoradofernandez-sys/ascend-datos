@@ -1,5 +1,33 @@
 [
  {
+  "version": "0.4.0",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "school",
+    "es": [
+     "Guía para empezar",
+     "Lo que más preguntan los nuevos: qué clase elegir, cómo llegar a 45, qué no gastar, la rutina diaria y semanal, cómo sube el CP y los errores típicos. Si estás empezando, el menú y el Panel te la señalan con un «!»."
+    ],
+    "en": [
+     "Getting started",
+     "What new players ask most: class, reaching 45, what not to spend, daily/weekly routine, how CP grows and typical mistakes. If you are new, the menu and Dashboard flag it with a «!»."
+    ]
+   },
+   {
+    "icono": "speed",
+    "es": [
+     "Rendimiento",
+     "Más FPS en AION 2 con los presets de Astral Vision 3.1 de Erunur (con su permiso): detecta tu gráfica, recomienda un nivel y lo aplica al Engine.ini con copia de seguridad y botón para deshacer."
+    ],
+    "en": [
+     "Performance",
+     "More FPS with Erunur's Astral Vision 3.1 presets (with permission): detects your GPU, recommends a level and applies it with a backup and an undo button."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.3.2",
   "fecha": "2026-11-13",
   "cambios": [
