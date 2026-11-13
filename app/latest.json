@@ -1,11 +1,11 @@
 {
- "version": "0.4.5",
- "notes": "Manastones más claras",
- "pub_date": "2026-11-13T16:55:27Z",
+ "version": "0.5.0",
+ "notes": "Especialidades, arcanas sin fallo por nivel y diseño pulido",
+ "pub_date": "2026-11-13T18:05:05Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTV6dERyRDRsQUllSVZGMUx4dHRzK3BHM3ZrY04vbU1JWSsvekMzcDFXaDhMZlAzWjdxeWEyV1dkWW9UV0d2MHNuQks5UUdlYUNybXcremwvdUNEVndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTg4OTIxCWZpbGU6QXNjZW5kXzAuNC41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuNQo2ekRZcWY3NEN1MUI5TERYZStIQUFmVWFmdnBaK3VMUTZqdWFkOHBXZ2RQQVhFREJpQXR4K1hYWXFHQisrWG91dzRHbFdSQ3ltTEJqR1RCYXZSMzNCUT09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.4.5/Ascend_0.4.5_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXdYM2RXZTZlUmxpbU5jQUFzc0NqdGlRcUgwbmhNbUkwSlVlbUFYUVZUT21MMTMxWCs1VnFkOEN5MENXMGJBbEMvemxwZyt5ZGNySDBJeTU2Q2dLcndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTkzMDkxCWZpbGU6QXNjZW5kXzAuNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMAppcEpDRjlYK05ENWhORjcySkFCUUFjQWdEZWc0S0NHenJRbTFzaVI5WEFlZnRDYk9kM3lENGZsSUE2eVNmZFNveXpFdCs0aTZmWnRXQzdQclRRNTVEZz09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.5.0/Ascend_0.5.0_x64-setup.exe"
   }
  }
 }

@@ -1,5 +1,44 @@
 [
  {
+  "version": "0.5.0",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "tune",
+    "es": [
+     "Nuevo: Especialidades",
+     "Qué especialidades poner en cada skill según su nivel, cuáles cambiar por otras mejores y qué skills subir urgentemente a 16 o 20 para desbloquear las buenas. Lee las que llevas de Questlog."
+    ],
+    "en": [
+     "New: Specializations",
+     "Which specializations to equip on each skill for its level, which to swap and which skills to level urgently to 16 or 20. Reads your current ones from Questlog."
+    ]
+   },
+   {
+    "icono": "style",
+    "es": [
+     "Arcanas",
+     "Si solo te falta nivel respecto al top ya no sale como distinta: lo que cuenta son las habilidades. El nivel aparece aparte («Súbela +a → +b»)."
+    ],
+    "en": [
+     "Arcanas",
+     "A level-only difference no longer counts as not matching the top; the level shows as a separate note."
+    ]
+   },
+   {
+    "icono": "palette",
+    "es": [
+     "Diseño",
+     "Transiciones más suaves, números alineados, tarjetas que reaccionan al ratón y el «Actualizado hace…» de cada personaje se desliza si no cabe."
+    ],
+    "en": [
+     "Design",
+     "Smoother transitions, aligned numbers, cards that react to the mouse and the character card text scrolls when it does not fit."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.4.5",
   "fecha": "2026-11-13",
   "cambios": [
