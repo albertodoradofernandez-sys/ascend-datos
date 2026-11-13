@@ -1,5 +1,44 @@
 [
  {
+  "version": "0.3.2",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "calculate",
+    "es": [
+     "CP según tu personaje",
+     "Los porcentajes (stats principales, Panteón, soul bind, títulos, alas) suben el CP en proporción al tuyo: +1 Might ≈ 140 CP en un personaje de 187 k. Es una estimación."
+    ],
+    "en": [
+     "CP scaled to you",
+     "Percentages raise CP in proportion to yours. An estimate."
+    ]
+   },
+   {
+    "icono": "pets",
+    "es": [
+     "Mascotas bien valoradas",
+     "Cada familia según lo que da: Cogni (ataque) > Natura (crítico y precisión) > Fera (evasión) > Varian (HP). Se ven las cuatro y la EXP de Genus que da cada una."
+    ],
+    "en": [
+     "Pets valued properly",
+     "Each family by what it gives; all four shown, with the Genus EXP each gives."
+    ]
+   },
+   {
+    "icono": "style",
+    "es": [
+     "Arcanas claras",
+     "Ya no sale «+5 → +3» si superas al top, y cada carta dice el motivo del aviso. El top se mide con la mediana, no con la media."
+    ],
+    "en": [
+     "Clearer arcanas",
+     "No more «+5 → +3» when you beat the top; each card says why. The top uses the median."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.3.1",
   "fecha": "2026-11-13",
   "cambios": [

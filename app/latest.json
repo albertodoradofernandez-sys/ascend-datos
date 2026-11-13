@@ -1,11 +1,11 @@
 {
- "version": "0.3.1",
- "notes": "Plan de presupuesto visual, soul bind más claro, efecto del armario y efectos en toda la app",
- "pub_date": "2026-11-13T06:03:38Z",
+ "version": "0.3.2",
+ "notes": "CP según tu personaje, mascotas bien valoradas y Arcanas claras",
+ "pub_date": "2026-11-13T14:35:41Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQStTTGVTdFhhRTVldDR0OW9ZSmNsTkZVNW9Ka0VjQkF1V0w4ai93cnRQTTl2NEE0aTFBRnhkNDllMExvRlpZTnBQczRUZGxzbnphN1RobFo1RTc4TlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQ5ODE0CWZpbGU6QXNjZW5kXzAuMy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMQpCZTlSMzMxUmpOV3lEcXFiK0d1NDlTV052d1E4MVd0bFc5TW5RckFCVzlMY0VlaDBQRUtkM3VNV1orRHhISVBaL1RuRXo2VmpBdUsrTmxnZytKYVVCQT09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.3.1/Ascend_0.3.1_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQS9qY1NSYnQwRFU5ZzNvRlc1VTVadFZId1hSM1lOZDJpRGlpRGZWU1dHSVJlNG9ZdSsyZW5WN1lrRG16UER5SXJkZDB5M3BubUgvWEgraTIxZGRhaGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTgwNTM2CWZpbGU6QXNjZW5kXzAuMy4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMgpJK1lxcmVSWlY3MGNZRnBkMFBlL0R2NXJwazFRaC81OUFFcjNxMCtkK2VKZUQ5M09JTXE0N0lvVjMzWEIrVm1YYWs3SzZOcS9GbGJyUDlOQ3hjTHFCZz09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.3.2/Ascend_0.3.2_x64-setup.exe"
   }
  }
 }
