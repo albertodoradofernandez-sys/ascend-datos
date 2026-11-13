@@ -1,5 +1,22 @@
 [
  {
+  "version": "0.2.14",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "build",
+    "es": [
+     "Arreglo",
+     "Las páginas ya no se mueven al cambiar a una pestaña corta (Monolitos, Mascotas, Alas)."
+    ],
+    "en": [
+     "Fix",
+     "Pages no longer shift when switching to a short tab."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.2.13",
   "fecha": "2026-11-13",
   "cambios": [
