@@ -1,5 +1,132 @@
 [
  {
+  "version": "0.2.7",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "campaign",
+    "es": [
+     "«Lo que más te sube ahora»",
+     "Sustituye a «Lo que pide el meta»: las 4 cosas que más CP te dan según la Ruta de ascenso, con el CP estimado y el primer paso. Ya no salen detalles sueltos como el % de soul bind o +1 a una pieza."
+    ],
+    "en": [
+     "Your best moves now",
+     "Replaces «What the meta asks for»: the 4 biggest CP gains from the Ascension path, with estimated CP and the first step."
+    ]
+   },
+   {
+    "icono": "military_tech",
+    "es": [
+     "Títulos necesarios",
+     "En Colecciones › Títulos: el BiS de ataque, defensa y otros (general, para tu clase y PvP), si ya lo tienes, y los que te faltan ordenados por efecto y dificultad, con cómo conseguirlos."
+    ],
+    "en": [
+     "Titles you need",
+     "Collections › Titles: BiS attack, defense and other titles (overall, for your class and PvP), whether you own them, and the missing ones by effect and difficulty."
+    ]
+   },
+   {
+    "icono": "flag",
+    "es": [
+     "Objetivo: alcanzar al top",
+     "Eliges top 1, 10, 25, 50 o 100 de tu clase y te dice cuánto CP te falta, cuánto kinah cuesta subir el equipo hasta ahí y cuánto has subido esta semana."
+    ],
+    "en": [
+     "Goal: reach the top",
+     "Pick top 1, 10, 25, 50 or 100 of your class: CP missing, kinah needed and your progress this week."
+    ]
+   },
+   {
+    "icono": "leaderboard",
+    "es": [
+     "Tu puesto",
+     "En el Panel ves en qué puesto estás por CP en tu clase y región (y el top %), entre los jugadores de nivel máximo que conoce Ascend."
+    ],
+    "en": [
+     "Your rank",
+     "The Dashboard shows your CP rank in your class and region (and top %)."
+    ]
+   },
+   {
+    "icono": "new_releases",
+    "es": [
+     "El top ha cambiado",
+     "Si tras actualizar el top cambia el arma, la arcana, la piedra divina o la manastone más usada, el Panel te avisa."
+    ],
+    "en": [
+     "The top has changed",
+     "The Dashboard tells you when the most used weapon, arcana, godstone or manastone changes."
+    ]
+   },
+   {
+    "icono": "science",
+    "es": [
+     "Genus: qué buscar",
+     "Cada línea a cambiar dice qué stat buscar en su lugar."
+    ],
+    "en": [
+     "Genus: what to look for",
+     "Each line to reroll says which stat to look for."
+    ]
+   },
+   {
+    "icono": "image",
+    "es": [
+     "Imagen para compartir",
+     "«Copiar imagen» crea una tarjeta con tu CP, tu puesto y lo siguiente que subir, lista para pegar en Discord."
+    ],
+    "en": [
+     "Share image",
+     "«Copy image» makes a card with your CP, rank and next upgrades, ready for Discord."
+    ]
+   },
+   {
+    "icono": "content_copy",
+    "es": [
+     "Copiar resumen",
+     "Un botón copia tu CP, puesto y lo siguiente que te conviene subir, listo para pegar en Discord."
+    ],
+    "en": [
+     "Copy summary",
+     "One button copies your CP, rank and next upgrades, ready to paste on Discord."
+    ]
+   },
+   {
+    "icono": "travel_explore",
+    "es": [
+     "Buscar en todas las regiones",
+     "Al añadir un personaje puedes elegir «Todas» y buscar a la vez en EU, NA y KR."
+    ],
+    "en": [
+     "Search all regions",
+     "When adding a character, choose «All» to search EU, NA and KR at once."
+    ]
+   },
+   {
+    "icono": "bar_chart",
+    "es": [
+     "Ranking de clases",
+     "En Élite: qué clase tiene más CP en Europa y Corea (media del top 10, mediana y top 10 %)."
+    ],
+    "en": [
+     "Class ranking",
+     "In Elite: which class has the most CP in Europe and Korea."
+    ]
+   },
+   {
+    "icono": "bug_report",
+    "es": [
+     "Reportar fallo o idea",
+     "Botón en el menú que abre un formulario en GitHub con tu versión ya puesta."
+    ],
+    "en": [
+     "Report bug or idea",
+     "Menu button that opens a GitHub form with your version filled in."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.2.6",
   "fecha": "2026-11-13",
   "cambios": [

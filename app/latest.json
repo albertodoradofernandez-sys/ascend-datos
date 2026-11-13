@@ -1,11 +1,11 @@
 {
- "version": "0.2.6",
- "notes": "Guía ordenada por importancia: soul bind por líneas, runas hasta +5, alas según dificultad",
- "pub_date": "2026-11-13T00:16:45Z",
+ "version": "0.2.7",
+ "notes": "Títulos necesarios, tu puesto y objetivo, imagen para compartir, avisos del meta y ranking de clases",
+ "pub_date": "2026-11-13T01:51:05Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQS8xSTl3WEIyWWgrRGYwMmRQNXd5Q1RJVDdaNXk0QVhocmJsblMyT2taT0dqU29PY1J3WWxpTk91WXRnTHdLTkJ0M1lhaHFiL1Rlc1h6Wk1KMUhMZmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI5MDA1CWZpbGU6QXNjZW5kXzAuMi42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNgpDUXpKcklsZlk0OG9VM3B1RVplckFTVUlBbmgxWEpKZW5hQW14ZExYRVU0M1pQS09lWStydFdvZ1NxTnVpR1NCcjVJV3BzTnY4Y05XaWxDeWtYcFJCUT09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.2.6/Ascend_0.2.6_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXliWWlOV0hsdUJUdlhIQVBWQ0Y5WmJmbFBzSElBcVNEd2t4a0U1TkZFOURsSzVvd1lENkFOeGNMSmtwZUdNbUhZbThqZURPVUxWbFFRQ3pxa254a2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTM0NjYwCWZpbGU6QXNjZW5kXzAuMi43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNwpTOEVpeUhzRlEyL0IvYkN1V1d2aFdNdXFhRk5XU1JCNHRnSVdwdlNqK3VDNVJXc0VUd0RCa1VDQWEyNVlVYXJodkxFdEhaZ0J1TnVFRmRzRzEwUUxCUT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.2.7/Ascend_0.2.7_x64-setup.exe"
   }
  }
 }
