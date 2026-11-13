@@ -1,11 +1,11 @@
 {
- "version": "0.6.1",
- "notes": "Arcanas con casillas de skills, nombres oficiales en español y actualización obligatoria",
- "pub_date": "2026-11-13T19:11:29Z",
+ "version": "0.6.2",
+ "notes": "Arcanas más limpias",
+ "pub_date": "2026-11-13T20:11:30Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTJoWHhUSTJISngrMVBjekFLZlBCeHhXWElwTnFzU1YyWDlOa0ZZajNVMlZ1MlBjejd6QURGYVZIQTBnVkZtK0NKaHhCazUreUx6YnVhQkxlQ3VGcXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTk3MDgyCWZpbGU6QXNjZW5kXzAuNi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMQpWRDZtSDB5ZVpwODNsaUk5czc2RlJqVTQ0ZUVzeVBFZkExNWtiWXhacThoNXJNSU1Xdko2TUlvUE4vWW9MTjNSd1pOcWw2cm5YQ2xIOUxtK0wyYldDZz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.6.1/Ascend_0.6.1_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXdhZWJjNktnWDBhS25nOWpXN3k3UVV2SG85dStCZUVLbzE1bnV2dmVPQVB2OC8vbFhPV2dRNk1ZNEtFTWF0L0lZYWhnQVJHMFdZUm42OUxtUjhRQ1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjAwNjg1CWZpbGU6QXNjZW5kXzAuNi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMgpMaERUNFNyZjhmMnNuelB1Qjd4cXZHeDVLS2w4cmJjR3F1bnVCcDdvNHVxcEhKa0VyTG5Cd3NZZkM2NXRBTS9UN2o2SUhwQzg0NGEzWk5aektxQU1CUT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.6.2/Ascend_0.6.2_x64-setup.exe"
   }
  }
 }

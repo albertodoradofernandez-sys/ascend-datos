@@ -1,5 +1,22 @@
 [
  {
+  "version": "0.6.2",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "style",
+    "es": [
+     "Arcanas más limpias",
+     "Los iconos de las skills se ven enteros con la marca en la esquina, el nivel sale como «+3 · top +2», la cabecera va bien separada, nada se corta a la derecha y no se repite el aviso del top."
+    ],
+    "en": [
+     "Cleaner Arcanas",
+     "Skill icons fully visible with the mark in the corner, levels shown as «+3 · top +2», tidy header, nothing cut off and no repeated top notice."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.6.1",
   "fecha": "2026-11-13",
   "cambios": [
