@@ -1,11 +1,11 @@
 {
- "version": "0.2.12",
- "notes": "Genus según tu clase, la ficha sigue el tema, tu main al abrir y coste explicado",
- "pub_date": "2026-11-13T04:38:38Z",
+ "version": "0.2.13",
+ "notes": "Manastones bien explicados, Panteón según tu clase, CP de los títulos y arreglos",
+ "pub_date": "2026-11-13T05:09:50Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTdWMU0zRUlKK2NNZEF0MzdVUlYrYVF5ZTZEQy9PNjNLNHNYZ2UvOGxjb21tRkFybWpFeWEwYkc0dVBkcFhqTG5UYkJSdkxrZkV0Ti9QUlhMNEVTQWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQ0NzE0CWZpbGU6QXNjZW5kXzAuMi4xMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjEyCmhkc0pxdUdMYVJLdlRUOE1hMmdzU1o0ZUtwQXc4SWhqNTlmM05FOTk1TmxFMEY2bmZTblJ4NHhaOFB0OEVlOWtDc0d0S1JlM3pZZFArdDhrRS9aOENnPT0K",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.2.12/Ascend_0.2.12_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTc3aTZVLzNXdFNtZkZJeWNFVnZsbUpwQTQxVzFGRHlMTWRnVzJpZUl0MlVSRi9aNVErSDdhRmRxZS9pbDNibXJjRGVuQTg4L3lUT2dHc0RrcjloUnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQ2NTg1CWZpbGU6QXNjZW5kXzAuMi4xM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjEzCmpQdEhBblNjRUQ2TzRTTi8vZjlPWHlRY3JXeEdFMUMyTmJQQlhFSEc1alB0dlFOYWxrQVdnZFkzYkZmeitvVS9LSVYzeUUxNnJIVVpYM3BaUzZ6QkJRPT0K",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.2.13/Ascend_0.2.13_x64-setup.exe"
   }
  }
 }

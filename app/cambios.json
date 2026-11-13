@@ -1,5 +1,66 @@
 [
  {
+  "version": "0.2.13",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "diamond",
+    "es": [
+     "Manastones bien explicados",
+     "Buscan daño: aumentos de daño (BiS) > Ataque > Crítico o Precisión. Se ve el grado de cada piedra (común, raro, legendario, único), qué subir de grado y qué piezas no tocar porque ya tienen una línea BiS."
+    ],
+    "en": [
+     "Manastones explained",
+     "They are for damage: damage boosts (BiS) > Attack > Critical or Accuracy. Each stone's grade, what to upgrade and which pieces to leave alone because they have a BiS line."
+    ]
+   },
+   {
+    "icono": "menu_book",
+    "es": [
+     "Manastones en la Guía de build",
+     "El bloque de manastones y skills también sale en la Guía de build."
+    ],
+    "en": [
+     "Manastones in the Build guide",
+     "The manastone and skill block also shows in the Build guide."
+    ]
+   },
+   {
+    "icono": "account_balance",
+    "es": [
+     "Panteón para tu clase",
+     "Qué deidades sirven a tu clase y qué obras, estatuas o coloso conviene cambiar (las heroicas y únicas, marcadas como late game), con su CP aproximado."
+    ],
+    "en": [
+     "Pantheon for your class",
+     "Which deities help your class and which artworks, statues or colossus to swap (heroic and unique flagged as late game), with approximate CP."
+    ]
+   },
+   {
+    "icono": "military_tech",
+    "es": [
+     "CP de los títulos",
+     "Cada título que te falta muestra el CP aproximado de su efecto al tenerlo."
+    ],
+    "en": [
+     "Title CP",
+     "Each missing title shows the approximate CP of its owned effect."
+    ]
+   },
+   {
+    "icono": "build",
+    "es": [
+     "Arreglos",
+     "Fotos rotas del Panteón y piezas de temporadas que aún no existen."
+    ],
+    "en": [
+     "Fixes",
+     "Broken Pantheon images and pieces from seasons not yet released."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.2.12",
   "fecha": "2026-11-13",
   "cambios": [
