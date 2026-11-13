@@ -1,7 +1,7 @@
 {
- "version": "202611131615",
- "fecha": "2026-11-13T16:15:16",
- "notas": "Ranking real, top con CP de Questlog y meta con mediana",
+ "version": "202611131631",
+ "fecha": "2026-11-13T16:31:32",
+ "notas": "Presets de rendimiento (Astral Vision) y guía para empezar",
  "archivos": [
   "comun.db.gz",
   "parches.json",
@@ -15,6 +15,7 @@
   "mapa_ids.json",
   "colecciones.json",
   "titulos.json",
-  "ranking.json"
+  "ranking.json",
+  "astral_vision.json"
  ]
 }
