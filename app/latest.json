@@ -1,11 +1,11 @@
 {
- "version": "0.4.2",
- "notes": "Más fluida",
- "pub_date": "2026-11-13T16:17:11Z",
+ "version": "0.4.3",
+ "notes": "Personajes al día solos, progreso más claro y manastones más realistas",
+ "pub_date": "2026-11-13T16:29:30Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXphNStGZGdzZldvVnZkaFNUaDJoTXBDR1VWdlZ1YUZ3MU5LS1dRY1EwK0pZUUFyWExVQWZYazJreTF3WE5CdzdUb0wzVWJHbDEwTW5ZL0xJMkpnMkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTg2NjI2CWZpbGU6QXNjZW5kXzAuNC4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMgpPK202YzZrVmdCWEpSamRsTE5hYXFvV3FMTTMxZyt0T29yUlFGTmN2UlJ4OElVVWJwTjFWTHdiNW9zS3VBeUhDWUROclYzUU1SUjBkN3U0NHZEZXpBZz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.4.2/Ascend_0.4.2_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTI5WEJLemVwNjJaZFQ2Z0Y0ZkRwNlFPZ0tBUHE5S0RLTFVyMDhXVTRlcW4xSHQyeHl6VEo0eS9YQnF3YlUwbVpyVkNDbWtGY0lYeGMxT2xxeTBCdGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTg3MzY1CWZpbGU6QXNjZW5kXzAuNC4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMwo1bG5odHRVZUtwZTdHN1NwQ3krQW9HSU9vU05xbWFnc2cvQWtHcHhOTmg0cUgra2c0Y2VVTzNTYkc3SXF5OTFoSTdmQm93cVhzaUpLVEprNG1lZEdBdz09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.4.3/Ascend_0.4.3_x64-setup.exe"
   }
  }
 }

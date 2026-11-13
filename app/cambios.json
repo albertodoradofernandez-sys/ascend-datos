@@ -1,5 +1,44 @@
 [
  {
+  "version": "0.4.3",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "sync",
+    "es": [
+     "Tus personajes al día solos",
+     "Se actualizan al abrir Ascend y cada 2 horas, en segundo plano (se puede apagar en Ajustes)."
+    ],
+    "en": [
+     "Characters always up to date",
+     "They update on start and every 2 hours in the background (can be turned off in Settings)."
+    ]
+   },
+   {
+    "icono": "trending_up",
+    "es": [
+     "Tu progreso más claro",
+     "Gráfica más grande con CP actual, lo subido en 7 días y la media diaria."
+    ],
+    "en": [
+     "Clearer progress",
+     "Bigger chart with current CP, last 7 days and daily average."
+    ]
+   },
+   {
+    "icono": "diamond",
+    "es": [
+     "Manastones más realistas",
+     "Al tirar, la stat y el grado salen al azar: se dice qué buscar, tu piedra muestra «tuya: grado» y no se propone tirar piezas con 3 piedras legendarias o únicas."
+    ],
+    "en": [
+     "More realistic manastones",
+     "Rerolls are random: it says what to look for, shows your stone grade and skips pieces with 3 legendary or unique stones."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.4.2",
   "fecha": "2026-11-13",
   "cambios": [
