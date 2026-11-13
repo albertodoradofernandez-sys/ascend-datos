@@ -45,6 +45,7 @@
   .mini { color: var(--apagado); font-size: 13px; }
   /* Maqueta de la app (datos de ejemplo) */
   .mock { position: relative; border-radius: 18px; border: 1px solid var(--borde); background: var(--panel); padding: 18px; box-shadow: 0 40px 80px rgba(0,0,0,.45), 0 0 60px rgba(245,0,61,.1); transform: perspective(1200px) rotateY(-6deg) rotateX(3deg); }
+  .ejemplo { position: absolute; top: -11px; right: 16px; font-size: 11px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: #111; background: var(--ambar); padding: 3px 10px; border-radius: 999px; }
   .mock h4 { margin: 0 0 10px; font-size: 12px; color: var(--tenue); text-transform: uppercase; letter-spacing: .06em; display: flex; gap: 6px; align-items: center; }
   .mock h4 .mi { font-size: 16px; color: var(--acento-2); }
   .puesto b { font-size: 34px; color: var(--verde); font-weight: 900; } .puesto span { color: var(--tenue); font-size: 14px; }
@@ -106,15 +107,16 @@
       <p class="mini" data-t="mini">Never touches the game · Uses NC's public API and your local Questlog data · Updates itself</p>
     </div>
     <div class="mock entra" aria-hidden="true">
+      <span class="ejemplo" data-t="ej">Example</span>
       <h4><span class="mi">leaderboard</span><span data-t="m1">Your rank</span></h4>
-      <div class="puesto"><b>#424</b> <span data-t="m2">of 25,223 Assassins in EU</span><span class="tag">top 1.7%</span></div>
+      <div class="puesto"><b>#1,250</b> <span data-t="m2">of 40,000 Gladiators in EU</span><span class="tag">top 3%</span></div>
       <h4 style="margin-top:18px"><span class="mi">savings</span><span data-t="m3">Budget plan · 20M kinah</span></h4>
       <div class="filas">
         <div class="fila"><span data-t="m4">Earring 1 · amp. +2 → +3</span><span class="bar"><i style="width:100%"></i></span><em>+580</em></div>
         <div class="fila"><span data-t="m5">Ring 2 · amp. +2 → +3</span><span class="bar"><i style="width:100%"></i></span><em>+580</em></div>
         <div class="fila"><span data-t="m6">Chest +11 → +12</span><span class="bar"><i style="width:20%"></i></span><em>+116</em></div>
       </div>
-      <div class="kpis"><div><small data-t="m7">Spend</small><b>19M</b></div><div><small data-t="m8">Gain</small><b style="color:var(--verde)">+2,898</b></div><div><small data-t="m9">Per day</small><b>+1,540</b></div></div>
+      <div class="kpis"><div><small data-t="m7">Spend</small><b>18M</b></div><div><small data-t="m8">Gain</small><b style="color:var(--verde)">+2,450</b></div><div><small data-t="m9">Per day</small><b>+900</b></div></div>
     </div>
   </header>
 
@@ -170,7 +172,7 @@
     nav: 'Descargar', chip: 'Gratis · Windows · AION 2 Global y Corea', h1: 'Sabe exactamente qué mejorar para <em>ascender</em>.',
     lead: 'Ascend compara tu personaje con el top real de tu clase y te dice tu puesto de verdad, qué te sube más el CP y cuánto kinah te va a costar.',
     cta: 'Descargar para Windows', cta2: 'Ver qué hace', mini: 'Nunca toca el juego · Usa la API pública de NC y tus datos locales de Questlog · Se actualiza sola',
-    m1: 'Tu puesto', m2: 'de 25.223 Asesinos en EU', m3: 'Plan de presupuesto · 20 M de kinah', m4: 'Pendiente 1 · amp. +2 → +3', m5: 'Anillo 2 · amp. +2 → +3', m6: 'Pecho +11 → +12',
+    m1: 'Tu puesto', m2: 'de 40.000 Gladiadores en EU', ej: 'Ejemplo', m3: 'Plan de presupuesto · 20 M de kinah', m4: 'Pendiente 1 · amp. +2 → +3', m5: 'Anillo 2 · amp. +2 → +3', m6: 'Pecho +11 → +12',
     m7: 'Gastas', m8: 'Subes', m9: 'Por día',
     f: 'Todo lo que te sube el CP', fs: 'Cada herramienta te compara con el top 30 de tu clase y tu región, y te explica por qué.',
     c1: 'Puesto real y objetivo', c1p: 'Tu puesto en tu clase con el ranking real de CP, y cuánto CP y kinah te faltan para el top 10, 25, 50 o 100.',
