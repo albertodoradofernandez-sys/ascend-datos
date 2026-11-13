@@ -1,5 +1,22 @@
 [
  {
+  "version": "0.4.2",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "bolt",
+    "es": [
+     "Más fluida",
+     "Colecciones y los cálculos de CP ya no releen los datos de Questlog en cada cambio de personaje o pestaña, y el efecto de luz del ratón gasta menos."
+    ],
+    "en": [
+     "Smoother",
+     "Collections and CP maths no longer re-read Questlog data on every switch, and the cursor glow costs less."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.4.1",
   "fecha": "2026-11-13",
   "cambios": [
