@@ -1,5 +1,44 @@
 [
  {
+  "version": "0.6.1",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "style",
+    "es": [
+     "Arcanas nuevas",
+     "Cada ranura muestra qué skills te sube la arcana en casillas (las que tienes, las que te faltan y las que el top no usa), con tu nivel frente al del top, y la arcana que lleva el top si es otra. Los contadores de arriba filtran."
+    ],
+    "en": [
+     "New Arcanas",
+     "Each slot shows which skills the arcana raises as tiles (yours, missing and unused by the top) with your level vs the top's, plus the top's arcana if different. The counters on top filter."
+    ]
+   },
+   {
+    "icono": "translate",
+    "es": [
+     "Nombres oficiales en español",
+     "Objetos, arcanas, sets, skills, stats y efectos con el nombre que usa el juego (Questlog y la API oficial). Clases corregidas: Arquero y Espiritualista."
+    ],
+    "en": [
+     "Official Spanish names",
+     "Items, arcanas, sets, skills, stats and effects use the in-game Spanish names. Class names fixed."
+    ]
+   },
+   {
+    "icono": "system_update_alt",
+    "es": [
+     "Actualizar es obligatorio",
+     "Si sale una versión nueva, la app te pide instalarla antes de seguir. Lo comprueba al abrir, cada 20 minutos y al volver a la ventana."
+    ],
+    "en": [
+     "Mandatory updates",
+     "When a new version is out, the app asks you to install it before continuing. Checked on open, every 20 minutes and when you return to the window."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.6.0",
   "fecha": "2026-11-13",
   "cambios": [

@@ -1,11 +1,11 @@
 {
- "version": "0.6.0",
- "notes": "Especialidades con guías de la comunidad, menú del juego y app más fluida",
- "pub_date": "2026-11-13T18:32:57Z",
+ "version": "0.6.1",
+ "notes": "Arcanas con casillas de skills, nombres oficiales en español y actualización obligatoria",
+ "pub_date": "2026-11-13T19:11:29Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTE1VkpFei9pT1B5ZlRsanRIeTFwZzRrQjdDQnBCZlR1bHhuNlpISWFWTXZqbFhROXZZSzZaNGRFeXh0TGFuUmdtY0tRN1FmQzdZRGxsU3NSb3NFT2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTk0NzcyCWZpbGU6QXNjZW5kXzAuNi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMAp1dVp6Q0h4WmhNV0VNb3F0dzBrSVRXZ1BPVExaV3R6dWpYaUUxZ3pqVzVnbTg4QXBxZmRYeS9DRFVrd3YzOVlFclJzbHllME1NQzhwaXNEME1vbjZCdz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.6.0/Ascend_0.6.0_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTJoWHhUSTJISngrMVBjekFLZlBCeHhXWElwTnFzU1YyWDlOa0ZZajNVMlZ1MlBjejd6QURGYVZIQTBnVkZtK0NKaHhCazUreUx6YnVhQkxlQ3VGcXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTk3MDgyCWZpbGU6QXNjZW5kXzAuNi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMQpWRDZtSDB5ZVpwODNsaUk5czc2RlJqVTQ0ZUVzeVBFZkExNWtiWXhacThoNXJNSU1Xdko2TUlvUE4vWW9MTjNSd1pOcWw2cm5YQ2xIOUxtK0wyYldDZz09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.6.1/Ascend_0.6.1_x64-setup.exe"
   }
  }
 }
