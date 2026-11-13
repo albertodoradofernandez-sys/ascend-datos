@@ -1,5 +1,66 @@
 [
  {
+  "version": "0.2.5",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "link",
+    "es": [
+     "Soul bind destacado en la Guía",
+     "Arriba de la Guía de build, cada pieza con una barra: tu soul bind frente al del top, ordenadas por lo que más te falta. Es de lo que más CP da."
+    ],
+    "en": [
+     "Soul bind highlighted in the Guide",
+     "At the top of the Build guide, each piece with a bar: your soul bind vs the top, sorted by gap."
+    ]
+   },
+   {
+    "icono": "flight",
+    "es": [
+     "Alas que conviene desbloquear",
+     "La Guía lista las alas que no tienes ordenadas por el daño de su efecto poseída (suma aunque no las lleves), con cómo se consiguen."
+    ],
+    "en": [
+     "Wings worth unlocking",
+     "The Guide lists the wings you lack, sorted by the damage of their owned effect, with how to get them."
+    ]
+   },
+   {
+    "icono": "pets",
+    "es": [
+     "Mascotas que te dan algo importante",
+     "Las mascotas que suben stats de daño, con las almas que te faltan hasta nivel 3."
+    ],
+    "en": [
+     "Pets that matter",
+     "Pets that raise damage stats, with the souls you need to reach level 3."
+    ]
+   },
+   {
+    "icono": "info",
+    "es": [
+     "Versión a la vista",
+     "La versión de la app sale en pequeño bajo el logo."
+    ],
+    "en": [
+     "Version on display",
+     "The app version shows under the logo."
+    ]
+   },
+   {
+    "icono": "savings",
+    "es": [
+     "Genus: por dónde empezar",
+     "También las líneas menores: qué buscar (HP o tolerancia) y qué rama analizar primero según el coste en kinah y cristales, que sube con cada línea bloqueada."
+    ],
+    "en": [
+     "Genus: where to start",
+     "Minor lines too: what to look for and which branch to analyse first by kinah and crystal cost."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.2.4",
   "fecha": "2026-11-13",
   "cambios": [

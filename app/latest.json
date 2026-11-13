@@ -1,11 +1,11 @@
 {
- "version": "0.2.4",
- "notes": "Genus con sentido: solo las líneas que importan y qué buscar",
- "pub_date": "2026-11-12T23:59:59Z",
+ "version": "0.2.5",
+ "notes": "Guía con soul bind destacado, alas y mascotas que te convienen; Genus: por dónde empezar según el coste",
+ "pub_date": "2026-11-13T00:08:50Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXhpTEhrMEFOWmVvMzVWRkMvUmJ1S2RPWjdGOEJtb3pHRDNLVWkveGVsRXYydlI1c0RGbjcxVkdOQ0pWZjNSNlY2Rm9qbjRDQjdISjRpQ1JSZEZQb1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI3OTk5CWZpbGU6QXNjZW5kXzAuMi40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNAplYnZwaDJyMmd1SDZkYTlvVWdPOE02YnE0a043d1FISCtlTmVkdWkzSmRXTU4wdkpnYWFRUE1YY0dKWmlDbnNIbFBPL2JaOHhnWE56MlpsbnR5QVVCdz09Cg==",
-   "url": "https://raw.githubusercontent.com/albertodoradofernandez-sys/ascend-datos/main/app/Ascend_0.2.4_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXpGM3A3WmxXbVp3OU5STk8wOGpwc3lUOE9YdmI3cjRLT1ordlo1Z2JSWkhxVHkrcmQ1OG9oSzA5aC9GdjZiYzVzWXd6b2kvVk1kRlF6ZnVLR2syckFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTI4NTMwCWZpbGU6QXNjZW5kXzAuMi41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNQowRmc1QlNkNmJ1NGd2emhqekcrTU9CNDkvNmUwMG5LR1pCRkZiRVJIeW5HY2ZUWDMrZDBsTGhBVFc4YXpZU3o3c3J5RGRsTkc4NWdnT0s3Y25PQmpCdz09Cg==",
+   "url": "https://raw.githubusercontent.com/albertodoradofernandez-sys/ascend-datos/main/app/Ascend_0.2.5_x64-setup.exe"
   }
  }
 }
