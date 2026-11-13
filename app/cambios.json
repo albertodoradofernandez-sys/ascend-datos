@@ -1,5 +1,55 @@
 [
  {
+  "version": "0.3.1",
+  "fecha": "2026-11-13",
+  "cambios": [
+   {
+    "icono": "savings",
+    "es": [
+     "Plan de presupuesto más visual",
+     "Cifras grandes (presupuesto, gasto, CP), barra de lo que gastas y una barra de CP en cada mejora."
+    ],
+    "en": [
+     "More visual budget plan",
+     "Big numbers, a spend bar and a CP bar per upgrade."
+    ]
+   },
+   {
+    "icono": "link",
+    "es": [
+     "Soul bind más claro",
+     "Solo propone cambios que suben el CP, y cada uno en una línea: qué quitas, qué pones y cuánto ganas."
+    ],
+    "en": [
+     "Clearer soul bind",
+     "Only swaps that raise CP, one line each: what you remove, add and gain."
+    ]
+   },
+   {
+    "icono": "checkroom",
+    "es": [
+     "Efecto del armario",
+     "En Colecciones → Skins: lo que te dan tus skins por parte (ataque del arma, defensa de cada pieza, collar y pendientes)."
+    ],
+    "en": [
+     "Closet effect",
+     "Collections → Skins: what your skins give per slot."
+    ]
+   },
+   {
+    "icono": "auto_awesome",
+    "es": [
+     "Efectos en toda la app",
+     "La luz bajo el ratón y los números animados llegan a todas las páginas."
+    ],
+    "en": [
+     "Effects everywhere",
+     "Cursor glow and animated numbers on every page."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.3.0",
   "fecha": "2026-11-13",
   "cambios": [

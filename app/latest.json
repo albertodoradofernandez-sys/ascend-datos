@@ -1,11 +1,11 @@
 {
- "version": "0.3.0",
- "notes": "Más bonita, aviso de sin conexión, más robusta, soul bind con CP, Panteón y manastones mejorados",
- "pub_date": "2026-11-13T05:54:12Z",
+ "version": "0.3.1",
+ "notes": "Plan de presupuesto visual, soul bind más claro, efecto del armario y efectos en toda la app",
+ "pub_date": "2026-11-13T06:03:38Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTExd01WUlRGQ1NNWHdmZk4yR1JreVhDeFpSNm9Lcmg3ZE5NcWpSWW9yK2xoV2dsZTRxdDFBM0htbDlyREl4Um1OcGhJcldPZ0hPNzY4akEycVd1TWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQ5MjQ3CWZpbGU6QXNjZW5kXzAuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMApaQ1dBMExvNDZ3bnk3KzliVERHYnVwYzNyQ2srVXZjbFpIc0xRdFNhSllMTGY0WXl3Yk9uQjRjbEhHQnlQWW5jSkpkTzF1U2xmckJuYnJEU3RGY2FBdz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.3.0/Ascend_0.3.0_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQStTTGVTdFhhRTVldDR0OW9ZSmNsTkZVNW9Ka0VjQkF1V0w4ai93cnRQTTl2NEE0aTFBRnhkNDllMExvRlpZTnBQczRUZGxzbnphN1RobFo1RTc4TlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQ5ODE0CWZpbGU6QXNjZW5kXzAuMy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMQpCZTlSMzMxUmpOV3lEcXFiK0d1NDlTV052d1E4MVd0bFc5TW5RckFCVzlMY0VlaDBQRUtkM3VNV1orRHhISVBaL1RuRXo2VmpBdUsrTmxnZytKYVVCQT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.3.1/Ascend_0.3.1_x64-setup.exe"
   }
  }
 }
