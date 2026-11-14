@@ -1,11 +1,11 @@
 {
- "version": "0.9.0",
- "notes": "Daño real, Ranking, Daevanion visual, avisos de parche y coste del Sync",
- "pub_date": "2026-11-14T21:38:00Z",
+ "version": "0.9.1",
+ "notes": "Daevanion más claro con las 8 clases, Qué buscar de Arcanas corregido y soul bind legible",
+ "pub_date": "2026-11-14T22:33:36Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXdTSElrZURCOWtkV2E1WXgvNlRuaTVER1UrSnR1bXZ2NnJRMmswVzk5VGpGdldyQjVLaGlpUjVuSG5CdjNHN2EwaWFyMEh1bXkvanJSb0xobFV2V2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjkyMjcyCWZpbGU6QXNjZW5kXzAuOS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMAptekhadm5SZm9yOG4rR3JGL0RpWkVWTWhzOFhKU1VMK2xESUVHYS9vK2VwbEtkVXVqNkdpT3lPUStrTnFJM0FMV1FsdzQ2S25HYzFUbGw2czBVeXBCUT09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.9.0/Ascend_0.9.0_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXpSWVlzMEZFMlNGZ3BOOG9SeWwycEg1UHlQV0RSWnV0aGFZekhkSUwxU24yd09ya0hXYjZYNmVaTE9rWEtXSzZSamg1VUhUWEF1SEQyQVZHNG1EVGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njk1NjEwCWZpbGU6QXNjZW5kXzAuOS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMQpwYVdVdDFBeWxQM3NUY2xjMXhsWm9vVGFLSkJVU25NRjNHak14M2ZlQmcxdUhDY3ZEbVYrMDZaRW45WEw3UDJyalczVU4zV1JUdm85NFRkaml6TlBDQT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.9.1/Ascend_0.9.1_x64-setup.exe"
   }
  }
 }

@@ -1,5 +1,44 @@
 [
  {
+  "version": "0.9.1",
+  "fecha": "2026-11-15",
+  "cambios": [
+   {
+    "icono": "hub",
+    "es": [
+     "Daevanion más claro",
+     "Cada tablero dice cuántos nodos tienes y cuántos abre de media el top. Los nodos que te faltan van numerados en orden, primero los que ya puedes abrir («ya»), y al hacer clic en un nodo ves qué da y si puedes abrirlo. Ya están las 8 clases."
+    ],
+    "en": [
+     "Clearer Daevanion",
+     "Each board shows your nodes vs the top average. Missing nodes are numbered in order (openable ones first) and clicking a node shows what it gives. All 8 classes are in."
+    ]
+   },
+   {
+    "icono": "search",
+    "es": [
+     "Arcanas: «Qué buscar» corregido",
+     "Ya solo recomienda la arcana principal del top en las ranuras donde llevas otra. Antes salían alternativas que usa poca gente y que rompían el set de 4."
+    ],
+    "en": [
+     "Arcanas: «What to look for» fixed",
+     "It only suggests the top main pick for slots where you use another one."
+    ]
+   },
+   {
+    "icono": "link",
+    "es": [
+     "Soul bind más legible",
+     "Al pasar el ratón por un cambio de línea («quita X → busca Y») se ve el texto entero."
+    ],
+    "en": [
+     "Readable soul bind",
+     "Hover a line swap to see its full text."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.9.0",
   "fecha": "2026-11-14",
   "cambios": [
