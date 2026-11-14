@@ -1,5 +1,33 @@
 [
  {
+  "version": "0.6.3",
+  "fecha": "2026-11-14",
+  "cambios": [
+   {
+    "icono": "style",
+    "es": [
+     "Arcanas: % del top en cada skill",
+     "En vez de «top +2» (salía igual en todas, porque el nivel de cada línea sube al azar) cada skill muestra cuántos del top la llevan en esa ranura."
+    ],
+    "en": [
+     "Arcanas: % of top per skill",
+     "Instead of «top +2» (same everywhere, since line levels rise at random) each skill shows how many top players have it in that slot."
+    ]
+   },
+   {
+    "icono": "system_update_alt",
+    "es": [
+     "Avisos de versión al momento",
+     "La app comprueba las versiones nuevas en un enlace sin retraso (antes tardaba unos minutos en enterarse)."
+    ],
+    "en": [
+     "Instant update notices",
+     "The app checks new versions on a link with no delay (it used to take a few minutes)."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.6.2",
   "fecha": "2026-11-13",
   "cambios": [
