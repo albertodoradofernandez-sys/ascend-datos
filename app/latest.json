@@ -1,11 +1,11 @@
 {
- "version": "0.7.0",
- "notes": "Discord de Ascend, Simulador renovado y más nombres oficiales en español",
- "pub_date": "2026-11-14T16:29:31Z",
+ "version": "0.7.1",
+ "notes": "Piedra filosofal en la Guía de build y Guía traducida",
+ "pub_date": "2026-11-14T17:42:01Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTBJM2hJV1FQcG9QbmNXSTZyOWh0OHQwY3BoOFh0K0JJT3drZDgwSzJ5dFJVNlJKejB3bUpuZnFmNkg5ZGVXNkxXSlk4OVRQcStZcUQvcGVhMXBsY2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjczNzY3CWZpbGU6QXNjZW5kXzAuNy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMAp1VndkK092VkwyNnhtRVJVZUgrUC9DYXhCaUV2cSsvS2hyVlhiaVJZWGZEQURPb1lVVnV3ZTFSSG1UN29yaytLTUxXTFlPc1lhZENxY1RQVmZPUTdDZz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.7.0/Ascend_0.7.0_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQThJZzBYMzdBVE5vdkpMRFIzMFpEQVdZdHRnb1NzWEJ5anB0WDhzM0pERUNodzVaam81b1B4ZTJYQS9BYndWMVlaRmQwbW5xb2lmUmtUYWdqcjB3UHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njc4MTE2CWZpbGU6QXNjZW5kXzAuNy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMQo1R0ZuUzlLcnJzL3dVb1gvKzBjdG4zUFBJbXJWbnYxWHZOZzk0bG9PV3dzYWZRTTdaVnpad1RvT3hGem5VZzd6ZE52NUF2M01OSHFlY2RsNHNXVExDQT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.7.1/Ascend_0.7.1_x64-setup.exe"
   }
  }
 }

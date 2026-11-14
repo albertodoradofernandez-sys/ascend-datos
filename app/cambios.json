@@ -1,5 +1,33 @@
 [
  {
+  "version": "0.7.1",
+  "fecha": "2026-11-14",
+  "cambios": [
+   {
+    "icono": "diamond",
+    "es": [
+     "Piedra filosofal",
+     "Nuevo bloque en la Guía de build: en qué piezas la lleva el top, cuáles tienes listas (Única o Heroica al 100 % de vínculo), qué línea conviene que salga y cuánto cuesta ponerlas todas. En la ficha, la línea de la piedra sale en dorado."
+    ],
+    "en": [
+     "Philosopher's Stone",
+     "New Build guide block: which pieces the top uses it on, which of yours are ready (Unique or Heroic at 100% bind), which line to hope for and the total cost. The stone line shows in gold in the sheet."
+    ]
+   },
+   {
+    "icono": "translate",
+    "es": [
+     "Guía de build en español",
+     "Nombres de piezas y avisos del top con su nombre oficial."
+    ],
+    "en": [
+     "Translated build guide",
+     "Piece names and top notices use official names."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.7.0",
   "fecha": "2026-11-14",
   "cambios": [
