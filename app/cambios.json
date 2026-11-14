@@ -1,5 +1,33 @@
 [
  {
+  "version": "0.8.0",
+  "fecha": "2026-11-14",
+  "cambios": [
+   {
+    "icono": "sort",
+    "es": [
+     "Guía de build más clara",
+     "Los botones de orden («Más urgentes primero» / «Orden del equipo») y «Solo por mejorar» están ahora encima de las piezas, que es lo que ordenan, con su título «Pieza a pieza»."
+    ],
+    "en": [
+     "Clearer build guide",
+     "Sort buttons and «Only to upgrade» now sit right above the pieces they sort."
+    ]
+   },
+   {
+    "icono": "shield",
+    "es": [
+     "Protección",
+     "La interfaz va ofuscada y sin menú de inspección (F12, clic derecho). Licencia de uso personal en el repositorio."
+    ],
+    "en": [
+     "Protection",
+     "The interface is obfuscated and has no inspection menu (F12, right click). Personal-use license in the repository."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.7.2",
   "fecha": "2026-11-14",
   "cambios": [

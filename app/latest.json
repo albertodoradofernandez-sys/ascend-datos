@@ -1,11 +1,11 @@
 {
- "version": "0.7.2",
- "notes": "Plan de soul bind en la Guía de build",
- "pub_date": "2026-11-14T20:51:14Z",
+ "version": "0.8.0",
+ "notes": "Interfaz ofuscada, sin menú de inspección y Guía de build más clara",
+ "pub_date": "2026-11-14T21:00:28Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTBsamZueVhPbmtrWGVmZUg4bDJtZzhVenVQL1JkS0pSbFBubmQ3bnJqOUhNWmFqWHU5Tlh5UVVzQkJBQlVER0RlTElJMzFDc2hZMW9ZTzNjOVlDUmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njg5NDY5CWZpbGU6QXNjZW5kXzAuNy4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMgpoQS84UWw4NTByM2tscWIzUzV2U0pwT1lGSlpVeVNjNHhIdHhteXhkSG5DYTA5RklTb3ZZSlpxNU5qSTY4NEdONFRSYjdDSjdBdzVKL2NTb0N1anBEQT09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.7.2/Ascend_0.7.2_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTZFVlhMZURKb1U1ZXhLNGh4SjFjN2JiaFY3OU9tbWZKY1c0RDgwZ1A4V3FjVGFjQkF0aE1ra2huUUhUTFg4QnRkZ0l4RkxVSnNzK245YUFDOUw2MFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjkwMDIyCWZpbGU6QXNjZW5kXzAuOC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjguMApxaEk4cWM4ZWJzVzJOSGRUdGQ5QVN1RitQNXFJTnRzWml0WlA4RGZ4L2pDRStLRTJTOWo4MUZOM21Ibm8wZ1d6Y0JidXliVGxHTWpxRFhhNURYSXlDUT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.8.0/Ascend_0.8.0_x64-setup.exe"
   }
  }
 }
