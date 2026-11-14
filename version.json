@@ -1,7 +1,7 @@
 {
- "version": "202611141835",
- "fecha": "2026-11-14T18:35:42",
- "notas": "Datos del 14/11: piedra filosofal del top",
+ "version": "202611142228",
+ "fecha": "2026-11-14T22:28:27",
+ "notas": "Daevanion del top (Asesino; el resto llega en la siguiente actualización)",
  "archivos": [
   "comun.db.gz",
   "parches.json",
@@ -16,6 +16,7 @@
   "colecciones.json",
   "titulos.json",
   "ranking.json",
-  "astral_vision.json"
+  "astral_vision.json",
+  "daevanion_top.json"
  ]
 }
