@@ -1,11 +1,11 @@
 {
- "version": "0.6.3",
- "notes": "Arcanas con el % del top en cada skill y avisos de versión al momento",
- "pub_date": "2026-11-14T15:43:55Z",
+ "version": "0.7.0",
+ "notes": "Discord de Ascend, Simulador renovado y más nombres oficiales en español",
+ "pub_date": "2026-11-14T16:29:31Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQThoUEZlNkpGblVuZTFJNnJOd3lyY3FpbHhUQlBYRG1yLzhtK1R5YkVMU0FHUkp6NXhFeE9GVU95ZjJHZStETk14c1lpb2drUjFZdmUzU1lNN0l0TlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjcxMDI5CWZpbGU6QXNjZW5kXzAuNi4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMwo2WElJT1FJODdFbWthejQzN1JWbUZ0QmNSV1AvU0NNeGw1TWNtaUdCQmRxVzNtbEc3Uk8vaU5KZlYwUUpwQm9lNUhEOVJxNlFOdEl2K1FHcHhQamdEZz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.6.3/Ascend_0.6.3_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTBJM2hJV1FQcG9QbmNXSTZyOWh0OHQwY3BoOFh0K0JJT3drZDgwSzJ5dFJVNlJKejB3bUpuZnFmNkg5ZGVXNkxXSlk4OVRQcStZcUQvcGVhMXBsY2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjczNzY3CWZpbGU6QXNjZW5kXzAuNy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMAp1VndkK092VkwyNnhtRVJVZUgrUC9DYXhCaUV2cSsvS2hyVlhiaVJZWGZEQURPb1lVVnV3ZTFSSG1UN29yaytLTUxXTFlPc1lhZENxY1RQVmZPUTdDZz09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.7.0/Ascend_0.7.0_x64-setup.exe"
   }
  }
 }

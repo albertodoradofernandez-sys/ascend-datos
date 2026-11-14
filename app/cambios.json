@@ -1,5 +1,44 @@
 [
  {
+  "version": "0.7.0",
+  "fecha": "2026-11-14",
+  "cambios": [
+   {
+    "icono": "forum",
+    "es": [
+     "Discord de Ascend",
+     "Nuevo botón en el menú para unirte al servidor: ayuda, fallos, ideas y builds por clase."
+    ],
+    "en": [
+     "Ascend Discord",
+     "New menu button to join the server: help, bugs, ideas and builds by class."
+    ]
+   },
+   {
+    "icono": "science",
+    "es": [
+     "Simulador renovado",
+     "El estimador tiene tarjetas con botones − / + para cada mejora (nivel de objeto, Daevanion, títulos, niveles de mejora), el CP que aporta cada una y un botón para volver a tus valores."
+    ],
+    "en": [
+     "Revamped simulator",
+     "The estimator has cards with − / + buttons for each upgrade, the CP each one adds and a reset button."
+    ]
+   },
+   {
+    "icono": "translate",
+    "es": [
+     "Más nombres oficiales en español",
+     "Alas, títulos, mascotas, stats de soul bind y manastones, y objetos de Élite. Las clases salen en español en todas las pantallas."
+    ],
+    "en": [
+     "More official Spanish names",
+     "Wings, titles, pets, soul bind and manastone stats and Elite items. Class names are translated everywhere."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.6.3",
   "fecha": "2026-11-14",
   "cambios": [
