@@ -1,11 +1,11 @@
 {
- "version": "0.7.1",
- "notes": "Piedra filosofal en la Guía de build y Guía traducida",
- "pub_date": "2026-11-14T17:42:01Z",
+ "version": "0.7.2",
+ "notes": "Plan de soul bind en la Guía de build",
+ "pub_date": "2026-11-14T20:51:14Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQThJZzBYMzdBVE5vdkpMRFIzMFpEQVdZdHRnb1NzWEJ5anB0WDhzM0pERUNodzVaam81b1B4ZTJYQS9BYndWMVlaRmQwbW5xb2lmUmtUYWdqcjB3UHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njc4MTE2CWZpbGU6QXNjZW5kXzAuNy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMQo1R0ZuUzlLcnJzL3dVb1gvKzBjdG4zUFBJbXJWbnYxWHZOZzk0bG9PV3dzYWZRTTdaVnpad1RvT3hGem5VZzd6ZE52NUF2M01OSHFlY2RsNHNXVExDQT09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.7.1/Ascend_0.7.1_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTBsamZueVhPbmtrWGVmZUg4bDJtZzhVenVQL1JkS0pSbFBubmQ3bnJqOUhNWmFqWHU5Tlh5UVVzQkJBQlVER0RlTElJMzFDc2hZMW9ZTzNjOVlDUmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njg5NDY5CWZpbGU6QXNjZW5kXzAuNy4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMgpoQS84UWw4NTByM2tscWIzUzV2U0pwT1lGSlpVeVNjNHhIdHhteXhkSG5DYTA5RklTb3ZZSlpxNU5qSTY4NEdONFRSYjdDSjdBdzVKL2NTb0N1anBEQT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.7.2/Ascend_0.7.2_x64-setup.exe"
   }
  }
 }

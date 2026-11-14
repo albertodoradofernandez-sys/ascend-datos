@@ -1,5 +1,22 @@
 [
  {
+  "version": "0.7.2",
+  "fecha": "2026-11-14",
+  "cambios": [
+   {
+    "icono": "auto_fix_high",
+    "es": [
+     "Plan de soul bind",
+     "En la Guía de build, qué hacer con cada pieza y en qué orden: reiniciar con libro si no sirve ninguna línea, Sync si te falta alguna, cuándo renta subir el vínculo (y cuándo esperar), dónde poner la piedra filosofal y qué piezas son de paso para no gastar en ellas."
+    ],
+    "en": [
+     "Soul bind plan",
+     "In the Build guide, what to do with each piece and in which order: reset book, Sync, when raising the bind pays off, where to use the Philosopher's Stone and which pieces are temporary."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.7.1",
   "fecha": "2026-11-14",
   "cambios": [
