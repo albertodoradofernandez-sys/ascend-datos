@@ -1,7 +1,7 @@
 {
- "version": "202611132144",
- "fecha": "2026-11-13T21:44:12",
- "notas": "Datos del 13/11: meta con el top real de EU",
+ "version": "202611141835",
+ "fecha": "2026-11-14T18:35:42",
+ "notas": "Datos del 14/11: piedra filosofal del top",
  "archivos": [
   "comun.db.gz",
   "parches.json",
