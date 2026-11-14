@@ -59,3 +59,5 @@ La app **se actualiza sola**: cuando hay versión nueva te avisa, y los datos de
 
 <sub>This repository also hosts the shared data the app downloads (top players, metas, catalogs). Not affiliated with NCSOFT. ·
 Este repositorio también guarda los datos que descarga la app. No está afiliada a NCSOFT.</sub>
+
+<sub>© 2026 Alberto Dorado Fernández. All rights reserved: free for personal use; copying, modifying, reverse engineering or redistributing the app or its data is not allowed (see [LICENSE](LICENSE)). · Todos los derechos reservados: uso personal gratuito; no se permite copiar, modificar, descompilar ni redistribuir la app ni sus datos.</sub>
