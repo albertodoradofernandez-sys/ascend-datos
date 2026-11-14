@@ -1,5 +1,77 @@
 [
  {
+  "version": "0.9.0",
+  "fecha": "2026-11-14",
+  "cambios": [
+   {
+    "icono": "monitoring",
+    "es": [
+     "Daño real",
+     "Página nueva con tu DPS medido por Questlog: récord en el muñeco, DPS típico en jefes de la semana, récords por jefe y si tu daño sube al subir el CP."
+    ],
+    "en": [
+     "Real damage",
+     "New page with your DPS from Questlog: dummy record, weekly boss DPS, records per boss and whether damage rises with CP."
+    ]
+   },
+   {
+    "icono": "leaderboard",
+    "es": [
+     "Ranking",
+     "Tu puesto en tu servidor (por clase o en general) y una tabla con tus amigos y personajes, con lo que ha subido cada uno en 7 días. Los amigos son los que buscas en Cara a cara."
+    ],
+    "en": [
+     "Ranking",
+     "Your place on your server and a table with your friends and characters, with their 7-day gain."
+    ]
+   },
+   {
+    "icono": "hub",
+    "es": [
+     "Daevanion visual",
+     "Tus tableros dibujados nodo a nodo: en verde lo que tienes y en ámbar lo que abre el top de tu clase y a ti te falta, con la lista de lo siguiente que abrir."
+    ],
+    "en": [
+     "Visual Daevanion",
+     "Your boards node by node: green is yours, amber is what the top of your class opens and you lack."
+    ]
+   },
+   {
+    "icono": "campaign",
+    "es": [
+     "Avisos de parche",
+     "El Panel avisa cuando un parche cambia tu clase (y de lo que ya ha salido en Corea), con enlace a Especialidades si cambian."
+    ],
+    "en": [
+     "Patch alerts",
+     "The Dashboard warns when a patch changes your class (and what Korea already got)."
+    ]
+   },
+   {
+    "icono": "payments",
+    "es": [
+     "Coste del Sync",
+     "El plan de Soul bind dice cuántos intentos de Sync cuesta de media cada línea y cuánto kinah supone."
+    ],
+    "en": [
+     "Sync cost",
+     "The Soul bind plan shows the average Sync attempts and kinah per line."
+    ]
+   },
+   {
+    "icono": "translate",
+    "es": [
+     "Genus en español",
+     "Más nombres de estadísticas del Genus traducidos con los nombres oficiales."
+    ],
+    "en": [
+     "Genus translations",
+     "More Genus stat names with official Spanish names."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.8.0",
   "fecha": "2026-11-14",
   "cambios": [

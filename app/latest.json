@@ -1,11 +1,11 @@
 {
- "version": "0.8.0",
- "notes": "Interfaz ofuscada, sin menú de inspección y Guía de build más clara",
- "pub_date": "2026-11-14T21:00:28Z",
+ "version": "0.9.0",
+ "notes": "Daño real, Ranking, Daevanion visual, avisos de parche y coste del Sync",
+ "pub_date": "2026-11-14T21:38:00Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTZFVlhMZURKb1U1ZXhLNGh4SjFjN2JiaFY3OU9tbWZKY1c0RDgwZ1A4V3FjVGFjQkF0aE1ra2huUUhUTFg4QnRkZ0l4RkxVSnNzK245YUFDOUw2MFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjkwMDIyCWZpbGU6QXNjZW5kXzAuOC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjguMApxaEk4cWM4ZWJzVzJOSGRUdGQ5QVN1RitQNXFJTnRzWml0WlA4RGZ4L2pDRStLRTJTOWo4MUZOM21Ibm8wZ1d6Y0JidXliVGxHTWpxRFhhNURYSXlDUT09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.8.0/Ascend_0.8.0_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXdTSElrZURCOWtkV2E1WXgvNlRuaTVER1UrSnR1bXZ2NnJRMmswVzk5VGpGdldyQjVLaGlpUjVuSG5CdjNHN2EwaWFyMEh1bXkvanJSb0xobFV2V2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjkyMjcyCWZpbGU6QXNjZW5kXzAuOS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMAptekhadm5SZm9yOG4rR3JGL0RpWkVWTWhzOFhKU1VMK2xESUVHYS9vK2VwbEtkVXVqNkdpT3lPUStrTnFJM0FMV1FsdzQ2S25HYzFUbGw2czBVeXBCUT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v0.9.0/Ascend_0.9.0_x64-setup.exe"
   }
  }
 }
