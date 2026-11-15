@@ -1,10 +1,11 @@
 // Ascend Web en Cloudflare (Worker con archivos estáticos, desplegado desde el repositorio ascend-datos):
 // · /plaync/* y /buscar/*: proxy de solo lectura a la API oficial de AION 2 (que no deja llamarla desde un navegador).
 // · Todo lo demás: la web (carpeta web/ del repositorio: la app compilada para navegador y sus datos del top).
-// No guarda nada de los usuarios: solo una caché corta para no repetir consultas iguales.
+// No guarda nada de los usuarios: solo una caché corta (30 s en perfiles, para que «Actualizar» vea los cambios
+// de manastones o soul bind) para no repetir consultas iguales.
 
 const DESTINOS = {
-  plaync: { base: 'https://aion2.plaync.com', rutas: ['/api/character/info', '/api/character/equipment', '/api/character/equipment/item', '/api/character/daevanion/detail'], cache: 600 },
+  plaync: { base: 'https://aion2.plaync.com', rutas: ['/api/character/info', '/api/character/equipment', '/api/character/equipment/item', '/api/character/daevanion/detail'], cache: 30 },
   buscar: { base: 'https://api-search.plaync.com', rutas: ['/aion2/search/v2/character', '/aion2global/search/v2/character'], cache: 120 },
 };
 
