@@ -1,5 +1,88 @@
 [
  {
+  "version": "1.0.0",
+  "fecha": "2026-11-15",
+  "cambios": [
+   {
+    "icono": "language",
+    "es": [
+     "Ascend Web",
+     "Ascend también funciona en el navegador, sin instalar: ascend-datos.albertodoradofernandez.workers.dev. Busca tu personaje y tendrás tu ficha, guía, arcanas y ruta. Con «?demo» se ve con un personaje de ejemplo."
+    ],
+    "en": [
+     "Ascend Web",
+     "Ascend now runs in the browser, no install needed."
+    ]
+   },
+   {
+    "icono": "view_column",
+    "es": [
+     "Rotación y macro",
+     "Página nueva: la barra de skills de cada clase dibujada como en el juego (filas 0-3 por tecla) y la ventana de macro paso a paso, con lo que hace cada tecla."
+    ],
+    "en": [
+     "Rotation & macro",
+     "Each class skill bar drawn like in game, plus the macro window."
+    ]
+   },
+   {
+    "icono": "person_search",
+    "es": [
+     "Buscar tu personaje",
+     "Ahora puedes elegir el servidor al buscar, y salen primero los que se llaman exactamente así. Con nombres comunes ya no se pierde tu personaje."
+    ],
+    "en": [
+     "Character search",
+     "Pick the server and exact names come first."
+    ]
+   },
+   {
+    "icono": "campaign",
+    "es": [
+     "Parches con skills",
+     "Cada skill buffeada o nerfeada sale con su icono del juego y una flecha."
+    ],
+    "en": [
+     "Patch skills",
+     "Buffed and nerfed skills show their game icon."
+    ]
+   },
+   {
+    "icono": "link",
+    "es": [
+     "Soul bind en piezas de paso",
+     "Si la pieza final va a tardar, te dice que sí renta rolar líneas (se transfieren), pero no subir el vínculo ni la piedra. La pulsera Liberator: Sync Stone o libro de reinicio."
+    ],
+    "en": [
+     "Soul bind on temporary pieces",
+     "Rolling lines pays if the final piece is far off; bind and stone do not transfer."
+    ]
+   },
+   {
+    "icono": "casino",
+    "es": [
+     "Rolls estimados",
+     "En Arcanas, al subir una carta ves cuánto sube de media su habilidad clave y la probabilidad de que suba al menos una vez."
+    ],
+    "en": [
+     "Estimated rolls",
+     "Arcana upgrades show the expected gain of the key skill."
+    ]
+   },
+   {
+    "icono": "settings",
+    "es": [
+     "Ajustes nuevos",
+     "Ajustes ordenados por secciones, opción de abrir Ascend al encender el PC (viene desactivada), nombres del juego en inglés aunque la app esté en español, y botón para desinstalar."
+    ],
+    "en": [
+     "New settings",
+     "Start with Windows (off by default), English game names and an uninstall button."
+    ]
+   }
+  ]
+ },
+ {
   "version": "0.9.1",
   "fecha": "2026-11-15",
   "cambios": [
