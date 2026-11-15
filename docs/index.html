@@ -86,6 +86,7 @@
   @media (max-width: 900px) { .hero { grid-template-columns: 1fr; padding-top: 24px; } .mock { transform: none; } .grid, .pasos { grid-template-columns: 1fr 1fr; } }
   @media (max-width: 600px) { .grid, .pasos, .seguro { grid-template-columns: 1fr; } .nav-d .btn { display: none; } }
   @media (prefers-reduced-motion: reduce) { .aurora, .entra { animation: none; transition: none; opacity: 1; transform: none; } }
+  .video-sec { text-align: center; } .video-demo { width: 100%; max-width: 1100px; border-radius: 18px; border: 1px solid rgba(255,255,255,.08); box-shadow: 0 30px 80px rgba(0,0,0,.5); display: block; margin: 0 auto; }
 </style>
 </head>
 <body>
@@ -126,6 +127,11 @@
       <div class="kpis"><div><small data-t="m7">Spend</small><b>18M</b></div><div><small data-t="m8">Gain</small><b style="color:var(--verde)">+2,450</b></div><div><small data-t="m9">Per day</small><b>+900</b></div></div>
     </div>
   </header>
+
+  <section class="video-sec">
+    <h2 data-t="v">See it in 30 seconds</h2>
+    <video class="video-demo entra" src="ascend-presentacion.mp4" autoplay muted loop playsinline preload="metadata" aria-label="Ascend demo video"></video>
+  </section>
 
   <section id="funciones">
     <h2 data-t="f">Everything that raises your CP</h2>
@@ -192,7 +198,7 @@
     lead: 'Ascend compara tu personaje con el top real de tu clase y te dice tu puesto de verdad, qué te sube más el CP y cuánto kinah te va a costar.',
     cta: 'Descargar para Windows', cta2: 'Ver qué hace', disc: 'Únete al Discord', mini: 'Nunca toca el juego · Usa la API pública de NC y tus datos locales de Questlog · Se actualiza sola',
     m1: 'Tu puesto', m2: 'de 40.000 Gladiadores en EU', ej: 'Ejemplo', m3: 'Plan de presupuesto · 20 M de kinah', m4: 'Pendiente 1 · amp. +2 → +3', m5: 'Anillo 2 · amp. +2 → +3', m6: 'Pecho +11 → +12',
-    navw: 'Probar online', ctaw: 'Pruébala online, sin instalar', w: 'Pruébala antes de instalar', ws: 'La versión web hace lo mismo con tu personaje: busca tu nombre y tendrás tu ficha, tu puesto, la guía de build, las arcanas y la ruta de ascenso. Si te gusta, descarga la app para el daño real de Questlog, los presets de rendimiento y las actualizaciones automáticas.', wb: 'Abrir Ascend Web',
+    v: 'Mírala en 30 segundos', navw: 'Probar online', ctaw: 'Pruébala online, sin instalar', w: 'Pruébala antes de instalar', ws: 'La versión web hace lo mismo con tu personaje: busca tu nombre y tendrás tu ficha, tu puesto, la guía de build, las arcanas y la ruta de ascenso. Si te gusta, descarga la app para el daño real de Questlog, los presets de rendimiento y las actualizaciones automáticas.', wb: 'Abrir Ascend Web',
     c7: 'Rotación y macro', c7p: 'La barra de skills de tu clase dibujada como en el juego (filas 0-3 por tecla) y la ventana de macro paso a paso.', c8: 'Plan de Daevanion', c8p: 'Tus tableros nodo a nodo: lo que abre el top 30 y a ti te falta, numerado en el orden en que abrirlo.', c9: 'Avisos de parche', c9p: 'Buffs y nerfs a tu clase con el icono de la skill, y lo que ya salió en Corea y llegará después.',
     m7: 'Gastas', m8: 'Subes', m9: 'Por día',
     f: 'Todo lo que te sube el CP', fs: 'Cada herramienta te compara con el top 30 de tu clase y tu región, y te explica por qué.',
