@@ -1,11 +1,11 @@
 {
- "version": "1.0.2",
- "notes": "CP por línea corregido, sin pulseras en soul bind, piedra filosofal, rotación más real, parches en inglés y resaltado opcional",
- "pub_date": "2026-11-15T11:02:22Z",
+ "version": "1.0.3",
+ "notes": "Actualizar un personaje ya ve los cambios de manastones, soul bind y piedra filosofal",
+ "pub_date": "2026-11-15T11:16:01Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTNBWlNPNkRCd0V0R25ZRzNwaGNOQXE0Sk9OTE5CRGhkRWVUNmJZS3N1TlRmQlhCbUY1c1N5cWJXdUdJbnJJWVZaQ3RmM1dBVm1helEwdWs2ZUJ0VUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQwNTM2CWZpbGU6QXNjZW5kXzEuMC4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMgoxZy9WS0FVVlhHYzF5amVXMWRLdytHRzM0SzlzbFVJb3c5QnZTTDNSdWZGLzhlVnQrV0tNYjh5UGFaUWhLUUJFdmU5ZVJLcmFjSTMreEZ5TWMwQW9BUT09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.0.2/Ascend_1.0.2_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTdUWVkzY3hkZTF6TWxld0JBbVlmay8xanZqeGlJR1A1endnNGJZOE9LTEZQMW9wb3hxUzJzdFQ1MWkvRlN1RnpGSDF3SDFGSzRnZkF4Q0t0Ynlta0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQxMzU2CWZpbGU6QXNjZW5kXzEuMC4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMwpSMGpjT29WVStEUVI1dVc5cjV0QmpzUXhPQ3ovMkRqUGVNVURiT2hOWjVsZG94aVlCYTZkeVpaQVNUYk54QUx4cE56c2pEUFBMdGhDM04wUmdVcVJBZz09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.0.3/Ascend_1.0.3_x64-setup.exe"
   }
  }
 }

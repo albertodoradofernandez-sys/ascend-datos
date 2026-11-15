@@ -1,5 +1,22 @@
 [
  {
+  "version": "1.0.3",
+  "fecha": "2026-11-15",
+  "cambios": [
+   {
+    "icono": "sync",
+    "es": [
+     "Actualizar ve todos los cambios",
+     "Al actualizar un personaje se vuelven a leer todas sus piezas: ya salen los cambios de manastones, soul bind y piedra filosofal (antes solo si cambiaba el objeto o su mejora)."
+    ],
+    "en": [
+     "Update sees every change",
+     "Updating a character re-reads every piece, so manastone, soul bind and Philosopher's Stone changes now show."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.0.2",
   "fecha": "2026-11-15",
   "cambios": [
