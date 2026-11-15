@@ -1,5 +1,22 @@
 [
  {
+  "version": "1.0.4",
+  "fecha": "2026-11-15",
+  "cambios": [
+   {
+    "icono": "view_column",
+    "es": [
+     "Rotación y macro de Corea",
+     "Las barras y macros de Gladiador, Asesino, Espiritualista, Clérigo, Cantor, Templario y Arquero siguen ahora lo que hacen los jugadores coreanos (antes del parche del Capítulo 1), con su fuente y fecha. Cada paso de la macro puede ser una skill o una columna entera."
+    ],
+    "en": [
+     "Korean rotation and macro",
+     "Bars and macros for seven classes now follow Korean players (before the Chapter 1 patch), with source and date."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.0.3",
   "fecha": "2026-11-15",
   "cambios": [
