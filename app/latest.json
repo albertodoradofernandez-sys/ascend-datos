@@ -1,11 +1,11 @@
 {
- "version": "1.0.0",
- "notes": "Ascend 1.0: versión web, Rotación y macro, buscador por servidor, parches con skills, soul bind en piezas de paso, rolls estimados y ajustes nuevos",
- "pub_date": "2026-11-15T02:44:11Z",
+ "version": "1.0.1",
+ "notes": "Bloques plegables, textos en inglés corregidos y nueva dirección de la web",
+ "pub_date": "2026-11-15T03:05:23Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXhZaW9uT1BNR2tEM1dCcks3UVFJclpWVlRPNVl3ZFdaczZ2QWYzRWp5cm9DT0JnSVFjVGVJbU1COWp5U2M3NTdnbXBvbXY4RTRXNWU2cW1mOTUrVWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzEwNjQ2CWZpbGU6QXNjZW5kXzEuMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMApaNitTeTMrOHp6QVc0RVBlUHB0bmxUUW5iV2xIMHNvY3FsTi9XdTkzNlVhUWVvUjFWSzd5WHcralJSbEQ0WEZ4Zno4QzR2NGFWWEdWODJUd1RNenVCQT09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.0.0/Ascend_1.0.0_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTBibk90SlJMWlRHYzNDT2QzZHVPK1NubmlPZm9DYUdCcE5iZzhXMldBMDZHV1FuM1NEdEZkRk9yNElDSzRKRnlNMkx5Y05PamVsYXg1d2lHZ3ZkV1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzExOTE4CWZpbGU6QXNjZW5kXzEuMC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMQpUcXNTNGVkVWZSY2QyVDJOOElwR0JhYjMyQW1iZGdwMFcyUVNVamZuVzdsbFc1WForWkgycExRMkN4aE1HZWdrN0pyeVZDcHB5MzJzamgwK240VTRBUT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.0.1/Ascend_1.0.1_x64-setup.exe"
   }
  }
 }

@@ -1,5 +1,44 @@
 [
  {
+  "version": "1.0.1",
+  "fecha": "2026-11-15",
+  "cambios": [
+   {
+    "icono": "unfold_less",
+    "es": [
+     "Bloques plegables",
+     "En la Guía y la Ruta, pulsa el título de un bloque (Soul bind, plan de presupuesto, piedra filosofal, runas…) para cerrarlo o abrirlo. Se recuerda cómo lo dejas."
+    ],
+    "en": [
+     "Collapsible blocks",
+     "Click a block title in the Guide and the Path to collapse or expand it."
+    ]
+   },
+   {
+    "icono": "translate",
+    "es": [
+     "Textos en inglés",
+     "Con la app en inglés ya no salen en español los títulos de la ficha ni las categorías de «lo que más te sube»."
+    ],
+    "en": [
+     "English texts",
+     "Sheet section titles and upgrade categories now show in English."
+    ]
+   },
+   {
+    "icono": "language",
+    "es": [
+     "Nueva dirección de la web",
+     "Ascend Web pasa a ascend.albertodoradofernandez.workers.dev, con la presentación en /about/ y un vídeo de 30 s en español e inglés."
+    ],
+    "en": [
+     "New web address",
+     "Ascend Web moved to ascend.albertodoradofernandez.workers.dev, with an /about/ page and a 30 s video."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.0.0",
   "fecha": "2026-11-15",
   "cambios": [
@@ -7,7 +46,7 @@
     "icono": "language",
     "es": [
      "Ascend Web",
-     "Ascend también funciona en el navegador, sin instalar: ascend-datos.albertodoradofernandez.workers.dev. Busca tu personaje y tendrás tu ficha, guía, arcanas y ruta. Con «?demo» se ve con un personaje de ejemplo."
+     "Ascend también funciona en el navegador, sin instalar: ascend.albertodoradofernandez.workers.dev. Busca tu personaje y tendrás tu ficha, guía, arcanas y ruta. Con «?demo» se ve con un personaje de ejemplo."
     ],
     "en": [
      "Ascend Web",
