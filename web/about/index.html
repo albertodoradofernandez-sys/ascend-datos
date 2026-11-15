@@ -130,7 +130,7 @@
 
   <section class="video-sec">
     <h2 data-t="v">See it in 30 seconds</h2>
-    <video class="video-demo entra" src="ascend-presentacion.mp4" autoplay muted loop playsinline preload="metadata" aria-label="Ascend demo video"></video>
+    <video class="video-demo entra" autoplay muted loop playsinline preload="metadata" aria-label="Ascend demo video"></video>
   </section>
 
   <section id="funciones">
@@ -225,6 +225,10 @@
     const t = l === 'es' ? ES : EN;
     document.querySelectorAll('[data-t]').forEach((el) => { if (t[el.dataset.t]) el.innerHTML = t[el.dataset.t]; });
     document.documentElement.lang = l;
+    // El vídeo, en el idioma elegido
+    const v = document.querySelector('.video-demo');
+    const src = l === 'es' ? 'ascend-presentacion.mp4' : 'ascend-presentacion-en.mp4';
+    if (v && !v.src.endsWith(src)) { v.src = src; v.play().catch(() => {}); }
     document.querySelectorAll('.idioma button').forEach((b) => b.classList.toggle('on', b.dataset.l === l));
     try { localStorage.setItem('ascend.web.idioma', l); } catch {}
   }
