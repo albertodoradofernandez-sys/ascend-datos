@@ -1,0 +1,1057 @@
+[
+{
+"id": "addicted-shulak-cart-worker",
+"nombre": "Addicted Shulak Cart Worker",
+"familia": "Cogni"
+},
+{
+"id": "aullaeu-shaman",
+"nombre": "Aullaeu Shaman",
+"familia": "Cogni"
+},
+{
+"id": "aultrosss-doppelganger",
+"nombre": "Aultross's Doppelganger",
+"familia": "Cogni"
+},
+{
+"id": "biruta",
+"nombre": "Biruta",
+"familia": "Cogni"
+},
+{
+"id": "biruta-herbalist",
+"nombre": "Biruta Herbalist",
+"familia": "Cogni"
+},
+{
+"id": "decomposed-lupyllini",
+"nombre": "Decomposed Lupyllini",
+"familia": "Cogni"
+},
+{
+"id": "dracuni-herbalist",
+"nombre": "Dracuni Herbalist",
+"familia": "Cogni"
+},
+{
+"id": "drakan-watcher",
+"nombre": "Drakan Watcher",
+"familia": "Cogni"
+},
+{
+"id": "dratona",
+"nombre": "Dratona",
+"familia": "Cogni"
+},
+{
+"id": "dratona-tinkerer",
+"nombre": "Dratona Tinkerer",
+"familia": "Cogni"
+},
+{
+"id": "elite-dratona",
+"nombre": "Elite Dratona",
+"familia": "Cogni"
+},
+{
+"id": "elite-klaw",
+"nombre": "Elite Klaw",
+"familia": "Cogni"
+},
+{
+"id": "elite-manduri-fighter",
+"nombre": "Elite Manduri Fighter",
+"familia": "Cogni"
+},
+{
+"id": "enhanced-krall-combatant",
+"nombre": "Enhanced Krall Combatant",
+"familia": "Cogni"
+},
+{
+"id": "enhanced-krall-sentry",
+"nombre": "Enhanced Krall Sentry",
+"familia": "Cogni"
+},
+{
+"id": "furious-feruk",
+"nombre": "Furious Feruk",
+"familia": "Cogni"
+},
+{
+"id": "kerubar",
+"nombre": "Kerubar",
+"familia": "Cogni"
+},
+{
+"id": "kerubian",
+"nombre": "Kerubian",
+"familia": "Cogni"
+},
+{
+"id": "kerubiel",
+"nombre": "Kerubiel",
+"familia": "Cogni"
+},
+{
+"id": "klaw",
+"nombre": "Klaw",
+"familia": "Cogni"
+},
+{
+"id": "klaw-scout",
+"nombre": "Klaw Scout",
+"familia": "Cogni"
+},
+{
+"id": "krall-laborer",
+"nombre": "Krall Laborer",
+"familia": "Cogni"
+},
+{
+"id": "krall-warrior",
+"nombre": "Krall Warrior",
+"familia": "Cogni"
+},
+{
+"id": "krall-warshaman",
+"nombre": "Krall Warshaman",
+"familia": "Cogni"
+},
+{
+"id": "kuru-overseer",
+"nombre": "Kuru Overseer",
+"familia": "Cogni"
+},
+{
+"id": "kuru-tinkerer",
+"nombre": "Kuru Tinkerer",
+"familia": "Cogni"
+},
+{
+"id": "kuru-worker",
+"nombre": "Kuru Worker",
+"familia": "Cogni"
+},
+{
+"id": "manduri-fighter",
+"nombre": "Manduri Fighter",
+"familia": "Cogni"
+},
+{
+"id": "manduri-trebuchet-worker",
+"nombre": "Manduri Trebuchet Worker",
+"familia": "Cogni"
+},
+{
+"id": "modified-lupyllini",
+"nombre": "Modified Lupyllini",
+"familia": "Cogni"
+},
+{
+"id": "mumu-overseer",
+"nombre": "Mumu Overseer",
+"familia": "Cogni"
+},
+{
+"id": "mumu-warrior",
+"nombre": "Mumu Warrior",
+"familia": "Cogni"
+},
+{
+"id": "mumu-worker",
+"nombre": "Mumu Worker",
+"familia": "Cogni"
+},
+{
+"id": "naga-elite-priest",
+"nombre": "Naga Elite Priest",
+"familia": "Cogni"
+},
+{
+"id": "nagarant-guardian-warrior",
+"nombre": "Nagarant Guardian Warrior",
+"familia": "Cogni"
+},
+{
+"id": "phantasmal-lakshmi",
+"nombre": "Phantasmal Lakshmi",
+"familia": "Cogni"
+},
+{
+"id": "predator-saraswati",
+"nombre": "Predator Saraswati",
+"familia": "Cogni"
+},
+{
+"id": "pretor-veil-administrator",
+"nombre": "Pretor Veil Administrator",
+"familia": "Cogni"
+},
+{
+"id": "sentinel-knash",
+"nombre": "Sentinel K'nash",
+"familia": "Cogni"
+},
+{
+"id": "urugugu-brawler",
+"nombre": "Urugugu Brawler",
+"familia": "Cogni"
+},
+{
+"id": "varg-berserker",
+"nombre": "Varg Berserker",
+"familia": "Cogni"
+},
+{
+"id": "aberrant-armadon",
+"nombre": "Aberrant Armadon",
+"familia": "Fera"
+},
+{
+"id": "aberrant-bee",
+"nombre": "Aberrant Bee",
+"familia": "Fera"
+},
+{
+"id": "aberrant-coradon",
+"nombre": "Aberrant Coradon",
+"familia": "Fera"
+},
+{
+"id": "aberrant-odyle-spider",
+"nombre": "Aberrant Odyle Spider",
+"familia": "Fera"
+},
+{
+"id": "aberrant-potcrab",
+"nombre": "Aberrant Potcrab",
+"familia": "Fera"
+},
+{
+"id": "aberrant-skama",
+"nombre": "Aberrant Skama",
+"familia": "Fera"
+},
+{
+"id": "aberrant-tog",
+"nombre": "Aberrant Tog",
+"familia": "Fera"
+},
+{
+"id": "aberrant-zaif",
+"nombre": "Aberrant Zaif",
+"familia": "Fera"
+},
+{
+"id": "airon",
+"nombre": "Airon",
+"familia": "Fera"
+},
+{
+"id": "armadon",
+"nombre": "Armadon",
+"familia": "Fera"
+},
+{
+"id": "ashen-basilisk",
+"nombre": "Ashen Basilisk",
+"familia": "Fera"
+},
+{
+"id": "ashen-lupyllini",
+"nombre": "Ashen Lupyllini",
+"familia": "Fera"
+},
+{
+"id": "ashen-spider",
+"nombre": "Ashen Spider",
+"familia": "Fera"
+},
+{
+"id": "baby-odyle-spider",
+"nombre": "Baby Odyle Spider",
+"familia": "Fera"
+},
+{
+"id": "basilisk",
+"nombre": "Basilisk",
+"familia": "Fera"
+},
+{
+"id": "brax",
+"nombre": "Brax",
+"familia": "Fera"
+},
+{
+"id": "cadaver-insectoid",
+"nombre": "Cadaver Insectoid",
+"familia": "Fera"
+},
+{
+"id": "cave-bat",
+"nombre": "Cave Bat",
+"familia": "Fera"
+},
+{
+"id": "coradon",
+"nombre": "Coradon",
+"familia": "Fera"
+},
+{
+"id": "crasaur",
+"nombre": "Crasaur",
+"familia": "Fera"
+},
+{
+"id": "crestlich",
+"nombre": "Crestlich",
+"familia": "Fera"
+},
+{
+"id": "drakan-guard-dog",
+"nombre": "Drakan Guard Dog",
+"familia": "Fera"
+},
+{
+"id": "elite-karnif",
+"nombre": "Elite Karnif",
+"familia": "Fera"
+},
+{
+"id": "elite-keneire",
+"nombre": "Elite Keneire",
+"familia": "Fera"
+},
+{
+"id": "elite-ursus",
+"nombre": "Elite Ursus",
+"familia": "Fera"
+},
+{
+"id": "eternal-coradon",
+"nombre": "Eternal Coradon",
+"familia": "Fera"
+},
+{
+"id": "flame-barghest",
+"nombre": "Flame Barghest",
+"familia": "Fera"
+},
+{
+"id": "fossa",
+"nombre": "Fossa",
+"familia": "Fera"
+},
+{
+"id": "giant-bee",
+"nombre": "Giant Bee",
+"familia": "Fera"
+},
+{
+"id": "giant-sparkie",
+"nombre": "Giant Sparkie",
+"familia": "Fera"
+},
+{
+"id": "grave-rat",
+"nombre": "Grave Rat",
+"familia": "Fera"
+},
+{
+"id": "kailin",
+"nombre": "Kailin",
+"familia": "Fera"
+},
+{
+"id": "karnif",
+"nombre": "Karnif",
+"familia": "Fera"
+},
+{
+"id": "kernon",
+"nombre": "Kernon",
+"familia": "Fera"
+},
+{
+"id": "lupyllini",
+"nombre": "Lupyllini",
+"familia": "Fera"
+},
+{
+"id": "male-crestlich",
+"nombre": "Male Crestlich",
+"familia": "Fera"
+},
+{
+"id": "modified-karnif",
+"nombre": "Modified Karnif",
+"familia": "Fera"
+},
+{
+"id": "mutated-aberrant-odyle-spider",
+"nombre": "Mutated Aberrant Odyle Spider",
+"familia": "Fera"
+},
+{
+"id": "mutated-cadaver-insectoid",
+"nombre": "Mutated Cadaver Insectoid",
+"familia": "Fera"
+},
+{
+"id": "mutated-insectoid-valka",
+"nombre": "Mutated Insectoid Valka",
+"familia": "Fera"
+},
+{
+"id": "mutated-ursus",
+"nombre": "Mutated Ursus",
+"familia": "Fera"
+},
+{
+"id": "papis",
+"nombre": "Papis",
+"familia": "Fera"
+},
+{
+"id": "potcrab",
+"nombre": "Potcrab",
+"familia": "Fera"
+},
+{
+"id": "scorpion",
+"nombre": "Scorpion",
+"familia": "Fera"
+},
+{
+"id": "skama",
+"nombre": "Skama",
+"familia": "Fera"
+},
+{
+"id": "skyray",
+"nombre": "Skyray",
+"familia": "Fera"
+},
+{
+"id": "slink",
+"nombre": "Slink",
+"familia": "Fera"
+},
+{
+"id": "sparkie",
+"nombre": "Sparkie",
+"familia": "Fera"
+},
+{
+"id": "spider",
+"nombre": "Spider",
+"familia": "Fera"
+},
+{
+"id": "starturtle",
+"nombre": "Starturtle",
+"familia": "Fera"
+},
+{
+"id": "sylphen",
+"nombre": "Sylphen",
+"familia": "Fera"
+},
+{
+"id": "tamed-karnif",
+"nombre": "Tamed Karnif",
+"familia": "Fera"
+},
+{
+"id": "tamed-zaif",
+"nombre": "Tamed Zaif",
+"familia": "Fera"
+},
+{
+"id": "tayga",
+"nombre": "Tayga",
+"familia": "Fera"
+},
+{
+"id": "tog",
+"nombre": "Tog",
+"familia": "Fera"
+},
+{
+"id": "unstable-spider",
+"nombre": "Unstable Spider",
+"familia": "Fera"
+},
+{
+"id": "ursus",
+"nombre": "Ursus",
+"familia": "Fera"
+},
+{
+"id": "venomous-insect-sram",
+"nombre": "Venomous Insect Sram",
+"familia": "Fera"
+},
+{
+"id": "vivel",
+"nombre": "Vivel",
+"familia": "Fera"
+},
+{
+"id": "withered-branch-spider",
+"nombre": "Withered Branch Spider",
+"familia": "Fera"
+},
+{
+"id": "young-kailin",
+"nombre": "Young Kailin",
+"familia": "Fera"
+},
+{
+"id": "young-slink",
+"nombre": "Young Slink",
+"familia": "Fera"
+},
+{
+"id": "young-tog",
+"nombre": "Young Tog",
+"familia": "Fera"
+},
+{
+"id": "young-ursus",
+"nombre": "Young Ursus",
+"familia": "Fera"
+},
+{
+"id": "zaif",
+"nombre": "Zaif",
+"familia": "Fera"
+},
+{
+"id": "agrint",
+"nombre": "Agrint",
+"familia": "Natura"
+},
+{
+"id": "ancient-spirit",
+"nombre": "Ancient Spirit",
+"familia": "Natura"
+},
+{
+"id": "ashen-agrint",
+"nombre": "Ashen Agrint",
+"familia": "Natura"
+},
+{
+"id": "ashen-dionae",
+"nombre": "Ashen Dionae",
+"familia": "Natura"
+},
+{
+"id": "black-smoke-murute",
+"nombre": "Black Smoke Murute",
+"familia": "Natura"
+},
+{
+"id": "black-spirit",
+"nombre": "Black Spirit",
+"familia": "Natura"
+},
+{
+"id": "dionae",
+"nombre": "Dionae",
+"familia": "Natura"
+},
+{
+"id": "drana-spore",
+"nombre": "Drana Spore",
+"familia": "Natura"
+},
+{
+"id": "dried-up-forest-guardian",
+"nombre": "Dried Up Forest Guardian",
+"familia": "Natura"
+},
+{
+"id": "dry-leaf-agrint",
+"nombre": "Dry Leaf Agrint",
+"familia": "Natura"
+},
+{
+"id": "elite-poisonous-spore-fungen",
+"nombre": "Elite Poisonous Spore Fungen",
+"familia": "Natura"
+},
+{
+"id": "forest-dionae",
+"nombre": "Forest Dionae",
+"familia": "Natura"
+},
+{
+"id": "forest-guardian",
+"nombre": "Forest Guardian",
+"familia": "Natura"
+},
+{
+"id": "forest-specter",
+"nombre": "Forest Specter",
+"familia": "Natura"
+},
+{
+"id": "forest-spirit",
+"nombre": "Forest Spirit",
+"familia": "Natura"
+},
+{
+"id": "fungen",
+"nombre": "Fungen",
+"familia": "Natura"
+},
+{
+"id": "fungie",
+"nombre": "Fungie",
+"familia": "Natura"
+},
+{
+"id": "gravi",
+"nombre": "Gravi",
+"familia": "Natura"
+},
+{
+"id": "intermediate-earth-spirit",
+"nombre": "Intermediate Earth Spirit",
+"familia": "Natura"
+},
+{
+"id": "intermediate-fire-spirit",
+"nombre": "Intermediate Fire Spirit",
+"familia": "Natura"
+},
+{
+"id": "intermediate-water-spirit",
+"nombre": "Intermediate Water Spirit",
+"familia": "Natura"
+},
+{
+"id": "intermediate-wind-spirit",
+"nombre": "Intermediate Wind Spirit",
+"familia": "Natura"
+},
+{
+"id": "konutin-worker",
+"nombre": "Konutin Worker",
+"familia": "Natura"
+},
+{
+"id": "large-leaf-gravi",
+"nombre": "Large Leaf Gravi",
+"familia": "Natura"
+},
+{
+"id": "lesser-earth-spirit",
+"nombre": "Lesser Earth Spirit",
+"familia": "Natura"
+},
+{
+"id": "lesser-fire-spirit",
+"nombre": "Lesser Fire Spirit",
+"familia": "Natura"
+},
+{
+"id": "lesser-water-spirit",
+"nombre": "Lesser Water Spirit",
+"familia": "Natura"
+},
+{
+"id": "lesser-wind-spirit",
+"nombre": "Lesser Wind Spirit",
+"familia": "Natura"
+},
+{
+"id": "magic-gravi",
+"nombre": "Magic Gravi",
+"familia": "Natura"
+},
+{
+"id": "mutated-forest-guardian",
+"nombre": "Mutated Forest Guardian",
+"familia": "Natura"
+},
+{
+"id": "mutated-forest-spirit",
+"nombre": "Mutated Forest Spirit",
+"familia": "Natura"
+},
+{
+"id": "nepenthes",
+"nombre": "Nepenthes",
+"familia": "Natura"
+},
+{
+"id": "odyle-stone-spirit",
+"nombre": "Odyle Stone Spirit",
+"familia": "Natura"
+},
+{
+"id": "rafflesia",
+"nombre": "Rafflesia",
+"familia": "Natura"
+},
+{
+"id": "red-spark-ignus",
+"nombre": "Red Spark Ignus",
+"familia": "Natura"
+},
+{
+"id": "spirit-kings-bodyguard-warrior",
+"nombre": "Spirit King's Bodyguard Warrior",
+"familia": "Natura"
+},
+{
+"id": "stone-spirit",
+"nombre": "Stone Spirit",
+"familia": "Natura"
+},
+{
+"id": "superior-earth-spirit",
+"nombre": "Superior Earth Spirit",
+"familia": "Natura"
+},
+{
+"id": "superior-fire-spirit",
+"nombre": "Superior Fire Spirit",
+"familia": "Natura"
+},
+{
+"id": "superior-water-spirit",
+"nombre": "Superior Water Spirit",
+"familia": "Natura"
+},
+{
+"id": "superior-wind-spirit",
+"nombre": "Superior Wind Spirit",
+"familia": "Natura"
+},
+{
+"id": "thin-agrint",
+"nombre": "Thin Agrint",
+"familia": "Natura"
+},
+{
+"id": "ultimate-earth-spirit",
+"nombre": "Ultimate Earth Spirit",
+"familia": "Natura"
+},
+{
+"id": "ultimate-fire-spirit",
+"nombre": "Ultimate Fire Spirit",
+"familia": "Natura"
+},
+{
+"id": "ultimate-water-spirit",
+"nombre": "Ultimate Water Spirit",
+"familia": "Natura"
+},
+{
+"id": "ultimate-wind-spirit",
+"nombre": "Ultimate Wind Spirit",
+"familia": "Natura"
+},
+{
+"id": "withered-agrint",
+"nombre": "Withered Agrint",
+"familia": "Natura"
+},
+{
+"id": "zelophi",
+"nombre": "Zelophi",
+"familia": "Natura"
+},
+{
+"id": "azure-flame-kumiho",
+"nombre": "Azure Flame Kumiho",
+"familia": "Special"
+},
+{
+"id": "black-dragon",
+"nombre": "Black Dragon",
+"familia": "Special"
+},
+{
+"id": "chonky-hamster",
+"nombre": "Chonky Hamster",
+"familia": "Special"
+},
+{
+"id": "glossy-pink-puppy",
+"nombre": "Glossy Pink Puppy",
+"familia": "Special"
+},
+{
+"id": "little-ghost",
+"nombre": "Little Ghost",
+"familia": "Special"
+},
+{
+"id": "pagati",
+"nombre": "Pagati",
+"familia": "Special"
+},
+{
+"id": "pumpkin-carriage",
+"nombre": "Pumpkin Carriage",
+"familia": "Special"
+},
+{
+"id": "swift-lugi",
+"nombre": "Swift Lugi",
+"familia": "Special"
+},
+{
+"id": "two",
+"nombre": "Two",
+"familia": "Special"
+},
+{
+"id": "wandering-merchant-lugi",
+"nombre": "Wandering Merchant Lugi",
+"familia": "Special"
+},
+{
+"id": "white-bunny",
+"nombre": "White Bunny",
+"familia": "Special"
+},
+{
+"id": "blue-kalgolem",
+"nombre": "Blue Kalgolem",
+"familia": "Varian"
+},
+{
+"id": "cadaver-cleaner",
+"nombre": "Cadaver Cleaner",
+"familia": "Varian"
+},
+{
+"id": "congealed-drana",
+"nombre": "Congealed Drana",
+"familia": "Varian"
+},
+{
+"id": "contaminated-slime",
+"nombre": "Contaminated Slime",
+"familia": "Varian"
+},
+{
+"id": "dark-spirit",
+"nombre": "Dark Spirit",
+"familia": "Varian"
+},
+{
+"id": "distorted-mutant",
+"nombre": "Distorted Mutant",
+"familia": "Varian"
+},
+{
+"id": "drakan-probe",
+"nombre": "Drakan Probe",
+"familia": "Varian"
+},
+{
+"id": "drakana-kalgolem",
+"nombre": "Drakana Kalgolem",
+"familia": "Varian"
+},
+{
+"id": "drana-contaminant",
+"nombre": "Drana Contaminant",
+"familia": "Varian"
+},
+{
+"id": "drana-mutant",
+"nombre": "Drana Mutant",
+"familia": "Varian"
+},
+{
+"id": "drana-mutant-brute",
+"nombre": "Drana Mutant Brute",
+"familia": "Varian"
+},
+{
+"id": "drana-predator",
+"nombre": "Drana Predator",
+"familia": "Varian"
+},
+{
+"id": "drana-slime",
+"nombre": "Drana Slime",
+"familia": "Varian"
+},
+{
+"id": "drana-swarm",
+"nombre": "Drana Swarm",
+"familia": "Varian"
+},
+{
+"id": "duduka-trebuchet-worker",
+"nombre": "Duduka Trebuchet Worker",
+"familia": "Varian"
+},
+{
+"id": "duduka-worker",
+"nombre": "Duduka Worker",
+"familia": "Varian"
+},
+{
+"id": "elite-guardite",
+"nombre": "Elite Guardite",
+"familia": "Varian"
+},
+{
+"id": "elite-soulless-corpse-gnat",
+"nombre": "Elite Soulless Corpse Gnat",
+"familia": "Varian"
+},
+{
+"id": "faded-drana",
+"nombre": "Faded Drana",
+"familia": "Varian"
+},
+{
+"id": "faded-floater",
+"nombre": "Faded Floater",
+"familia": "Varian"
+},
+{
+"id": "faded-mutant",
+"nombre": "Faded Mutant",
+"familia": "Varian"
+},
+{
+"id": "faded-mutant-brute",
+"nombre": "Faded Mutant Brute",
+"familia": "Varian"
+},
+{
+"id": "faded-predator",
+"nombre": "Faded Predator",
+"familia": "Varian"
+},
+{
+"id": "flame-stone-guardian-statue",
+"nombre": "Flame Stone Guardian Statue",
+"familia": "Varian"
+},
+{
+"id": "forest-monster",
+"nombre": "Forest Monster",
+"familia": "Varian"
+},
+{
+"id": "gatekeeper-pinopi",
+"nombre": "Gatekeeper Pinopi",
+"familia": "Varian"
+},
+{
+"id": "guardite",
+"nombre": "Guardite",
+"familia": "Varian"
+},
+{
+"id": "harcon",
+"nombre": "Harcon",
+"familia": "Varian"
+},
+{
+"id": "kalgolem",
+"nombre": "Kalgolem",
+"familia": "Varian"
+},
+{
+"id": "krao-mutant",
+"nombre": "Krao Mutant",
+"familia": "Varian"
+},
+{
+"id": "krao-seal-guardian",
+"nombre": "Krao Seal Guardian",
+"familia": "Varian"
+},
+{
+"id": "krao-test-subject",
+"nombre": "Krao Test Subject",
+"familia": "Varian"
+},
+{
+"id": "marsh-targon",
+"nombre": "Marsh Targon",
+"familia": "Varian"
+},
+{
+"id": "mudthorn",
+"nombre": "Mudthorn",
+"familia": "Varian"
+},
+{
+"id": "oculazen",
+"nombre": "Oculazen",
+"familia": "Varian"
+},
+{
+"id": "parasite-swarm",
+"nombre": "Parasite Swarm",
+"familia": "Varian"
+},
+{
+"id": "pino",
+"nombre": "Pino",
+"familia": "Varian"
+},
+{
+"id": "pino-worker",
+"nombre": "Pino Worker",
+"familia": "Varian"
+},
+{
+"id": "poison-blood",
+"nombre": "Poison Blood",
+"familia": "Varian"
+},
+{
+"id": "silver-blade-rotan",
+"nombre": "Silver Blade Rotan",
+"familia": "Varian"
+},
+{
+"id": "slime",
+"nombre": "Slime",
+"familia": "Varian"
+},
+{
+"id": "soulless-corpse-gnat",
+"nombre": "Soulless Corpse Gnat",
+"familia": "Varian"
+},
+{
+"id": "swamp-monster",
+"nombre": "Swamp Monster",
+"familia": "Varian"
+},
+{
+"id": "swarm",
+"nombre": "Swarm",
+"familia": "Varian"
+},
+{
+"id": "vigilant-oculazen",
+"nombre": "Vigilant Oculazen",
+"familia": "Varian"
+},
+{
+"id": "watcher-guardite",
+"nombre": "Watcher Guardite",
+"familia": "Varian"
+}
+]

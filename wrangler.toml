@@ -1,0 +1,11 @@
+# Ascend Web en Cloudflare: la web (carpeta web/) y el proxy de solo lectura a la API oficial (proxy/worker.js).
+# Lo genera scripts/publicar_web.py del proyecto Ascend; Cloudflare lo despliega en cada push.
+name = "ascend"
+main = "proxy/worker.js"
+compatibility_date = "2026-11-01"
+
+[assets]
+directory = "./web"
+binding = "ASSETS"
+not_found_handling = "single-page-application"
+run_worker_first = ["/plaync/*", "/buscar/*"]

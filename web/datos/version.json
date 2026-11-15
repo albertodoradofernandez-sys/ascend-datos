@@ -1,0 +1,22 @@
+{
+ "version": "202611142326",
+ "fecha": "2026-11-14T23:26:51",
+ "notas": "Daevanion del top de las 8 clases",
+ "archivos": [
+  "comun.db.gz",
+  "parches.json",
+  "alas.json",
+  "alas_detalle.json",
+  "alas_corea.json",
+  "panteon.json",
+  "panteon_extra.json",
+  "mascotas.json",
+  "mascotas_detalle.json",
+  "mapa_ids.json",
+  "colecciones.json",
+  "titulos.json",
+  "ranking.json",
+  "astral_vision.json",
+  "daevanion_top.json"
+ ]
+}
