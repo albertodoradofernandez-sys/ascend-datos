@@ -1,5 +1,77 @@
 [
  {
+  "version": "1.0.2",
+  "fecha": "2026-11-15",
+  "cambios": [
+   {
+    "icono": "calculate",
+    "es": [
+     "CP por línea corregido",
+     "Las líneas de soul bind en % daban demasiado CP (velocidad de movimiento ≈ 9.000). Ahora valen ~100 CP por cada 1 %, como la referencia de la comunidad."
+    ],
+    "en": [
+     "Line CP fixed",
+     "Percentage soul bind lines gave far too much CP. Now ~100 CP per 1%."
+    ]
+   },
+   {
+    "icono": "link",
+    "es": [
+     "Sin pulseras en soul bind",
+     "Las pulseras ya no salen en «qué líneas buscar» ni en el plan: no se pueden rolar."
+    ],
+    "en": [
+     "No bracelets in soul bind",
+     "Bracelets no longer show: they cannot be rerolled."
+    ]
+   },
+   {
+    "icono": "diamond",
+    "es": [
+     "Piedra filosofal",
+     "Solo propone stats que la pieza aún no tiene."
+    ],
+    "en": [
+     "Philosopher's Stone",
+     "Only suggests stats the piece does not have yet."
+    ]
+   },
+   {
+    "icono": "view_column",
+    "es": [
+     "Rotación más real",
+     "Gladiador: Rage Burst en su tecla y macro Rage Burst → línea principal. Asesino: Ambush fuera de la macro y cada skill de movimiento en su tecla."
+    ],
+    "en": [
+     "More realistic rotation",
+     "Gladiator macro Rage Burst → main line; Assassin keeps Ambush out of the macro."
+    ]
+   },
+   {
+    "icono": "translate",
+    "es": [
+     "Parches en inglés",
+     "Con la app en inglés, las notas de parche salen en inglés."
+    ],
+    "en": [
+     "Patch notes in English",
+     "Patch notes show in English with the app in English."
+    ]
+   },
+   {
+    "icono": "blur_off",
+    "es": [
+     "Resaltado opcional",
+     "La luz de color al pasar el ratón viene apagada; se activa en Ajustes → Apariencia."
+    ],
+    "en": [
+     "Optional highlight",
+     "The hover light is off by default; turn it on in Settings."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.0.1",
   "fecha": "2026-11-15",
   "cambios": [
