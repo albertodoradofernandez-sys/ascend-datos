@@ -14,7 +14,9 @@
      "clase": null,
      "titulo": "Nivel máximo 55 y zonas nuevas",
      "detalle": "Abren las partes 2 de Eltnen y Morheim; cubos ocultos grandes (10 llaves, 10 veces la recompensa).",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Max level 55 and new zones",
+     "detalle_en": "Eltnen and Morheim part 2 open; large hidden cubes (10 keys, 10 times the reward)."
     },
     {
      "tipo": "cambio",
@@ -22,7 +24,9 @@
      "clase": null,
      "titulo": "Las mazmorras piden CP, no item level",
      "detalle": "Expedición, Trascendencia y Santuario pasan a exigir Combat Power (p. ej. Urugugu fanático 800K normal y 1M difícil).",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Dungeons ask for CP, not item level",
+     "detalle_en": "Expedition, Transcendence and Sanctuary now require Combat Power (e.g. Fanatic Urugugu 800K normal and 1M hard)."
     },
     {
      "tipo": "cambio",
@@ -30,7 +34,9 @@
      "clase": null,
      "titulo": "El CP valora más ciertas stats",
      "detalle": "Suben en el cálculo del CP las de amplificación, Strike (강타), reducción de recarga y velocidad de combate.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "CP values certain stats more",
+     "detalle_en": "Amplification, Strike (강타), cooldown reduction and combat speed weigh more in the CP calculation."
     },
     {
      "tipo": "nerf",
@@ -38,7 +44,9 @@
      "clase": null,
      "titulo": "Stats de dioses a la mitad",
      "detalle": "Cada punto de stat de dios pasa de 0,2% a 0,1%. En PvP la amplificación de daño se atenúa si la diferencia con la resistencia es grande.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "God stats halved",
+     "detalle_en": "Each god stat point goes from 0.2% to 0.1%. In PvP, damage amplification is dampened if the gap with resistance is large."
     },
     {
      "tipo": "nuevo",
@@ -46,7 +54,9 @@
      "clase": null,
      "titulo": "Redistribuir niveles de arcana",
      "detalle": "Las habilidades de una arcana se quedan, pero sus niveles se reparten al azar de nuevo por 100.000 kinah cada vez.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Reroll arcana levels",
+     "detalle_en": "An arcana keeps its skills, but their levels are spread at random again for 100,000 kinah each time."
     },
     {
      "tipo": "cambio",
@@ -54,7 +64,9 @@
      "clase": null,
      "titulo": "Exceed hasta 7 y cambia lo que da",
      "detalle": "El equipo Heroic llega a 7 de exceed. En armas y accesorios da amplificación de daño en vez de ataque; en armaduras, resistencia al daño en vez de defensa.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Exceed up to 7, and what it gives changes",
+     "detalle_en": "Heroic gear reaches exceed 7. On weapons and accessories it gives damage amplification instead of attack; on armour, damage resistance instead of defense."
     },
     {
      "tipo": "buff",
@@ -62,7 +74,9 @@
      "clase": "Assassin",
      "titulo": "Rework de marcas (문양)",
      "detalle": "Las marcas pasan a ser un buff tuyo de 15 s. Insignia Explosion: 5 marcas = +500% de daño PvE (antes 160%), recarga de 10 a 5 s, y con 5 marcas activa «instinto asesino» (+5% Perfect).",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Mark rework (문양)",
+     "detalle_en": "Marks become a 15 s buff on you. Insignia Explosion: 5 marks = +500% PvE damage (was 160%), cooldown 10 → 5 s, and 5 marks trigger «killer instinct» (+5% Perfect)."
     },
     {
      "tipo": "buff",
@@ -70,7 +84,9 @@
      "clase": "Assassin",
      "titulo": "Heart Gore más fuerte",
      "detalle": "+70% de daño con instinto asesino; especialización 5 pasa a +2 lanzamientos seguidos.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Stronger Heart Gore",
+     "detalle_en": "+70% damage with killer instinct; specialization 5 becomes +2 consecutive casts."
     },
     {
      "tipo": "buff",
@@ -78,7 +94,9 @@
      "clase": "Assassin",
      "titulo": "Triniel's Dagger +30% PvE",
      "detalle": "Especialización 3: recarga -15 s.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Triniel's Dagger +30% PvE",
+     "detalle_en": "Specialization 3: cooldown -15 s."
     },
     {
      "tipo": "cambio",
@@ -86,7 +104,9 @@
      "clase": "Assassin",
      "titulo": "Ambush, Savage Fang y Evasion Stance",
      "detalle": "Ambush se puede usar en movimiento y reinicia Heart Gore; Savage Fang da 3 marcas al lanzarla; Evasion Stance: recarga de 20 a 10 s.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Ambush, Savage Fang and Evasion Stance",
+     "detalle_en": "Ambush can be used while moving and resets Heart Gore; Savage Fang gives 3 marks on cast; Evasion Stance cooldown 20 → 10 s."
     },
     {
      "tipo": "nerf",
@@ -94,7 +114,9 @@
      "clase": "Assassin",
      "titulo": "Illusive Clone pierde el reinicio de Heart Gore",
      "detalle": "Ya no quita la recarga de Heart Gore; su especialización 5 pasa a -30 s de recarga.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Illusive Clone loses the Heart Gore reset",
+     "detalle_en": "It no longer resets Heart Gore's cooldown; its specialization 5 becomes -30 s cooldown."
     },
     {
      "tipo": "buff",
@@ -102,7 +124,9 @@
      "clase": "Gladiator",
      "titulo": "Nuevo estado «Frenesí» (광분)",
      "detalle": "Muchas skills dan Frenesí (+20% amplificación PvE, hasta 2 cargas); golpes básicos +30% PvE; 파멸의 맹타 +50% de daño base.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "New «Frenzy» state (광분)",
+     "detalle_en": "Many skills grant Frenzy (+20% PvE amplification, up to 2 stacks); basic attacks +30% PvE; 파멸의 맹타 +50% base damage."
     },
     {
      "tipo": "nerf",
@@ -110,7 +134,9 @@
      "clase": "Gladiator",
      "titulo": "내려찍기 y 올려치기 -50%",
      "detalle": "Pierden la mitad del daño base pero sin recarga; se activan con Frenesí. 노련한 반격 baja mucho su amplificación.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "내려찍기 and 올려치기 -50%",
+     "detalle_en": "They lose half their base damage but have no cooldown; they trigger with Frenzy. 노련한 반격 loses much of its amplification."
     },
     {
      "tipo": "buff",
@@ -118,7 +144,9 @@
      "clase": "Ranger",
      "titulo": "Nuevo estado «Sensibilidad» (감응)",
      "detalle": "폭발 화살 +80% PvE y mucho más daño con Sensibilidad; 파열 화살 +10% y +150% extra en estado preciso.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "New «Sensitivity» state (감응)",
+     "detalle_en": "폭발 화살 +80% PvE and much more damage with Sensitivity; 파열 화살 +10% and +150% extra in the precise state."
     },
     {
      "tipo": "nerf",
@@ -126,7 +154,9 @@
      "clase": "Ranger",
      "titulo": "속사 -25% y 조준 화살 -10% PvE",
      "detalle": "Se compensa con el daño de los estados nuevos.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "속사 -25% and 조준 화살 -10% PvE",
+     "detalle_en": "Offset by the damage of the new states."
     },
     {
      "tipo": "nuevo",
@@ -134,9 +164,13 @@
      "clase": null,
      "titulo": "Mazmorras nuevas y 47 mascotas",
      "detalle": "Expedición Urugugu fanático, Trascendencia Erakus (5 jefes/semana), tablero Daevanion Lumiel y 47 mascotas nuevas.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "New dungeons and 47 pets",
+     "detalle_en": "Fanatic Urugugu Expedition, Erakus Transcendence (5 bosses/week), the Lumiel Daevanion board and 47 new pets."
     }
-   ]
+   ],
+   "titulo_en": "Chapter 1: level 55, class rework and CP entry",
+   "resumen_en": "Official note. The biggest patch so far: max level 55, new zones, dungeons ask for CP instead of item level and a deep rework of almost every class."
   },
   {
    "region": "EU",
@@ -151,7 +185,9 @@
      "clase": null,
      "titulo": "Ludra: 2 horas y mejor botín",
      "detalle": "Normal y Hard pasan de 1 a 2 horas, el reactor central tiene menos HP y el grupo de recompensas 5 sale siempre (30% → 100%) con Wrathful Mind, Will y Ego.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Ludra: 2 hours and better loot",
+     "detalle_en": "Normal and Hard go from 1 to 2 hours, the central reactor has less HP and reward group 5 always drops (30% → 100%) with Wrathful Mind, Will and Ego."
     },
     {
      "tipo": "nuevo",
@@ -159,7 +195,9 @@
      "clase": null,
      "titulo": "Expedition Hard: Fire Temple y Ferocious Horn Den",
      "detalle": "IL 2.800, Frenzy a los 4 min, 3 revives. Más kina que en Normal, Philosopher's Stone: Revelation elegible como recompensa garantizada, Ariel Fragment al 100%, todos los materiales de fabricación Unique y Wrathful Mind, Will y Ego.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Hard Expedition: Fire Temple and Ferocious Horn Den",
+     "detalle_en": "IL 2,800, Frenzy at 4 min, 3 revives. More kinah than Normal, Philosopher's Stone: Revelation as a guaranteed reward option, Ariel Fragment at 100%, every Unique crafting material and Wrathful Mind, Will and Ego."
     },
     {
      "tipo": "nuevo",
@@ -167,7 +205,9 @@
      "clase": null,
      "titulo": "Obra heroica de Expedition (Panteón)",
      "detalle": "Las Expedition Hard (Fire Temple y Ferocious Horn Den) pueden dar una «Expedition Hero Artwork», una obra nueva para el Panteón.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Expedition heroic artwork (Pantheon)",
+     "detalle_en": "Hard Expeditions (Fire Temple and Ferocious Horn Den) can drop an «Expedition Hero Artwork», a new Pantheon artwork."
     },
     {
      "tipo": "nuevo",
@@ -175,7 +215,9 @@
      "clase": null,
      "titulo": "Ariel Fragment → Daevanion y piedras",
      "detalle": "Con Substance Morph: 100 Ariel Fragment = 1 Daevanion Crystal: Ariel (hasta 30 por personaje) y 1 Ariel Fragment = 5 Enhance Stones sin límite.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Ariel Fragment → Daevanion and stones",
+     "detalle_en": "With Substance Morph: 100 Ariel Fragments = 1 Daevanion Crystal: Ariel (up to 30 per character) and 1 Ariel Fragment = 5 Enhance Stones with no limit."
     },
     {
      "tipo": "nuevo",
@@ -183,7 +225,9 @@
      "clase": null,
      "titulo": "Logros de Expedition Hard con skins",
      "detalle": "Nuevos logros de Expedition (Hard) que dan skins Unique.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Hard Expedition achievements with skins",
+     "detalle_en": "New Expedition (Hard) achievements that give Unique skins."
     },
     {
      "tipo": "buff",
@@ -191,7 +235,9 @@
      "clase": null,
      "titulo": "Pociones, comida y pergaminos de 10 min",
      "detalle": "Los consumibles de 5 minutos duran 10 y ya no se pierden al morir.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "10-minute potions, food and scrolls",
+     "detalle_en": "5-minute consumables last 10 and are no longer lost on death."
     },
     {
      "tipo": "buff",
@@ -199,7 +245,9 @@
      "clase": null,
      "titulo": "Sync Stones semanales",
      "detalle": "Hasta 3 Sync Stone (Unique) por semana en las misiones de temporada de Transcendence.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Weekly Sync Stones",
+     "detalle_en": "Up to 3 Sync Stones (Unique) per week from the Transcendence season quests."
     },
     {
      "tipo": "buff",
@@ -207,7 +255,9 @@
      "clase": null,
      "titulo": "Más Abyss Points sin PvP",
      "detalle": "Misiones semanales del Shugo Festival y Duties de 1.000 a 2.500 puntos; más puntos en Chaotic Outer Reshanta.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "More Abyss Points without PvP",
+     "detalle_en": "Shugo Festival weekly quests and Duties from 1,000 to 2,500 points; more points in Chaotic Outer Reshanta."
     },
     {
      "tipo": "cambio",
@@ -215,7 +265,9 @@
      "clase": null,
      "titulo": "Kina ligada en Abyss inferior y Tier 1",
      "detalle": "La kina de monstruos del Lower Abyss y de Krao Cave / Draupnir Conquest pasa a ser Bound.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Bound kinah in Lower Abyss and Tier 1",
+     "detalle_en": "Monster kinah in the Lower Abyss and Krao Cave / Draupnir Conquest becomes Bound."
     },
     {
      "tipo": "arreglo",
@@ -223,9 +275,13 @@
      "clase": null,
      "titulo": "Arreglos varios",
      "detalle": "Precarga de gráficos para evitar tirones; arreglos en Zikel's Sanctum, mazmorras submarinas y Ludra's Trial.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Various fixes",
+     "detalle_en": "Graphics preloading to avoid stutters; fixes in Zikel's Sanctum, underwater dungeons and Ludra's Trial."
     }
-   ]
+   ],
+   "titulo_en": "Easier Ludra and new Hard Expeditions",
+   "resumen_en": "Official note. Ludra gives more time and better rewards, Fire Temple and Ferocious Horn Den arrive in Hard (with a new heroic Pantheon artwork) and potions last twice as long. No class changes."
   },
   {
    "region": "EU",
@@ -240,7 +296,9 @@
      "clase": null,
      "titulo": "Abyssal Forge: Ludra",
      "detalle": "Normal a IL 2.800 y Hard a IL 3.000, límite de 1 hora; suelta Ludra's Weapon, Guard, Ludra's Bracelet, Abyssal Bracelet (Bound), alas y artwork.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Abyssal Forge: Ludra",
+     "detalle_en": "Normal at IL 2,800 and Hard at IL 3,000, 1-hour limit; drops Ludra's Weapon, Guard, Ludra's Bracelet, Abyssal Bracelet (Bound), wings and an artwork."
     },
     {
      "tipo": "nuevo",
@@ -248,7 +306,9 @@
      "clase": null,
      "titulo": "Pulseras con Amplify",
      "detalle": "Abyssal Bracelet (Bound) amplifica hasta nivel 3 y Ludra's Bracelet (Bound) hasta nivel 5.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Bracelets with Amplify",
+     "detalle_en": "Abyssal Bracelet (Bound) amplifies up to level 3 and Ludra's Bracelet (Bound) up to level 5."
     },
     {
      "tipo": "nuevo",
@@ -256,7 +316,9 @@
      "clase": null,
      "titulo": "Chaotic Outer Reshanta (PvP igualado)",
      "detalle": "Zona PvP desde nivel 45 con stats, skills y estigmas estandarizados; 3 h/semana base; los Abyss Points de ese PvP se reducen un 50%.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Chaotic Outer Reshanta (levelled PvP)",
+     "detalle_en": "PvP zone from level 45 with standardized stats, skills and stigmas; 3 h/week base; Abyss Points from that PvP are cut by 50%."
     },
     {
      "tipo": "cambio",
@@ -264,7 +326,9 @@
      "clase": null,
      "titulo": "Artifact Siege solo 2 veces por semana",
      "detalle": "Pasa de 3 a 2 veces (jueves y sábados, 21:00 asedio y 21:30 jefes de artefacto).",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Artifact Siege only twice a week",
+     "detalle_en": "Goes from 3 to 2 times (Thursdays and Saturdays, 21:00 siege and 21:30 artifact bosses)."
     },
     {
      "tipo": "buff",
@@ -272,7 +336,9 @@
      "clase": null,
      "titulo": "Recompensas de Expedition subidas",
      "detalle": "Draupnir, Vakron y Ferocious Horn Den dan más Enhance Stones, Kina, Silentium y Soul Codex, y añaden Amplify Stone Fragment (Unique) (Bound).",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Expedition rewards raised",
+     "detalle_en": "Draupnir, Vakron and Ferocious Horn Den give more Enhance Stones, kinah, Silentium and Soul Codex, and add Amplify Stone Fragment (Unique) (Bound)."
     },
     {
      "tipo": "nuevo",
@@ -280,7 +346,9 @@
      "clase": null,
      "titulo": "Recetas True/Star Dragon al 100%",
      "detalle": "Nuevas recetas de crafteo con 100% de éxito, sin COMBO y con resultado Bound.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "True/Star Dragon recipes at 100%",
+     "detalle_en": "New crafting recipes with 100% success, no COMBO and a Bound result."
     },
     {
      "tipo": "buff",
@@ -288,7 +356,9 @@
      "clase": null,
      "titulo": "Abyss Corridor +50% Abyss Points",
      "detalle": "Los puntos por partida suben un 50%.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Abyss Corridor +50% Abyss Points",
+     "detalle_en": "Points per match go up 50%."
     },
     {
      "tipo": "cambio",
@@ -296,7 +366,9 @@
      "clase": null,
      "titulo": "Argo, el Rey Espíritu",
      "detalle": "Aparece a diario a las 10:30 y 22:30.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Argo, the Spirit King",
+     "detalle_en": "Appears daily at 10:30 and 22:30."
     },
     {
      "tipo": "cambio",
@@ -304,7 +376,9 @@
      "clase": null,
      "titulo": "Almas de mascota desde mazmorras",
      "detalle": "Algunas almas de mascota que solo salían de cofres ahora caen en Expedition y Transcendence.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Pet souls from dungeons",
+     "detalle_en": "Some pet souls that only came from chests now drop in Expedition and Transcendence."
     },
     {
      "tipo": "nuevo",
@@ -312,9 +386,13 @@
      "clase": null,
      "titulo": "Ludra Hunt y Check-In",
      "detalle": "Hunt del 4 al 24 nov (PST): título para las 20 primeras parties Hard por región. Check-in del 4 al 17 nov con 500.000 y 1.000.000 Kina (Bound), 30.000 Abyss Points.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Ludra Hunt and Check-In",
+     "detalle_en": "Hunt from 4 to 24 Nov (PST): a title for the first 20 Hard parties per region. Check-in from 4 to 17 Nov with 500,000 and 1,000,000 kinah (Bound), 30,000 Abyss Points."
     }
-   ]
+   ],
+   "titulo_en": "Abyssal Forge: Ludra and Chaotic Outer Reshanta",
+   "resumen_en": "The Ludra raid arrives, levelled PvP in Outer Reshanta and fewer artifact sieges. No class changes."
   },
   {
    "region": "EU",
@@ -329,7 +407,9 @@
      "clase": "Assassin",
      "titulo": "Illusive Clone con menos cooldown",
      "detalle": "Cooldown base de 90 a 60 segundos.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Illusive Clone with less cooldown",
+     "detalle_en": "Base cooldown from 90 to 60 seconds."
     },
     {
      "tipo": "buff",
@@ -337,7 +417,9 @@
      "clase": "Assassin",
      "titulo": "Heightened Sixth Sense: más HP",
      "detalle": "El efecto de HP sube a 1.000 / 2.000 / 4.000 (nivel 5 / 10 / 20).",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Heightened Sixth Sense: more HP",
+     "detalle_en": "The HP effect rises to 1,000 / 2,000 / 4,000 (level 5 / 10 / 20)."
     },
     {
      "tipo": "buff",
@@ -345,7 +427,9 @@
      "clase": "Gladiator",
      "titulo": "HP base +1.500",
      "detalle": "HP base a nivel 45: de 4.702 a 6.202. Igual para Templar.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Base HP +1,500",
+     "detalle_en": "Base HP at level 45: from 4,702 to 6,202. Same for Templar."
     },
     {
      "tipo": "buff",
@@ -353,7 +437,9 @@
      "clase": "Assassin",
      "titulo": "HP base +1.000",
      "detalle": "HP base a nivel 45: de 4.702 a 5.702.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Base HP +1,000",
+     "detalle_en": "Base HP at level 45: from 4,702 to 5,702."
     },
     {
      "tipo": "buff",
@@ -361,7 +447,9 @@
      "clase": "Ranger",
      "titulo": "HP base +1.000",
      "detalle": "HP base a nivel 45: de 4.702 a 5.702. Igual para Sorcerer, Spiritmaster, Chanter y Cleric.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Base HP +1,000",
+     "detalle_en": "Base HP at level 45: from 4,702 to 5,702. Same for Sorcerer, Spiritmaster, Chanter and Cleric."
     },
     {
      "tipo": "buff",
@@ -369,7 +457,9 @@
      "clase": null,
      "titulo": "Más Amplify máximo en equipo crafteado",
      "detalle": "True/Star Dragon de 1 a 3; White/Dark Dragon de 3 a 5 (también Splendent).",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Higher max Amplify on crafted gear",
+     "detalle_en": "True/Star Dragon from 1 to 3; White/Dark Dragon from 3 to 5 (Splendent too)."
     },
     {
      "tipo": "nuevo",
@@ -377,7 +467,9 @@
      "clase": null,
      "titulo": "Nuevas vías de transferencia",
      "detalle": "Expedition Tier 3 a Crafted Tier 2 y Expedition Tier 2 a Crafted Tier 1.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "New transfer paths",
+     "detalle_en": "Expedition Tier 3 to Crafted Tier 2 and Expedition Tier 2 to Crafted Tier 1."
     },
     {
      "tipo": "nuevo",
@@ -385,7 +477,9 @@
      "clase": null,
      "titulo": "Expedition Hard: Urugugu Canyon y Vakron Sky Island",
      "detalle": "IL 2.700, Frenzy a los 4 min, 3 revives; da Philosopher's Stone: Revelation y Ariel Fragments.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Hard Expedition: Urugugu Canyon and Vakron Sky Island",
+     "detalle_en": "IL 2,700, Frenzy at 4 min, 3 revives; gives Philosopher's Stone: Revelation and Ariel Fragments."
     },
     {
      "tipo": "nuevo",
@@ -393,7 +487,9 @@
      "clase": null,
      "titulo": "Odylium Repository (diaria)",
      "detalle": "Nueva mazmorra diaria que da Soul Crystal (Bound); comparte entradas con Daeva Bio-Research Base.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Odylium Repository (daily)",
+     "detalle_en": "New daily dungeon that gives Soul Crystal (Bound); shares entries with Daeva Bio-Research Base."
     },
     {
      "tipo": "nerf",
@@ -401,7 +497,9 @@
      "clase": null,
      "titulo": "Jefes de Expedition/Transcendence más débiles",
      "detalle": "Ataque -15% en Normal y Stage 1; -10% ataque y daño en Hard; HP de jefe -6,5% en Transcendence 1-2.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Weaker Expedition/Transcendence bosses",
+     "detalle_en": "Attack -15% in Normal and Stage 1; -10% attack and damage in Hard; boss HP -6.5% in Transcendence 1-2."
     },
     {
      "tipo": "cambio",
@@ -409,7 +507,9 @@
      "clase": null,
      "titulo": "Límite de recolección",
      "detalle": "1.000 recolecciones por servidor y día; nivel mínimo sube de 10 a 45.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Gathering limit",
+     "detalle_en": "1,000 gathers per server per day; minimum level goes from 10 to 45."
     },
     {
      "tipo": "cambio",
@@ -417,7 +517,9 @@
      "clase": null,
      "titulo": "Abyss: Dimensional Core más duro",
      "detalle": "Más HP y debuff Dissipation of Power si el combate de artefacto dura 10 min o más.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Abyss: tougher Dimensional Core",
+     "detalle_en": "More HP and a Dissipation of Power debuff if the artifact fight lasts 10 min or more."
     },
     {
      "tipo": "arreglo",
@@ -425,7 +527,9 @@
      "clase": null,
      "titulo": "Revives en Expedition Hard",
      "detalle": "Corrige que el contador de resurrecciones no se reiniciara al reintentar.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Revives in Hard Expedition",
+     "detalle_en": "Fixes the revive counter not resetting on retry."
     },
     {
      "tipo": "nuevo",
@@ -433,9 +537,13 @@
      "clase": null,
      "titulo": "Atreia's Call (asistencia 28 días)",
      "detalle": "Del 28 oct hasta antes del 2 dic; Soul Crystal x2.000 los días 6, 13, 20 y 27.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Atreia's Call (28-day attendance)",
+     "detalle_en": "From 28 Oct until before 2 Dec; Soul Crystal x2,000 on days 6, 13, 20 and 27."
     }
-   ]
+   ],
+   "titulo_en": "Urugugu and Vakron Hard, Odylium Repository, base HP",
+   "resumen_en": "Base HP rises for every class, Assassin improves (Illusive Clone) and the Amplify cap on crafted gear goes up."
   },
   {
    "region": "EU",
@@ -450,7 +558,9 @@
      "clase": null,
      "titulo": "Expedition Hard: Krao Cave y Draupnir",
      "detalle": "IL 2.600, Frenzy a los 4 min, 3 revives; dan Ariel Fragments y opción a Philosopher's Stone: Revelation.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Hard Expedition: Krao Cave and Draupnir",
+     "detalle_en": "IL 2,600, Frenzy at 4 min, 3 revives; they give Ariel Fragments and a chance at Philosopher's Stone: Revelation."
     },
     {
      "tipo": "nuevo",
@@ -458,7 +568,9 @@
      "clase": null,
      "titulo": "Tablero Daevanion de Ariel",
      "detalle": "100 Ariel Fragments dan 1 Daevanion Crystal: Ariel (máx. 30 por personaje); 1 fragmento da 5 Enhance Stones.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Ariel Daevanion board",
+     "detalle_en": "100 Ariel Fragments give 1 Daevanion Crystal: Ariel (max 30 per character); 1 fragment gives 5 Enhance Stones."
     },
     {
      "tipo": "arreglo",
@@ -466,7 +578,9 @@
      "clase": "Sorcerer",
      "titulo": "Cold Storm y Fire Wall",
      "detalle": "Corrige el daño extra con Frostbite acumulado y el daño de Fire Wall sin Embers.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Cold Storm and Fire Wall",
+     "detalle_en": "Fixes the extra damage with stacked Frostbite and Fire Wall damage without Embers."
     },
     {
      "tipo": "arreglo",
@@ -474,7 +588,9 @@
      "clase": "Chanter",
      "titulo": "Spinning Strike",
      "detalle": "Corrige los efectos visuales de la skill.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Spinning Strike",
+     "detalle_en": "Fixes the skill's visual effects."
     },
     {
      "tipo": "cambio",
@@ -482,7 +598,9 @@
      "clase": null,
      "titulo": "Abyss: jefes con más HP",
      "detalle": "Más HP en el Dimensional Core y los jefes del Abyss; se amplía el máximo de jugadores.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Abyss: bosses with more HP",
+     "detalle_en": "More HP on the Dimensional Core and Abyss bosses; the player cap is raised."
     },
     {
      "tipo": "nuevo",
@@ -490,9 +608,13 @@
      "clase": null,
      "titulo": "Rise to the Challenge",
      "detalle": "Hasta el 15-16 dic; Resurrection Spiritstone (Season 1) a 25.000 y 50.000 Kina, 30 por paso y semana.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Rise to the Challenge",
+     "detalle_en": "Until 15-16 Dec; Resurrection Spiritstone (Season 1) for 25,000 and 50,000 kinah, 30 per step per week."
     }
-   ]
+   ],
+   "titulo_en": "Hard Expedition Krao Cave and Draupnir, Ariel Daevanion",
+   "resumen_en": "First Hard Expeditions and the new Ariel Daevanion board. Only class fixes (Sorcerer and Chanter)."
   },
   {
    "region": "EU",
@@ -507,7 +629,9 @@
      "clase": null,
      "titulo": "Trick or Treat (Halloween)",
      "detalle": "Del 14 oct al 4 nov; monedas Pumpkin y Candy Keys que dan Battle Enhance Scroll, Abyss Points y Odyle Energy.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Trick or Treat (Halloween)",
+     "detalle_en": "From 14 Oct to 4 Nov; Pumpkin coins and Candy Keys that give Battle Enhance Scrolls, Abyss Points and Odyle Energy."
     },
     {
      "tipo": "arreglo",
@@ -515,7 +639,9 @@
      "clase": "Sorcerer",
      "titulo": "Fire Wall, Cold Storm y Bittercold Wind",
      "detalle": "Corrige el daño extra con desniveles y que Embers/Frostbite los quitara el nivel superior de otro jugador.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Fire Wall, Cold Storm and Bittercold Wind",
+     "detalle_en": "Fixes extra damage on height differences and Embers/Frostbite being removed by another player's higher level."
     },
     {
      "tipo": "arreglo",
@@ -523,7 +649,9 @@
      "clase": "Spiritmaster",
      "titulo": "Summon: Ancient Spirit",
      "detalle": "Funciona con nivel 15 o menos.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Summon: Ancient Spirit",
+     "detalle_en": "Works at level 15 or below."
     },
     {
      "tipo": "cambio",
@@ -531,7 +659,9 @@
      "clase": null,
      "titulo": "Odyle Energy (Bound)",
      "detalle": "El tope semanal por personaje sube de 4 a 20 y se quita el de 16 por servidor.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Odyle Energy (Bound)",
+     "detalle_en": "Weekly cap per character goes from 4 to 20 and the 16-per-server cap is removed."
     },
     {
      "tipo": "cambio",
@@ -539,9 +669,13 @@
      "clase": null,
      "titulo": "Tope de tiempo de entrada al Abyss",
      "detalle": "El tiempo acumulado se limita a 7 horas.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Abyss entry time cap",
+     "detalle_en": "Accumulated time is limited to 7 hours."
     }
-   ]
+   ],
+   "titulo_en": "Halloween Trick or Treat and Sorcerer fixes",
+   "resumen_en": "Halloween event, more Odyle Energy slots and Sorcerer and Spiritmaster fixes. No numeric balance."
   },
   {
    "region": "KR",
@@ -556,7 +690,9 @@
      "clase": null,
      "titulo": "Abyss Outland: horarios y mapa",
      "detalle": "Las entradas se retrasan 10 min (11:10-13:40 y 20:10-23:40); el veneno de la planta alta llega 30 s más tarde.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Abyss Outland: schedule and map",
+     "detalle_en": "Entries are delayed 10 min (11:10-13:40 and 20:10-23:40); the upper floor's poison arrives 30 s later."
     },
     {
      "tipo": "nerf",
@@ -564,7 +700,9 @@
      "clase": null,
      "titulo": "Pociones en Abyss Outland",
      "detalle": "La Invincibility Potion dura menos (aunque permite moverse y usar skills) y atacar con Stealth Potion rompe el sigilo.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Potions in Abyss Outland",
+     "detalle_en": "The Invincibility Potion lasts less (but lets you move and use skills) and attacking with a Stealth Potion breaks stealth."
     },
     {
      "tipo": "arreglo",
@@ -572,7 +710,9 @@
      "clase": null,
      "titulo": "Fire Bomb",
      "detalle": "Corrige el daño mal aplicado.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Fire Bomb",
+     "detalle_en": "Fixes damage being applied wrongly."
     },
     {
      "tipo": "nuevo",
@@ -580,7 +720,9 @@
      "clase": null,
      "titulo": "Power Shard en cadena",
      "detalle": "Nuevo ajuste de uso automático que gasta Power Shards del mismo grado, primero los no comerciables.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Chain Power Shards",
+     "detalle_en": "New auto-use setting that spends Power Shards of the same grade, untradeable ones first."
     },
     {
      "tipo": "arreglo",
@@ -588,7 +730,9 @@
      "clase": null,
      "titulo": "Sanctuary Snowfield of Sorrow",
      "detalle": "Corrige que Deltras, con Frozen Bind, pudiera moverse y lanzar skills usando Defiance.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Sanctuary Snowfield of Sorrow",
+     "detalle_en": "Fixes Deltras being able to move and cast with Frozen Bind by using Defiance."
     },
     {
      "tipo": "nuevo",
@@ -596,9 +740,13 @@
      "clase": null,
      "titulo": "Pase Crimson Autumn Leaves y Red Maple Leaf",
      "detalle": "Hasta el 11 nov; las hojas se cambian por Artisan's Ultimate Refining Stone x3, Amplify Stone (Heroic) x10 y más.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Crimson Autumn Leaves pass and Red Maple Leaf",
+     "detalle_en": "Until 11 Nov; leaves trade for Artisan's Ultimate Refining Stone x3, Amplify Stone (Heroic) x10 and more."
     }
-   ]
+   ],
+   "titulo_en": "Abyss Outland, gathering limit and autumn event",
+   "resumen_en": "Tweaks to the Abyss Outland battle royale and an autumn event. No class changes in the note."
   },
   {
    "region": "KR",
@@ -613,7 +761,9 @@
      "clase": null,
      "titulo": "Abyss Outland (battle royale)",
      "detalle": "Solitario para unos 100 jugadores, nivel 45+ e IL 3.000+; da Wanderer's Coins para la tienda del Abyss.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Abyss Outland (battle royale)",
+     "detalle_en": "Solo for about 100 players, level 45+ and IL 3,000+; gives Wanderer's Coins for the Abyss shop."
     },
     {
      "tipo": "cambio",
@@ -621,7 +771,9 @@
      "clase": null,
      "titulo": "Límite diario de recolección",
      "detalle": "Tope por servidor que cuenta éxitos, fallos y cancelaciones; se reinicia a las 5:00.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Daily gathering limit",
+     "detalle_en": "Per-server cap counting successes, failures and cancels; resets at 5:00."
     },
     {
      "tipo": "cambio",
@@ -629,7 +781,9 @@
      "clase": null,
      "titulo": "Argo, el Rey Espíritu",
      "detalle": "Pasa de cada 12 h a aparecer a diario a las 9:00 y 21:00.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Argo, the Spirit King",
+     "detalle_en": "Goes from every 12 h to appearing daily at 9:00 and 21:00."
     },
     {
      "tipo": "arreglo",
@@ -637,9 +791,13 @@
      "clase": null,
      "titulo": "Ludra y movimiento",
      "detalle": "Corrige el teletransporte a la entrada de personajes fuera de su posición en el jefe medio de Ludra; sprint y monturas ya no se cancelan por DoT fuera de combate.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Ludra and movement",
+     "detalle_en": "Fixes players out of position being teleported to the entrance at Ludra's middle boss; sprint and mounts are no longer cancelled by DoT out of combat."
     }
-   ]
+   ],
+   "titulo_en": "Abyss Outland (new mode) and gathering limit",
+   "resumen_en": "New battle royale PvP mode for about 100 players and an anti-bot gathering cap. No class changes."
   },
   {
    "region": "KR",
@@ -654,7 +812,9 @@
      "clase": "Gladiator",
      "titulo": "Blade Toss: más reducción de curación",
      "detalle": "Base de 70% a 75%; bonus de Spec #1 de +20% a +25%.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Blade Toss: more healing reduction",
+     "detalle_en": "Base from 70% to 75%; Spec #1 bonus from +20% to +25%."
     },
     {
      "tipo": "buff",
@@ -662,7 +822,9 @@
      "clase": "Assassin",
      "titulo": "Apply Poison: más reducción de curación",
      "detalle": "Nivel 1 de 12% a 25%.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Apply Poison: more healing reduction",
+     "detalle_en": "Level 1 from 12% to 25%."
     },
     {
      "tipo": "buff",
@@ -670,7 +832,9 @@
      "clase": "Ranger",
      "titulo": "Drill Dart: más reducción de curación",
      "detalle": "Base de 60% a 75%.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Drill Dart: more healing reduction",
+     "detalle_en": "Base from 60% to 75%."
     },
     {
      "tipo": "buff",
@@ -678,7 +842,9 @@
      "clase": "Cleric",
      "titulo": "Voice of Doom y Heal Block",
      "detalle": "Voice of Doom de 60% a 100%; Heal Block nivel 1 de 32% a 52%.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Voice of Doom and Heal Block",
+     "detalle_en": "Voice of Doom from 60% to 100%; Heal Block level 1 from 32% to 52%."
     },
     {
      "tipo": "buff",
@@ -686,7 +852,9 @@
      "clase": "Chanter",
      "titulo": "Marchutan's Wrath Spec #3",
      "detalle": "Reducción de curación de 70% a 100%.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Marchutan's Wrath Spec #3",
+     "detalle_en": "Healing reduction from 70% to 100%."
     },
     {
      "tipo": "buff",
@@ -694,7 +862,9 @@
      "clase": "Templar",
      "titulo": "Debilitating Smash Spec #3",
      "detalle": "Reducción de curación de 60% a 75%.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Debilitating Smash Spec #3",
+     "detalle_en": "Healing reduction from 60% to 75%."
     },
     {
      "tipo": "buff",
@@ -702,7 +872,9 @@
      "clase": "Sorcerer",
      "titulo": "Firestorm Spec #3",
      "detalle": "Reducción de curación de 60% a 75%; también arregla Cold Storm y Fire Wall.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Firestorm Spec #3",
+     "detalle_en": "Healing reduction from 60% to 75%; also fixes Cold Storm and Fire Wall."
     },
     {
      "tipo": "buff",
@@ -710,7 +882,9 @@
      "clase": "Spiritmaster",
      "titulo": "Jointstrike: Corrode",
      "detalle": "Reducción base del 75% y +25% con Spec #3.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Jointstrike: Corrode",
+     "detalle_en": "Base reduction of 75% and +25% with Spec #3."
     },
     {
      "tipo": "buff",
@@ -718,7 +892,9 @@
      "clase": null,
      "titulo": "Assault: skills un 50% más rápidas",
      "detalle": "Todas las clases.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Assault: skills 50% faster",
+     "detalle_en": "Every class."
     },
     {
      "tipo": "nerf",
@@ -726,7 +902,9 @@
      "clase": null,
      "titulo": "Arcanas: máximo 500",
      "detalle": "Baja de 1.100 a 500; el exceso hay que extraerlo y ahora da Superior Training Arcana.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Arcanas: max 500",
+     "detalle_en": "Down from 1,100 to 500; the excess must be extracted and now gives Superior Training Arcana."
     },
     {
      "tipo": "cambio",
@@ -734,7 +912,9 @@
      "clase": null,
      "titulo": "Transfer Flame sustituye a Transfer Stone Fragment",
      "detalle": "El fragmento (Unique y Heroic, Soul-bound) se reemplaza por Transfer Flame.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Transfer Flame replaces Transfer Stone Fragment",
+     "detalle_en": "The fragment (Unique and Heroic, Soul-bound) is replaced by Transfer Flame."
     },
     {
      "tipo": "cambio",
@@ -742,9 +922,13 @@
      "clase": null,
      "titulo": "La Temporada 4 se alarga",
      "detalle": "Termina el 11 nov en vez del 4 nov, y con ella los pases y apoyos de crecimiento.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Season 4 is extended",
+     "detalle_en": "It ends on 11 Nov instead of 4 Nov, and with it the passes and growth support."
     }
-   ]
+   ],
+   "titulo_en": "Healing reduction by class, Arcanas and Transfer Flame",
+   "resumen_en": "Healing reduction rises for almost every class, max Arcanas go down and the end of Season 4 is pushed back."
   },
   {
    "region": "KR",
@@ -759,7 +943,9 @@
      "clase": null,
      "titulo": "Daño PvP -30% a todas las clases",
      "detalle": "Reducción aproximada del 30% en el daño PvP.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "PvP damage -30% for every class",
+     "detalle_en": "Roughly a 30% cut to PvP damage."
     },
     {
      "tipo": "buff",
@@ -767,7 +953,9 @@
      "clase": null,
      "titulo": "Skills Assault: defensa hasta +80%",
      "detalle": "Antes hasta +20%; dura 5 s, añade tolerancia a todos los atributos y quita la reducción de recast.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Assault skills: defense up to +80%",
+     "detalle_en": "Was up to +20%; lasts 5 s, adds tolerance to every attribute and removes the recast reduction."
     },
     {
      "tipo": "cambio",
@@ -775,7 +963,9 @@
      "clase": "Gladiator",
      "titulo": "Focused Block reduce recast al bloquear",
      "detalle": "Una defensa exitosa reduce el recast 0,3 s; la nota de emergencia del mismo día lo deja en 0,1 s.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Focused Block reduces recast on block",
+     "detalle_en": "A successful defense cuts recast by 0.3 s; the same-day emergency note sets it to 0.1 s."
     },
     {
      "tipo": "cambio",
@@ -783,7 +973,9 @@
      "clase": "Assassin",
      "titulo": "Evasion Stance reduce recast al defender",
      "detalle": "Una defensa exitosa reduce el recast 0,3 s; la nota de emergencia del mismo día lo deja en 0,1 s.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Evasion Stance reduces recast on defense",
+     "detalle_en": "A successful defense cuts recast by 0.3 s; the same-day emergency note sets it to 0.1 s."
     },
     {
      "tipo": "arreglo",
@@ -791,7 +983,9 @@
      "clase": "Ranger",
      "titulo": "Vaizel's Authority",
      "detalle": "Corrige la aplicación del efecto.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Vaizel's Authority",
+     "detalle_en": "Fixes how the effect is applied."
     },
     {
      "tipo": "cambio",
@@ -799,7 +993,9 @@
      "clase": "Sorcerer",
      "titulo": "Ataques con atributo elemental",
      "detalle": "Fuego: Lumiel's Space, Perdition; agua: Soul Freeze, Cold Snap. Embers y Frostbite ya no los quita otro jugador.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Attacks with elemental attribute",
+     "detalle_en": "Fire: Lumiel's Space, Perdition; water: Soul Freeze, Cold Snap. Embers and Frostbite are no longer removed by another player."
     },
     {
      "tipo": "cambio",
@@ -807,7 +1003,9 @@
      "clase": "Spiritmaster",
      "titulo": "Ataques con atributo elemental",
      "detalle": "Fuego: Soul's Cry, Curse of Despair; viento: Siphon, Seize Magic; tierra: Spirit's Descent, entre otros.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Attacks with elemental attribute",
+     "detalle_en": "Fire: Soul's Cry, Curse of Despair; wind: Siphon, Seize Magic; earth: Spirit's Descent, among others."
     },
     {
      "tipo": "cambio",
@@ -815,7 +1013,9 @@
      "clase": "Cleric",
      "titulo": "Ataques con atributo elemental",
      "detalle": "Viento: Lightning Strike Scattershot; tierra: Noble Aura, Empyrean Lord's Grace.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Attacks with elemental attribute",
+     "detalle_en": "Wind: Lightning Strike Scattershot; earth: Noble Aura, Empyrean Lord's Grace."
     },
     {
      "tipo": "cambio",
@@ -823,7 +1023,9 @@
      "clase": null,
      "titulo": "Transfer Stones pasan a Transfer Flames",
      "detalle": "Las piedras viejas pasan a Faded Transfer Stones (inservibles) y se convierten por Material Conversion.",
-     "importante": true
+     "importante": true,
+     "titulo_en": "Transfer Stones become Transfer Flames",
+     "detalle_en": "Old stones become Faded Transfer Stones (useless) and are converted through Material Conversion."
     },
     {
      "tipo": "buff",
@@ -831,7 +1033,9 @@
      "clase": null,
      "titulo": "Halloween: Enhance Stones x1,5",
      "detalle": "Los Odyle Energy Cubes de las Expedition y Transcendence listadas dan x1,5 Enhance Stones.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Halloween: Enhance Stones x1.5",
+     "detalle_en": "Odyle Energy Cubes from the listed Expeditions and Transcendences give x1.5 Enhance Stones."
     },
     {
      "tipo": "arreglo",
@@ -839,9 +1043,13 @@
      "clase": null,
      "titulo": "Defensa por encima del tope",
      "detalle": "El stat de Defensa vuelve a subir pasado cierto tope.",
-     "importante": false
+     "importante": false,
+     "titulo_en": "Defense above the cap",
+     "detalle_en": "The Defense stat rises again past a certain cap."
     }
-   ]
+   ],
+   "titulo_en": "Melee combat rework in RvR (PvP -30%)",
+   "resumen_en": "A general PvP damage cut, Assault defense up to +80% and elemental attributes for casters. There was emergency maintenance the same day."
   }
  ]
 }
