@@ -5,23 +5,41 @@
     <link rel="icon" href="/favicon.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Ascend — AION 2</title>
-    <link href="/_app/immutable/entry/start.C_u1ho0L.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/CSbCmo9i.js" rel="modulepreload">
+    <script>
+      // Ascend Web, modo demo (?demo, ?demo=en): entra directo con el personaje de ejemplo, sin bienvenida ni recorrido.
+      // Va aquí para que se aplique antes de que la app lea sus ajustes. En la app de escritorio no hace nada.
+      (function () {
+        try {
+          var q = new URLSearchParams(location.search);
+          if (!q.has('demo')) return;
+          sessionStorage.setItem('ascend.demo', '1');
+          localStorage.setItem('ascend.recorrido.visto', '1');
+          localStorage.setItem('ascend.autoPersonajes', String(Date.now()));
+          var a = JSON.parse(localStorage.getItem('ascend.ajustes') || '{}');
+          if (q.get('demo') === 'en' || q.get('demo') === 'es') a.idioma = q.get('demo');
+          a.idioma = a.idioma || 'es';
+          localStorage.setItem('ascend.ajustes', JSON.stringify(a));
+          localStorage.setItem('ascend.pj', 'DEMO');
+        } catch (e) {}
+      })();
+    </script>
+    <link href="/_app/immutable/entry/start.RbWSbOqf.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/BlAkf4I5.js" rel="modulepreload">
 		<link href="/_app/immutable/chunks/PrwWj4-P.js" rel="modulepreload">
-		<link href="/_app/immutable/entry/app.CQNgvnWQ.js" rel="modulepreload">
+		<link href="/_app/immutable/entry/app.D_-Kc7a5.js" rel="modulepreload">
 		<link href="/_app/immutable/chunks/xihTtKlq.js" rel="modulepreload">
 		<link href="/_app/immutable/chunks/DclECHGd.js" rel="modulepreload">
-		<link href="/_app/immutable/nodes/0.SvfidykU.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/BDBIXi0U.js" rel="modulepreload">
+		<link href="/_app/immutable/nodes/0.Dz8WHaH2.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/D2aHSgJ4.js" rel="modulepreload">
 		<link href="/_app/immutable/chunks/KSDBjnPK.js" rel="modulepreload">
 		<link href="/_app/immutable/chunks/D_dwgIc3.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/BNxZi8QX.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/CCvpXQBj.js" rel="modulepreload">
 		<link href="/_app/immutable/chunks/6kqHeVdN.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/Duo78U8C.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/DlwXcUu4.js" rel="modulepreload">
 		<link href="/_app/immutable/chunks/Cw-AhIgy.js" rel="modulepreload">
 		<link href="/_app/immutable/chunks/BTv-6Vyx.js" rel="modulepreload">
 		<link href="/_app/immutable/chunks/HUL0Bspx.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/B-SpRJDH.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/BXCUh1Dh.js" rel="modulepreload">
 		<link href="/_app/immutable/chunks/BO9EOZsd.js" rel="modulepreload">
 		<link href="/_app/immutable/chunks/CSfL1rvh.js" rel="modulepreload">
 		
@@ -31,15 +49,15 @@
     <div style="display: contents">
 			<script>
 				{
-					__sveltekit_1y7z8vm = {
+					__sveltekit_q9v1o6 = {
 						base: ""
 					};
 
 					const element = document.currentScript.parentElement;
 
 					Promise.all([
-						import("/_app/immutable/entry/start.C_u1ho0L.js"),
-						import("/_app/immutable/entry/app.CQNgvnWQ.js")
+						import("/_app/immutable/entry/start.RbWSbOqf.js"),
+						import("/_app/immutable/entry/app.D_-Kc7a5.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element);
 					});
