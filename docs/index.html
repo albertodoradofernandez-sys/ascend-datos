@@ -55,10 +55,12 @@
   .puesto b { font-size: 34px; color: var(--verde); font-weight: 900; } .puesto span { color: var(--tenue); font-size: 14px; }
   .tag { font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 999px; background: rgba(245,0,61,.18); color: var(--acento-2); margin-left: 6px; }
   .filas { display: flex; flex-direction: column; gap: 6px; margin-top: 16px; }
-  .fila { display: grid; grid-template-columns: 1fr 90px 64px; gap: 10px; align-items: center; padding: 8px 10px; border-radius: 10px; background: var(--panel-2); font-size: 13px; }
+  .fila { display: grid; grid-template-columns: 22px 1.2fr 1fr 52px 48px; gap: 10px; align-items: center; padding: 8px 10px; border-radius: 10px; background: var(--panel-2); font-size: 13px; }
+  .fila .n { width: 22px; height: 22px; border-radius: 6px; display: grid; place-items: center; background: rgba(60,207,142,.14); color: var(--verde); font-size: 11px; font-weight: 800; }
+  .fila b { display: block; font-size: 13px; } .fila small { color: var(--apagado); font-size: 11px; } .fila .coste { color: var(--tenue); font-size: 11.5px; text-align: right; }
   .fila .bar { height: 7px; border-radius: 4px; background: var(--panel); overflow: hidden; } .fila .bar i { display: block; height: 100%; background: linear-gradient(90deg, rgba(60,207,142,.5), var(--verde)); border-radius: 4px; }
   .fila em { font-style: normal; color: var(--verde); font-weight: 700; text-align: right; }
-  .kpis { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-top: 14px; }
+  .kpis { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin: 4px 0 10px; }
   .kpis div { background: var(--panel-2); border-radius: 10px; padding: 8px 10px; } .kpis small { display: block; color: var(--apagado); font-size: 11px; } .kpis b { font-size: 17px; }
   section { padding: 64px 0; }
   h2 { font-size: clamp(28px, 4vw, 40px); letter-spacing: -.01em; margin: 0 0 10px; font-weight: 800; }
@@ -97,7 +99,7 @@
     <div class="nav-d">
       <div class="idioma" role="group" aria-label="Language"><button data-l="en" class="on">EN</button><button data-l="es">ES</button></div>
       <a class="btn sec" href="https://discord.gg/HkPjRjPPub" target="_blank" rel="noopener"><span class="mi">forum</span>Discord</a>
-      <a class="btn sec" href="https://ascend-datos.albertodoradofernandez.workers.dev/"><span class="mi">language</span><span data-t="navw">Try online</span></a>
+      <a class="btn sec" href="https://ascend.albertodoradofernandez.workers.dev/"><span class="mi">language</span><span data-t="navw">Try online</span></a>
       <a class="btn" href="https://github.com/albertodoradofernandez-sys/ascend-datos/releases/latest"><span class="mi">download</span><span data-t="nav">Download</span></a>
     </div>
   </nav>
@@ -109,7 +111,7 @@
       <p class="lead" data-t="lead">Ascend compares your character with the real top players of your class and tells you your true rank, what raises your CP the most and how much kinah it will cost.</p>
       <div class="cta">
         <a class="btn" href="https://github.com/albertodoradofernandez-sys/ascend-datos/releases/latest"><span class="mi">download</span><span data-t="cta">Download for Windows</span></a>
-        <a class="btn sec" href="https://ascend-datos.albertodoradofernandez.workers.dev/"><span class="mi">language</span><span data-t="ctaw">Try it online, no install</span></a>
+        <a class="btn sec" href="https://ascend.albertodoradofernandez.workers.dev/"><span class="mi">language</span><span data-t="ctaw">Try it online, no install</span></a>
       </div>
       <p class="mini"><a href="#funciones" data-t="cta2">See what it does</a></p>
       <p class="mini" data-t="mini">Never touches the game · Uses NC's public API and your local Questlog data · Updates itself</p>
@@ -118,19 +120,19 @@
       <span class="ejemplo" data-t="ej">Example</span>
       <h4><span class="mi">leaderboard</span><span data-t="m1">Your rank</span></h4>
       <div class="puesto"><b>#1,250</b> <span data-t="m2">of 40,000 Gladiators in EU</span><span class="tag">top 3%</span></div>
-      <h4 style="margin-top:18px"><span class="mi">savings</span><span data-t="m3">Budget plan · 20M kinah</span></h4>
+      <h4 style="margin-top:18px"><span class="mi">savings</span><span data-t="m3">Budget plan</span></h4>
+      <div class="kpis"><div><small data-t="m7">Budget</small><b>20 M</b></div><div><small data-t="m8">You spend</small><b>15.4 M</b></div><div><small data-t="m9">You gain</small><b style="color:var(--verde)">+3,286 CP</b></div></div>
       <div class="filas">
-        <div class="fila"><span data-t="m4">Earring 1 · amp. +2 → +3</span><span class="bar"><i style="width:100%"></i></span><em>+580</em></div>
-        <div class="fila"><span data-t="m5">Ring 2 · amp. +2 → +3</span><span class="bar"><i style="width:100%"></i></span><em>+580</em></div>
-        <div class="fila"><span data-t="m6">Chest +11 → +12</span><span class="bar"><i style="width:20%"></i></span><em>+116</em></div>
+        <div class="fila"><span class="n">1</span><span><b data-t="m4">Off hand</b><small>+15 · amp. +2 → +3</small></span><span class="bar"><i style="width:100%"></i></span><span class="coste">≈ 3.7 M</span><em>+865</em></div>
+        <div class="fila"><span class="n">2</span><span><b data-t="m5">Bracelet 1</b><small>+11 → +13</small></span><span class="bar"><i style="width:40%"></i></span><span class="coste">≈ 1.5 M</span><em>+346</em></div>
+        <div class="fila"><span class="n">3</span><span><b data-t="m6">Chest</b><small>+11 → +12</small></span><span class="bar"><i style="width:20%"></i></span><span class="coste">≈ 0.8 M</span><em>+173</em></div>
       </div>
-      <div class="kpis"><div><small data-t="m7">Spend</small><b>18M</b></div><div><small data-t="m8">Gain</small><b style="color:var(--verde)">+2,450</b></div><div><small data-t="m9">Per day</small><b>+900</b></div></div>
     </div>
   </header>
 
   <section class="video-sec">
     <h2 data-t="v">See it in 30 seconds</h2>
-    <video class="video-demo entra" src="ascend-presentacion.mp4" autoplay muted loop playsinline preload="metadata" aria-label="Ascend demo video"></video>
+    <video class="video-demo entra" autoplay muted loop playsinline preload="metadata" aria-label="Ascend demo video"></video>
   </section>
 
   <section id="funciones">
@@ -153,7 +155,7 @@
     <div class="final entra" style="margin-bottom:56px">
       <h2 data-t="w">Try it before you install</h2>
       <p class="sub" style="margin:0 auto 24px" data-t="ws">The web version does the same with your character: search your name and get your sheet, rank, build guide, arcanas and ascension path. If you like it, download the app for Questlog damage, performance presets and auto-updates.</p>
-      <div class="cta" style="justify-content:center"><a class="btn" href="https://ascend-datos.albertodoradofernandez.workers.dev/"><span class="mi">language</span><span data-t="wb">Open Ascend Web</span></a></div>
+      <div class="cta" style="justify-content:center"><a class="btn" href="https://ascend.albertodoradofernandez.workers.dev/"><span class="mi">language</span><span data-t="wb">Open Ascend Web</span></a></div>
     </div>
     <h2 data-t="p">Up and running in a minute</h2>
     <p class="sub" data-t="ps">No account, no setup.</p>
@@ -180,7 +182,7 @@
       <p class="sub" style="margin:0 auto 24px" data-t="fins">Free for Windows 10 and 11. English and Spanish.</p>
       <div class="cta" style="justify-content:center">
         <a class="btn" href="https://github.com/albertodoradofernandez-sys/ascend-datos/releases/latest"><span class="mi">download</span><span data-t="cta">Download for Windows</span></a>
-        <a class="btn sec" href="https://ascend-datos.albertodoradofernandez.workers.dev/"><span class="mi">language</span><span data-t="navw">Try online</span></a>
+        <a class="btn sec" href="https://ascend.albertodoradofernandez.workers.dev/"><span class="mi">language</span><span data-t="navw">Try online</span></a>
         <a class="btn sec" href="https://discord.gg/HkPjRjPPub" target="_blank" rel="noopener"><span class="mi">forum</span><span data-t="disc">Join the Discord</span></a>
       </div>
     </div>
@@ -197,10 +199,10 @@
     nav: 'Descargar', chip: 'Gratis · Windows · AION 2 Global y Corea', h1: 'Sabe exactamente qué mejorar para <em>ascender</em>.',
     lead: 'Ascend compara tu personaje con el top real de tu clase y te dice tu puesto de verdad, qué te sube más el CP y cuánto kinah te va a costar.',
     cta: 'Descargar para Windows', cta2: 'Ver qué hace', disc: 'Únete al Discord', mini: 'Nunca toca el juego · Usa la API pública de NC y tus datos locales de Questlog · Se actualiza sola',
-    m1: 'Tu puesto', m2: 'de 40.000 Gladiadores en EU', ej: 'Ejemplo', m3: 'Plan de presupuesto · 20 M de kinah', m4: 'Pendiente 1 · amp. +2 → +3', m5: 'Anillo 2 · amp. +2 → +3', m6: 'Pecho +11 → +12',
+    m1: 'Tu puesto', m2: 'de 40.000 Gladiadores en EU', ej: 'Ejemplo', m3: 'Plan de presupuesto', m4: 'Secundaria', m5: 'Brazalete 1', m6: 'Pecho',
     v: 'Mírala en 30 segundos', navw: 'Probar online', ctaw: 'Pruébala online, sin instalar', w: 'Pruébala antes de instalar', ws: 'La versión web hace lo mismo con tu personaje: busca tu nombre y tendrás tu ficha, tu puesto, la guía de build, las arcanas y la ruta de ascenso. Si te gusta, descarga la app para el daño real de Questlog, los presets de rendimiento y las actualizaciones automáticas.', wb: 'Abrir Ascend Web',
     c7: 'Rotación y macro', c7p: 'La barra de skills de tu clase dibujada como en el juego (filas 0-3 por tecla) y la ventana de macro paso a paso.', c8: 'Plan de Daevanion', c8p: 'Tus tableros nodo a nodo: lo que abre el top 30 y a ti te falta, numerado en el orden en que abrirlo.', c9: 'Avisos de parche', c9p: 'Buffs y nerfs a tu clase con el icono de la skill, y lo que ya salió en Corea y llegará después.',
-    m7: 'Gastas', m8: 'Subes', m9: 'Por día',
+    m7: 'Presupuesto', m8: 'Gastas', m9: 'Ganas',
     f: 'Todo lo que te sube el CP', fs: 'Cada herramienta te compara con el top 30 de tu clase y tu región, y te explica por qué.',
     c1: 'Puesto real y objetivo', c1p: 'Tu puesto en tu clase con el ranking real de CP, y cuánto CP y kinah te faltan para el top 10, 25, 50 o 100.',
     c2: 'Ruta de ascenso', c2p: 'Las mejoras que más CP dan por kinah, contando la probabilidad de fallo, con planificador de presupuesto.',
@@ -225,6 +227,10 @@
     const t = l === 'es' ? ES : EN;
     document.querySelectorAll('[data-t]').forEach((el) => { if (t[el.dataset.t]) el.innerHTML = t[el.dataset.t]; });
     document.documentElement.lang = l;
+    // El vídeo, en el idioma elegido
+    const v = document.querySelector('.video-demo');
+    const src = l === 'es' ? 'ascend-presentacion.mp4' : 'ascend-presentacion-en.mp4';
+    if (v && !v.src.endsWith(src)) { v.src = src; v.play().catch(() => {}); }
     document.querySelectorAll('.idioma button').forEach((b) => b.classList.toggle('on', b.dataset.l === l));
     try { localStorage.setItem('ascend.web.idioma', l); } catch {}
   }
