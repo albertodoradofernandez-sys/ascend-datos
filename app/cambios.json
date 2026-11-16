@@ -1,5 +1,55 @@
 [
  {
+  "version": "1.1.0",
+  "fecha": "2026-11-16",
+  "cambios": [
+   {
+    "icono": "swords",
+    "es": [
+     "Daño o CP: tú eliges",
+     "Nuevo interruptor en el menú: la app valora cada mejora por el daño que te da contra un jefe (con tu hoja de stats de Questlog) o por el CP. Soul bind, piedra filosofal, alas, mascotas, títulos, panteón, Plan de mejoras y Daevanion siguen tu elección."
+    ],
+    "en": [
+     "Damage or CP: your choice",
+     "New switch in the menu: the app rates each upgrade by the damage it adds against a boss (using your Questlog stat sheet) or by CP. Soul bind, philosopher's stone, wings, pets, titles, pantheon, Upgrade plan and Daevanion follow your choice."
+    ]
+   },
+   {
+    "icono": "edit_road",
+    "es": [
+     "Planificador de Daevanion",
+     "Empieza vacío o desde tu tablero, pulsa un nodo y se conecta solo por el camino más barato, o usa «Auto» para que elija lo mejor del top, con límite de puntos. Marcos oficiales del juego, resaltar por habilidad o stat y deshacer."
+    ],
+    "en": [
+     "Daevanion planner",
+     "Start empty or from your board, click a node and it connects by the cheapest path, or use «Auto» to pick the best of the top, with a points limit. Official node frames, highlight by ability or stat, and undo."
+    ]
+   },
+   {
+    "icono": "link",
+    "es": [
+     "Soul bind con pasivas",
+     "Ahora cuentan también las líneas de skill (pasivas y activas) que lleva el top. Nota por letra de D a S+, tarjetas que giran para ver la pieza ideal y «Lo siguiente» con la probabilidad por intento."
+    ],
+    "en": [
+     "Soul bind with passives",
+     "Skill lines (passive and active) the top carries now count too. Letter grades from D to S+, cards that flip to show the ideal piece, and «Up next» with the chance per try."
+    ]
+   },
+   {
+    "icono": "menu",
+    "es": [
+     "Menú más claro",
+     "Secciones Tu personaje, Combate y Meta. «Mejorar equipo» y «Plan de mejoras» sustituyen a Guía de build y Ruta de ascenso. Manastones más fáciles de entender."
+    ],
+    "en": [
+     "Clearer menu",
+     "Your character, Combat and Meta sections. «Gear upgrades» and «Upgrade plan» replace Build guide and Ascension path. Easier-to-read manastones."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.0.5",
   "fecha": "2026-11-16",
   "cambios": [

@@ -1,11 +1,11 @@
 {
- "version": "1.0.5",
- "notes": "Daevanion nuevo y soul bind por afinidad",
- "pub_date": "2026-11-16T12:35:26Z",
+ "version": "1.1.0",
+ "notes": "Daño o CP, planificador de Daevanion, soul bind con pasivas y menú más claro",
+ "pub_date": "2026-11-16T13:15:01Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTFIcEF6enNUdmxDYlAvdE9WZStNeFhUNjVsaEV0T29HRTdESGduMGV1OXQ4dU04VCtGTmRSc2xYVHd5VllBK0FiVnBzL0Q0dCtaMUdmS3dOaHVQdmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODMyNTIwCWZpbGU6QXNjZW5kXzEuMC41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuNQpNZHhnV0FSOXBlUXJ6VWMzQXE1cnhtY1JnSGlaNDIveS9FZU0rY01XUGpBcXJsOXZLMjVvRy9iQ1BzTk5qUGN5a3hrbm9RbjFkU1lrUGpHTSswSS9Ddz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.0.5/Ascend_1.0.5_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXd4M21iTjlzejhabFVNaXQ5RWlGZ3BGNkp6dTB0YUhDSWhrUlpjbXVWclJnNEhKeGZueUVKc0JLSkpwTEh5QUtuUHF2bnRDVnkwcWZLYSt0dnVqa0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODM0ODk2CWZpbGU6QXNjZW5kXzEuMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMAovNkMxSUp2VTJTOHRNYWlNMGZLMnhydXl1bTBDWEQwSjJXVGZXakF4dFNkL1M2dlFXcFdmdnJQYTVQY094QUZrZGRBR2E4VHNNSk5PSmY4WFg4Yy9EUT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.1.0/Ascend_1.1.0_x64-setup.exe"
   }
  }
 }
