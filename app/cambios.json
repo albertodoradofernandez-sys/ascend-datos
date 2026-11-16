@@ -1,5 +1,33 @@
 [
  {
+  "version": "1.0.5",
+  "fecha": "2026-11-16",
+  "cambios": [
+   {
+    "icono": "hub",
+    "es": [
+     "Daevanion nuevo",
+     "El tablero se ve con iconos y conexiones, numera en qué orden abrir los nodos, y al pulsar uno ves si puedes abrirlo ya y lo que te da el tablero en total."
+    ],
+    "en": [
+     "New Daevanion",
+     "Boards now show icons and links, number the order to open nodes, and clicking one tells you if you can open it and what the board gives you."
+    ]
+   },
+   {
+    "icono": "auto_awesome",
+    "es": [
+     "Soul bind por afinidad",
+     "Cada pieza tiene una nota de 0 a 100 frente al top y una lista de prioridad: qué línea cambiar primero y qué buscar, con el CP que ganas."
+    ],
+    "en": [
+     "Soul bind affinity",
+     "Each piece gets a 0-100 score against the top and a priority list: which line to change first and what to look for, with the CP you gain."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.0.4",
   "fecha": "2026-11-15",
   "cambios": [
