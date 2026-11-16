@@ -1,5 +1,44 @@
 [
  {
+  "version": "1.1.1",
+  "fecha": "2026-11-16",
+  "cambios": [
+   {
+    "icono": "school",
+    "es": [
+     "Cada página se explica sola",
+     "En vez de un recorrido largo al principio, la primera vez que entras en una página sale una tarjeta pequeña con cómo usarla. Se puede apagar y volver a ver desde Ajustes."
+    ],
+    "en": [
+     "Each page explains itself",
+     "Instead of a long tour at the start, the first time you open a page a small card shows how to use it. You can turn it off and see it again from Settings."
+    ]
+   },
+   {
+    "icono": "link",
+    "es": [
+     "Soul bind más claro",
+     "Nueva cabecera con tu nota, el camino hasta S+ y la siguiente pieza a mejorar. Las piezas salen en el orden del equipo del juego."
+    ],
+    "en": [
+     "Clearer soul bind",
+     "New header with your grade, the path to S+ and the next piece to improve. Pieces follow the in-game gear order."
+    ]
+   },
+   {
+    "icono": "swords",
+    "es": [
+     "«Recomendar según: Daño | CP»",
+     "El interruptor del menú explica qué hace cada opción. Arreglado el icono de Skills en Qué hacer ahora."
+    ],
+    "en": [
+     "«Recommend by: Damage | CP»",
+     "The menu switch explains what each option does. Fixed the Skills icon in What to do now."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.1.0",
   "fecha": "2026-11-16",
   "cambios": [
