@@ -1,11 +1,11 @@
 {
- "version": "1.1.1",
- "notes": "Explicaciones por página, soul bind más claro y Daño/CP explicado",
- "pub_date": "2026-11-16T13:34:56Z",
+ "version": "1.1.2",
+ "notes": "Regiones LATAM y Asia, y servidores asmodianos de NA",
+ "pub_date": "2026-11-16T14:04:38Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTFMcGJxK1dQNTVPVFYrRDJNcWNZSjhOSXRCWmtucDdtdE1RRnFieUIwOEQrdlo2WDZxMmhReWpnWVNiTlkrSHR1K0l3Wnd2SlNGRk11ZWhldnFzdlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODM2MDkxCWZpbGU6QXNjZW5kXzEuMS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMQp1MDN5NnpNK1ZCRHpVNHNuT2s1WTVoaHJCL1AyRGtqbW1UWjRIWmFLNndnQWxzS0h1aXVUK1pKdFU0TTVrMUVVS0V2MGc0Slgxc3dGRlZ0bElqUFhBZz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.1.1/Ascend_1.1.1_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXdkMkJ0Y3hwc3Y5SG1URndJaEd3eVpUdXgxeG9ZTnNTM3FsbGRQVlpWQ0dCQVdNTWdkSGZheS9ad3pwN2M3bVFFOTRHb0xJdkFHUjZEdUxJaVpJQ1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODM3ODczCWZpbGU6QXNjZW5kXzEuMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMgpuWTM5dEtCU0prQ0UwQStoZVJUU2RiZWRIM0EzUytuQXBjUlladEI2SEJiRGd0V0V3WFdLaDhZb1JBTHg0RjBFMzk5S2hwWUdCNmZNcnpEbk5aTlNBQT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.1.2/Ascend_1.1.2_x64-setup.exe"
   }
  }
 }

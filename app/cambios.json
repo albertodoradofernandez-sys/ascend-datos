@@ -1,5 +1,22 @@
 [
  {
+  "version": "1.1.2",
+  "fecha": "2026-11-16",
+  "cambios": [
+   {
+    "icono": "public",
+    "es": [
+     "LATAM y Asia",
+     "Ya puedes buscar y añadir personajes de los servidores de LATAM y Asia. NA West y NA East tienen ahora también sus servidores asmodianos, que faltaban."
+    ],
+    "en": [
+     "LATAM and Asia",
+     "You can now search and add characters from LATAM and Asia servers. NA West and NA East now also list their Asmodian servers, which were missing."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.1.1",
   "fecha": "2026-11-16",
   "cambios": [
