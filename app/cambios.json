@@ -1,5 +1,55 @@
 [
  {
+  "version": "1.2.0",
+  "fecha": "2026-11-17",
+  "cambios": [
+   {
+    "icono": "compare_arrows",
+    "es": [
+     "Cara a cara nuevo",
+     "Duelo con los dos retratos y barras de CP e item level, quién destaca y en cuántas categorías, las mayores diferencias y el equipo pieza a pieza con «A delante» y una tabla de stats al pulsar."
+    ],
+    "en": [
+     "New Head to head",
+     "A duel view with both portraits and CP / item level bars, who stands out and in how many categories, the biggest differences and gear slot by slot with «A ahead» and a stat table on click."
+    ]
+   },
+   {
+    "icono": "style",
+    "es": [
+     "Cartas de soul bind",
+     "Marco por nota, se inclinan con el ratón y giran para ver la pieza ideal, con el daño que te da cada línea. El BiS de Corea es opcional (por defecto, el top de Europa)."
+    ],
+    "en": [
+     "Soul bind cards",
+     "Frame by grade, they tilt with the mouse and flip to show the ideal piece, with the damage each line gives. Korea BiS is optional (Europe top by default)."
+    ]
+   },
+   {
+    "icono": "diamond",
+    "es": [
+     "Piedra filosofal bien explicada",
+     "Sale al azar entre las líneas que la pieza no tiene y no se transfiere: la app te dice cuándo ponerla, qué puede salir que te sirva y cuándo es mejor guardarla."
+    ],
+    "en": [
+     "Philosopher's Stone explained",
+     "It rolls a random line the piece lacks and does not transfer: the app tells you when to use it, what useful lines can come out and when to keep it."
+    ]
+   },
+   {
+    "icono": "auto_fix_high",
+    "es": [
+     "Más arreglos",
+     "Bienvenida nueva, las alas que tienes se leen bien (antes faltaban algunas), cifras de daño más realistas y el plan de soul bind más claro."
+    ],
+    "en": [
+     "More fixes",
+     "New welcome screen, owned wings are read correctly (some were missing), more realistic damage figures and a clearer soul bind plan."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.1.2",
   "fecha": "2026-11-16",
   "cambios": [

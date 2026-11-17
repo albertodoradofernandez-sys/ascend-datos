@@ -1,11 +1,11 @@
 {
- "version": "1.1.2",
- "notes": "Regiones LATAM y Asia, y servidores asmodianos de NA",
- "pub_date": "2026-11-16T14:04:38Z",
+ "version": "1.2.0",
+ "notes": "Cara a cara nuevo, cartas de soul bind, piedra filosofal bien explicada y bienvenida nueva",
+ "pub_date": "2026-11-17T03:23:56Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXdkMkJ0Y3hwc3Y5SG1URndJaEd3eVpUdXgxeG9ZTnNTM3FsbGRQVlpWQ0dCQVdNTWdkSGZheS9ad3pwN2M3bVFFOTRHb0xJdkFHUjZEdUxJaVpJQ1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODM3ODczCWZpbGU6QXNjZW5kXzEuMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMgpuWTM5dEtCU0prQ0UwQStoZVJUU2RiZWRIM0EzUytuQXBjUlladEI2SEJiRGd0V0V3WFdLaDhZb1JBTHg0RjBFMzk5S2hwWUdCNmZNcnpEbk5aTlNBQT09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.1.2/Ascend_1.1.2_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTQvQmtXYndmS3BpdUtJNnpvZS9wWS9uZVFpMTRWc0U2UmxuL1FkaUttSjNVUC9DZGZpU2hTWEk5MzJONHFkYXl5akV5QVlQZitVajl3eCthRVpHU2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODg1ODMxCWZpbGU6QXNjZW5kXzEuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMAp2NWY5cENIVmMzVXkyRnU5Zkc1bkVERjhpYXVpQlNwelJWNzNjSERhM2F3YXRzQmRhTU9FMzFsWFBla0x2Yk9RVUI3UFVCdzIyRTkzNDVBY3kyUGpDUT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.2.0/Ascend_1.2.0_x64-setup.exe"
   }
  }
 }
