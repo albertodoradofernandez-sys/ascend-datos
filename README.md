@@ -1,5 +1,5 @@
 <p align="center"><img src="docs/logo.svg" width="96" alt="Ascend"></p>
-<h1 align="center">Ascend — AION 2 CP Tracker</h1>
+<h1 align="center">Ascend · AION 2 CP Tracker</h1>
 <p align="center">Free Windows app that compares your character with the top players of your class and tells you what to upgrade first.<br>
 App gratuita para Windows que compara tu personaje con el top de tu clase y te dice qué mejorar primero.</p>
 
@@ -21,10 +21,12 @@ App gratuita para Windows que compara tu personaje con el top de tu clase y te d
 The app **updates itself**: when there's a new version it asks you, and the top-player data downloads on its own every week.
 
 ### What it does
-- Compares your gear, manastones, skills, Genus, soul bind, Pantheon, titles, wings and pets with the top players of your class (EU and KR).
-- Gives a prioritized list: what gives the most CP for the least effort goes first.
-- Shows your CP rank in your class and a **Copy summary** button for Discord.
-- English and Spanish.
+- **Gear upgrades:** piece by piece against the top players of your class (Europe by default, Korea BiS optional): soul bind with letter grades, what to reroll and what to look for, manastones, Philosopher's Stone.
+- **Damage or CP:** rank every upgrade by the damage it adds against a boss (using your stat sheet) or by CP.
+- **Daevanion planner:** your boards with the in-game frames, plus an «Auto» button that builds the best board for your points.
+- **Head to head:** compare yourself with anyone, slot by slot.
+- Rotation and macro, collections, ranking, patch notes. English and Spanish.
+- Also in your browser: https://ascend.albertodoradofernandez.workers.dev
 
 ### Is it safe?
 - It only uses **NCSOFT's official public character API** (the same data as the official website).
@@ -45,10 +47,12 @@ The app **updates itself**: when there's a new version it asks you, and the top-
 La app **se actualiza sola**: cuando hay versión nueva te avisa, y los datos del top se descargan solos cada semana.
 
 ### Qué hace
-- Compara tu equipo, manastones, skills, Genus, soul bind, Panteón, títulos, alas y mascotas con el top de tu clase (Europa y Corea).
-- Te da una lista ordenada: primero lo que más CP da con menos esfuerzo.
-- Muestra tu puesto por CP en tu clase y un botón **Copiar resumen** para Discord.
-- En español e inglés.
+- **Mejorar equipo:** pieza a pieza frente al top de tu clase (Europa por defecto, BiS de Corea opcional): soul bind con nota por letra, qué cambiar y qué buscar, manastones y piedra filosofal.
+- **Daño o CP:** ordena cada mejora por el daño que te da contra un jefe (con tu hoja de stats) o por el CP.
+- **Planificador de Daevanion:** tus tableros con los marcos del juego y un botón «Auto» que monta el mejor tablero para tus puntos.
+- **Cara a cara:** compárate con quien quieras, pieza a pieza.
+- Rotación y macro, colecciones, ranking y parches. En español e inglés.
+- También en el navegador: https://ascend.albertodoradofernandez.workers.dev
 
 ### ¿Es segura?
 - Solo usa la **API pública oficial de NCSOFT** (los mismos datos que la web oficial).
