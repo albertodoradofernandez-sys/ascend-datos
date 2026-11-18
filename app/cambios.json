@@ -1,5 +1,33 @@
 [
  {
+  "version": "1.2.2",
+  "fecha": "2026-11-18",
+  "cambios": [
+   {
+    "icono": "star",
+    "es": [
+     "Tramos de skill",
+     "Llegar a un tramo de estigma (5, 10, 15 y sobre todo 20) vale más: si tienes una skill al 19, la línea que la sube al 20 sale antes. Y no te propone quitar la línea que te mantiene en un tramo."
+    ],
+    "en": [
+     "Skill tiers",
+     "Reaching a stigma tier (5, 10, 15 and above all 20) is worth more: with a skill at 19, the line that takes it to 20 comes first. It won't suggest removing the line that keeps you in a tier."
+    ]
+   },
+   {
+    "icono": "speed",
+    "es": [
+     "Más rápida",
+     "La Guía calcula el daño de cada línea sin repetir trabajo."
+    ],
+    "en": [
+     "Faster",
+     "The guide computes each line's damage without repeating work."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.2.1",
   "fecha": "2026-11-18",
   "cambios": [

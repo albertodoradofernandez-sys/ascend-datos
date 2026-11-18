@@ -1,11 +1,11 @@
 {
- "version": "1.2.1",
- "notes": "Daño según los que más pegan, skills al 20 y CP coherente",
- "pub_date": "2026-11-18T01:56:17Z",
+ "version": "1.2.2",
+ "notes": "Tramos de skill en el modo daño y más rápida",
+ "pub_date": "2026-11-18T02:01:32Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTJBQzNOWUlFNk5yTmZYc2xJZUFYV1BleDN0ZDM1bzVyYjNOSXVaZHJLUk00ZDhsSDRaZFFPUENXaDBWeTVlR25SMlZsYVhXTFphTTJKc05pKzUxSHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTY2OTcxCWZpbGU6QXNjZW5kXzEuMi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMQpWZHdJYUlPRHdkOUcrSS9lUS9aM2dybXVlMDkrRXBhdzB1eUhQTjVaS1RsditxaWxVcWhLeVFlNXVvTlpzNkV4SXY4R2prdjRiM2FwVEs5QXk4UldDZz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.2.1/Ascend_1.2.1_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTV5dmRkWEJYcjM5OFRaT1ZEL2x6TkFyUDJmVU95eW5adEI2N0I1LzlUcE9sWWJVcEVQNGh1R205dTZQMWU1SC8vcklxWndyR2NWb3NscGJsajdlVUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTY3Mjg3CWZpbGU6QXNjZW5kXzEuMi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMgpzMS8vNVFEdW5xYjBPVWoxRzVmZklnMFBnTHpjMERuTW02QUxJY1NYYlhUOVN3NzlmajJEUkhoWXRvUVUyTStKRUZEcnZsUU84VFZOZ2szSk4xUnNCQT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.2.2/Ascend_1.2.2_x64-setup.exe"
   }
  }
 }
