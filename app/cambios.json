@@ -1,5 +1,22 @@
 [
  {
+  "version": "1.2.4",
+  "fecha": "2026-11-18",
+  "cambios": [
+   {
+    "icono": "diamond",
+    "es": [
+     "Iconos de manastones",
+     "Las manastones comunes y raras ya no salen con el icono roto (la web oficial daba una imagen que no existe)."
+    ],
+    "en": [
+     "Manastone icons",
+     "Common and rare manastones no longer show a broken icon (the official site pointed to an image that doesn't exist)."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.2.3",
   "fecha": "2026-11-18",
   "cambios": [

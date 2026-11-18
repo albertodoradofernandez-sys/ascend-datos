@@ -1,11 +1,11 @@
 {
- "version": "1.2.3",
- "notes": "Panel más claro: avisos plegados y mejoras en filas",
- "pub_date": "2026-11-18T02:12:44Z",
+ "version": "1.2.4",
+ "notes": "Iconos de manastones arreglados",
+ "pub_date": "2026-11-18T02:26:34Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXlBaEVUWTlWbFlXazVWV3JkWHFMWXM3MWFmUjdrMG94cThtQ09hSmJqRjNYMWhOak9sVm9nV2NjcUw4ZlBDNU9PWjlRWDVOeHZTL1BobkpxNk4zR2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTY3OTU4CWZpbGU6QXNjZW5kXzEuMi4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMwp6bzd2b2xwVnlsK1BqZ0FoTXdQeEY1cGo3NEhlb3h2TXZLMzMzTTJuN3ZzUUIxWW9pMm1BNzlPc3pML2lvYXFVTjVCQnplcGhubkh2b0xSVzl0SjFCUT09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.2.3/Ascend_1.2.3_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXk5Z1lGWnpKT0hKZGFQVHhTZ3dFUUpFeWZ5cTR1cGNCOGx1Uitld2RSeTIwV1pkS2VEYlQwNTRpR1VVdThPbTRBTUV6K0hHVDRLbEJrQ0pqbzdEWkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTY4Nzg5CWZpbGU6QXNjZW5kXzEuMi40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNApqaXhXNzNUOEE4U2tjWi9LUWllYk5MVkg2Zm84LzNydU1HWlEvdlZjVVVDT0hGY25HSVJ6cW9SNDU5VFRzUGRVR1lqNmsvYkF4dHJJT01kNkU5Zi9DQT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.2.4/Ascend_1.2.4_x64-setup.exe"
   }
  }
 }
