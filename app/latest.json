@@ -1,11 +1,11 @@
 {
- "version": "1.3.1",
- "notes": "Daevanion por bolsas de puntos y orden de estigmas",
- "pub_date": "2026-11-18T15:33:37Z",
+ "version": "1.3.2",
+ "notes": "Arcanas en tarjetas que giran",
+ "pub_date": "2026-11-18T21:29:00Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTZxQ01id2hZc3ZrcXFEM2tXeXFHUmd1UHV6eklzdW9NU3pWTmpmVFRSUmg4dHpxdkdacm1JM2Z5Q0xRcmduNFY4Y2p1L0F1QzZ6aFFjWVF5dGpxRmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDE2MDExCWZpbGU6QXNjZW5kXzEuMy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjMuMQoxYmlIazdJQ3Y2K0w5WmJ5RXNhcEdoMmkyNjBGWlVLSjQwNDRnaXJvNFlWU0NoZ1RWazJyM1JLdStmaW1JOTlNSFgya1BMcnM4ckVOZVE1M3pUUEJEZz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.3.1/Ascend_1.3.1_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXlhd2hQNzh6SWJhc05vSUhNb3JUb0dhcWo5R2x1bC9HZ1hqT3N6U2hTN0R6bGR0RXlGMW5lOW1HTURnOWNPcHpJeGZGdEljcTV2Q2J2NmpqSGJlZndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM3MzM1CWZpbGU6QXNjZW5kXzEuMy4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjMuMgp1bkVRS1daSGsxTmFFOHFPWElpaHUwS2ZoR0NFaFdjSDFUZ0VBaWFUTlRuV25idm5VTFU3c3BadkJEVE9iRkxRVEwrb1pybUgxOWVncHhKYi9WQ1pEdz09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.3.2/Ascend_1.3.2_x64-setup.exe"
   }
  }
 }

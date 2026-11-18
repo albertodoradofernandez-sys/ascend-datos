@@ -1,5 +1,22 @@
 [
  {
+  "version": "1.3.2",
+  "fecha": "2026-11-18",
+  "cambios": [
+   {
+    "icono": "style",
+    "es": [
+     "Arcanas en tarjetas que giran",
+     "Pulsa una arcana para ver la del top en esa ranura: su mejora media, sus estadísticas principales de media y el nivel medio de cada habilidad, con el % del top que la lleva."
+    ],
+    "en": [
+     "Flip cards for arcanas",
+     "Click an arcana to see the top one for that slot: average upgrade, average main stats and each skill's average level, with the % of the top carrying it."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.3.1",
   "fecha": "2026-11-18",
   "cambios": [
