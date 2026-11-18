@@ -1,7 +1,7 @@
 {
- "version": "202611151158",
- "fecha": "2026-11-15T11:58:37",
- "notas": "Parches en inglés",
+ "version": "202611180252",
+ "fecha": "2026-11-18T02:52:05",
+ "notas": "Datos de daño: lo que llevan los que más pegan por clase (Global)",
  "archivos": [
   "comun.db.gz",
   "parches.json",
@@ -17,6 +17,7 @@
   "titulos.json",
   "ranking.json",
   "astral_vision.json",
-  "daevanion_top.json"
+  "daevanion_top.json",
+  "dano_top.json"
  ]
 }
