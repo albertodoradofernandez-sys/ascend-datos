@@ -1,5 +1,44 @@
 [
  {
+  "version": "1.2.1",
+  "fecha": "2026-11-18",
+  "cambios": [
+   {
+    "icono": "monitoring",
+    "es": [
+     "Daño según los que más pegan",
+     "En modo daño, el soul bind se compara con lo que llevan los 10 que más daño hacen de tu clase en Global (medidor de daño), sin líneas de defensa ni de PvP. Las cifras usan cómo pega de verdad cada clase: crítico, golpe doble, por la espalda y precisión."
+    ],
+    "en": [
+     "Damage from the top hitters",
+     "In damage mode, soul bind is compared with what the 10 highest-damage players of your class wear on Global (damage meter), without defensive or PvP lines. Figures use how each class really hits: crit, double, back attack and accuracy."
+    ]
+   },
+   {
+    "icono": "star",
+    "es": [
+     "Skills al 20",
+     "No te pide quitar la línea que te da una skill al 20, y si ya la tienes al 20 por otra pieza, te propone otras."
+    ],
+    "en": [
+     "Skills at 20",
+     "It won't ask you to remove the line that takes a skill to 20, and if you already have it at 20 from another piece, it suggests others."
+    ]
+   },
+   {
+    "icono": "bolt",
+    "es": [
+     "CP coherente",
+     "Títulos, panteón, alas y mascotas usan ya la misma regla de CP que el resto (antes algunos % salían muy inflados). Varios arreglos más."
+    ],
+    "en": [
+     "Consistent CP",
+     "Titles, pantheon, wings and pets now use the same CP rule as everything else (some % were heavily inflated). Several other fixes."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.2.0",
   "fecha": "2026-11-17",
   "cambios": [
