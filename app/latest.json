@@ -1,11 +1,11 @@
 {
- "version": "1.2.4",
- "notes": "Iconos de manastones arreglados",
- "pub_date": "2026-11-18T02:26:34Z",
+ "version": "1.2.5",
+ "notes": "Notas de soul bind como kisk, alas marcables y quitar personajes",
+ "pub_date": "2026-11-18T02:50:20Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXk5Z1lGWnpKT0hKZGFQVHhTZ3dFUUpFeWZ5cTR1cGNCOGx1Uitld2RSeTIwV1pkS2VEYlQwNTRpR1VVdThPbTRBTUV6K0hHVDRLbEJrQ0pqbzdEWkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTY4Nzg5CWZpbGU6QXNjZW5kXzEuMi40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNApqaXhXNzNUOEE4U2tjWi9LUWllYk5MVkg2Zm84LzNydU1HWlEvdlZjVVVDT0hGY25HSVJ6cW9SNDU5VFRzUGRVR1lqNmsvYkF4dHJJT01kNkU5Zi9DQT09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.2.4/Ascend_1.2.4_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQStNVDdCTTB1eFVSK1Qvc0pWNVlLdTVWemhCV1JmczF3Y1RNOGhGWFk5aC82d1VkUVVyb2VScENyZEVwZnYzM3FoaVUrbDZ2TVo1MXV6Yno5TVpzZGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTcwMjE1CWZpbGU6QXNjZW5kXzEuMi41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNQppNGNoSVkzdUtGL0RHY0VOcE1qOTZ5UXBEZ2lCV1FqY3BJc09DdG13dWZhdXdxbHBTOElzc281RmtJMXdlOGtIa0dibUFCNjB5c2Q4MWhEb2QyN1pCdz09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.2.5/Ascend_1.2.5_x64-setup.exe"
   }
  }
 }

@@ -1,5 +1,44 @@
 [
  {
+  "version": "1.2.5",
+  "fecha": "2026-11-18",
+  "cambios": [
+   {
+    "icono": "style",
+    "es": [
+     "Notas de soul bind como kisk",
+     "Cada línea vale lo que la lleva el top en esa pieza por lo buena que es tu tirada. Escala: BiS 90, S+ 55, S 35, A 22, B 12. Las 4 líneas más importantes van primero. Modo daño compara con los que más pegan y modo CP con los de más CP."
+    ],
+    "en": [
+     "Kisk-style soul bind grades",
+     "Each line is worth how many of the top carry it on that piece times your roll. Scale: BiS 90, S+ 55, S 35, A 22, B 12. The 4 key lines come first. Damage mode compares with top damage dealers, CP mode with highest CP."
+    ]
+   },
+   {
+    "icono": "flight",
+    "es": [
+     "Alas que ya tienes",
+     "Marca con ✓ las alas que ya tengas y dejan de salir (la web oficial no enseña cuáles tienes)."
+    ],
+    "en": [
+     "Wings you own",
+     "Tick the wings you already have and they stop showing (the official site doesn't show which you own)."
+    ]
+   },
+   {
+    "icono": "person_remove",
+    "es": [
+     "Quitar personajes",
+     "En la lista de personajes del menú, la X quita uno (pide confirmar). La etiqueta MAIN ya no se corta."
+    ],
+    "en": [
+     "Remove characters",
+     "In the menu's character list, the X removes one (asks to confirm). The MAIN tag no longer gets cut off."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.2.4",
   "fecha": "2026-11-18",
   "cambios": [
