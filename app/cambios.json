@@ -1,5 +1,33 @@
 [
  {
+  "version": "1.3.1",
+  "fecha": "2026-11-18",
+  "cambios": [
+   {
+    "icono": "hub",
+    "es": [
+     "Daevanion por bolsas de puntos",
+     "Nezekan, Zikel, Vaizel y Triniel comparten una bolsa (hoy como mucho 416 puntos en global); Ariel tiene la suya (180) y Azphel la suya (145). Ves tus puntos de cada bolsa, el máximo de nodos de cada tablero en global y la media del top de tu clase. «Auto» reparte cada bolsa como el top, sin pasarse."
+    ],
+    "en": [
+     "Daevanion by point pools",
+     "Nezekan, Zikel, Vaizel and Triniel share one pool (416 points max in global today); Ariel has its own (180) and Azphel too (145). See your points per pool, each board's global node max and your class top's average. «Auto» spreads each pool like the top, without going over."
+    ]
+   },
+   {
+    "icono": "auto_awesome",
+    "es": [
+     "Orden para subir los estigmas",
+     "En «Mejorar equipo», el orden para llevar tus estigmas puestos al 5, 10, 15 y 20, con los fragmentos de cada paso: primero lo que más rinde por fragmento."
+    ],
+    "en": [
+     "Stigma leveling order",
+     "In «Upgrade gear», the order to take your equipped stigmas to 5, 10, 15 and 20, with the shards per step: best value per shard first."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.3.0",
   "fecha": "2026-11-18",
   "cambios": [
