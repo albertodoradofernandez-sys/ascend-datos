@@ -1,11 +1,11 @@
 {
- "version": "1.3.3",
- "notes": "Pieza a pieza en tarjetas que giran y efecto de las cartas",
- "pub_date": "2026-11-18T21:44:13Z",
+ "version": "1.3.4",
+ "notes": "Tarjetas más compactas",
+ "pub_date": "2026-11-18T21:53:27Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXdKRWlnanBCWmVNODZMaXM0c0tFNkxIbkh5d2I2RnJ5ditoVTdOcWR2T3VHaW5pWGxTbFlkSStsNXJIc09oc0RjdkZCM0Mvc2NJMDQ3Wk9JQTNVR2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM4MjQ4CWZpbGU6QXNjZW5kXzEuMy4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjMuMwpqOFUzeE8rVnlnRXhIV2tMVjY2WnVyUEdBY21oa2QwT1FtdGN4K3N4M3V4V1cvSXFvK1c5L1NvdG1EbkhBaDBBUUI5MCtQeFhGeU5rRTI0Vld5MExCdz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.3.3/Ascend_1.3.3_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTJPQndsSHFiQSs4S1NMSUw4UmxkbnZ0REt2S3Y0bFk4blgwblUxWC9KYlUzQnpSVFhpS2VnUGZVQ3Erc3E2OVRuQmQzc2I3eXlRZ3lXSy83dXdGaFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM4ODAyCWZpbGU6QXNjZW5kXzEuMy40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjMuNAptU0xUQlBGUm9pUGJ2c1A5L3RZeW1hUDBoeG01REp2cE5EYTR2SmNrZEVtWWE5RE5qWm9YZEtUazJuQmtQMWt2VnZMemtqbTlzNkU1dVBlWXJLZE1EQT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.3.4/Ascend_1.3.4_x64-setup.exe"
   }
  }
 }

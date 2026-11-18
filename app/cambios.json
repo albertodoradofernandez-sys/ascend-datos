@@ -1,5 +1,22 @@
 [
  {
+  "version": "1.3.4",
+  "fecha": "2026-11-18",
+  "cambios": [
+   {
+    "icono": "build",
+    "es": [
+     "Tarjetas más compactas",
+     "Las tarjetas de Pieza a pieza y de arcanas ya no se cortan por la derecha ni dejan hueco vacío: miden lo que su cara visible. El dorso de cada pieza es más corto."
+    ],
+    "en": [
+     "More compact cards",
+     "Piece and arcana cards no longer get cut off or leave empty space: they size to the visible side. Each piece's back is shorter."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.3.3",
   "fecha": "2026-11-18",
   "cambios": [
