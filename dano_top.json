@@ -1,0 +1,7535 @@
+{
+ "fuente": "AionFlex (Kromede's Desire, Hard, Global) + API oficial",
+ "fecha": "2026-11-18",
+ "clases": {
+  "Assassin": {
+   "n": 10,
+   "cp_medio": 227437,
+   "slots": {
+    "MainHand": {
+     "secundarias": [
+      {
+       "nombre": "Might",
+       "pct": 100
+      },
+      {
+       "nombre": "Combat Speed",
+       "pct": 100
+      },
+      {
+       "nombre": "Weapon Damage Boost",
+       "pct": 90
+      },
+      {
+       "nombre": "Multi-hit Chance",
+       "pct": 80
+      },
+      {
+       "nombre": "Damage Boost",
+       "pct": 60
+      },
+      {
+       "nombre": "Attack",
+       "pct": 50
+      },
+      {
+       "nombre": "Critical Attack",
+       "pct": 20
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 20
+      }
+     ],
+     "skills": []
+    },
+    "SubHand": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 100
+      },
+      {
+       "nombre": "Multi-hit Chance",
+       "pct": 80
+      },
+      {
+       "nombre": "Weapon Damage Boost",
+       "pct": 70
+      },
+      {
+       "nombre": "Damage Boost",
+       "pct": 60
+      },
+      {
+       "nombre": "Might",
+       "pct": 60
+      },
+      {
+       "nombre": "Attack",
+       "pct": 60
+      },
+      {
+       "nombre": "Status Effect Chance",
+       "pct": 30
+      },
+      {
+       "nombre": "Precision",
+       "pct": 20
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Quick Slice",
+       "pct": 10
+      },
+      {
+       "nombre": "Insignia Explosion",
+       "pct": 10
+      }
+     ]
+    },
+    "Torso": {
+     "secundarias": [
+      {
+       "nombre": "Damage Boost",
+       "pct": 70
+      },
+      {
+       "nombre": "Attack",
+       "pct": 60
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 40
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 30
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 20
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 10
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 10
+      },
+      {
+       "nombre": "Front Defense",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Rear Smite",
+       "pct": 60
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 30
+      },
+      {
+       "nombre": "Assault Stance",
+       "pct": 30
+      },
+      {
+       "nombre": "Exploit Weakness",
+       "pct": 10
+      }
+     ]
+    },
+    "Pants": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 60
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 50
+      },
+      {
+       "nombre": "Attack increase",
+       "pct": 40
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 30
+      },
+      {
+       "nombre": "Damage Tolerance",
+       "pct": 30
+      },
+      {
+       "nombre": "Double Resist",
+       "pct": 10
+      },
+      {
+       "nombre": "Multi-hit Resist",
+       "pct": 10
+      },
+      {
+       "nombre": "Constitution",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Exploit Weakness",
+       "pct": 40
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 30
+      },
+      {
+       "nombre": "Assault Stance",
+       "pct": 30
+      },
+      {
+       "nombre": "Rear Smite",
+       "pct": 30
+      },
+      {
+       "nombre": "Ambush Stance",
+       "pct": 10
+      }
+     ]
+    },
+    "Helmet": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 70
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 60
+      },
+      {
+       "nombre": "Double Chance",
+       "pct": 40
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 30
+      },
+      {
+       "nombre": "Incoming Heal",
+       "pct": 20
+      },
+      {
+       "nombre": "Willpower",
+       "pct": 20
+      },
+      {
+       "nombre": "Dexterity",
+       "pct": 20
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 20
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Assault Stance",
+       "pct": 30
+      },
+      {
+       "nombre": "Rear Smite",
+       "pct": 30
+      },
+      {
+       "nombre": "Exploit Weakness",
+       "pct": 20
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 20
+      },
+      {
+       "nombre": "Ambush Stance",
+       "pct": 10
+      }
+     ]
+    },
+    "Shoulder": {
+     "secundarias": [
+      {
+       "nombre": "Critical Damage Boost",
+       "pct": 90
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 40
+      },
+      {
+       "nombre": "Attack",
+       "pct": 30
+      },
+      {
+       "nombre": "Double Chance",
+       "pct": 30
+      },
+      {
+       "nombre": "Front Defense",
+       "pct": 20
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 20
+      },
+      {
+       "nombre": "Constitution",
+       "pct": 10
+      },
+      {
+       "nombre": "Willpower",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Rear Smite",
+       "pct": 40
+      },
+      {
+       "nombre": "Assault Stance",
+       "pct": 30
+      },
+      {
+       "nombre": "Exploit Weakness",
+       "pct": 30
+      },
+      {
+       "nombre": "Defense Break",
+       "pct": 20
+      },
+      {
+       "nombre": "Ambush Stance",
+       "pct": 10
+      },
+      {
+       "nombre": "Determination",
+       "pct": 10
+      }
+     ]
+    },
+    "Gloves": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 100
+      },
+      {
+       "nombre": "Attack",
+       "pct": 60
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 40
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 40
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 20
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 10
+      },
+      {
+       "nombre": "Block",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Rear Smite",
+       "pct": 50
+      },
+      {
+       "nombre": "Defense Break",
+       "pct": 20
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 20
+      },
+      {
+       "nombre": "Exploit Weakness",
+       "pct": 20
+      },
+      {
+       "nombre": "Apply Poison",
+       "pct": 10
+      },
+      {
+       "nombre": "Revitalization Contract",
+       "pct": 10
+      }
+     ]
+    },
+    "Boots": {
+     "secundarias": [
+      {
+       "nombre": "Move Speed",
+       "pct": 70
+      },
+      {
+       "nombre": "Attack",
+       "pct": 40
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 30
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 20
+      },
+      {
+       "nombre": "Dexterity",
+       "pct": 20
+      },
+      {
+       "nombre": "Back Defense",
+       "pct": 10
+      },
+      {
+       "nombre": "Endurance Penetration",
+       "pct": 10
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Exploit Weakness",
+       "pct": 40
+      },
+      {
+       "nombre": "Rear Smite",
+       "pct": 30
+      },
+      {
+       "nombre": "Assault Stance",
+       "pct": 20
+      },
+      {
+       "nombre": "Ambush Stance",
+       "pct": 20
+      },
+      {
+       "nombre": "Heightened Sixth Sense",
+       "pct": 10
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 10
+      }
+     ]
+    },
+    "Cape": {
+     "secundarias": [
+      {
+       "nombre": "Accuracy",
+       "pct": 30
+      },
+      {
+       "nombre": "Attack increase",
+       "pct": 30
+      },
+      {
+       "nombre": "Attack",
+       "pct": 30
+      },
+      {
+       "nombre": "Constitution",
+       "pct": 20
+      },
+      {
+       "nombre": "Double Chance",
+       "pct": 20
+      },
+      {
+       "nombre": "Endurance Penetration",
+       "pct": 20
+      },
+      {
+       "nombre": "Critical Damage Tolerance",
+       "pct": 10
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Rear Smite",
+       "pct": 50
+      },
+      {
+       "nombre": "Assault Stance",
+       "pct": 50
+      },
+      {
+       "nombre": "Exploit Weakness",
+       "pct": 40
+      },
+      {
+       "nombre": "Determination",
+       "pct": 20
+      },
+      {
+       "nombre": "Ambush Stance",
+       "pct": 20
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 10
+      }
+     ]
+    },
+    "Necklace": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 70
+      },
+      {
+       "nombre": "Attack",
+       "pct": 60
+      },
+      {
+       "nombre": "Might",
+       "pct": 50
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 40
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 30
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 20
+      },
+      {
+       "nombre": "Precision",
+       "pct": 10
+      },
+      {
+       "nombre": "Intelligence",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Rear Smite",
+       "pct": 50
+      },
+      {
+       "nombre": "Exploit Weakness",
+       "pct": 30
+      },
+      {
+       "nombre": "Assault Stance",
+       "pct": 30
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 20
+      },
+      {
+       "nombre": "Ambush Stance",
+       "pct": 10
+      }
+     ]
+    },
+    "Earring1": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 70
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 50
+      },
+      {
+       "nombre": "Move Speed",
+       "pct": 40
+      },
+      {
+       "nombre": "Might",
+       "pct": 40
+      },
+      {
+       "nombre": "Precision",
+       "pct": 20
+      },
+      {
+       "nombre": "MP",
+       "pct": 20
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 10
+      },
+      {
+       "nombre": "HP",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Rear Smite",
+       "pct": 50
+      },
+      {
+       "nombre": "Assault Stance",
+       "pct": 50
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 40
+      },
+      {
+       "nombre": "Exploit Weakness",
+       "pct": 20
+      },
+      {
+       "nombre": "Determination",
+       "pct": 10
+      },
+      {
+       "nombre": "Apply Poison",
+       "pct": 10
+      }
+     ]
+    },
+    "Earring2": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 90
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 40
+      },
+      {
+       "nombre": "Move Speed",
+       "pct": 40
+      },
+      {
+       "nombre": "Might",
+       "pct": 30
+      },
+      {
+       "nombre": "Block",
+       "pct": 20
+      },
+      {
+       "nombre": "Precision",
+       "pct": 10
+      },
+      {
+       "nombre": "MP",
+       "pct": 10
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Assault Stance",
+       "pct": 40
+      },
+      {
+       "nombre": "Rear Smite",
+       "pct": 30
+      },
+      {
+       "nombre": "Exploit Weakness",
+       "pct": 30
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 20
+      },
+      {
+       "nombre": "Apply Poison",
+       "pct": 10
+      },
+      {
+       "nombre": "Ambush Stance",
+       "pct": 10
+      }
+     ]
+    },
+    "Ring2": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 90
+      },
+      {
+       "nombre": "Might",
+       "pct": 50
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 50
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 20
+      },
+      {
+       "nombre": "Precision",
+       "pct": 20
+      },
+      {
+       "nombre": "HP",
+       "pct": 10
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Heart Gore",
+       "pct": 60
+      },
+      {
+       "nombre": "Quick Slice",
+       "pct": 60
+      },
+      {
+       "nombre": "Insignia Explosion",
+       "pct": 40
+      },
+      {
+       "nombre": "Savage Roar",
+       "pct": 30
+      },
+      {
+       "nombre": "Storm Rampage",
+       "pct": 20
+      },
+      {
+       "nombre": "Ambush",
+       "pct": 10
+      }
+     ]
+    },
+    "Ring1": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 100
+      },
+      {
+       "nombre": "Might",
+       "pct": 70
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 40
+      },
+      {
+       "nombre": "Precision",
+       "pct": 30
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 20
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Heart Gore",
+       "pct": 60
+      },
+      {
+       "nombre": "Insignia Explosion",
+       "pct": 60
+      },
+      {
+       "nombre": "Quick Slice",
+       "pct": 50
+      },
+      {
+       "nombre": "Savage Roar",
+       "pct": 20
+      },
+      {
+       "nombre": "Infiltrate",
+       "pct": 10
+      }
+     ]
+    },
+    "Bracelet1": {
+     "secundarias": [
+      {
+       "nombre": "Evasion",
+       "pct": 100
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 100
+      },
+      {
+       "nombre": "MP",
+       "pct": 100
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 100
+      }
+     ],
+     "skills": []
+    },
+    "Bracelet2": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 90
+      },
+      {
+       "nombre": "MP",
+       "pct": 90
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 90
+      },
+      {
+       "nombre": "Death [Triniel]",
+       "pct": 10
+      },
+      {
+       "nombre": "Destruction [Zikel]",
+       "pct": 10
+      },
+      {
+       "nombre": "Wisdom [Lumiel]",
+       "pct": 10
+      },
+      {
+       "nombre": "Illusion [Kaisinel]",
+       "pct": 10
+      }
+     ],
+     "skills": []
+    }
+   },
+   "manastones": [
+    {
+     "nombre": "Attack",
+     "pct": 280
+    },
+    {
+     "nombre": "Critical Hit",
+     "pct": 215
+    },
+    {
+     "nombre": "Accuracy Bonus",
+     "pct": 198
+    },
+    {
+     "nombre": "MP",
+     "pct": 155
+    },
+    {
+     "nombre": "Evasion Bonus",
+     "pct": 140
+    },
+    {
+     "nombre": "Critical Hit Resist",
+     "pct": 135
+    },
+    {
+     "nombre": "HP",
+     "pct": 135
+    },
+    {
+     "nombre": "Defense",
+     "pct": 132
+    }
+   ],
+   "golpes": {
+    "critico": 88,
+    "espalda": 83,
+    "doble": 35,
+    "perfecto": 43
+   },
+   "skills_dano": [
+    {
+     "nombre": "Heart Gore",
+     "pct": 30.2
+    },
+    {
+     "nombre": "Insignia Explosion",
+     "pct": 20.8
+    },
+    {
+     "nombre": "Exploit Weakness",
+     "pct": 5.0
+    },
+    {
+     "nombre": "Swift Slice",
+     "pct": 4.9
+    },
+    {
+     "nombre": "Breaking Slice",
+     "pct": 4.4
+    },
+    {
+     "nombre": "Quick Slice",
+     "pct": 4.3
+    },
+    {
+     "nombre": "Ambush Stance",
+     "pct": 3.5
+    },
+    {
+     "nombre": "Triniel's Dagger",
+     "pct": 2.8
+    }
+   ]
+  },
+  "Chanter": {
+   "n": 10,
+   "cp_medio": 222381,
+   "slots": {
+    "MainHand": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 100
+      },
+      {
+       "nombre": "Weapon Damage Boost",
+       "pct": 80
+      },
+      {
+       "nombre": "Multi-hit Chance",
+       "pct": 70
+      },
+      {
+       "nombre": "Might",
+       "pct": 70
+      },
+      {
+       "nombre": "Attack",
+       "pct": 70
+      },
+      {
+       "nombre": "Damage Boost",
+       "pct": 60
+      },
+      {
+       "nombre": "Precision",
+       "pct": 30
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 20
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Incandescent Blow",
+       "pct": 10
+      },
+      {
+       "nombre": "Onslaught",
+       "pct": 10
+      },
+      {
+       "nombre": "Spinning Strike",
+       "pct": 10
+      }
+     ]
+    },
+    "SubHand": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 90
+      },
+      {
+       "nombre": "Combat Speed",
+       "pct": 80
+      },
+      {
+       "nombre": "Damage Boost",
+       "pct": 70
+      },
+      {
+       "nombre": "Multi-hit Chance",
+       "pct": 70
+      },
+      {
+       "nombre": "Weapon Damage Boost",
+       "pct": 60
+      },
+      {
+       "nombre": "Might",
+       "pct": 40
+      },
+      {
+       "nombre": "Critical Attack",
+       "pct": 30
+      },
+      {
+       "nombre": "Precision",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Dark Crush",
+       "pct": 10
+      }
+     ]
+    },
+    "Torso": {
+     "secundarias": [
+      {
+       "nombre": "Damage Boost",
+       "pct": 80
+      },
+      {
+       "nombre": "Attack",
+       "pct": 70
+      },
+      {
+       "nombre": "Block",
+       "pct": 20
+      },
+      {
+       "nombre": "HP",
+       "pct": 20
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 20
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 20
+      },
+      {
+       "nombre": "Defense",
+       "pct": 10
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Wind's Promise",
+       "pct": 30
+      },
+      {
+       "nombre": "Survival Willpower",
+       "pct": 20
+      },
+      {
+       "nombre": "Earth's Promise",
+       "pct": 20
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 10
+      },
+      {
+       "nombre": "Crossguard",
+       "pct": 10
+      },
+      {
+       "nombre": "Attack Preparation",
+       "pct": 10
+      }
+     ]
+    },
+    "Pants": {
+     "secundarias": [
+      {
+       "nombre": "Damage Tolerance",
+       "pct": 60
+      },
+      {
+       "nombre": "Attack",
+       "pct": 40
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 20
+      },
+      {
+       "nombre": "Block",
+       "pct": 20
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 20
+      },
+      {
+       "nombre": "Attack increase",
+       "pct": 20
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 10
+      },
+      {
+       "nombre": "Critical Damage Defense",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Impact Hit",
+       "pct": 50
+      },
+      {
+       "nombre": "Wind's Promise",
+       "pct": 40
+      },
+      {
+       "nombre": "Attack Preparation",
+       "pct": 30
+      },
+      {
+       "nombre": "Protection Circle",
+       "pct": 30
+      },
+      {
+       "nombre": "Survival Willpower",
+       "pct": 10
+      },
+      {
+       "nombre": "Blessing of Life",
+       "pct": 10
+      }
+     ]
+    },
+    "Helmet": {
+     "secundarias": [
+      {
+       "nombre": "Double Chance",
+       "pct": 60
+      },
+      {
+       "nombre": "Attack increase",
+       "pct": 40
+      },
+      {
+       "nombre": "Attack",
+       "pct": 30
+      },
+      {
+       "nombre": "Incoming Heal",
+       "pct": 30
+      },
+      {
+       "nombre": "Endurance",
+       "pct": 20
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 10
+      },
+      {
+       "nombre": "Defense",
+       "pct": 10
+      },
+      {
+       "nombre": "Perfect Resist",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Attack Preparation",
+       "pct": 50
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 30
+      },
+      {
+       "nombre": "Wind's Promise",
+       "pct": 30
+      },
+      {
+       "nombre": "Earth's Promise",
+       "pct": 20
+      },
+      {
+       "nombre": "Inspiring Spell",
+       "pct": 10
+      }
+     ]
+    },
+    "Shoulder": {
+     "secundarias": [
+      {
+       "nombre": "Critical Damage Boost",
+       "pct": 80
+      },
+      {
+       "nombre": "Attack",
+       "pct": 40
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 30
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 20
+      },
+      {
+       "nombre": "Double Chance",
+       "pct": 20
+      },
+      {
+       "nombre": "Block",
+       "pct": 20
+      },
+      {
+       "nombre": "HP",
+       "pct": 10
+      },
+      {
+       "nombre": "Constitution",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Attack Preparation",
+       "pct": 40
+      },
+      {
+       "nombre": "Survival Willpower",
+       "pct": 30
+      },
+      {
+       "nombre": "Wind's Promise",
+       "pct": 20
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 20
+      },
+      {
+       "nombre": "Earth's Promise",
+       "pct": 20
+      },
+      {
+       "nombre": "Inspiring Spell",
+       "pct": 10
+      }
+     ]
+    },
+    "Gloves": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 80
+      },
+      {
+       "nombre": "Attack",
+       "pct": 30
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 30
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 20
+      },
+      {
+       "nombre": "Front Defense",
+       "pct": 10
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 10
+      },
+      {
+       "nombre": "Dexterity",
+       "pct": 10
+      },
+      {
+       "nombre": "HP",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Attack Preparation",
+       "pct": 50
+      },
+      {
+       "nombre": "Wind's Promise",
+       "pct": 50
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 30
+      },
+      {
+       "nombre": "Earth's Promise",
+       "pct": 20
+      },
+      {
+       "nombre": "Inspiring Spell",
+       "pct": 20
+      },
+      {
+       "nombre": "Raging Spell",
+       "pct": 10
+      }
+     ]
+    },
+    "Boots": {
+     "secundarias": [
+      {
+       "nombre": "Move Speed",
+       "pct": 60
+      },
+      {
+       "nombre": "Attack",
+       "pct": 30
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 30
+      },
+      {
+       "nombre": "Constitution",
+       "pct": 20
+      },
+      {
+       "nombre": "Defense increase",
+       "pct": 20
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 20
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 10
+      },
+      {
+       "nombre": "Perfect Resist",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Attack Preparation",
+       "pct": 40
+      },
+      {
+       "nombre": "Wind's Promise",
+       "pct": 30
+      },
+      {
+       "nombre": "Raging Spell",
+       "pct": 20
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 10
+      },
+      {
+       "nombre": "Survival Willpower",
+       "pct": 10
+      },
+      {
+       "nombre": "Inspiring Spell",
+       "pct": 10
+      }
+     ]
+    },
+    "Cape": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 50
+      },
+      {
+       "nombre": "Double Chance",
+       "pct": 50
+      },
+      {
+       "nombre": "Attack increase",
+       "pct": 40
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 30
+      },
+      {
+       "nombre": "HP",
+       "pct": 20
+      },
+      {
+       "nombre": "Defense",
+       "pct": 20
+      },
+      {
+       "nombre": "Block",
+       "pct": 20
+      },
+      {
+       "nombre": "Critical Damage Tolerance",
+       "pct": 20
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Wind's Promise",
+       "pct": 50
+      },
+      {
+       "nombre": "Earth's Promise",
+       "pct": 20
+      },
+      {
+       "nombre": "Attack Preparation",
+       "pct": 20
+      },
+      {
+       "nombre": "Inspiring Spell",
+       "pct": 10
+      },
+      {
+       "nombre": "Raging Spell",
+       "pct": 10
+      },
+      {
+       "nombre": "Protection Circle",
+       "pct": 10
+      }
+     ]
+    },
+    "Necklace": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 90
+      },
+      {
+       "nombre": "Combat Speed",
+       "pct": 80
+      },
+      {
+       "nombre": "Attack",
+       "pct": 70
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 40
+      },
+      {
+       "nombre": "Might",
+       "pct": 30
+      },
+      {
+       "nombre": "HP",
+       "pct": 10
+      },
+      {
+       "nombre": "Block",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Attack Preparation",
+       "pct": 50
+      },
+      {
+       "nombre": "Wind's Promise",
+       "pct": 30
+      },
+      {
+       "nombre": "Inspiring Spell",
+       "pct": 20
+      },
+      {
+       "nombre": "Protection Circle",
+       "pct": 10
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 10
+      }
+     ]
+    },
+    "Earring1": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 80
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 70
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 60
+      },
+      {
+       "nombre": "Move Speed",
+       "pct": 20
+      },
+      {
+       "nombre": "Block",
+       "pct": 10
+      },
+      {
+       "nombre": "Might",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Attack Preparation",
+       "pct": 40
+      },
+      {
+       "nombre": "Wind's Promise",
+       "pct": 30
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 30
+      },
+      {
+       "nombre": "Earth's Promise",
+       "pct": 30
+      },
+      {
+       "nombre": "Protection Circle",
+       "pct": 10
+      },
+      {
+       "nombre": "Inspiring Spell",
+       "pct": 10
+      }
+     ]
+    },
+    "Earring2": {
+     "secundarias": [
+      {
+       "nombre": "Accuracy",
+       "pct": 70
+      },
+      {
+       "nombre": "Attack",
+       "pct": 60
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 40
+      },
+      {
+       "nombre": "Might",
+       "pct": 30
+      },
+      {
+       "nombre": "Move Speed",
+       "pct": 30
+      },
+      {
+       "nombre": "Precision",
+       "pct": 20
+      },
+      {
+       "nombre": "HP",
+       "pct": 10
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Attack Preparation",
+       "pct": 60
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 40
+      },
+      {
+       "nombre": "Inspiring Spell",
+       "pct": 20
+      },
+      {
+       "nombre": "Wind's Promise",
+       "pct": 20
+      },
+      {
+       "nombre": "Protection Circle",
+       "pct": 10
+      },
+      {
+       "nombre": "Earth's Promise",
+       "pct": 10
+      }
+     ]
+    },
+    "Ring2": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 60
+      },
+      {
+       "nombre": "Might",
+       "pct": 60
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 20
+      },
+      {
+       "nombre": "Precision",
+       "pct": 10
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 10
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 10
+      },
+      {
+       "nombre": "Block",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Onslaught",
+       "pct": 90
+      },
+      {
+       "nombre": "Spinning Strike",
+       "pct": 50
+      },
+      {
+       "nombre": "Incandescent Blow",
+       "pct": 40
+      },
+      {
+       "nombre": "Dark Crush",
+       "pct": 40
+      },
+      {
+       "nombre": "Impactful Crush",
+       "pct": 20
+      },
+      {
+       "nombre": "Recuperation",
+       "pct": 10
+      }
+     ]
+    },
+    "Ring1": {
+     "secundarias": [
+      {
+       "nombre": "Might",
+       "pct": 50
+      },
+      {
+       "nombre": "Attack",
+       "pct": 50
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 40
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 30
+      },
+      {
+       "nombre": "Precision",
+       "pct": 20
+      },
+      {
+       "nombre": "Block",
+       "pct": 20
+      },
+      {
+       "nombre": "Defense",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Dark Crush",
+       "pct": 80
+      },
+      {
+       "nombre": "Spinning Strike",
+       "pct": 60
+      },
+      {
+       "nombre": "Onslaught",
+       "pct": 50
+      },
+      {
+       "nombre": "Incandescent Blow",
+       "pct": 30
+      },
+      {
+       "nombre": "Recuperation",
+       "pct": 10
+      },
+      {
+       "nombre": "Impactful Crush",
+       "pct": 10
+      }
+     ]
+    },
+    "Bracelet1": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 100
+      },
+      {
+       "nombre": "MP",
+       "pct": 100
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 100
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 70
+      }
+     ],
+     "skills": []
+    },
+    "Bracelet2": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 70
+      },
+      {
+       "nombre": "MP",
+       "pct": 70
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 70
+      },
+      {
+       "nombre": "Wisdom [Lumiel]",
+       "pct": 30
+      },
+      {
+       "nombre": "Illusion [Kaisinel]",
+       "pct": 30
+      },
+      {
+       "nombre": "Destruction [Zikel]",
+       "pct": 30
+      },
+      {
+       "nombre": "Justice [Nezekan]",
+       "pct": 30
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 30
+      }
+     ],
+     "skills": []
+    }
+   },
+   "manastones": [
+    {
+     "nombre": "Attack",
+     "pct": 232
+    },
+    {
+     "nombre": "HP",
+     "pct": 218
+    },
+    {
+     "nombre": "Critical Hit",
+     "pct": 200
+    },
+    {
+     "nombre": "MP",
+     "pct": 170
+    },
+    {
+     "nombre": "Critical Hit Resist",
+     "pct": 170
+    },
+    {
+     "nombre": "Accuracy Bonus",
+     "pct": 162
+    },
+    {
+     "nombre": "Defense",
+     "pct": 145
+    },
+    {
+     "nombre": "Block",
+     "pct": 140
+    }
+   ],
+   "golpes": {
+    "critico": 84,
+    "espalda": 52,
+    "doble": 34,
+    "perfecto": 51
+   },
+   "skills_dano": [
+    {
+     "nombre": "Piercing Strike",
+     "pct": 20.4
+    },
+    {
+     "nombre": "Dark Crush",
+     "pct": 18.2
+    },
+    {
+     "nombre": "Spinning Strike",
+     "pct": 9.8
+    },
+    {
+     "nombre": "Bursting Blow",
+     "pct": 8.8
+    },
+    {
+     "nombre": "Wind's Promise",
+     "pct": 8.7
+    },
+    {
+     "nombre": "Incandescent Blow",
+     "pct": 7.7
+    },
+    {
+     "nombre": "Storm Chain",
+     "pct": 4.7
+    },
+    {
+     "nombre": "Bolt Crush",
+     "pct": 3.3
+    }
+   ]
+  },
+  "Cleric": {
+   "n": 9,
+   "cp_medio": 228220,
+   "slots": {
+    "MainHand": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 100
+      },
+      {
+       "nombre": "Damage Boost",
+       "pct": 89
+      },
+      {
+       "nombre": "Weapon Damage Boost",
+       "pct": 89
+      },
+      {
+       "nombre": "Might",
+       "pct": 67
+      },
+      {
+       "nombre": "Multi-hit Chance",
+       "pct": 44
+      },
+      {
+       "nombre": "Attack",
+       "pct": 44
+      },
+      {
+       "nombre": "Precision",
+       "pct": 33
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 33
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Condemnation",
+       "pct": 33
+      }
+     ]
+    },
+    "SubHand": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 89
+      },
+      {
+       "nombre": "Weapon Damage Boost",
+       "pct": 89
+      },
+      {
+       "nombre": "Might",
+       "pct": 89
+      },
+      {
+       "nombre": "Precision",
+       "pct": 67
+      },
+      {
+       "nombre": "Multi-hit Chance",
+       "pct": 44
+      },
+      {
+       "nombre": "Attack",
+       "pct": 44
+      },
+      {
+       "nombre": "Damage Boost",
+       "pct": 44
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Radiant Recovery",
+       "pct": 33
+      },
+      {
+       "nombre": "Healing Light",
+       "pct": 11
+      },
+      {
+       "nombre": "Judgment Thunder",
+       "pct": 11
+      }
+     ]
+    },
+    "Torso": {
+     "secundarias": [
+      {
+       "nombre": "Damage Boost",
+       "pct": 100
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 44
+      },
+      {
+       "nombre": "Block",
+       "pct": 22
+      },
+      {
+       "nombre": "Attack",
+       "pct": 22
+      },
+      {
+       "nombre": "HP",
+       "pct": 22
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 22
+      },
+      {
+       "nombre": "Defense",
+       "pct": 22
+      },
+      {
+       "nombre": "Natural HP Regen",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Healing Enhancement",
+       "pct": 22
+      },
+      {
+       "nombre": "Heal Block",
+       "pct": 11
+      },
+      {
+       "nombre": "Earth's Grace",
+       "pct": 11
+      },
+      {
+       "nombre": "Empyrean Lord's Grace",
+       "pct": 11
+      }
+     ]
+    },
+    "Pants": {
+     "secundarias": [
+      {
+       "nombre": "Damage Tolerance",
+       "pct": 56
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 44
+      },
+      {
+       "nombre": "Attack",
+       "pct": 44
+      },
+      {
+       "nombre": "Attack increase",
+       "pct": 44
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 44
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 33
+      },
+      {
+       "nombre": "HP",
+       "pct": 22
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Empyrean Lord's Grace",
+       "pct": 33
+      },
+      {
+       "nombre": "Earth's Grace",
+       "pct": 22
+      },
+      {
+       "nombre": "Immortal Veil",
+       "pct": 11
+      },
+      {
+       "nombre": "Empyrean Lords' Benediction",
+       "pct": 11
+      },
+      {
+       "nombre": "Prayer of Concentration",
+       "pct": 11
+      },
+      {
+       "nombre": "Warm Benediction",
+       "pct": 11
+      }
+     ]
+    },
+    "Helmet": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 44
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 33
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 33
+      },
+      {
+       "nombre": "Incoming Heal",
+       "pct": 33
+      },
+      {
+       "nombre": "Double Chance",
+       "pct": 33
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 22
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 22
+      },
+      {
+       "nombre": "Defense",
+       "pct": 22
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Empyrean Lord's Grace",
+       "pct": 44
+      },
+      {
+       "nombre": "Earth's Grace",
+       "pct": 44
+      },
+      {
+       "nombre": "Immortal Veil",
+       "pct": 11
+      }
+     ]
+    },
+    "Shoulder": {
+     "secundarias": [
+      {
+       "nombre": "Critical Damage Boost",
+       "pct": 78
+      },
+      {
+       "nombre": "Double Chance",
+       "pct": 44
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 44
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 22
+      },
+      {
+       "nombre": "Constitution",
+       "pct": 22
+      },
+      {
+       "nombre": "Attack",
+       "pct": 22
+      },
+      {
+       "nombre": "Dexterity",
+       "pct": 22
+      },
+      {
+       "nombre": "Block",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Empyrean Lord's Grace",
+       "pct": 33
+      },
+      {
+       "nombre": "Earth's Grace",
+       "pct": 22
+      },
+      {
+       "nombre": "Survival Willpower",
+       "pct": 11
+      },
+      {
+       "nombre": "Immortal Veil",
+       "pct": 11
+      },
+      {
+       "nombre": "Warm Benediction",
+       "pct": 11
+      },
+      {
+       "nombre": "Healing Enhancement",
+       "pct": 11
+      }
+     ]
+    },
+    "Gloves": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 89
+      },
+      {
+       "nombre": "Attack",
+       "pct": 67
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 33
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 22
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 22
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 22
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 11
+      },
+      {
+       "nombre": "HP",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Empyrean Lord's Grace",
+       "pct": 33
+      },
+      {
+       "nombre": "Immortal Veil",
+       "pct": 22
+      },
+      {
+       "nombre": "Earth's Grace",
+       "pct": 11
+      },
+      {
+       "nombre": "Healing Enhancement",
+       "pct": 11
+      },
+      {
+       "nombre": "Empyrean Lords' Benediction",
+       "pct": 11
+      }
+     ]
+    },
+    "Boots": {
+     "secundarias": [
+      {
+       "nombre": "Move Speed",
+       "pct": 78
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 44
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 33
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 22
+      },
+      {
+       "nombre": "MP",
+       "pct": 22
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 22
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 22
+      },
+      {
+       "nombre": "Attack",
+       "pct": 22
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Empyrean Lord's Grace",
+       "pct": 33
+      },
+      {
+       "nombre": "Healing Enhancement",
+       "pct": 33
+      },
+      {
+       "nombre": "Earth's Grace",
+       "pct": 22
+      },
+      {
+       "nombre": "Warm Benediction",
+       "pct": 11
+      },
+      {
+       "nombre": "Radiant Benediction",
+       "pct": 11
+      },
+      {
+       "nombre": "Empyrean Lords' Benediction",
+       "pct": 11
+      }
+     ]
+    },
+    "Cape": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 44
+      },
+      {
+       "nombre": "Attack",
+       "pct": 33
+      },
+      {
+       "nombre": "Double Chance",
+       "pct": 33
+      },
+      {
+       "nombre": "Attack increase",
+       "pct": 22
+      },
+      {
+       "nombre": "Endurance",
+       "pct": 22
+      },
+      {
+       "nombre": "Willpower",
+       "pct": 22
+      },
+      {
+       "nombre": "Defense",
+       "pct": 22
+      },
+      {
+       "nombre": "Critical Damage Tolerance",
+       "pct": 22
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Empyrean Lord's Grace",
+       "pct": 67
+      },
+      {
+       "nombre": "Radiant Benediction",
+       "pct": 33
+      },
+      {
+       "nombre": "Earth's Grace",
+       "pct": 33
+      },
+      {
+       "nombre": "Immortal Veil",
+       "pct": 22
+      },
+      {
+       "nombre": "Survival Willpower",
+       "pct": 11
+      },
+      {
+       "nombre": "Healing Enhancement",
+       "pct": 11
+      }
+     ]
+    },
+    "Necklace": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 78
+      },
+      {
+       "nombre": "Might",
+       "pct": 67
+      },
+      {
+       "nombre": "Precision",
+       "pct": 44
+      },
+      {
+       "nombre": "Attack",
+       "pct": 44
+      },
+      {
+       "nombre": "Combat Speed",
+       "pct": 44
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 22
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Earth's Grace",
+       "pct": 56
+      },
+      {
+       "nombre": "Empyrean Lord's Grace",
+       "pct": 44
+      },
+      {
+       "nombre": "Healing Enhancement",
+       "pct": 33
+      },
+      {
+       "nombre": "Survival Willpower",
+       "pct": 11
+      },
+      {
+       "nombre": "Radiant Benediction",
+       "pct": 11
+      },
+      {
+       "nombre": "Immortal Veil",
+       "pct": 11
+      }
+     ]
+    },
+    "Earring2": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 56
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 56
+      },
+      {
+       "nombre": "Might",
+       "pct": 56
+      },
+      {
+       "nombre": "Move Speed",
+       "pct": 44
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 33
+      },
+      {
+       "nombre": "Defense",
+       "pct": 11
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 11
+      },
+      {
+       "nombre": "Natural HP Regen",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Healing Enhancement",
+       "pct": 56
+      },
+      {
+       "nombre": "Empyrean Lord's Grace",
+       "pct": 44
+      },
+      {
+       "nombre": "Immortal Veil",
+       "pct": 33
+      },
+      {
+       "nombre": "Earth's Grace",
+       "pct": 22
+      },
+      {
+       "nombre": "Heal Block",
+       "pct": 11
+      },
+      {
+       "nombre": "Radiant Benediction",
+       "pct": 11
+      }
+     ]
+    },
+    "Earring1": {
+     "secundarias": [
+      {
+       "nombre": "Might",
+       "pct": 56
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 56
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 56
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 44
+      },
+      {
+       "nombre": "Attack",
+       "pct": 44
+      },
+      {
+       "nombre": "Move Speed",
+       "pct": 33
+      },
+      {
+       "nombre": "Defense",
+       "pct": 22
+      },
+      {
+       "nombre": "Flight Power",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Warm Benediction",
+       "pct": 22
+      },
+      {
+       "nombre": "Earth's Grace",
+       "pct": 22
+      },
+      {
+       "nombre": "Radiant Benediction",
+       "pct": 22
+      },
+      {
+       "nombre": "Healing Enhancement",
+       "pct": 11
+      },
+      {
+       "nombre": "Prayer of Concentration",
+       "pct": 11
+      },
+      {
+       "nombre": "Immortal Veil",
+       "pct": 11
+      }
+     ]
+    },
+    "Ring1": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 67
+      },
+      {
+       "nombre": "Precision",
+       "pct": 44
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 44
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 33
+      },
+      {
+       "nombre": "Defense",
+       "pct": 11
+      },
+      {
+       "nombre": "Might",
+       "pct": 11
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Bolt",
+       "pct": 78
+      },
+      {
+       "nombre": "Radiant Recovery",
+       "pct": 44
+      },
+      {
+       "nombre": "Condemnation",
+       "pct": 44
+      },
+      {
+       "nombre": "Judgment Thunder",
+       "pct": 44
+      },
+      {
+       "nombre": "Divine Aura",
+       "pct": 22
+      },
+      {
+       "nombre": "Earth's Retribution",
+       "pct": 22
+      }
+     ]
+    },
+    "Ring2": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 56
+      },
+      {
+       "nombre": "Attack",
+       "pct": 56
+      },
+      {
+       "nombre": "Might",
+       "pct": 33
+      },
+      {
+       "nombre": "Precision",
+       "pct": 22
+      },
+      {
+       "nombre": "HP",
+       "pct": 11
+      },
+      {
+       "nombre": "Defense",
+       "pct": 11
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 11
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Condemnation",
+       "pct": 56
+      },
+      {
+       "nombre": "Healing Light",
+       "pct": 33
+      },
+      {
+       "nombre": "Bolt",
+       "pct": 33
+      },
+      {
+       "nombre": "Debilitating Mark",
+       "pct": 33
+      },
+      {
+       "nombre": "Light of Regeneration",
+       "pct": 33
+      },
+      {
+       "nombre": "Divine Aura",
+       "pct": 33
+      }
+     ]
+    },
+    "Bracelet1": {
+     "secundarias": [
+      {
+       "nombre": "Evasion",
+       "pct": 89
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 89
+      },
+      {
+       "nombre": "MP",
+       "pct": 89
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 89
+      },
+      {
+       "nombre": "Wisdom [Lumiel]",
+       "pct": 11
+      },
+      {
+       "nombre": "Death [Triniel]",
+       "pct": 11
+      },
+      {
+       "nombre": "Justice [Nezekan]",
+       "pct": 11
+      },
+      {
+       "nombre": "Illusion [Kaisinel]",
+       "pct": 11
+      }
+     ],
+     "skills": []
+    },
+    "Bracelet2": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 67
+      },
+      {
+       "nombre": "MP",
+       "pct": 67
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 67
+      },
+      {
+       "nombre": "Illusion [Kaisinel]",
+       "pct": 33
+      },
+      {
+       "nombre": "Destruction [Zikel]",
+       "pct": 33
+      },
+      {
+       "nombre": "Death [Triniel]",
+       "pct": 33
+      },
+      {
+       "nombre": "Wisdom [Lumiel]",
+       "pct": 22
+      },
+      {
+       "nombre": "Life [Yustiel]",
+       "pct": 11
+      }
+     ],
+     "skills": []
+    }
+   },
+   "manastones": [
+    {
+     "nombre": "Critical Hit",
+     "pct": 217
+    },
+    {
+     "nombre": "Attack",
+     "pct": 211
+    },
+    {
+     "nombre": "HP",
+     "pct": 208
+    },
+    {
+     "nombre": "Accuracy Bonus",
+     "pct": 158
+    },
+    {
+     "nombre": "MP",
+     "pct": 153
+    },
+    {
+     "nombre": "Evasion Bonus",
+     "pct": 150
+    },
+    {
+     "nombre": "Block",
+     "pct": 144
+    },
+    {
+     "nombre": "Defense",
+     "pct": 133
+    }
+   ],
+   "golpes": {
+    "critico": 83,
+    "espalda": 43,
+    "doble": 33,
+    "perfecto": 45
+   },
+   "skills_dano": [
+    {
+     "nombre": "Condemnation",
+     "pct": 30.7
+    },
+    {
+     "nombre": "Noble Aura",
+     "pct": 11.0
+    },
+    {
+     "nombre": "Judgment Thunder",
+     "pct": 10.9
+    },
+    {
+     "nombre": "Divine Aura",
+     "pct": 7.5
+    },
+    {
+     "nombre": "Divine Punishment",
+     "pct": 6.6
+    },
+    {
+     "nombre": "Empyrean Lord's Grace",
+     "pct": 6.2
+    },
+    {
+     "nombre": "Bolt",
+     "pct": 5.6
+    },
+    {
+     "nombre": "Earth Punishment",
+     "pct": 3.9
+    }
+   ]
+  },
+  "Gladiator": {
+   "n": 9,
+   "cp_medio": 219922,
+   "slots": {
+    "MainHand": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 89
+      },
+      {
+       "nombre": "Might",
+       "pct": 78
+      },
+      {
+       "nombre": "Damage Boost",
+       "pct": 78
+      },
+      {
+       "nombre": "Multi-hit Chance",
+       "pct": 78
+      },
+      {
+       "nombre": "Weapon Damage Boost",
+       "pct": 67
+      },
+      {
+       "nombre": "Precision",
+       "pct": 33
+      },
+      {
+       "nombre": "Attack",
+       "pct": 22
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Ruinous Blow",
+       "pct": 11
+      }
+     ]
+    },
+    "SubHand": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 89
+      },
+      {
+       "nombre": "Weapon Damage Boost",
+       "pct": 78
+      },
+      {
+       "nombre": "Might",
+       "pct": 67
+      },
+      {
+       "nombre": "Damage Boost",
+       "pct": 56
+      },
+      {
+       "nombre": "Precision",
+       "pct": 44
+      },
+      {
+       "nombre": "Attack",
+       "pct": 44
+      },
+      {
+       "nombre": "Multi-hit Chance",
+       "pct": 33
+      },
+      {
+       "nombre": "Front Attack",
+       "pct": 22
+      }
+     ],
+     "skills": []
+    },
+    "Torso": {
+     "secundarias": [
+      {
+       "nombre": "Damage Boost",
+       "pct": 89
+      },
+      {
+       "nombre": "Attack",
+       "pct": 33
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 22
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 22
+      },
+      {
+       "nombre": "Critical Damage Defense",
+       "pct": 22
+      },
+      {
+       "nombre": "Block",
+       "pct": 11
+      },
+      {
+       "nombre": "Defense increase",
+       "pct": 11
+      },
+      {
+       "nombre": "Weapon Damage Tolerance",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Impact Hit",
+       "pct": 44
+      },
+      {
+       "nombre": "Attack Preparation",
+       "pct": 33
+      },
+      {
+       "nombre": "Murderous Burst",
+       "pct": 33
+      },
+      {
+       "nombre": "Experienced Counterstrike",
+       "pct": 22
+      },
+      {
+       "nombre": "Identify Weakness",
+       "pct": 11
+      },
+      {
+       "nombre": "Survival Willpower",
+       "pct": 11
+      }
+     ]
+    },
+    "Pants": {
+     "secundarias": [
+      {
+       "nombre": "Damage Tolerance",
+       "pct": 56
+      },
+      {
+       "nombre": "Attack",
+       "pct": 44
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 22
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 22
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 22
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 11
+      },
+      {
+       "nombre": "Double Resist",
+       "pct": 11
+      },
+      {
+       "nombre": "Attack increase",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Attack Preparation",
+       "pct": 33
+      },
+      {
+       "nombre": "Murderous Burst",
+       "pct": 33
+      },
+      {
+       "nombre": "Experienced Counterstrike",
+       "pct": 22
+      },
+      {
+       "nombre": "Survival Stance",
+       "pct": 11
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 11
+      },
+      {
+       "nombre": "Survival Willpower",
+       "pct": 11
+      }
+     ]
+    },
+    "Helmet": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 44
+      },
+      {
+       "nombre": "Attack increase",
+       "pct": 44
+      },
+      {
+       "nombre": "Double Chance",
+       "pct": 33
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 22
+      },
+      {
+       "nombre": "Weapon Damage Tolerance",
+       "pct": 11
+      },
+      {
+       "nombre": "Endurance",
+       "pct": 11
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 11
+      },
+      {
+       "nombre": "Dexterity",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Murderous Burst",
+       "pct": 44
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 33
+      },
+      {
+       "nombre": "Experienced Counterstrike",
+       "pct": 22
+      },
+      {
+       "nombre": "Identify Weakness",
+       "pct": 22
+      },
+      {
+       "nombre": "Survival Willpower",
+       "pct": 11
+      }
+     ]
+    },
+    "Shoulder": {
+     "secundarias": [
+      {
+       "nombre": "Critical Damage Boost",
+       "pct": 67
+      },
+      {
+       "nombre": "Attack",
+       "pct": 44
+      },
+      {
+       "nombre": "Double Chance",
+       "pct": 33
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 22
+      },
+      {
+       "nombre": "Constitution",
+       "pct": 11
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 11
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 11
+      },
+      {
+       "nombre": "Dexterity",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Attack Preparation",
+       "pct": 44
+      },
+      {
+       "nombre": "Experienced Counterstrike",
+       "pct": 33
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 33
+      },
+      {
+       "nombre": "Survival Stance",
+       "pct": 22
+      },
+      {
+       "nombre": "Murderous Burst",
+       "pct": 11
+      },
+      {
+       "nombre": "Protection Armor",
+       "pct": 11
+      }
+     ]
+    },
+    "Gloves": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 89
+      },
+      {
+       "nombre": "Attack",
+       "pct": 56
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 44
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 33
+      },
+      {
+       "nombre": "Defense increase",
+       "pct": 22
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 11
+      },
+      {
+       "nombre": "Critical Damage Defense",
+       "pct": 11
+      },
+      {
+       "nombre": "Constitution",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Impact Hit",
+       "pct": 33
+      },
+      {
+       "nombre": "Experienced Counterstrike",
+       "pct": 22
+      },
+      {
+       "nombre": "Blood Absorption",
+       "pct": 11
+      },
+      {
+       "nombre": "Survival Stance",
+       "pct": 11
+      }
+     ]
+    },
+    "Boots": {
+     "secundarias": [
+      {
+       "nombre": "Move Speed",
+       "pct": 67
+      },
+      {
+       "nombre": "Attack",
+       "pct": 56
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 33
+      },
+      {
+       "nombre": "HP",
+       "pct": 22
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 22
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 22
+      },
+      {
+       "nombre": "Endurance Penetration",
+       "pct": 11
+      },
+      {
+       "nombre": "Dexterity",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Murderous Burst",
+       "pct": 33
+      },
+      {
+       "nombre": "Attack Preparation",
+       "pct": 22
+      },
+      {
+       "nombre": "Identify Weakness",
+       "pct": 22
+      },
+      {
+       "nombre": "Experienced Counterstrike",
+       "pct": 11
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 11
+      }
+     ]
+    },
+    "Cape": {
+     "secundarias": [
+      {
+       "nombre": "Double Chance",
+       "pct": 44
+      },
+      {
+       "nombre": "Attack",
+       "pct": 33
+      },
+      {
+       "nombre": "Weapon Damage Tolerance",
+       "pct": 33
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 22
+      },
+      {
+       "nombre": "Attack increase",
+       "pct": 22
+      },
+      {
+       "nombre": "Back Defense",
+       "pct": 11
+      },
+      {
+       "nombre": "Endurance Penetration",
+       "pct": 11
+      },
+      {
+       "nombre": "Critical Damage Tolerance",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Identify Weakness",
+       "pct": 44
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 22
+      },
+      {
+       "nombre": "Experienced Counterstrike",
+       "pct": 22
+      },
+      {
+       "nombre": "Survival Willpower",
+       "pct": 22
+      },
+      {
+       "nombre": "Attack Preparation",
+       "pct": 22
+      },
+      {
+       "nombre": "Destructive Impulse",
+       "pct": 11
+      }
+     ]
+    },
+    "Earring1": {
+     "secundarias": [
+      {
+       "nombre": "Accuracy",
+       "pct": 78
+      },
+      {
+       "nombre": "Attack",
+       "pct": 78
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 44
+      },
+      {
+       "nombre": "Might",
+       "pct": 33
+      },
+      {
+       "nombre": "Move Speed",
+       "pct": 22
+      },
+      {
+       "nombre": "Precision",
+       "pct": 22
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Murderous Burst",
+       "pct": 33
+      },
+      {
+       "nombre": "Attack Preparation",
+       "pct": 22
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 11
+      },
+      {
+       "nombre": "Experienced Counterstrike",
+       "pct": 11
+      },
+      {
+       "nombre": "Blood Absorption",
+       "pct": 11
+      },
+      {
+       "nombre": "Survival Willpower",
+       "pct": 11
+      }
+     ]
+    },
+    "Earring2": {
+     "secundarias": [
+      {
+       "nombre": "Accuracy",
+       "pct": 67
+      },
+      {
+       "nombre": "Attack",
+       "pct": 67
+      },
+      {
+       "nombre": "Move Speed",
+       "pct": 33
+      },
+      {
+       "nombre": "Precision",
+       "pct": 33
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 22
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 11
+      },
+      {
+       "nombre": "Might",
+       "pct": 11
+      },
+      {
+       "nombre": "Block",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Murderous Burst",
+       "pct": 56
+      },
+      {
+       "nombre": "Identify Weakness",
+       "pct": 44
+      },
+      {
+       "nombre": "Experienced Counterstrike",
+       "pct": 22
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 22
+      },
+      {
+       "nombre": "Attack Preparation",
+       "pct": 11
+      },
+      {
+       "nombre": "Survival Stance",
+       "pct": 11
+      }
+     ]
+    },
+    "Ring1": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 78
+      },
+      {
+       "nombre": "Might",
+       "pct": 56
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 44
+      },
+      {
+       "nombre": "Precision",
+       "pct": 44
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 11
+      },
+      {
+       "nombre": "Block",
+       "pct": 11
+      },
+      {
+       "nombre": "Defense",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Overhead Slam",
+       "pct": 67
+      },
+      {
+       "nombre": "Rending Blow",
+       "pct": 44
+      },
+      {
+       "nombre": "Ruinous Blow",
+       "pct": 44
+      },
+      {
+       "nombre": "Keen Strike",
+       "pct": 11
+      },
+      {
+       "nombre": "Rush Strike",
+       "pct": 11
+      },
+      {
+       "nombre": "Sword Aura Rampage",
+       "pct": 11
+      }
+     ]
+    },
+    "Ring2": {
+     "secundarias": [
+      {
+       "nombre": "Might",
+       "pct": 67
+      },
+      {
+       "nombre": "Attack",
+       "pct": 44
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 33
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 33
+      },
+      {
+       "nombre": "Precision",
+       "pct": 22
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 11
+      },
+      {
+       "nombre": "Intelligence",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Ruinous Blow",
+       "pct": 67
+      },
+      {
+       "nombre": "Rending Blow",
+       "pct": 67
+      },
+      {
+       "nombre": "Overhead Slam",
+       "pct": 44
+      },
+      {
+       "nombre": "Keen Strike",
+       "pct": 22
+      },
+      {
+       "nombre": "Sword Aura Rampage",
+       "pct": 22
+      }
+     ]
+    },
+    "Bracelet2": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 100
+      },
+      {
+       "nombre": "MP",
+       "pct": 100
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 100
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 56
+      }
+     ],
+     "skills": []
+    },
+    "Bracelet1": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 67
+      },
+      {
+       "nombre": "MP",
+       "pct": 67
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 67
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 33
+      },
+      {
+       "nombre": "Wisdom [Lumiel]",
+       "pct": 22
+      },
+      {
+       "nombre": "Illusion [Kaisinel]",
+       "pct": 22
+      },
+      {
+       "nombre": "Destruction [Zikel]",
+       "pct": 22
+      },
+      {
+       "nombre": "Freedom [Vaizel]",
+       "pct": 11
+      }
+     ],
+     "skills": []
+    },
+    "Necklace": {
+     "secundarias": [
+      {
+       "nombre": "Might",
+       "pct": 44
+      },
+      {
+       "nombre": "Attack",
+       "pct": 44
+      },
+      {
+       "nombre": "Combat Speed",
+       "pct": 33
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 33
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 22
+      },
+      {
+       "nombre": "Precision",
+       "pct": 11
+      },
+      {
+       "nombre": "Block",
+       "pct": 11
+      },
+      {
+       "nombre": "MP",
+       "pct": 11
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Impact Hit",
+       "pct": 67
+      },
+      {
+       "nombre": "Attack Preparation",
+       "pct": 56
+      },
+      {
+       "nombre": "Identify Weakness",
+       "pct": 33
+      },
+      {
+       "nombre": "Experienced Counterstrike",
+       "pct": 22
+      },
+      {
+       "nombre": "Blood Absorption",
+       "pct": 22
+      },
+      {
+       "nombre": "Survival Stance",
+       "pct": 11
+      }
+     ]
+    }
+   },
+   "manastones": [
+    {
+     "nombre": "Attack",
+     "pct": 256
+    },
+    {
+     "nombre": "Critical Hit",
+     "pct": 181
+    },
+    {
+     "nombre": "HP",
+     "pct": 175
+    },
+    {
+     "nombre": "Accuracy Bonus",
+     "pct": 167
+    },
+    {
+     "nombre": "Critical Hit Resist",
+     "pct": 133
+    },
+    {
+     "nombre": "MP",
+     "pct": 122
+    },
+    {
+     "nombre": "Block",
+     "pct": 114
+    },
+    {
+     "nombre": "Evasion Bonus",
+     "pct": 111
+    }
+   ],
+   "golpes": {
+    "critico": 86,
+    "espalda": 17,
+    "doble": 40,
+    "perfecto": 55
+   },
+   "skills_dano": [
+    {
+     "nombre": "Overhead Slam",
+     "pct": 23.4
+    },
+    {
+     "nombre": "Upward Strike",
+     "pct": 22.6
+    },
+    {
+     "nombre": "Ruinous Blow",
+     "pct": 9.4
+    },
+    {
+     "nombre": "Smashing Blow",
+     "pct": 8.6
+    },
+    {
+     "nombre": "Rending Blow",
+     "pct": 7.8
+    },
+    {
+     "nombre": "Lifestealing Blade",
+     "pct": 5.5
+    },
+    {
+     "nombre": "Lunge Stance",
+     "pct": 4.4
+    },
+    {
+     "nombre": "Murderous Burst",
+     "pct": 4.4
+    }
+   ]
+  },
+  "Ranger": {
+   "n": 10,
+   "cp_medio": 232598,
+   "slots": {
+    "MainHand": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 100
+      },
+      {
+       "nombre": "Might",
+       "pct": 90
+      },
+      {
+       "nombre": "Damage Boost",
+       "pct": 80
+      },
+      {
+       "nombre": "Weapon Damage Boost",
+       "pct": 80
+      },
+      {
+       "nombre": "Attack",
+       "pct": 70
+      },
+      {
+       "nombre": "Multi-hit Chance",
+       "pct": 70
+      },
+      {
+       "nombre": "Precision",
+       "pct": 20
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 20
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Tempest Shot",
+       "pct": 20
+      },
+      {
+       "nombre": "Deadshot",
+       "pct": 10
+      }
+     ]
+    },
+    "SubHand": {
+     "secundarias": [
+      {
+       "nombre": "Weapon Damage Boost",
+       "pct": 100
+      },
+      {
+       "nombre": "Might",
+       "pct": 90
+      },
+      {
+       "nombre": "Combat Speed",
+       "pct": 90
+      },
+      {
+       "nombre": "Damage Boost",
+       "pct": 70
+      },
+      {
+       "nombre": "Attack",
+       "pct": 60
+      },
+      {
+       "nombre": "Multi-hit Chance",
+       "pct": 50
+      },
+      {
+       "nombre": "Critical Attack",
+       "pct": 30
+      },
+      {
+       "nombre": "Precision",
+       "pct": 20
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Tempest Shot",
+       "pct": 20
+      }
+     ]
+    },
+    "Torso": {
+     "secundarias": [
+      {
+       "nombre": "Damage Boost",
+       "pct": 90
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 50
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 30
+      },
+      {
+       "nombre": "Attack",
+       "pct": 30
+      },
+      {
+       "nombre": "Weapon Damage Tolerance",
+       "pct": 20
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 20
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 10
+      },
+      {
+       "nombre": "Critical Damage Defense",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Concentrated Fire",
+       "pct": 30
+      },
+      {
+       "nombre": "Rooting Eye",
+       "pct": 30
+      },
+      {
+       "nombre": "Focused Eye",
+       "pct": 20
+      },
+      {
+       "nombre": "Hunter's Soul",
+       "pct": 20
+      },
+      {
+       "nombre": "Melee Fire",
+       "pct": 10
+      },
+      {
+       "nombre": "Wind Vigor",
+       "pct": 10
+      }
+     ]
+    },
+    "Pants": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 70
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 40
+      },
+      {
+       "nombre": "Attack",
+       "pct": 40
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 30
+      },
+      {
+       "nombre": "Attack increase",
+       "pct": 30
+      },
+      {
+       "nombre": "Damage Tolerance",
+       "pct": 30
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 20
+      },
+      {
+       "nombre": "Dexterity",
+       "pct": 20
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Focused Eye",
+       "pct": 50
+      },
+      {
+       "nombre": "Hunter's Soul",
+       "pct": 20
+      },
+      {
+       "nombre": "Hunter's Resolve",
+       "pct": 20
+      },
+      {
+       "nombre": "Rooting Eye",
+       "pct": 10
+      },
+      {
+       "nombre": "Melee Fire",
+       "pct": 10
+      },
+      {
+       "nombre": "Revitalization Contract",
+       "pct": 10
+      }
+     ]
+    },
+    "Helmet": {
+     "secundarias": [
+      {
+       "nombre": "Double Chance",
+       "pct": 70
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 60
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 40
+      },
+      {
+       "nombre": "Attack increase",
+       "pct": 30
+      },
+      {
+       "nombre": "Weapon Damage Tolerance",
+       "pct": 30
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 30
+      },
+      {
+       "nombre": "Attack",
+       "pct": 30
+      },
+      {
+       "nombre": "Block",
+       "pct": 20
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Hunter's Resolve",
+       "pct": 40
+      },
+      {
+       "nombre": "Rooting Eye",
+       "pct": 20
+      },
+      {
+       "nombre": "Concentrated Fire",
+       "pct": 20
+      },
+      {
+       "nombre": "Revitalization Contract",
+       "pct": 10
+      },
+      {
+       "nombre": "Focused Eye",
+       "pct": 10
+      }
+     ]
+    },
+    "Shoulder": {
+     "secundarias": [
+      {
+       "nombre": "Critical Damage Boost",
+       "pct": 80
+      },
+      {
+       "nombre": "Attack",
+       "pct": 60
+      },
+      {
+       "nombre": "Double Chance",
+       "pct": 60
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 40
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 30
+      },
+      {
+       "nombre": "Defense increase",
+       "pct": 20
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 20
+      },
+      {
+       "nombre": "MP",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Focused Eye",
+       "pct": 40
+      },
+      {
+       "nombre": "Concentrated Fire",
+       "pct": 20
+      },
+      {
+       "nombre": "Hunter's Resolve",
+       "pct": 20
+      }
+     ]
+    },
+    "Gloves": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 100
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 50
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 40
+      },
+      {
+       "nombre": "Attack",
+       "pct": 40
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 30
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 20
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 10
+      },
+      {
+       "nombre": "Regeneration",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Hunter's Soul",
+       "pct": 20
+      },
+      {
+       "nombre": "Hunter's Resolve",
+       "pct": 20
+      },
+      {
+       "nombre": "Focused Eye",
+       "pct": 20
+      },
+      {
+       "nombre": "Revitalization Contract",
+       "pct": 10
+      },
+      {
+       "nombre": "Wind Vigor",
+       "pct": 10
+      }
+     ]
+    },
+    "Boots": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 80
+      },
+      {
+       "nombre": "Move Speed",
+       "pct": 70
+      },
+      {
+       "nombre": "Attack",
+       "pct": 50
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 30
+      },
+      {
+       "nombre": "Natural HP Regen",
+       "pct": 20
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 10
+      },
+      {
+       "nombre": "Willpower",
+       "pct": 10
+      },
+      {
+       "nombre": "Regeneration",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Focused Eye",
+       "pct": 40
+      },
+      {
+       "nombre": "Hunter's Resolve",
+       "pct": 30
+      },
+      {
+       "nombre": "Rooting Eye",
+       "pct": 20
+      },
+      {
+       "nombre": "Hunter's Soul",
+       "pct": 20
+      }
+     ]
+    },
+    "Cape": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 60
+      },
+      {
+       "nombre": "Double Chance",
+       "pct": 40
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 40
+      },
+      {
+       "nombre": "Critical Damage Tolerance",
+       "pct": 30
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 30
+      },
+      {
+       "nombre": "Weapon Damage Tolerance",
+       "pct": 30
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 20
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 20
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Wind Vigor",
+       "pct": 20
+      },
+      {
+       "nombre": "Hunter's Resolve",
+       "pct": 20
+      },
+      {
+       "nombre": "Focused Eye",
+       "pct": 20
+      },
+      {
+       "nombre": "Concentrated Fire",
+       "pct": 10
+      },
+      {
+       "nombre": "Hunter's Soul",
+       "pct": 10
+      },
+      {
+       "nombre": "Vigilant Eye",
+       "pct": 10
+      }
+     ]
+    },
+    "Necklace": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 80
+      },
+      {
+       "nombre": "Combat Speed",
+       "pct": 70
+      },
+      {
+       "nombre": "Attack",
+       "pct": 70
+      },
+      {
+       "nombre": "Might",
+       "pct": 30
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 30
+      },
+      {
+       "nombre": "Precision",
+       "pct": 20
+      },
+      {
+       "nombre": "Block",
+       "pct": 20
+      },
+      {
+       "nombre": "HP",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Focused Eye",
+       "pct": 70
+      },
+      {
+       "nombre": "Hunter's Resolve",
+       "pct": 30
+      },
+      {
+       "nombre": "Melee Fire",
+       "pct": 20
+      },
+      {
+       "nombre": "Rooting Eye",
+       "pct": 10
+      }
+     ]
+    },
+    "Earring2": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 70
+      },
+      {
+       "nombre": "Might",
+       "pct": 60
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 40
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 40
+      },
+      {
+       "nombre": "HP",
+       "pct": 30
+      },
+      {
+       "nombre": "Precision",
+       "pct": 30
+      },
+      {
+       "nombre": "Move Speed",
+       "pct": 20
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 20
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Focused Eye",
+       "pct": 30
+      },
+      {
+       "nombre": "Hunter's Soul",
+       "pct": 30
+      },
+      {
+       "nombre": "Hunter's Resolve",
+       "pct": 20
+      },
+      {
+       "nombre": "Vigilant Eye",
+       "pct": 10
+      },
+      {
+       "nombre": "Wind Vigor",
+       "pct": 10
+      },
+      {
+       "nombre": "Melee Fire",
+       "pct": 10
+      }
+     ]
+    },
+    "Earring1": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 70
+      },
+      {
+       "nombre": "Move Speed",
+       "pct": 40
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 40
+      },
+      {
+       "nombre": "Might",
+       "pct": 40
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 30
+      },
+      {
+       "nombre": "Attack",
+       "pct": 30
+      },
+      {
+       "nombre": "Flight Power",
+       "pct": 20
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Hunter's Soul",
+       "pct": 30
+      },
+      {
+       "nombre": "Focused Eye",
+       "pct": 30
+      },
+      {
+       "nombre": "Hunter's Resolve",
+       "pct": 20
+      },
+      {
+       "nombre": "Vigilant Eye",
+       "pct": 10
+      },
+      {
+       "nombre": "Revitalization Contract",
+       "pct": 10
+      }
+     ]
+    },
+    "Ring2": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 60
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 50
+      },
+      {
+       "nombre": "Might",
+       "pct": 40
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 20
+      },
+      {
+       "nombre": "Flight Power",
+       "pct": 10
+      },
+      {
+       "nombre": "Precision",
+       "pct": 10
+      },
+      {
+       "nombre": "HP",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Deadshot",
+       "pct": 80
+      },
+      {
+       "nombre": "Tempest Shot",
+       "pct": 60
+      },
+      {
+       "nombre": "Burst Arrow",
+       "pct": 40
+      },
+      {
+       "nombre": "Gale Arrow",
+       "pct": 40
+      },
+      {
+       "nombre": "Drill Dart",
+       "pct": 40
+      },
+      {
+       "nombre": "Snipe",
+       "pct": 30
+      }
+     ]
+    },
+    "Ring1": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 60
+      },
+      {
+       "nombre": "Might",
+       "pct": 60
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 20
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 20
+      },
+      {
+       "nombre": "Natural HP Regen",
+       "pct": 10
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 10
+      },
+      {
+       "nombre": "Precision",
+       "pct": 10
+      },
+      {
+       "nombre": "Defense",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Deadshot",
+       "pct": 80
+      },
+      {
+       "nombre": "Tempest Shot",
+       "pct": 50
+      },
+      {
+       "nombre": "Burst Arrow",
+       "pct": 50
+      },
+      {
+       "nombre": "Drill Dart",
+       "pct": 40
+      },
+      {
+       "nombre": "Gale Arrow",
+       "pct": 40
+      },
+      {
+       "nombre": "Snipe",
+       "pct": 20
+      }
+     ]
+    },
+    "Bracelet1": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 90
+      },
+      {
+       "nombre": "MP",
+       "pct": 90
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 90
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 60
+      },
+      {
+       "nombre": "Destruction [Zikel]",
+       "pct": 10
+      },
+      {
+       "nombre": "Death [Triniel]",
+       "pct": 10
+      },
+      {
+       "nombre": "Illusion [Kaisinel]",
+       "pct": 10
+      },
+      {
+       "nombre": "Wisdom [Lumiel]",
+       "pct": 10
+      }
+     ],
+     "skills": []
+    },
+    "Bracelet2": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 100
+      },
+      {
+       "nombre": "MP",
+       "pct": 100
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 100
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 40
+      }
+     ],
+     "skills": []
+    }
+   },
+   "manastones": [
+    {
+     "nombre": "Attack",
+     "pct": 275
+    },
+    {
+     "nombre": "Critical Hit",
+     "pct": 192
+    },
+    {
+     "nombre": "Accuracy Bonus",
+     "pct": 175
+    },
+    {
+     "nombre": "MP",
+     "pct": 152
+    },
+    {
+     "nombre": "HP",
+     "pct": 150
+    },
+    {
+     "nombre": "Block",
+     "pct": 132
+    },
+    {
+     "nombre": "Defense",
+     "pct": 125
+    },
+    {
+     "nombre": "Critical Hit Resist",
+     "pct": 122
+    }
+   ],
+   "golpes": {
+    "critico": 82,
+    "espalda": 40,
+    "doble": 38,
+    "perfecto": 57
+   },
+   "skills_dano": [
+    {
+     "nombre": "Deadshot",
+     "pct": 14.0
+    },
+    {
+     "nombre": "Drill Dart",
+     "pct": 12.4
+    },
+    {
+     "nombre": "Tempest Shot",
+     "pct": 12.1
+    },
+    {
+     "nombre": "Griffon Arrow",
+     "pct": 9.0
+    },
+    {
+     "nombre": "Hunter's Soul",
+     "pct": 7.0
+    },
+    {
+     "nombre": "Supporting Fire",
+     "pct": 6.1
+    },
+    {
+     "nombre": "Gale Arrow",
+     "pct": 5.9
+    },
+    {
+     "nombre": "Burst Arrow",
+     "pct": 4.7
+    }
+   ]
+  },
+  "Sorcerer": {
+   "n": 11,
+   "cp_medio": 235096,
+   "slots": {
+    "MainHand": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 100
+      },
+      {
+       "nombre": "Weapon Damage Boost",
+       "pct": 100
+      },
+      {
+       "nombre": "Might",
+       "pct": 100
+      },
+      {
+       "nombre": "Damage Boost",
+       "pct": 73
+      },
+      {
+       "nombre": "Multi-hit Chance",
+       "pct": 73
+      },
+      {
+       "nombre": "Precision",
+       "pct": 55
+      },
+      {
+       "nombre": "Attack",
+       "pct": 45
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 18
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Hellfire",
+       "pct": 9
+      }
+     ]
+    },
+    "SubHand": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 100
+      },
+      {
+       "nombre": "Might",
+       "pct": 82
+      },
+      {
+       "nombre": "Damage Boost",
+       "pct": 82
+      },
+      {
+       "nombre": "Weapon Damage Boost",
+       "pct": 82
+      },
+      {
+       "nombre": "Attack",
+       "pct": 55
+      },
+      {
+       "nombre": "Precision",
+       "pct": 45
+      },
+      {
+       "nombre": "Multi-hit Chance",
+       "pct": 36
+      },
+      {
+       "nombre": "Status Effect Chance",
+       "pct": 27
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Hellfire",
+       "pct": 18
+      },
+      {
+       "nombre": "Wish of Concentration",
+       "pct": 9
+      }
+     ]
+    },
+    "Torso": {
+     "secundarias": [
+      {
+       "nombre": "Damage Boost",
+       "pct": 100
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 55
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 27
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 18
+      },
+      {
+       "nombre": "Weapon Damage Tolerance",
+       "pct": 18
+      },
+      {
+       "nombre": "Willpower",
+       "pct": 18
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 18
+      },
+      {
+       "nombre": "Attack",
+       "pct": 18
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Robe of Flame",
+       "pct": 45
+      },
+      {
+       "nombre": "Fire Mark",
+       "pct": 36
+      },
+      {
+       "nombre": "Robe of Cold",
+       "pct": 9
+      },
+      {
+       "nombre": "Cold Snap",
+       "pct": 9
+      }
+     ]
+    },
+    "Pants": {
+     "secundarias": [
+      {
+       "nombre": "Damage Tolerance",
+       "pct": 82
+      },
+      {
+       "nombre": "Attack increase",
+       "pct": 36
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 36
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 36
+      },
+      {
+       "nombre": "Attack",
+       "pct": 27
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 27
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 27
+      },
+      {
+       "nombre": "Multi-hit Resist",
+       "pct": 18
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Robe of Flame",
+       "pct": 36
+      },
+      {
+       "nombre": "Fire Mark",
+       "pct": 18
+      },
+      {
+       "nombre": "Vitality Evaporation",
+       "pct": 18
+      },
+      {
+       "nombre": "Grace of Enhancement",
+       "pct": 9
+      },
+      {
+       "nombre": "Robe of Cold",
+       "pct": 9
+      }
+     ]
+    },
+    "Helmet": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 64
+      },
+      {
+       "nombre": "Double Chance",
+       "pct": 55
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 55
+      },
+      {
+       "nombre": "Incoming Heal",
+       "pct": 36
+      },
+      {
+       "nombre": "Attack increase",
+       "pct": 36
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 27
+      },
+      {
+       "nombre": "Weapon Damage Tolerance",
+       "pct": 18
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 18
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Robe of Flame",
+       "pct": 55
+      },
+      {
+       "nombre": "Fire Mark",
+       "pct": 9
+      },
+      {
+       "nombre": "Robe of Cold",
+       "pct": 9
+      },
+      {
+       "nombre": "Grace of Enhancement",
+       "pct": 9
+      }
+     ]
+    },
+    "Shoulder": {
+     "secundarias": [
+      {
+       "nombre": "Critical Damage Boost",
+       "pct": 91
+      },
+      {
+       "nombre": "Attack",
+       "pct": 55
+      },
+      {
+       "nombre": "Double Chance",
+       "pct": 27
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 27
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 27
+      },
+      {
+       "nombre": "Defense increase",
+       "pct": 18
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 9
+      },
+      {
+       "nombre": "Endurance Penetration",
+       "pct": 9
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Robe of Flame",
+       "pct": 55
+      },
+      {
+       "nombre": "Grace of Enhancement",
+       "pct": 18
+      },
+      {
+       "nombre": "Robe of Cold",
+       "pct": 18
+      },
+      {
+       "nombre": "Fire Mark",
+       "pct": 9
+      }
+     ]
+    },
+    "Gloves": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 100
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 55
+      },
+      {
+       "nombre": "Attack",
+       "pct": 45
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 27
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 18
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 18
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 9
+      },
+      {
+       "nombre": "Defense increase",
+       "pct": 9
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Robe of Flame",
+       "pct": 36
+      },
+      {
+       "nombre": "Grace of Enhancement",
+       "pct": 18
+      },
+      {
+       "nombre": "Fire Mark",
+       "pct": 18
+      },
+      {
+       "nombre": "Absorb Essence",
+       "pct": 18
+      },
+      {
+       "nombre": "Robe of Earth",
+       "pct": 9
+      },
+      {
+       "nombre": "Vitality Evaporation",
+       "pct": 9
+      }
+     ]
+    },
+    "Boots": {
+     "secundarias": [
+      {
+       "nombre": "Move Speed",
+       "pct": 82
+      },
+      {
+       "nombre": "Attack",
+       "pct": 55
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 45
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 36
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 27
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 18
+      },
+      {
+       "nombre": "Defense increase",
+       "pct": 18
+      },
+      {
+       "nombre": "Endurance Penetration",
+       "pct": 18
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Robe of Flame",
+       "pct": 55
+      },
+      {
+       "nombre": "Cold Snap",
+       "pct": 9
+      },
+      {
+       "nombre": "Grace of Enhancement",
+       "pct": 9
+      },
+      {
+       "nombre": "Grace of Resistance",
+       "pct": 9
+      }
+     ]
+    },
+    "Cape": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 64
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 45
+      },
+      {
+       "nombre": "Attack increase",
+       "pct": 45
+      },
+      {
+       "nombre": "Double Chance",
+       "pct": 36
+      },
+      {
+       "nombre": "Attack",
+       "pct": 36
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 18
+      },
+      {
+       "nombre": "Critical Damage Tolerance",
+       "pct": 18
+      },
+      {
+       "nombre": "Front Defense",
+       "pct": 18
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Robe of Flame",
+       "pct": 45
+      },
+      {
+       "nombre": "Robe of Earth",
+       "pct": 9
+      },
+      {
+       "nombre": "Grace of Enhancement",
+       "pct": 9
+      }
+     ]
+    },
+    "Necklace": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 91
+      },
+      {
+       "nombre": "Precision",
+       "pct": 55
+      },
+      {
+       "nombre": "Combat Speed",
+       "pct": 45
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 45
+      },
+      {
+       "nombre": "Might",
+       "pct": 45
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 27
+      },
+      {
+       "nombre": "Block",
+       "pct": 18
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Robe of Flame",
+       "pct": 73
+      },
+      {
+       "nombre": "Fire Mark",
+       "pct": 18
+      },
+      {
+       "nombre": "Robe of Cold",
+       "pct": 9
+      },
+      {
+       "nombre": "Robe of Earth",
+       "pct": 9
+      },
+      {
+       "nombre": "Absorb Essence",
+       "pct": 9
+      },
+      {
+       "nombre": "Vitality Evaporation",
+       "pct": 9
+      }
+     ]
+    },
+    "Earring1": {
+     "secundarias": [
+      {
+       "nombre": "Might",
+       "pct": 64
+      },
+      {
+       "nombre": "Precision",
+       "pct": 55
+      },
+      {
+       "nombre": "Attack",
+       "pct": 45
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 36
+      },
+      {
+       "nombre": "Move Speed",
+       "pct": 27
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 27
+      },
+      {
+       "nombre": "Critical Hit Resist",
+       "pct": 18
+      },
+      {
+       "nombre": "HP",
+       "pct": 18
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Robe of Flame",
+       "pct": 55
+      },
+      {
+       "nombre": "Grace of Enhancement",
+       "pct": 18
+      },
+      {
+       "nombre": "Robe of Cold",
+       "pct": 18
+      },
+      {
+       "nombre": "Robe of Earth",
+       "pct": 9
+      },
+      {
+       "nombre": "Vitality Evaporation",
+       "pct": 9
+      },
+      {
+       "nombre": "Cold Snap",
+       "pct": 9
+      }
+     ]
+    },
+    "Earring2": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 55
+      },
+      {
+       "nombre": "Move Speed",
+       "pct": 55
+      },
+      {
+       "nombre": "Attack",
+       "pct": 55
+      },
+      {
+       "nombre": "Might",
+       "pct": 45
+      },
+      {
+       "nombre": "Precision",
+       "pct": 45
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 45
+      },
+      {
+       "nombre": "Intelligence",
+       "pct": 18
+      },
+      {
+       "nombre": "Defense",
+       "pct": 9
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Robe of Flame",
+       "pct": 45
+      },
+      {
+       "nombre": "Robe of Cold",
+       "pct": 18
+      },
+      {
+       "nombre": "Fire Mark",
+       "pct": 9
+      },
+      {
+       "nombre": "Vitality Evaporation",
+       "pct": 9
+      },
+      {
+       "nombre": "Grace of Enhancement",
+       "pct": 9
+      },
+      {
+       "nombre": "Robe of Earth",
+       "pct": 9
+      }
+     ]
+    },
+    "Ring1": {
+     "secundarias": [
+      {
+       "nombre": "Might",
+       "pct": 64
+      },
+      {
+       "nombre": "Attack",
+       "pct": 55
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 18
+      },
+      {
+       "nombre": "Precision",
+       "pct": 9
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 9
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 9
+      },
+      {
+       "nombre": "Flight Power",
+       "pct": 9
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Hellfire",
+       "pct": 64
+      },
+      {
+       "nombre": "Firestorm",
+       "pct": 55
+      },
+      {
+       "nombre": "Bittercold Wind",
+       "pct": 55
+      },
+      {
+       "nombre": "Wish of Concentration",
+       "pct": 55
+      },
+      {
+       "nombre": "Blaze",
+       "pct": 45
+      },
+      {
+       "nombre": "Flame Arrow",
+       "pct": 45
+      }
+     ]
+    },
+    "Ring2": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 73
+      },
+      {
+       "nombre": "Might",
+       "pct": 45
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 18
+      },
+      {
+       "nombre": "Precision",
+       "pct": 18
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 9
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Wish of Concentration",
+       "pct": 64
+      },
+      {
+       "nombre": "Flame Arrow",
+       "pct": 64
+      },
+      {
+       "nombre": "Firestorm",
+       "pct": 55
+      },
+      {
+       "nombre": "Hellfire",
+       "pct": 45
+      },
+      {
+       "nombre": "Bittercold Wind",
+       "pct": 36
+      },
+      {
+       "nombre": "Blaze",
+       "pct": 36
+      }
+     ]
+    },
+    "Bracelet1": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 82
+      },
+      {
+       "nombre": "MP",
+       "pct": 82
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 82
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 55
+      },
+      {
+       "nombre": "Wisdom [Lumiel]",
+       "pct": 18
+      },
+      {
+       "nombre": "Death [Triniel]",
+       "pct": 18
+      },
+      {
+       "nombre": "Destruction [Zikel]",
+       "pct": 18
+      },
+      {
+       "nombre": "Illusion [Kaisinel]",
+       "pct": 18
+      }
+     ],
+     "skills": []
+    },
+    "Bracelet2": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 91
+      },
+      {
+       "nombre": "MP",
+       "pct": 91
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 91
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 45
+      },
+      {
+       "nombre": "Illusion [Kaisinel]",
+       "pct": 9
+      },
+      {
+       "nombre": "Wisdom [Lumiel]",
+       "pct": 9
+      },
+      {
+       "nombre": "Destruction [Zikel]",
+       "pct": 9
+      },
+      {
+       "nombre": "Death [Triniel]",
+       "pct": 9
+      }
+     ],
+     "skills": []
+    }
+   },
+   "manastones": [
+    {
+     "nombre": "Critical Hit",
+     "pct": 277
+    },
+    {
+     "nombre": "Attack",
+     "pct": 241
+    },
+    {
+     "nombre": "HP",
+     "pct": 177
+    },
+    {
+     "nombre": "Accuracy Bonus",
+     "pct": 166
+    },
+    {
+     "nombre": "Defense",
+     "pct": 145
+    },
+    {
+     "nombre": "MP",
+     "pct": 141
+    },
+    {
+     "nombre": "Critical Hit Resist",
+     "pct": 139
+    },
+    {
+     "nombre": "Block",
+     "pct": 111
+    }
+   ],
+   "golpes": {
+    "critico": 85,
+    "espalda": 30,
+    "doble": 44,
+    "perfecto": 50
+   },
+   "skills_dano": [
+    {
+     "nombre": "Hellfire",
+     "pct": 18.1
+    },
+    {
+     "nombre": "Fire Wall",
+     "pct": 15.0
+    },
+    {
+     "nombre": "Blaze",
+     "pct": 11.3
+    },
+    {
+     "nombre": "Bittercold Wind",
+     "pct": 10.3
+    },
+    {
+     "nombre": "Firestorm",
+     "pct": 9.8
+    },
+    {
+     "nombre": "Cold Storm",
+     "pct": 6.5
+    },
+    {
+     "nombre": "Cold Wave",
+     "pct": 2.8
+    },
+    {
+     "nombre": "Ice Chain",
+     "pct": 2.7
+    }
+   ]
+  },
+  "Spiritmaster": {
+   "n": 10,
+   "cp_medio": 227590,
+   "slots": {
+    "MainHand": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 100
+      },
+      {
+       "nombre": "Weapon Damage Boost",
+       "pct": 90
+      },
+      {
+       "nombre": "Might",
+       "pct": 80
+      },
+      {
+       "nombre": "Damage Boost",
+       "pct": 60
+      },
+      {
+       "nombre": "Attack",
+       "pct": 60
+      },
+      {
+       "nombre": "Multi-hit Chance",
+       "pct": 50
+      },
+      {
+       "nombre": "Precision",
+       "pct": 30
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 20
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Combustion",
+       "pct": 10
+      }
+     ]
+    },
+    "SubHand": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 100
+      },
+      {
+       "nombre": "Might",
+       "pct": 80
+      },
+      {
+       "nombre": "Attack",
+       "pct": 80
+      },
+      {
+       "nombre": "Weapon Damage Boost",
+       "pct": 70
+      },
+      {
+       "nombre": "Damage Boost",
+       "pct": 60
+      },
+      {
+       "nombre": "Multi-hit Chance",
+       "pct": 50
+      },
+      {
+       "nombre": "Precision",
+       "pct": 30
+      },
+      {
+       "nombre": "Back Attack",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Combustion",
+       "pct": 10
+      },
+      {
+       "nombre": "Summon: Fire Spirit",
+       "pct": 10
+      }
+     ]
+    },
+    "Torso": {
+     "secundarias": [
+      {
+       "nombre": "Damage Boost",
+       "pct": 70
+      },
+      {
+       "nombre": "Attack",
+       "pct": 60
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 30
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 30
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 30
+      },
+      {
+       "nombre": "Weapon Damage Tolerance",
+       "pct": 20
+      },
+      {
+       "nombre": "Dexterity",
+       "pct": 10
+      },
+      {
+       "nombre": "Double Resist",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Element Unification",
+       "pct": 50
+      },
+      {
+       "nombre": "Revitalization Contract",
+       "pct": 30
+      },
+      {
+       "nombre": "Spirit Strike",
+       "pct": 20
+      },
+      {
+       "nombre": "Mental Focus",
+       "pct": 20
+      },
+      {
+       "nombre": "Consecutive Countercurrent",
+       "pct": 10
+      },
+      {
+       "nombre": "Spirit Revitalization",
+       "pct": 10
+      }
+     ]
+    },
+    "Pants": {
+     "secundarias": [
+      {
+       "nombre": "Attack increase",
+       "pct": 50
+      },
+      {
+       "nombre": "Damage Tolerance",
+       "pct": 40
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 40
+      },
+      {
+       "nombre": "Attack",
+       "pct": 30
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 30
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 20
+      },
+      {
+       "nombre": "HP",
+       "pct": 20
+      },
+      {
+       "nombre": "Double Resist",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Element Unification",
+       "pct": 40
+      },
+      {
+       "nombre": "Mental Focus",
+       "pct": 20
+      },
+      {
+       "nombre": "Spirit Communion",
+       "pct": 10
+      },
+      {
+       "nombre": "Spirit Strike",
+       "pct": 10
+      },
+      {
+       "nombre": "Corrode",
+       "pct": 10
+      },
+      {
+       "nombre": "Spirit's Descent",
+       "pct": 10
+      }
+     ]
+    },
+    "Helmet": {
+     "secundarias": [
+      {
+       "nombre": "Attack increase",
+       "pct": 50
+      },
+      {
+       "nombre": "Attack",
+       "pct": 50
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 30
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 30
+      },
+      {
+       "nombre": "Double Chance",
+       "pct": 20
+      },
+      {
+       "nombre": "Incoming Heal",
+       "pct": 20
+      },
+      {
+       "nombre": "Willpower",
+       "pct": 10
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Mental Focus",
+       "pct": 50
+      },
+      {
+       "nombre": "Spirit Strike",
+       "pct": 40
+      },
+      {
+       "nombre": "Spirit Revitalization",
+       "pct": 20
+      },
+      {
+       "nombre": "Consecutive Countercurrent",
+       "pct": 10
+      },
+      {
+       "nombre": "Spirit Communion",
+       "pct": 10
+      },
+      {
+       "nombre": "Spirit's Descent",
+       "pct": 10
+      }
+     ]
+    },
+    "Shoulder": {
+     "secundarias": [
+      {
+       "nombre": "Critical Damage Boost",
+       "pct": 70
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 50
+      },
+      {
+       "nombre": "Attack",
+       "pct": 50
+      },
+      {
+       "nombre": "Double Chance",
+       "pct": 40
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 30
+      },
+      {
+       "nombre": "Defense",
+       "pct": 10
+      },
+      {
+       "nombre": "Constitution",
+       "pct": 10
+      },
+      {
+       "nombre": "Endurance Penetration",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Element Unification",
+       "pct": 40
+      },
+      {
+       "nombre": "Spirit Strike",
+       "pct": 40
+      },
+      {
+       "nombre": "Mental Focus",
+       "pct": 10
+      },
+      {
+       "nombre": "Spirit Protection",
+       "pct": 10
+      },
+      {
+       "nombre": "Consecutive Countercurrent",
+       "pct": 10
+      },
+      {
+       "nombre": "Spirit's Descent",
+       "pct": 10
+      }
+     ]
+    },
+    "Gloves": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 90
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 40
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 40
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 30
+      },
+      {
+       "nombre": "Attack",
+       "pct": 30
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 20
+      },
+      {
+       "nombre": "Constitution",
+       "pct": 10
+      },
+      {
+       "nombre": "Dexterity",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Mental Focus",
+       "pct": 50
+      },
+      {
+       "nombre": "Element Unification",
+       "pct": 30
+      },
+      {
+       "nombre": "Spirit Strike",
+       "pct": 30
+      },
+      {
+       "nombre": "Spirit Revitalization",
+       "pct": 20
+      },
+      {
+       "nombre": "Corrode",
+       "pct": 10
+      }
+     ]
+    },
+    "Boots": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 60
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 40
+      },
+      {
+       "nombre": "Move Speed",
+       "pct": 40
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 10
+      },
+      {
+       "nombre": "Constitution",
+       "pct": 10
+      },
+      {
+       "nombre": "HP",
+       "pct": 10
+      },
+      {
+       "nombre": "MP",
+       "pct": 10
+      },
+      {
+       "nombre": "Defense increase",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Mental Focus",
+       "pct": 50
+      },
+      {
+       "nombre": "Spirit Strike",
+       "pct": 40
+      },
+      {
+       "nombre": "Element Unification",
+       "pct": 30
+      },
+      {
+       "nombre": "Corrode",
+       "pct": 20
+      },
+      {
+       "nombre": "Spirit Revitalization",
+       "pct": 10
+      },
+      {
+       "nombre": "Consecutive Countercurrent",
+       "pct": 10
+      }
+     ]
+    },
+    "Cape": {
+     "secundarias": [
+      {
+       "nombre": "Double Chance",
+       "pct": 50
+      },
+      {
+       "nombre": "Attack increase",
+       "pct": 40
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 30
+      },
+      {
+       "nombre": "Attack",
+       "pct": 30
+      },
+      {
+       "nombre": "Critical Damage Tolerance",
+       "pct": 30
+      },
+      {
+       "nombre": "Willpower",
+       "pct": 20
+      },
+      {
+       "nombre": "Endurance Penetration",
+       "pct": 10
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Spirit Strike",
+       "pct": 50
+      },
+      {
+       "nombre": "Element Unification",
+       "pct": 30
+      },
+      {
+       "nombre": "Mental Focus",
+       "pct": 30
+      },
+      {
+       "nombre": "Consecutive Countercurrent",
+       "pct": 20
+      },
+      {
+       "nombre": "Corrode",
+       "pct": 20
+      },
+      {
+       "nombre": "Spirit Revitalization",
+       "pct": 10
+      }
+     ]
+    },
+    "Necklace": {
+     "secundarias": [
+      {
+       "nombre": "Accuracy",
+       "pct": 60
+      },
+      {
+       "nombre": "Combat Speed",
+       "pct": 50
+      },
+      {
+       "nombre": "Might",
+       "pct": 40
+      },
+      {
+       "nombre": "Attack",
+       "pct": 40
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 30
+      },
+      {
+       "nombre": "Precision",
+       "pct": 20
+      },
+      {
+       "nombre": "HP",
+       "pct": 10
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Spirit Strike",
+       "pct": 70
+      },
+      {
+       "nombre": "Element Unification",
+       "pct": 50
+      },
+      {
+       "nombre": "Mental Focus",
+       "pct": 30
+      },
+      {
+       "nombre": "Corrode",
+       "pct": 20
+      },
+      {
+       "nombre": "Spirit Revitalization",
+       "pct": 10
+      }
+     ]
+    },
+    "Earring1": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 80
+      },
+      {
+       "nombre": "Might",
+       "pct": 40
+      },
+      {
+       "nombre": "Move Speed",
+       "pct": 40
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 40
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 40
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 10
+      },
+      {
+       "nombre": "MP",
+       "pct": 10
+      },
+      {
+       "nombre": "Block",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Element Unification",
+       "pct": 50
+      },
+      {
+       "nombre": "Spirit Strike",
+       "pct": 30
+      },
+      {
+       "nombre": "Corrode",
+       "pct": 20
+      },
+      {
+       "nombre": "Mental Focus",
+       "pct": 20
+      },
+      {
+       "nombre": "Revitalization Contract",
+       "pct": 10
+      },
+      {
+       "nombre": "Consecutive Countercurrent",
+       "pct": 10
+      }
+     ]
+    },
+    "Earring2": {
+     "secundarias": [
+      {
+       "nombre": "Might",
+       "pct": 80
+      },
+      {
+       "nombre": "Attack",
+       "pct": 70
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 30
+      },
+      {
+       "nombre": "Move Speed",
+       "pct": 20
+      },
+      {
+       "nombre": "Precision",
+       "pct": 20
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 10
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 10
+      },
+      {
+       "nombre": "Block",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Spirit Strike",
+       "pct": 60
+      },
+      {
+       "nombre": "Element Unification",
+       "pct": 40
+      },
+      {
+       "nombre": "Mental Focus",
+       "pct": 30
+      },
+      {
+       "nombre": "Spirit Revitalization",
+       "pct": 20
+      },
+      {
+       "nombre": "Spirit's Descent",
+       "pct": 10
+      },
+      {
+       "nombre": "Consecutive Countercurrent",
+       "pct": 10
+      }
+     ]
+    },
+    "Ring1": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 80
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 50
+      },
+      {
+       "nombre": "Precision",
+       "pct": 20
+      },
+      {
+       "nombre": "Might",
+       "pct": 20
+      },
+      {
+       "nombre": "HP",
+       "pct": 20
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Elemental Fusion",
+       "pct": 90
+      },
+      {
+       "nombre": "Combustion",
+       "pct": 60
+      },
+      {
+       "nombre": "Summon: Fire Spirit",
+       "pct": 40
+      },
+      {
+       "nombre": "Summon: Water Spirit",
+       "pct": 20
+      },
+      {
+       "nombre": "Cold Shock",
+       "pct": 20
+      },
+      {
+       "nombre": "Dimensional Control",
+       "pct": 20
+      }
+     ]
+    },
+    "Ring2": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 70
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 50
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 40
+      },
+      {
+       "nombre": "Might",
+       "pct": 30
+      },
+      {
+       "nombre": "Precision",
+       "pct": 30
+      },
+      {
+       "nombre": "Flight Power",
+       "pct": 10
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Combustion",
+       "pct": 70
+      },
+      {
+       "nombre": "Elemental Fusion",
+       "pct": 50
+      },
+      {
+       "nombre": "Summon: Fire Spirit",
+       "pct": 40
+      },
+      {
+       "nombre": "Summon: Water Spirit",
+       "pct": 40
+      },
+      {
+       "nombre": "Cold Shock",
+       "pct": 20
+      },
+      {
+       "nombre": "Dimensional Control",
+       "pct": 10
+      }
+     ]
+    },
+    "Bracelet1": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 90
+      },
+      {
+       "nombre": "MP",
+       "pct": 90
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 90
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 60
+      },
+      {
+       "nombre": "Justice [Nezekan]",
+       "pct": 10
+      },
+      {
+       "nombre": "Illusion [Kaisinel]",
+       "pct": 10
+      },
+      {
+       "nombre": "Destruction [Zikel]",
+       "pct": 10
+      },
+      {
+       "nombre": "Wisdom [Lumiel]",
+       "pct": 10
+      }
+     ],
+     "skills": []
+    },
+    "Bracelet2": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 90
+      },
+      {
+       "nombre": "MP",
+       "pct": 90
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 90
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 40
+      },
+      {
+       "nombre": "Wisdom [Lumiel]",
+       "pct": 10
+      },
+      {
+       "nombre": "Illusion [Kaisinel]",
+       "pct": 10
+      },
+      {
+       "nombre": "Destruction [Zikel]",
+       "pct": 10
+      },
+      {
+       "nombre": "Death [Triniel]",
+       "pct": 10
+      }
+     ],
+     "skills": []
+    }
+   },
+   "manastones": [
+    {
+     "nombre": "Attack",
+     "pct": 315
+    },
+    {
+     "nombre": "HP",
+     "pct": 200
+    },
+    {
+     "nombre": "Critical Hit",
+     "pct": 188
+    },
+    {
+     "nombre": "Accuracy Bonus",
+     "pct": 185
+    },
+    {
+     "nombre": "MP",
+     "pct": 170
+    },
+    {
+     "nombre": "Critical Hit Resist",
+     "pct": 132
+    },
+    {
+     "nombre": "Block",
+     "pct": 125
+    },
+    {
+     "nombre": "Defense",
+     "pct": 118
+    }
+   ],
+   "golpes": {
+    "critico": 81,
+    "espalda": 42,
+    "doble": 29,
+    "perfecto": 55
+   },
+   "skills_dano": [
+    {
+     "nombre": "Elemental Fusion",
+     "pct": 14.5
+    },
+    {
+     "nombre": "Summon: Ancient Spirit",
+     "pct": 6.9
+    },
+    {
+     "nombre": "Summon: Fire Spirit",
+     "pct": 5.9
+    },
+    {
+     "nombre": "Combustion",
+     "pct": 5.7
+    },
+    {
+     "nombre": "Dimensional Control",
+     "pct": 5.5
+    },
+    {
+     "nombre": "Ashy Call",
+     "pct": 5.1
+    },
+    {
+     "nombre": "Corrode",
+     "pct": 4.4
+    },
+    {
+     "nombre": "Flame Blessing",
+     "pct": 4.1
+    }
+   ]
+  },
+  "Templar": {
+   "n": 11,
+   "cp_medio": 227991,
+   "slots": {
+    "MainHand": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 100
+      },
+      {
+       "nombre": "Weapon Damage Boost",
+       "pct": 91
+      },
+      {
+       "nombre": "Multi-hit Chance",
+       "pct": 91
+      },
+      {
+       "nombre": "Might",
+       "pct": 73
+      },
+      {
+       "nombre": "Damage Boost",
+       "pct": 64
+      },
+      {
+       "nombre": "Attack",
+       "pct": 55
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 27
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 18
+      }
+     ],
+     "skills": []
+    },
+    "SubHand": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 100
+      },
+      {
+       "nombre": "Weapon Damage Boost",
+       "pct": 91
+      },
+      {
+       "nombre": "Multi-hit Chance",
+       "pct": 82
+      },
+      {
+       "nombre": "Might",
+       "pct": 82
+      },
+      {
+       "nombre": "Damage Boost",
+       "pct": 64
+      },
+      {
+       "nombre": "Attack",
+       "pct": 36
+      },
+      {
+       "nombre": "Precision",
+       "pct": 36
+      },
+      {
+       "nombre": "Critical Attack",
+       "pct": 27
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Judgment",
+       "pct": 9
+      },
+      {
+       "nombre": "Annihilate",
+       "pct": 9
+      }
+     ]
+    },
+    "Torso": {
+     "secundarias": [
+      {
+       "nombre": "Damage Boost",
+       "pct": 64
+      },
+      {
+       "nombre": "Attack",
+       "pct": 45
+      },
+      {
+       "nombre": "Weapon Damage Tolerance",
+       "pct": 27
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 27
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 27
+      },
+      {
+       "nombre": "Double Resist",
+       "pct": 18
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 18
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 18
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Fury",
+       "pct": 36
+      },
+      {
+       "nombre": "Insulting Roar",
+       "pct": 27
+      },
+      {
+       "nombre": "Ironclad Defense",
+       "pct": 18
+      },
+      {
+       "nombre": "Punishing Benediction",
+       "pct": 18
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 9
+      }
+     ]
+    },
+    "Pants": {
+     "secundarias": [
+      {
+       "nombre": "Damage Tolerance",
+       "pct": 45
+      },
+      {
+       "nombre": "Attack increase",
+       "pct": 36
+      },
+      {
+       "nombre": "Front Defense",
+       "pct": 36
+      },
+      {
+       "nombre": "Attack",
+       "pct": 27
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 27
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 27
+      },
+      {
+       "nombre": "Defense",
+       "pct": 18
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 18
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Insulting Roar",
+       "pct": 36
+      },
+      {
+       "nombre": "Fury",
+       "pct": 36
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 27
+      },
+      {
+       "nombre": "Survival Willpower",
+       "pct": 18
+      },
+      {
+       "nombre": "Enhance Health",
+       "pct": 9
+      }
+     ]
+    },
+    "Helmet": {
+     "secundarias": [
+      {
+       "nombre": "Double Chance",
+       "pct": 55
+      },
+      {
+       "nombre": "Attack",
+       "pct": 45
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 27
+      },
+      {
+       "nombre": "Incoming Heal",
+       "pct": 18
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 18
+      },
+      {
+       "nombre": "Weapon Damage Tolerance",
+       "pct": 18
+      },
+      {
+       "nombre": "Attack increase",
+       "pct": 18
+      },
+      {
+       "nombre": "Block",
+       "pct": 18
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Fury",
+       "pct": 36
+      },
+      {
+       "nombre": "Ironclad Defense",
+       "pct": 36
+      },
+      {
+       "nombre": "Insulting Roar",
+       "pct": 36
+      },
+      {
+       "nombre": "Punishing Benediction",
+       "pct": 27
+      },
+      {
+       "nombre": "Block Pain",
+       "pct": 18
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 18
+      }
+     ]
+    },
+    "Shoulder": {
+     "secundarias": [
+      {
+       "nombre": "Critical Damage Boost",
+       "pct": 73
+      },
+      {
+       "nombre": "Block",
+       "pct": 36
+      },
+      {
+       "nombre": "Double Chance",
+       "pct": 27
+      },
+      {
+       "nombre": "Attack",
+       "pct": 27
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 27
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 27
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 18
+      },
+      {
+       "nombre": "MP",
+       "pct": 9
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Fury",
+       "pct": 45
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 36
+      },
+      {
+       "nombre": "Insulting Roar",
+       "pct": 18
+      },
+      {
+       "nombre": "Block Pain",
+       "pct": 9
+      },
+      {
+       "nombre": "Enhance Health",
+       "pct": 9
+      },
+      {
+       "nombre": "Ironclad Defense",
+       "pct": 9
+      }
+     ]
+    },
+    "Gloves": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 100
+      },
+      {
+       "nombre": "Attack",
+       "pct": 45
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 36
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 18
+      },
+      {
+       "nombre": "Constitution",
+       "pct": 18
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 18
+      },
+      {
+       "nombre": "Defense",
+       "pct": 18
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 18
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Fury",
+       "pct": 45
+      },
+      {
+       "nombre": "Ironclad Defense",
+       "pct": 18
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 18
+      },
+      {
+       "nombre": "Insulting Roar",
+       "pct": 9
+      },
+      {
+       "nombre": "Block Pain",
+       "pct": 9
+      },
+      {
+       "nombre": "Guarding Seal",
+       "pct": 9
+      }
+     ]
+    },
+    "Boots": {
+     "secundarias": [
+      {
+       "nombre": "Move Speed",
+       "pct": 45
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 36
+      },
+      {
+       "nombre": "Attack",
+       "pct": 36
+      },
+      {
+       "nombre": "Perfect Chance",
+       "pct": 27
+      },
+      {
+       "nombre": "Block",
+       "pct": 18
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 18
+      },
+      {
+       "nombre": "Dexterity",
+       "pct": 18
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 18
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Fury",
+       "pct": 45
+      },
+      {
+       "nombre": "Insulting Roar",
+       "pct": 45
+      },
+      {
+       "nombre": "Block Pain",
+       "pct": 18
+      },
+      {
+       "nombre": "Enhance Health",
+       "pct": 18
+      },
+      {
+       "nombre": "Survival Willpower",
+       "pct": 9
+      },
+      {
+       "nombre": "Guarding Seal",
+       "pct": 9
+      }
+     ]
+    },
+    "Cape": {
+     "secundarias": [
+      {
+       "nombre": "Attack increase",
+       "pct": 36
+      },
+      {
+       "nombre": "Double Chance",
+       "pct": 36
+      },
+      {
+       "nombre": "Status Effect Resist",
+       "pct": 27
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 27
+      },
+      {
+       "nombre": "Block",
+       "pct": 18
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 18
+      },
+      {
+       "nombre": "Willpower",
+       "pct": 18
+      },
+      {
+       "nombre": "Endurance",
+       "pct": 18
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Insulting Roar",
+       "pct": 45
+      },
+      {
+       "nombre": "Fury",
+       "pct": 45
+      },
+      {
+       "nombre": "Punishing Benediction",
+       "pct": 27
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 27
+      },
+      {
+       "nombre": "Block Pain",
+       "pct": 18
+      },
+      {
+       "nombre": "Ironclad Defense",
+       "pct": 18
+      }
+     ]
+    },
+    "Necklace": {
+     "secundarias": [
+      {
+       "nombre": "Combat Speed",
+       "pct": 73
+      },
+      {
+       "nombre": "Might",
+       "pct": 55
+      },
+      {
+       "nombre": "Precision",
+       "pct": 36
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 36
+      },
+      {
+       "nombre": "Attack",
+       "pct": 36
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 27
+      },
+      {
+       "nombre": "Block",
+       "pct": 18
+      },
+      {
+       "nombre": "Defense",
+       "pct": 9
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Fury",
+       "pct": 55
+      },
+      {
+       "nombre": "Insulting Roar",
+       "pct": 55
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 18
+      },
+      {
+       "nombre": "Punishing Benediction",
+       "pct": 9
+      },
+      {
+       "nombre": "Enhance Health",
+       "pct": 9
+      },
+      {
+       "nombre": "Guarding Seal",
+       "pct": 9
+      }
+     ]
+    },
+    "Earring1": {
+     "secundarias": [
+      {
+       "nombre": "Might",
+       "pct": 45
+      },
+      {
+       "nombre": "Attack",
+       "pct": 45
+      },
+      {
+       "nombre": "Move Speed",
+       "pct": 36
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 36
+      },
+      {
+       "nombre": "Defense",
+       "pct": 18
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 18
+      },
+      {
+       "nombre": "HP",
+       "pct": 18
+      },
+      {
+       "nombre": "Precision",
+       "pct": 9
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Impact Hit",
+       "pct": 45
+      },
+      {
+       "nombre": "Fury",
+       "pct": 36
+      },
+      {
+       "nombre": "Survival Willpower",
+       "pct": 27
+      },
+      {
+       "nombre": "Punishing Benediction",
+       "pct": 27
+      },
+      {
+       "nombre": "Insulting Roar",
+       "pct": 27
+      },
+      {
+       "nombre": "Block Pain",
+       "pct": 18
+      }
+     ]
+    },
+    "Earring2": {
+     "secundarias": [
+      {
+       "nombre": "Attack",
+       "pct": 82
+      },
+      {
+       "nombre": "Might",
+       "pct": 45
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 36
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 27
+      },
+      {
+       "nombre": "Move Speed",
+       "pct": 27
+      },
+      {
+       "nombre": "Precision",
+       "pct": 18
+      },
+      {
+       "nombre": "Block",
+       "pct": 18
+      },
+      {
+       "nombre": "Defense",
+       "pct": 9
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Fury",
+       "pct": 55
+      },
+      {
+       "nombre": "Punishing Benediction",
+       "pct": 36
+      },
+      {
+       "nombre": "Impact Hit",
+       "pct": 27
+      },
+      {
+       "nombre": "Insulting Roar",
+       "pct": 27
+      },
+      {
+       "nombre": "Block Pain",
+       "pct": 18
+      },
+      {
+       "nombre": "Ironclad Defense",
+       "pct": 18
+      }
+     ]
+    },
+    "Ring2": {
+     "secundarias": [
+      {
+       "nombre": "Might",
+       "pct": 82
+      },
+      {
+       "nombre": "Attack",
+       "pct": 55
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 27
+      },
+      {
+       "nombre": "Precision",
+       "pct": 18
+      },
+      {
+       "nombre": "Defense",
+       "pct": 9
+      },
+      {
+       "nombre": "Natural HP Regen",
+       "pct": 9
+      },
+      {
+       "nombre": "Block",
+       "pct": 9
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 9
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Judgment",
+       "pct": 82
+      },
+      {
+       "nombre": "Vicious Strike",
+       "pct": 55
+      },
+      {
+       "nombre": "Pummel",
+       "pct": 55
+      },
+      {
+       "nombre": "Punishment",
+       "pct": 45
+      },
+      {
+       "nombre": "Warding Strike",
+       "pct": 27
+      },
+      {
+       "nombre": "Shield Smite",
+       "pct": 18
+      }
+     ]
+    },
+    "Ring1": {
+     "secundarias": [
+      {
+       "nombre": "Might",
+       "pct": 64
+      },
+      {
+       "nombre": "Attack",
+       "pct": 55
+      },
+      {
+       "nombre": "Precision",
+       "pct": 27
+      },
+      {
+       "nombre": "Critical Hit",
+       "pct": 27
+      },
+      {
+       "nombre": "Accuracy",
+       "pct": 18
+      },
+      {
+       "nombre": "Defense",
+       "pct": 9
+      },
+      {
+       "nombre": "HP",
+       "pct": 9
+      },
+      {
+       "nombre": "Block",
+       "pct": 9
+      }
+     ],
+     "skills": [
+      {
+       "nombre": "Judgment",
+       "pct": 73
+      },
+      {
+       "nombre": "Vicious Strike",
+       "pct": 64
+      },
+      {
+       "nombre": "Pummel",
+       "pct": 55
+      },
+      {
+       "nombre": "Punishment",
+       "pct": 45
+      },
+      {
+       "nombre": "Annihilate",
+       "pct": 18
+      },
+      {
+       "nombre": "Debilitating Smash",
+       "pct": 9
+      }
+     ]
+    },
+    "Bracelet1": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 91
+      },
+      {
+       "nombre": "MP",
+       "pct": 91
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 91
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 82
+      },
+      {
+       "nombre": "Death [Triniel]",
+       "pct": 9
+      },
+      {
+       "nombre": "Destruction [Zikel]",
+       "pct": 9
+      },
+      {
+       "nombre": "Illusion [Kaisinel]",
+       "pct": 9
+      },
+      {
+       "nombre": "Wisdom [Lumiel]",
+       "pct": 9
+      }
+     ],
+     "skills": []
+    },
+    "Bracelet2": {
+     "secundarias": [
+      {
+       "nombre": "Critical Hit",
+       "pct": 91
+      },
+      {
+       "nombre": "MP",
+       "pct": 91
+      },
+      {
+       "nombre": "Natural MP Regen",
+       "pct": 91
+      },
+      {
+       "nombre": "Evasion",
+       "pct": 9
+      },
+      {
+       "nombre": "Destiny [Marchutan]",
+       "pct": 9
+      },
+      {
+       "nombre": "Death [Triniel]",
+       "pct": 9
+      },
+      {
+       "nombre": "Life [Yustiel]",
+       "pct": 9
+      },
+      {
+       "nombre": "Illusion [Kaisinel]",
+       "pct": 9
+      }
+     ],
+     "skills": []
+    }
+   },
+   "manastones": [
+    {
+     "nombre": "Critical Hit",
+     "pct": 214
+    },
+    {
+     "nombre": "Attack",
+     "pct": 214
+    },
+    {
+     "nombre": "Accuracy Bonus",
+     "pct": 202
+    },
+    {
+     "nombre": "HP",
+     "pct": 202
+    },
+    {
+     "nombre": "Block",
+     "pct": 161
+    },
+    {
+     "nombre": "Defense",
+     "pct": 150
+    },
+    {
+     "nombre": "MP",
+     "pct": 143
+    },
+    {
+     "nombre": "Critical Hit Resist",
+     "pct": 127
+    }
+   ],
+   "golpes": {
+    "critico": 85,
+    "espalda": 15,
+    "doble": 36,
+    "perfecto": 43
+   },
+   "skills_dano": [
+    {
+     "nombre": "Judgment",
+     "pct": 37.0
+    },
+    {
+     "nombre": "Punishing Strike",
+     "pct": 12.2
+    },
+    {
+     "nombre": "Punishment",
+     "pct": 9.1
+    },
+    {
+     "nombre": "Pummel",
+     "pct": 6.6
+    },
+    {
+     "nombre": "Threatening Blow",
+     "pct": 5.2
+    },
+    {
+     "nombre": "Annihilate",
+     "pct": 4.1
+    },
+    {
+     "nombre": "Punishing Benediction",
+     "pct": 3.4
+    },
+    {
+     "nombre": "Desperate Strike",
+     "pct": 2.9
+    }
+   ]
+  }
+ }
+}
