@@ -1,5 +1,33 @@
 [
  {
+  "version": "1.3.0",
+  "fecha": "2026-11-18",
+  "cambios": [
+   {
+    "icono": "unfold_less",
+    "es": [
+     "Menos cosas a la vista",
+     "Lo secundario empieza plegado y se abre al pulsar su título: plan de soul bind, Piedra filosofal, runas, alas, mascotas, presupuesto y algunos apartados de Élite y Cara a cara. En soul bind, «Después» enseña 3 piezas y «Ver más»."
+    ],
+    "en": [
+     "Less on screen",
+     "Secondary sections start collapsed and open when you click their title: soul bind plan, Philosopher's Stone, runes, wings, pets, budget and some Elite and Head to head sections. In soul bind, «After that» shows 3 pieces and «Show more»."
+    ]
+   },
+   {
+    "icono": "trending_up",
+    "es": [
+     "Líneas que suman daño",
+     "En las tarjetas de soul bind, una línea que el top no suele llevar pero suma daño (como Aumento de ataque en el casco) enseña su daño y cuenta en la nota, en vez de salir como «sobra»."
+    ],
+    "en": [
+     "Lines that add damage",
+     "On soul bind cards, a line the top rarely carries but that adds damage (like Attack increase on the helmet) shows its damage and counts toward the grade instead of «extra»."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.2.5",
   "fecha": "2026-11-18",
   "cambios": [

@@ -1,11 +1,11 @@
 {
- "version": "1.2.5",
- "notes": "Notas de soul bind como kisk, alas marcables y quitar personajes",
- "pub_date": "2026-11-18T02:50:20Z",
+ "version": "1.3.0",
+ "notes": "Menos información a la vista y líneas que suman daño en soul bind",
+ "pub_date": "2026-11-18T03:03:49Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQStNVDdCTTB1eFVSK1Qvc0pWNVlLdTVWemhCV1JmczF3Y1RNOGhGWFk5aC82d1VkUVVyb2VScENyZEVwZnYzM3FoaVUrbDZ2TVo1MXV6Yno5TVpzZGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTcwMjE1CWZpbGU6QXNjZW5kXzEuMi41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNQppNGNoSVkzdUtGL0RHY0VOcE1qOTZ5UXBEZ2lCV1FqY3BJc09DdG13dWZhdXdxbHBTOElzc281RmtJMXdlOGtIa0dibUFCNjB5c2Q4MWhEb2QyN1pCdz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.2.5/Ascend_1.2.5_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTE1SVJxZ2JsVUthM3FlanJ1TTQ5Z3R6ckZmVlJ0NGlvRDU5WlRyZGtnQ1A5N3RNeS9ZZU4rRGkvUkpjMENYOExNQ25VWnVTeW52THJXZ0VYSVFreWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTcxMDIxCWZpbGU6QXNjZW5kXzEuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjMuMApaZEgrRHpsb1UvZDEwL09GUTBWS0JTc042VHFUSklrTjFRNnlhc0hlb1RzdElHZDVlelh3YlZKR0VMc2lTcGpIM2tQSlNpS0c4cGlraDQ3WEJpOWVBZz09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.3.0/Ascend_1.3.0_x64-setup.exe"
   }
  }
 }
