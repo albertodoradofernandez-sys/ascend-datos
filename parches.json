@@ -1,6 +1,77 @@
 {
- "fuente": "Resumen de aion2hub.com (web de fans que recopila las notas oficiales), revisado el 2026-11-13 con la nota oficial de NC.",
+ "fuente": "Resumen de las notas oficiales de NC (y aion2hub.com para Corea), revisado el 2026-11-18.",
  "parches": [
+  {
+   "region": "EU",
+   "fecha": "2026-11-18",
+   "titulo": "Ludra fácil y más armas de Ludra",
+   "url": "https://aion2.plaync.com/en-us/board/update/view?articleId=6afd5b00ebccad0e4b5bad8b",
+   "resumen": "Nota oficial. Llega Ludra en modo Fácil, las armas de Ludra caen el triple, cambiar vales por el cofre de arma cuesta menos y los Puntos del Abismo se triplican un mes. Sin cambios de clase.",
+   "cambios": [
+    {
+     "tipo": "nuevo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Ludra Fácil",
+     "detalle": "Nueva dificultad de Abyssal Forge: Ludra. 2 horas, IL 2.800, revivir sin límite. Mismo HP que Normal, mecánicas más fáciles y es más fácil hacer crítico. Da arma y guarda de Ludra (ligadas).",
+     "importante": true,
+     "titulo_en": "Ludra Easy",
+     "detalle_en": "New Abyssal Forge: Ludra difficulty. 2 hours, IL 2,800, unlimited revives. Same HP as Normal, easier mechanics and crits land more easily. Drops Ludra weapon and guard (bound)."
+    },
+    {
+     "tipo": "buff",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Equipo de Ludra: 5 % → 15 %",
+     "detalle": "La probabilidad total de equipo de Ludra sube del 5 % al 15 % en Normal y Hard (Fácil también 15 %).",
+     "importante": true,
+     "titulo_en": "Ludra gear: 5% → 15%",
+     "detalle_en": "Combined Ludra gear drop rate goes from 5% to 15% in Normal and Hard (Easy is also 15%)."
+    },
+    {
+     "tipo": "cambio",
+     "area": "objeto",
+     "clase": null,
+     "titulo": "Vales por cofre de arma, más baratos",
+     "detalle": "Transmutar vales de cambio por el cofre de arma de Abyssal Forge: 10 M → 5 M de kina. Hacen falta 1 vale Hard, 2 Normal o 4 Fácil. Quien ya lo canjeó con un vale Hard recibe uno de vuelta.",
+     "importante": false,
+     "titulo_en": "Cheaper weapon chest from vouchers",
+     "detalle_en": "Morphing Gear Change Vouchers into the Abyssal Forge weapon chest: 10M → 5M kinah. Needs 1 Hard, 2 Normal or 4 Easy vouchers. Those who already used a Hard voucher get one back."
+    },
+    {
+     "tipo": "nuevo",
+     "area": "evento",
+     "clase": null,
+     "titulo": "Puntos del Abismo ×3",
+     "detalle": "Del 18 de noviembre al 17 de diciembre (CET): triple de Puntos del Abismo en el Abismo exterior (monstruos) y en recompensas de campo de batalla. El límite no cambia y el PvP del Abismo exterior no cuenta.",
+     "importante": true,
+     "titulo_en": "Abyss Points ×3",
+     "detalle_en": "Nov 18 to Dec 17 (CET): triple Abyss Points from Outer Abyss monsters and battlefield rewards. The cap stays the same and Outer Abyss PvP doesn't count."
+    },
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Kina de monstruos, ligada",
+     "detalle": "La kina de los monstruos de campo pasa a ser ligada, y el límite diario de 1 millón también.",
+     "importante": false,
+     "titulo_en": "Field monster kinah is now bound",
+     "detalle_en": "Kinah from field monsters becomes bound, and so does the 1 million daily cap."
+    },
+    {
+     "tipo": "arreglo",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Arreglos",
+     "detalle": "Traducción automática del chat, el chat ya no salta al final al leer el historial y algunos ataques de Ludra que no iban bien. Nueva transmutación: un material de recolección superior en dos inferiores.",
+     "importante": false,
+     "titulo_en": "Fixes",
+     "detalle_en": "Chat auto-translation, chat no longer jumps to the bottom while reading history, and some Ludra attacks that didn't work right. New morph: one higher-grade gathering material into two lower ones."
+    }
+   ],
+   "titulo_en": "Ludra Easy and more Ludra weapons",
+   "resumen_en": "Official note. Ludra gets an Easy mode, Ludra weapons drop three times as often, morphing vouchers into the weapon chest costs less and Abyss Points are tripled for a month. No class changes."
+  },
   {
    "region": "KR",
    "fecha": "2026-11-11",
