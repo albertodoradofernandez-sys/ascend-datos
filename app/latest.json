@@ -1,11 +1,11 @@
 {
- "version": "1.2.2",
- "notes": "Tramos de skill en el modo daño y más rápida",
- "pub_date": "2026-11-18T02:01:32Z",
+ "version": "1.2.3",
+ "notes": "Panel más claro: avisos plegados y mejoras en filas",
+ "pub_date": "2026-11-18T02:12:44Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTV5dmRkWEJYcjM5OFRaT1ZEL2x6TkFyUDJmVU95eW5adEI2N0I1LzlUcE9sWWJVcEVQNGh1R205dTZQMWU1SC8vcklxWndyR2NWb3NscGJsajdlVUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTY3Mjg3CWZpbGU6QXNjZW5kXzEuMi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMgpzMS8vNVFEdW5xYjBPVWoxRzVmZklnMFBnTHpjMERuTW02QUxJY1NYYlhUOVN3NzlmajJEUkhoWXRvUVUyTStKRUZEcnZsUU84VFZOZ2szSk4xUnNCQT09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.2.2/Ascend_1.2.2_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXlBaEVUWTlWbFlXazVWV3JkWHFMWXM3MWFmUjdrMG94cThtQ09hSmJqRjNYMWhOak9sVm9nV2NjcUw4ZlBDNU9PWjlRWDVOeHZTL1BobkpxNk4zR2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTY3OTU4CWZpbGU6QXNjZW5kXzEuMi4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMwp6bzd2b2xwVnlsK1BqZ0FoTXdQeEY1cGo3NEhlb3h2TXZLMzMzTTJuN3ZzUUIxWW9pMm1BNzlPc3pML2lvYXFVTjVCQnplcGhubkh2b0xSVzl0SjFCUT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.2.3/Ascend_1.2.3_x64-setup.exe"
   }
  }
 }

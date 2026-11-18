@@ -1,5 +1,22 @@
 [
  {
+  "version": "1.2.3",
+  "fecha": "2026-11-18",
+  "cambios": [
+   {
+    "icono": "dashboard",
+    "es": [
+     "Panel más claro",
+     "Los avisos del parche y de cambios del top ocupan una línea y se abren al pulsar. Lo que más te sube sale en filas numeradas con su icono, el primer paso y los CP que te da."
+    ],
+    "en": [
+     "Clearer dashboard",
+     "Patch and top-change notices take one line and open on click. Your best upgrades show as numbered rows with an icon, the first step and the CP they give."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.2.2",
   "fecha": "2026-11-18",
   "cambios": [
