@@ -1,7 +1,7 @@
 {
- "version": "202611180252",
- "fecha": "2026-11-18T02:52:05",
- "notas": "Datos de daño: lo que llevan los que más pegan por clase (Global)",
+ "version": "202611181238",
+ "fecha": "2026-11-18T12:38:27",
+ "notas": "Parche del 18 de noviembre (Ludra Fácil, Puntos del Abismo x3)",
  "archivos": [
   "comun.db.gz",
   "parches.json",
