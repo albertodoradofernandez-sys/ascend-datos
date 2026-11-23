@@ -1,5 +1,33 @@
 [
  {
+  "version": "1.3.5",
+  "fecha": "2026-11-23",
+  "cambios": [
+   {
+    "icono": "view_column",
+    "es": [
+     "Rotación y macro según las builds de Questlog",
+     "Cada clase usa la build de PvE endgame más valorada de Questlog: la barra con sus huecos y filas reales, las macros con su retardo y el orden de prioridad. Al lado, lo que meten en la macro y los estigmas que llevan las 12 builds más valoradas."
+    ],
+    "en": [
+     "Rotation and macro from Questlog builds",
+     "Each class uses the most liked endgame PvE build on Questlog: the real bar slots and rows, macros with their delay and the skill priority. Next to it, what the 12 most liked builds put in the macro and which stigmas they use."
+    ]
+   },
+   {
+    "icono": "hub",
+    "es": [
+     "Daevanion: solo lo que puedes abrir",
+     "Ya no te pide nodos que no puedes pagar. Si tu bolsa común o la de Ariel tiene todos los puntos de hoy, sale «al día» y los nodos del top quedan apagados (solo cambiando otro). Azphel sigue recomendando lo que te falta, que se abre con Abyss Points."
+    ],
+    "en": [
+     "Daevanion: only what you can open",
+     "No longer asks for nodes you can't afford. If your shared or Ariel pool has all of today's points, boards show «done» and top nodes are dimmed (only by swapping). Azphel still recommends what you're missing, opened with Abyss Points."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.3.4",
   "fecha": "2026-11-18",
   "cambios": [

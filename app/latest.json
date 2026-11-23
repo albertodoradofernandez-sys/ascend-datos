@@ -1,11 +1,11 @@
 {
- "version": "1.3.4",
- "notes": "Tarjetas más compactas",
- "pub_date": "2026-11-18T21:53:27Z",
+ "version": "1.3.5",
+ "notes": "Rotación y macro desde las builds de Questlog; Daevanion solo recomienda lo que puedes abrir",
+ "pub_date": "2026-11-23T13:38:40Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTJPQndsSHFiQSs4S1NMSUw4UmxkbnZ0REt2S3Y0bFk4blgwblUxWC9KYlUzQnpSVFhpS2VnUGZVQ3Erc3E2OVRuQmQzc2I3eXlRZ3lXSy83dXdGaFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM4ODAyCWZpbGU6QXNjZW5kXzEuMy40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjMuNAptU0xUQlBGUm9pUGJ2c1A5L3RZeW1hUDBoeG01REp2cE5EYTR2SmNrZEVtWWE5RE5qWm9YZEtUazJuQmtQMWt2VnZMemtqbTlzNkU1dVBlWXJLZE1EQT09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.3.4/Ascend_1.3.4_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTFieVZhSWZGRVRoWUxCSmV1RW50Zm92aXBrQ1I1U2cwNnJMbUtjemFJMFdqeXhJUzRNcHU1L3VocEtOeHZsNjdaT3loK1p6b0JSVTM3K2JFbVRHMmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDQxMTE1CWZpbGU6QXNjZW5kXzEuMy41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjMuNQpSU0RFdHcreGNud3NWZ3ZueHhCZ0xuOTV6WmlKZW8xUlgwU0pNUmxmSG5HYUI5Wm1ycFZKeml3akwvRVRYWmJkOTFDWTkzYjZ2NHZwZ3dLTmcvMlFBZz09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.3.5/Ascend_1.3.5_x64-setup.exe"
   }
  }
 }
