@@ -1,7 +1,7 @@
 {
- "version": "202611241451",
- "fecha": "2026-11-24T14:51:57",
- "notas": "Parches: lo que llega el 25 de noviembre",
+ "version": "202611241517",
+ "fecha": "2026-11-24T15:17:44",
+ "notas": "Versión 1.5.2",
  "archivos": [
   "comun.db.gz",
   "parches.json",
