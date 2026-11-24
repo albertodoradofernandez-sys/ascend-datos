@@ -1,5 +1,16 @@
 [
  {
+  "version": "1.5.4",
+  "fecha": "2026-11-24",
+  "cambios": [
+   {
+    "icono": "swipe",
+    "es": ["Nombres que se deslizan", "En la pieza ideal, los nombres que no caben se deslizan para leerlos enteros al poner el ratón (o el dedo) en la tarjeta."],
+    "en": ["Sliding names", "In the ideal piece, names that don't fit slide so you can read them in full when you hover (or tap) the card."]
+   }
+  ]
+ },
+ {
   "version": "1.5.3",
   "fecha": "2026-11-24",
   "cambios": [

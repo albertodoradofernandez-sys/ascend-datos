@@ -1,11 +1,11 @@
 {
- "version": "1.5.3",
- "notes": "Pieza ideal más legible: nombres sin tapar y % real de tus pasivas",
- "pub_date": "2026-11-24T14:27:10Z",
+ "version": "1.5.4",
+ "notes": "Los nombres cortados de la pieza ideal se deslizan con el ratón encima",
+ "pub_date": "2026-11-24T14:35:54Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQThpN250L0NVUnA2ZHpQOTlTTGZGMk5aeWhZbHlxVnQwSVNkdDlaR0lVbzUraVg1djdDUG5idUc2TnlUcGJtbFZjZDNCRkk0VmkxN2ltbjBPSTdvM1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTMwNDI1CWZpbGU6QXNjZW5kXzEuNS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjUuMwpWOUNGRG1QR1Z6ZU9sSmJTbkZyckxaeklmMTBEcHBxcUZCL09WRmlNZHZvOGlMUjRGdG43bm1hM3pnTC9JMEk4KytGc0FQVitmeE1iU0NIQWF2cFNBdz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.5.3/Ascend_1.5.3_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTRNdnB2ak9yeHJaTW42K2FOUG9DbGd1TTYrVno5NXFVUkZyZGF5alFOaGFjS283bm1MeTNqbVZwN21JTHJpTzkyRnNxTU5oTFRqTzF4cThtU1E0d1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTMwOTQ5CWZpbGU6QXNjZW5kXzEuNS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjUuNApwR1RXOHlpVk9SL09jUkVCYkw5RnFiT1dhQjBZbUV0SVJvWndEVlZXV3RaYVN1VHBRaUZVUVh5cGZFRThRRllFRGcrSWE1L2VmWit6djVFMWd0KytDdz09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.5.4/Ascend_1.5.4_x64-setup.exe"
   }
  }
 }
