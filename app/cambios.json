@@ -1,5 +1,16 @@
 [
  {
+  "version": "1.5.3",
+  "fecha": "2026-11-24",
+  "cambios": [
+   {
+    "icono": "visibility",
+    "es": ["Pieza ideal más legible", "Los nombres largos ya no quedan tapados: se cortan con «…» y el check verde marca las líneas que ya tienes. Tus pasivas enseñan su % real en el top."],
+    "en": ["Easier to read ideal piece", "Long names are no longer covered: they end in «…» and the green check marks the lines you already have. Your passives show their real top %."]
+   }
+  ]
+ },
+ {
   "version": "1.5.2",
   "fecha": "2026-11-24",
   "cambios": [
