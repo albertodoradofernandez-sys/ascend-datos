@@ -1,11 +1,11 @@
 {
- "version": "1.5.0",
- "notes": "Mejorar y amplificar juntos y en orden, sin piezas que no se pueden subir; iconos con fondo de grado; cabeceras con icono; Cara a cara y menú más bonitos",
- "pub_date": "2026-11-24T13:31:34Z",
+ "version": "1.5.1",
+ "notes": "Mejorar y amplificar con tu kinah en un solo plan; Daevanion: Auto más listo; theostones con su icono real; parches del 25 de noviembre",
+ "pub_date": "2026-11-24T13:51:23Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTdRenhkYzJnYkV4TGU0ZVZsd05OVXo5OVpESW9MeGlUZWV1cHZhWXRnQithM2RveFlwRUlUcXhWandoSllXdjlSY3Arbnc3a0dYM1hlSWZUT0VoTnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI3MDg0CWZpbGU6QXNjZW5kXzEuNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjUuMApOWkVGZVpMWmdvblMyVVlMK3QrRlhrdWlpWm12MktSV3VxeGR5ZnF1ZG5zQWZUYlFHUzBzc1hlMXorbUZQRE9oVndvdDliZzhqUUlsZ01HcFU1RStCQT09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.5.0/Ascend_1.5.0_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTYvVGJOQXBKR29zak9aTEdUTThKSS9zSzZ1b3c3ZEh2VDc1OEg1SFpRYUY4d2xSU0grTHpPM2FXQk43TFg1QWVCaG11czVQTkJOWTluSWFuV3ROOGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI4Mjc4CWZpbGU6QXNjZW5kXzEuNS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjUuMQpqSUh6L1dPMEhiTnRsL1RISVI2YlFaelc1OFJvNnpVL1B3aGt2V2JBR2tHbFVvTit0QzM0VDUyaFBpK05objBZL2QwQWliRXlJSkI3WlBiemFGeHZEUT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.5.1/Ascend_1.5.1_x64-setup.exe"
   }
  }
 }

@@ -1,5 +1,37 @@
 [
  {
+  "version": "1.5.1",
+  "fecha": "2026-11-24",
+  "cambios": [
+   {
+    "icono": "hub",
+    "es": [
+     "Daevanion: Auto más listo",
+     "Cada nodo vale el daño que te suma con tus stats (velocidad de combate, crítico, ataque...) más lo que lo abre el top. En el tablero JcJ ya coge lo del top (amplificación de daño JcJ) en vez de relleno barato."
+    ],
+    "en": [
+     "Daevanion: smarter Auto",
+     "Each node is worth the damage it adds with your stats (combat speed, crit, attack...) plus how much the top opens it. On the PvP board it now takes what the top takes (PvP damage boost) instead of cheap filler."
+    ]
+   },
+   {
+    "icono": "hexagon",
+    "es": ["Theostones con su icono", "El plan de mejoras enseña el icono real de cada theostone del juego."],
+    "en": ["Theostones with their icon", "The upgrade plan shows each theostone's real in-game icon."]
+   },
+   {
+    "icono": "savings",
+    "es": ["Mejorar y amplificar con tu kinah", "El plan de presupuesto y el de mejoras son ahora uno: eliges cuánto kinah tienes (o «Todo») y ves cada pieza con su icono, su nombre y si toca mejorar o amplificar (★)."],
+    "en": ["Enchant and amplify with your kinah", "The budget plan and the upgrade plan are now one: pick how much kinah you have (or «All») and see each piece with its icon, its name and whether to enchant or amplify (★)."]
+   },
+   {
+    "icono": "campaign",
+    "es": ["Lo que llega el 25 de noviembre", "En Parches, el resumen del último directo de NC: 5.º hueco de Stigma, 12 Sync Stones a la semana, raid de 3 semanas y la Temporada 2 el 16 de diciembre."],
+    "en": ["What arrives on November 25", "In Patches, a recap of NC's latest stream: 5th Stigma slot, 12 weekly Sync Stones, a 3-week raid and Season 2 on December 16."]
+   }
+  ]
+ },
+ {
   "version": "1.5.0",
   "fecha": "2026-11-24",
   "cambios": [
