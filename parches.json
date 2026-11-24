@@ -1,6 +1,97 @@
 {
- "fuente": "Resumen de las notas oficiales de NC (y aion2hub.com para Corea), revisado el 2026-11-18.",
+ "fuente": "Resumen de las notas oficiales de NC (y aion2hub.com para Corea), revisado el 2026-11-24.",
  "parches": [
+  {
+   "region": "EU",
+   "fecha": "2026-11-23",
+   "url": null,
+   "titulo": "Directo de preguntas: lo que llega el 25 de noviembre",
+   "titulo_en": "Q&A stream: what arrives on November 25",
+   "resumen": "Resumen del directo de preguntas de NC America (anunciado en su Discord, aún no es nota de parche). El 25: 5.º hueco de Stigma, 12 Sync Stones semanales, raid de 3 semanas y castigo al RMT. El 16 de diciembre empieza la Temporada 2 con el Brawler.",
+   "resumen_en": "Recap of NC America's Q&A stream (posted on their Discord, not a patch note yet). On the 25th: 5th Stigma slot, 12 weekly Sync Stones, a 3-week raid and an RMT crackdown. Season 2 starts on December 16 with the Brawler.",
+   "cambios": [
+    {
+     "tipo": "nuevo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "5.º hueco de Stigma",
+     "detalle": "Se desbloquea el 25 de noviembre. Además, 50 fragmentos de Stigma más con el Festival Shugo, Nightmare y la tienda de kinah.",
+     "importante": true,
+     "titulo_en": "5th Stigma slot",
+     "detalle_en": "Unlocks on November 25. Plus 50 more Stigma shards from the Shugo Festival, Nightmare and the kinah shop."
+    },
+    {
+     "tipo": "buff",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Sync Stones: 3 → 12 por semana",
+     "detalle": "La misión semanal pasa de 3 a 12 Sync Stones el 25. Las actuales servirán también para el equipo Heroic de la Temporada 2 (no habrá piedra nueva).",
+     "importante": true,
+     "titulo_en": "Sync Stones: 3 → 12 per week",
+     "detalle_en": "The weekly mission goes from 3 to 12 Sync Stones on the 25th. Current ones also work on Season 2 Heroic gear (no new stone)."
+    },
+    {
+     "tipo": "nuevo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Raid de 3 semanas",
+     "detalle": "Evento en Corroded Decontamination Facility con stats igualados. Premios: Sync Stones, Philosopher's Stones y vales de entrada de Expedición. También llega una mazmorra diaria de kinah nueva.",
+     "importante": true,
+     "titulo_en": "3-week raid event",
+     "detalle_en": "Event in Corroded Decontamination Facility with normalized stats. Rewards: Sync Stones, Philosopher's Stones and Expedition ticket vouchers. A new daily kinah dungeon also arrives."
+    },
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Castigo al RMT",
+     "detalle": "Desde el 25 se recupera el kinah conseguido de forma ilegítima; la cuenta puede quedar en kinah negativo. Los equipos con un jugador de RMT en su Ludra salen del ranking y del Hall of Fame.",
+     "importante": true,
+     "titulo_en": "RMT crackdown",
+     "detalle_en": "From the 25th, illegitimately obtained kinah is recovered; accounts can go into negative kinah. Teams with an RMT player in their Ludra clear are removed from the leaderboards and Hall of Fame."
+    },
+    {
+     "tipo": "cambio",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Ludra más asequible",
+     "detalle": "El Central Abyss Fusion Reactor tiene menos vida y el límite de tiempo sube a 2 horas. Vigilan las recompensas del modo Fácil.",
+     "importante": false,
+     "titulo_en": "Ludra more forgiving",
+     "detalle_en": "The Central Abyss Fusion Reactor has less HP and the time limit goes up to 2 hours. Easy mode rewards are being monitored."
+    },
+    {
+     "tipo": "arreglo",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Compensación por el lag de EU",
+     "detalle": "Los jugadores de EU recibirán una compensación; los detalles, en las notas del 25.",
+     "importante": false,
+     "titulo_en": "EU lag compensation",
+     "detalle_en": "EU players will get compensation; details in the November 25 patch notes."
+    },
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Emparejamiento de servidores",
+     "detalle": "Se revisa cada 2 semanas (PvPeros activos, CP, asedios ganados, tamaño y equipo). Si tu servidor pierde los 3 artefactos, sale un pasillo extra en tu base para seguir sacando Puntos del Abismo.",
+     "importante": false,
+     "titulo_en": "Server matchmaking",
+     "detalle_en": "Reviewed every 2 weeks (active PvPers, CP, Artifact Siege wins, size and gear). If your server loses all 3 artifacts, an extra corridor spawns in your base to keep farming Abyss Points."
+    },
+    {
+     "tipo": "nuevo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Hoja de ruta",
+     "detalle": "16 de diciembre: Temporada 2, clase Brawler y cambios en las macros de combate. Enero: casas (objetivo). Directo con más detalles el 11 de diciembre.",
+     "importante": true,
+     "titulo_en": "Roadmap",
+     "detalle_en": "December 16: Season 2, Brawler class and combat macro changes. January: housing (target). Follow-up stream with more detail on December 11."
+    }
+   ]
+  },
   {
    "region": "EU",
    "fecha": "2026-11-18",
@@ -71,6 +162,339 @@
    ],
    "titulo_en": "Ludra Easy and more Ludra weapons",
    "resumen_en": "Official note. Ludra gets an Easy mode, Ludra weapons drop three times as often, morphing vouchers into the weapon chest costs less and Abyss Points are tripled for a month. No class changes."
+  },
+  {
+   "region": "KR",
+   "fecha": "2026-11-18",
+   "titulo": "Musphel fácil, cambio de servidor gratis y nueva stat PvP",
+   "url": "https://aion2.plaync.com/ko-kr/board/update/view?articleId=6afcab38ebccad0e4b5bad5f",
+   "resumen": "Nota oficial. Santuario Musphel en dificultad fácil, cambio de servidor gratis, amigos entre facciones, sistema de confianza en el mercado, stats PvP de arma nuevas y otra ronda de ajustes de clase.",
+   "cambios": [
+    {
+     "tipo": "nuevo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Cáliz de Musphel en fácil",
+     "detalle": "El santuario Musphel añade dificultad fácil. Nuevas recetas para transformar vales de equipo de santuario en cajas de material superior.",
+     "importante": true,
+     "titulo_en": "Musphel Chalice on easy",
+     "detalle_en": "The Musphel sanctuary adds easy difficulty. New recipes turn sanctuary gear vouchers into top material boxes."
+    },
+    {
+     "tipo": "nuevo",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Nuevas stats: daño de arma PvP",
+     "detalle": "Se añaden amplificación y resistencia de daño de arma PvP. El amuleto de Batalla cambia su amplificación PvP por amplificación de daño de arma PvP.",
+     "importante": true,
+     "titulo_en": "New stats: PvP weapon damage",
+     "detalle_en": "PvP weapon damage amplification and resistance are added. The Battle amulet swaps its PvP amplification for PvP weapon damage amplification."
+    },
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Cambio de servidor gratis",
+     "detalle": "El traslado de servidor pasa a ser gratis (desbloquear huecos de personaje sigue costando). La casa se traslada con el personaje.",
+     "importante": false,
+     "titulo_en": "Free server transfer",
+     "detalle_en": "Server transfer becomes free (unlocking character slots still costs). Housing moves with the character."
+    },
+    {
+     "tipo": "nuevo",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Sistema de confianza en mercado y casa de cambio",
+     "detalle": "Límite diario para cobrar ventas y comprar kinah según la confianza de la cuenta; se reinicia a las 05:00.",
+     "importante": false,
+     "titulo_en": "Trust system for market and exchange",
+     "detalle_en": "Daily limit to collect sales and buy kinah based on account trust; resets at 05:00."
+    },
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Amigos de la otra facción",
+     "detalle": "Se puede añadir y susurrar a personajes de la otra facción.",
+     "importante": false,
+     "titulo_en": "Friends from the other faction",
+     "detalle_en": "You can add and whisper characters from the other faction."
+    },
+    {
+     "tipo": "cambio",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Trascendencia sin Od y menos puntos de ranking",
+     "detalle": "Los jefes de Noiran y Erakus ya no sueltan Od (pasa al cubo). Bajan los puntos base de ranking de Trascendencia y Pesadilla.",
+     "importante": false,
+     "titulo_en": "Transcendence without Od and fewer ranking points",
+     "detalle_en": "Noiran and Erakus bosses no longer drop Od (moved to the cube). Base ranking points for Transcendence and Nightmare go down."
+    },
+    {
+     "tipo": "cambio",
+     "area": "clase",
+     "clase": "Assassin",
+     "titulo": "Asesino: más daño básico, menos pico de daño",
+     "detalle": "Golpes rápidos +10 % PvE; Rugido y Patada de bestia −20 %. Intención asesina dura 5 s y acumula hasta 3 (Golpe +3 % cada una). Corazón: +80 % (antes 150 %). Explosión de runas: recarga 5 s y menos daño por runa (10/30/60/100/250 %).",
+     "importante": true,
+     "titulo_en": "Assassin: more basic damage, lower burst",
+     "detalle_en": "Quick slashes +10% PvE; Beast Roar and Kick −20%. Killing intent lasts 5 s and stacks up to 3 (Strike +3% each). Heart Stab: +80% (was 150%). Rune Burst: 5 s cooldown and less damage per rune (10/30/60/100/250%)."
+    },
+    {
+     "tipo": "cambio",
+     "area": "clase",
+     "clase": "Gladiator",
+     "titulo": "Gladiador: Golpe de ruina vuelve a 40 s",
+     "detalle": "Recarga 60→40 s; Bloqueo concentrado (E3) da furia 10 s.",
+     "importante": false,
+     "titulo_en": "Gladiator: Ruin Strike back to 40 s",
+     "detalle_en": "Cooldown 60→40 s; Focused Block (E3) grants fury for 10 s."
+    },
+    {
+     "tipo": "cambio",
+     "area": "clase",
+     "clase": "Templar",
+     "titulo": "Templario: Juicio pega más",
+     "detalle": "Juicio +50 % de daño base pero recarga 3→7 s; Golpe de escudo reinicia Juicio; bajan los extras de lanzamiento seguido.",
+     "importante": false,
+     "titulo_en": "Templar: Judgment hits harder",
+     "detalle_en": "Judgment +50% base damage but cooldown 3→7 s; Shield Bash resets Judgment; follow-up cast bonuses go down."
+    },
+    {
+     "tipo": "cambio",
+     "area": "clase",
+     "clase": "Chanter",
+     "titulo": "Cantor: Hechizo de tormenta da ataque",
+     "detalle": "Pasa de amplificar daño de arma a subir ataque; nuevas especialidades (daño de arma +10 %, ataque +10 %). Golpe giratorio +10 % PvE.",
+     "importante": false,
+     "titulo_en": "Chanter: Storm Spell gives attack",
+     "detalle_en": "It goes from weapon damage amplification to attack; new specializations (weapon damage +10%, attack +10%). Spin strike +10% PvE."
+    },
+    {
+     "tipo": "buff",
+     "area": "clase",
+     "clase": "Ranger",
+     "titulo": "Arquero: Flecha de ruptura +100 % PvE",
+     "detalle": "Se activa con Precisión (no con Grillete); +100 % PvE y +30 % PvP. Precisión suma 5 % de amplificación de daño elemental. Flecha de apuntar +15 % PvE. Vuelve la Ralentización.",
+     "importante": true,
+     "titulo_en": "Ranger: Rupture Arrow +100% PvE",
+     "detalle_en": "Now triggered by Precision (not Shackle); +100% PvE and +30% PvP. Precision adds 5% elemental damage amplification. Aimed Arrow +15% PvE. Slow is back."
+    },
+    {
+     "tipo": "buff",
+     "area": "clase",
+     "clase": "Cleric",
+     "titulo": "Clérigo: más daño PvE",
+     "detalle": "Varias skills de ataque suben entre 5 % y 20 % en PvE (Castigo +15 %).",
+     "importante": false,
+     "titulo_en": "Cleric: more PvE damage",
+     "detalle_en": "Several attack skills go up 5% to 20% in PvE (Condemnation +15%)."
+    },
+    {
+     "tipo": "cambio",
+     "area": "clase",
+     "clase": null,
+     "titulo": "권성 (clase de Corea): ajustes de recursos",
+     "detalle": "Recupera ira en Furia, Tifón reduce recargas y cambian especialidades.",
+     "importante": false,
+     "titulo_en": "권성 (Korean class): resource tweaks",
+     "detalle_en": "Regains rage during Frenzy, Typhoon reduces cooldowns and specializations change."
+    },
+    {
+     "tipo": "arreglo",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Devolución por coste de herencia",
+     "detalle": "Se devuelve en cubos la diferencia de kinah por la herencia superior (ahora 20 M) desde el 1 de julio.",
+     "importante": false,
+     "titulo_en": "Refund for inheritance cost",
+     "detalle_en": "The kinah difference for advanced inheritance (now 20 M) since July 1 is refunded in cubes."
+    }
+   ],
+   "titulo_en": "Easy Musphel, free server transfer and new PvP stat",
+   "resumen_en": "Official note. Musphel sanctuary on easy difficulty, free server transfer, cross-faction friends, trust system for the market, new PvP weapon stats and another round of class tweaks."
+  },
+  {
+   "region": "KR",
+   "fecha": "2026-11-14",
+   "titulo": "Más reducción de curación en PvP y Asesino rehecho",
+   "url": "https://aion2.plaync.com/ko-kr/board/update/view?articleId=6af77a507d773f10fbeb07f9",
+   "resumen": "Nota oficial. La curación recibida en Arena y Abismo baja un 50 %, el Asesino gira en torno a Emboscada y Corazón, y suben Cantor y Clérigo en PvE. Santuarios con 10 % menos de vida.",
+   "cambios": [
+    {
+     "tipo": "nerf",
+     "area": "clase",
+     "clase": null,
+     "titulo": "Curación en Arena y Abismo −50 %",
+     "detalle": "La reducción de curación recibida pasa del 20 % al 50 %.",
+     "importante": true,
+     "titulo_en": "Healing in Arena and Abyss −50%",
+     "detalle_en": "Received healing reduction goes from 20% to 50%."
+    },
+    {
+     "tipo": "cambio",
+     "area": "clase",
+     "clase": "Assassin",
+     "titulo": "Asesino: Emboscada da intención asesina",
+     "detalle": "Emboscada (recarga 15 s) da intención asesina (Golpe +5 %). Corazón se lanza 3 veces y con intención pega +150 %. Explosión de runas (recarga 7 s) reinicia Corazón al gastar 5 runas. Colmillo +20 % PvE.",
+     "importante": true,
+     "titulo_en": "Assassin: Ambush grants killing intent",
+     "detalle_en": "Ambush (15 s cooldown) grants killing intent (Strike +5%). Heart Stab casts 3 times and deals +150% with intent. Rune Burst (7 s cooldown) resets Heart Stab when spending 5 runes. Fang +20% PvE."
+    },
+    {
+     "tipo": "buff",
+     "area": "clase",
+     "clase": "Chanter",
+     "titulo": "Cantor: más daño PvE",
+     "detalle": "Dos skills de ataque +7 % PvE; Hechizo de tormenta amplifica daño de arma (10,5 % a nivel 1) y mejoran sus especialidades.",
+     "importante": false,
+     "titulo_en": "Chanter: more PvE damage",
+     "detalle_en": "Two attack skills +7% PvE; Storm Spell amplifies weapon damage (10.5% at level 1) and its specializations improve."
+    },
+    {
+     "tipo": "buff",
+     "area": "clase",
+     "clase": "Cleric",
+     "titulo": "Clérigo: más daño PvE",
+     "detalle": "Castigo +15 % y Rayo +10 % en PvE; más daño a objetivos inmunes al control.",
+     "importante": false,
+     "titulo_en": "Cleric: more PvE damage",
+     "detalle_en": "Condemnation +15% and Thunderbolt +10% in PvE; more damage to control-immune targets."
+    },
+    {
+     "tipo": "cambio",
+     "area": "clase",
+     "clase": "Sorcerer",
+     "titulo": "Hechicero: Viento helado vuelve casi a como estaba",
+     "detalle": "Llamas infernales dan calor (+150 % de daño); Origen de concentración recupera reducción de recargas; algunas recargas suben a 60 s.",
+     "importante": false,
+     "titulo_en": "Sorcerer: Freezing Wind mostly reverted",
+     "detalle_en": "Hellfire grants heat (+150% damage); Origin of Focus regains cooldown reduction; some cooldowns go up to 60 s."
+    },
+    {
+     "tipo": "cambio",
+     "area": "clase",
+     "clase": "Ranger",
+     "titulo": "Arquero: estados unidos en «Grillete»",
+     "detalle": "Ralentización y atadura pasan a Grillete; Disparo rápido gasta menos; Lluvia de flechas −30 % PvP.",
+     "importante": false,
+     "titulo_en": "Ranger: statuses merged into Shackle",
+     "detalle_en": "Slow and bind become Shackle; Rapid Shot costs less; Arrow Rain −30% PvP."
+    },
+    {
+     "tipo": "cambio",
+     "area": "clase",
+     "clase": "Gladiator",
+     "titulo": "Gladiador: Armadura de onda a 30 s",
+     "detalle": "Recarga de Armadura de onda 60→30 s.",
+     "importante": false,
+     "titulo_en": "Gladiator: Wave Armor to 30 s",
+     "detalle_en": "Wave Armor cooldown 60→30 s."
+    },
+    {
+     "tipo": "cambio",
+     "area": "clase",
+     "clase": "Templar",
+     "titulo": "Templario: Castigo instantáneo",
+     "detalle": "Castigo deja de cargarse y se lanza al instante.",
+     "importante": false,
+     "titulo_en": "Templar: instant Punishment",
+     "detalle_en": "Punishment is no longer charged and casts instantly."
+    },
+    {
+     "tipo": "cambio",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Santuarios con 10 % menos de vida",
+     "detalle": "Los jefes de Musphel y Llanura de los lamentos tienen 10 % menos de vida.",
+     "importante": false,
+     "titulo_en": "Sanctuaries with 10% less HP",
+     "detalle_en": "Musphel and Plains of Lament bosses have 10% less HP."
+    }
+   ],
+   "titulo_en": "More PvP healing reduction and Assassin rework",
+   "resumen_en": "Official note. Healing received in Arena and Abyss drops 50%, the Assassin revolves around Ambush and Heart Stab, and Chanter and Cleric go up in PvE. Sanctuaries with 10% less HP."
+  },
+  {
+   "region": "KR",
+   "fecha": "2026-11-13",
+   "titulo": "Ajustes de rotación de todas las clases",
+   "url": "https://aion2.plaync.com/ko-kr/board/update/view?articleId=6af65300b0586e28ebc4aaa6",
+   "resumen": "Nota oficial. Arreglos de comodidad en las rotaciones tras el Capítulo 1, sin tocar el equilibrio entre clases (eso llegará después).",
+   "cambios": [
+    {
+     "tipo": "cambio",
+     "area": "clase",
+     "clase": "Assassin",
+     "titulo": "Asesino: runas seguras",
+     "detalle": "Rugido de bestia gasta menos, +40 % PvE y su patada da 1 runa siempre; Colmillo da 5 runas; Explosión de runas recarga 3 s.",
+     "importante": true,
+     "titulo_en": "Assassin: guaranteed runes",
+     "detalle_en": "Beast Roar costs less, +40% PvE and its kick always gives 1 rune; Fang gives 5 runes; Rune Burst 3 s cooldown."
+    },
+    {
+     "tipo": "cambio",
+     "area": "clase",
+     "clase": "Gladiator",
+     "titulo": "Gladiador: Golpe de ruina a 60 s",
+     "detalle": "Recarga 40→60 s, furia 10 s y gasta menos; dos skills pasan a recuperar mente.",
+     "importante": false,
+     "titulo_en": "Gladiator: Ruin Strike to 60 s",
+     "detalle_en": "Cooldown 40→60 s, fury 10 s and lower cost; two skills now restore mind."
+    },
+    {
+     "tipo": "cambio",
+     "area": "clase",
+     "clase": "Templar",
+     "titulo": "Templario: Juicio más fácil",
+     "detalle": "Ventanas de activación más largas y el poder del juicio pide 3 golpes en vez de 5.",
+     "importante": false,
+     "titulo_en": "Templar: easier Judgment",
+     "detalle_en": "Longer activation windows and judgment power needs 3 hits instead of 5."
+    },
+    {
+     "tipo": "cambio",
+     "area": "clase",
+     "clase": "Sorcerer",
+     "titulo": "Hechicero: Viento helado más corto",
+     "detalle": "Dura la mitad con el mismo daño; Refuerzo elemental 60→45 s.",
+     "importante": false,
+     "titulo_en": "Sorcerer: shorter Freezing Wind",
+     "detalle_en": "Lasts half as long with the same damage; Elemental Boost 60→45 s."
+    },
+    {
+     "tipo": "cambio",
+     "area": "clase",
+     "clase": "Spiritmaster",
+     "titulo": "Espiritualista: espíritus más rápidos",
+     "detalle": "Dominio del espacio (30 s) da +100 % de velocidad a los espíritus 7 s; invocar recarga 10 s; descenso de espíritu 10 s.",
+     "importante": false,
+     "titulo_en": "Spiritmaster: faster spirits",
+     "detalle_en": "Space Domination (30 s) gives spirits +100% speed for 7 s; summons 10 s cooldown; spirit descent 10 s."
+    },
+    {
+     "tipo": "cambio",
+     "area": "clase",
+     "clase": "Ranger",
+     "titulo": "Arquero: Flecha de ruptura más fiable",
+     "detalle": "La resonancia se gana al usarla, no al acertar.",
+     "importante": false,
+     "titulo_en": "Ranger: more reliable Rupture Arrow",
+     "detalle_en": "Resonance is gained on use, not on hit."
+    },
+    {
+     "tipo": "arreglo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Arreglos de jefes",
+     "detalle": "Laur ya no refleja daño del Hechicero; Atiel, Stof y Ulmar corregidos.",
+     "importante": false,
+     "titulo_en": "Boss fixes",
+     "detalle_en": "Laur no longer reflects Sorcerer damage; Atiel, Stof and Ulmar fixed."
+    }
+   ],
+   "titulo_en": "Rotation tweaks for every class",
+   "resumen_en": "Official note. Comfort fixes to rotations after Chapter 1, without touching balance between classes (that will come later)."
   },
   {
    "region": "KR",
