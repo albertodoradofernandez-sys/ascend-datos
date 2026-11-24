@@ -1,11 +1,11 @@
 {
- "version": "1.4.1",
- "notes": "Daevanion: Auto hasta el máximo y Vaciar todo; app más bonita (barra de título, menú, ranking con podio)",
- "pub_date": "2026-11-24T13:14:06Z",
+ "version": "1.5.0",
+ "notes": "Mejorar y amplificar juntos y en orden, sin piezas que no se pueden subir; iconos con fondo de grado; cabeceras con icono; Cara a cara y menú más bonitos",
+ "pub_date": "2026-11-24T13:31:34Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXdtd2poNHZCS3puM293bnd4azloWDhJTTh3SStEOFpHRFJQcVJhOU04U1piRGN4WEpYMkt3bEdQNk9WSWdFZDY4WkFQcXE5ZmpKVi9ydkdNa0pSSGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI2MDQxCWZpbGU6QXNjZW5kXzEuNC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuMQpmZnZyUURucEh6YjBXVjJqY0ZFZmM4c1JBM2dyQ3hpQXhQOEpRTnl6KzRLbTRmV3VvVzJvWXMzVHFsdWJOU1JLQlQwblcrRW16OCtROVlMSXhSUmxBdz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.4.1/Ascend_1.4.1_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTdRenhkYzJnYkV4TGU0ZVZsd05OVXo5OVpESW9MeGlUZWV1cHZhWXRnQithM2RveFlwRUlUcXhWandoSllXdjlSY3Arbnc3a0dYM1hlSWZUT0VoTnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI3MDg0CWZpbGU6QXNjZW5kXzEuNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjUuMApOWkVGZVpMWmdvblMyVVlMK3QrRlhrdWlpWm12MktSV3VxeGR5ZnF1ZG5zQWZUYlFHUzBzc1hlMXorbUZQRE9oVndvdDliZzhqUUlsZ01HcFU1RStCQT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.5.0/Ascend_1.5.0_x64-setup.exe"
   }
  }
 }

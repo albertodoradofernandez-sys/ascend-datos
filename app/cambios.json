@@ -1,5 +1,33 @@
 [
  {
+  "version": "1.5.0",
+  "fecha": "2026-11-24",
+  "cambios": [
+   {
+    "icono": "upgrade",
+    "es": [
+     "Mejorar y amplificar, juntos y en orden",
+     "Un solo plan con lo que más CP da por kinah primero; amplificar una pieza va siempre después de llevarla a +15. Ya no propone piezas que no se pueden subir más (tope del juego, grado no Unique o item level bajo para amplificar)."
+    ],
+    "en": [
+     "Enchant and amplify, together and in order",
+     "One plan with the most CP per kinah first; amplifying a piece always comes after taking it to +15. Pieces that can't go higher (game cap, non Unique grade or item level too low to amplify) are no longer suggested."
+    ]
+   },
+   {
+    "icono": "palette",
+    "es": [
+     "Iconos y Cara a cara más bonitos",
+     "Los iconos de equipo llevan el fondo del color de su grado, como en el juego. Cara a cara usa los colores de la app, y el menú tiene el logo y los enlaces de abajo más limpios."
+    ],
+    "en": [
+     "Nicer icons and Head to head",
+     "Gear icons get their grade colour background, like in game. Head to head uses the app colours, and the menu has a cleaner logo and bottom links."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.4.1",
   "fecha": "2026-11-24",
   "cambios": [
