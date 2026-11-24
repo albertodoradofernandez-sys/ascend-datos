@@ -1,6 +1,97 @@
 {
- "fuente": "Resumen de las notas oficiales de NC (y aion2hub.com para Corea), revisado el 2026-11-18.",
+ "fuente": "Resumen de las notas oficiales de NC (y aion2hub.com para Corea), revisado el 2026-11-24.",
  "parches": [
+  {
+   "region": "EU",
+   "fecha": "2026-11-23",
+   "url": null,
+   "titulo": "Directo de preguntas: lo que llega el 25 de noviembre",
+   "titulo_en": "Q&A stream: what arrives on November 25",
+   "resumen": "Resumen del directo de preguntas de NC America (anunciado en su Discord, aún no es nota de parche). El 25: 5.º hueco de Stigma, 12 Sync Stones semanales, raid de 3 semanas y castigo al RMT. El 16 de diciembre empieza la Temporada 2 con el Brawler.",
+   "resumen_en": "Recap of NC America's Q&A stream (posted on their Discord, not a patch note yet). On the 25th: 5th Stigma slot, 12 weekly Sync Stones, a 3-week raid and an RMT crackdown. Season 2 starts on December 16 with the Brawler.",
+   "cambios": [
+    {
+     "tipo": "nuevo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "5.º hueco de Stigma",
+     "detalle": "Se desbloquea el 25 de noviembre. Además, 50 fragmentos de Stigma más con el Festival Shugo, Nightmare y la tienda de kinah.",
+     "importante": true,
+     "titulo_en": "5th Stigma slot",
+     "detalle_en": "Unlocks on November 25. Plus 50 more Stigma shards from the Shugo Festival, Nightmare and the kinah shop."
+    },
+    {
+     "tipo": "buff",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Sync Stones: 3 → 12 por semana",
+     "detalle": "La misión semanal pasa de 3 a 12 Sync Stones el 25. Las actuales servirán también para el equipo Heroic de la Temporada 2 (no habrá piedra nueva).",
+     "importante": true,
+     "titulo_en": "Sync Stones: 3 → 12 per week",
+     "detalle_en": "The weekly mission goes from 3 to 12 Sync Stones on the 25th. Current ones also work on Season 2 Heroic gear (no new stone)."
+    },
+    {
+     "tipo": "nuevo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Raid de 3 semanas",
+     "detalle": "Evento en Corroded Decontamination Facility con stats igualados. Premios: Sync Stones, Philosopher's Stones y vales de entrada de Expedición. También llega una mazmorra diaria de kinah nueva.",
+     "importante": true,
+     "titulo_en": "3-week raid event",
+     "detalle_en": "Event in Corroded Decontamination Facility with normalized stats. Rewards: Sync Stones, Philosopher's Stones and Expedition ticket vouchers. A new daily kinah dungeon also arrives."
+    },
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Castigo al RMT",
+     "detalle": "Desde el 25 se recupera el kinah conseguido de forma ilegítima; la cuenta puede quedar en kinah negativo. Los equipos con un jugador de RMT en su Ludra salen del ranking y del Hall of Fame.",
+     "importante": true,
+     "titulo_en": "RMT crackdown",
+     "detalle_en": "From the 25th, illegitimately obtained kinah is recovered; accounts can go into negative kinah. Teams with an RMT player in their Ludra clear are removed from the leaderboards and Hall of Fame."
+    },
+    {
+     "tipo": "cambio",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Ludra más asequible",
+     "detalle": "El Central Abyss Fusion Reactor tiene menos vida y el límite de tiempo sube a 2 horas. Vigilan las recompensas del modo Fácil.",
+     "importante": false,
+     "titulo_en": "Ludra more forgiving",
+     "detalle_en": "The Central Abyss Fusion Reactor has less HP and the time limit goes up to 2 hours. Easy mode rewards are being monitored."
+    },
+    {
+     "tipo": "arreglo",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Compensación por el lag de EU",
+     "detalle": "Los jugadores de EU recibirán una compensación; los detalles, en las notas del 25.",
+     "importante": false,
+     "titulo_en": "EU lag compensation",
+     "detalle_en": "EU players will get compensation; details in the November 25 patch notes."
+    },
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Emparejamiento de servidores",
+     "detalle": "Se revisa cada 2 semanas (PvPeros activos, CP, asedios ganados, tamaño y equipo). Si tu servidor pierde los 3 artefactos, sale un pasillo extra en tu base para seguir sacando Puntos del Abismo.",
+     "importante": false,
+     "titulo_en": "Server matchmaking",
+     "detalle_en": "Reviewed every 2 weeks (active PvPers, CP, Artifact Siege wins, size and gear). If your server loses all 3 artifacts, an extra corridor spawns in your base to keep farming Abyss Points."
+    },
+    {
+     "tipo": "nuevo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Hoja de ruta",
+     "detalle": "16 de diciembre: Temporada 2, clase Brawler y cambios en las macros de combate. Enero: casas (objetivo). Directo con más detalles el 11 de diciembre.",
+     "importante": true,
+     "titulo_en": "Roadmap",
+     "detalle_en": "December 16: Season 2, Brawler class and combat macro changes. January: housing (target). Follow-up stream with more detail on December 11."
+    }
+   ]
+  },
   {
    "region": "EU",
    "fecha": "2026-11-18",
