@@ -1,11 +1,11 @@
 {
- "version": "1.3.5",
- "notes": "Rotación y macro desde las builds de Questlog; Daevanion solo recomienda lo que puedes abrir",
- "pub_date": "2026-11-23T13:38:40Z",
+ "version": "1.4.0",
+ "notes": "Plan de mejoras con iconos y en orden de prioridad; botón de cómo conseguir cada ala; Qué hacer ahora plegable",
+ "pub_date": "2026-11-24T12:57:54Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTFieVZhSWZGRVRoWUxCSmV1RW50Zm92aXBrQ1I1U2cwNnJMbUtjemFJMFdqeXhJUzRNcHU1L3VocEtOeHZsNjdaT3loK1p6b0JSVTM3K2JFbVRHMmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDQxMTE1CWZpbGU6QXNjZW5kXzEuMy41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjMuNQpSU0RFdHcreGNud3NWZ3ZueHhCZ0xuOTV6WmlKZW8xUlgwU0pNUmxmSG5HYUI5Wm1ycFZKeml3akwvRVRYWmJkOTFDWTkzYjZ2NHZwZ3dLTmcvMlFBZz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.3.5/Ascend_1.3.5_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQThtU3o3aEN5NkRBOHkwbzNLclQ4Zkx6VmJrWS9JeFVzckgwRkFHWDM3OGJ5REMzYjZmcitVMkVPdjBJSXgzOVAwMTF2VEUvZFc3Wnd5ZFZCaDhvalE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI1MDY5CWZpbGU6QXNjZW5kXzEuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuMAp5bWFFSnpDd2tkczArcXdxcVZWTUF4ZFJOKytGeVZISXB4NzRtaTljUjA2ejFkeXZBTW41Mkhmd1gycVpyc2NmY245N1ZSSnJ3U00yT2pOUkQxK0dEUT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.4.0/Ascend_1.4.0_x64-setup.exe"
   }
  }
 }

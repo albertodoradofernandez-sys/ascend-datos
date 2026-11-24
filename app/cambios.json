@@ -1,5 +1,44 @@
 [
  {
+  "version": "1.4.0",
+  "fecha": "2026-11-24",
+  "cambios": [
+   {
+    "icono": "format_list_numbered",
+    "es": [
+     "Plan de mejoras más claro y en orden",
+     "Cada mejora sale pieza a pieza con su icono del juego, de qué nivel a qué nivel, el CP que ganas y lo que cuesta. Lo primero que conviene hacer va arriba y marcado. La amplificación ya enseña el CP de cada pieza y empieza por lo que más ataque da por menos kinah."
+    ],
+    "en": [
+     "Clearer upgrade plan, in priority order",
+     "Each upgrade is listed piece by piece with its game icon, from which level to which, the CP you gain and what it costs. The first thing to do is on top and marked. Amplification now shows each piece's CP and starts with the most attack for the least kinah."
+    ]
+   },
+   {
+    "icono": "flight",
+    "es": [
+     "Cómo conseguir cada ala",
+     "En «Alas que conviene desbloquear», cada ala tiene un botón que abre su página con dónde y cómo se consigue."
+    ],
+    "en": [
+     "How to get each wing",
+     "In «Wings worth unlocking», each wing has a button that opens its page with where and how to get it."
+    ]
+   },
+   {
+    "icono": "unfold_less",
+    "es": [
+     "«Qué hacer ahora» se puede plegar",
+     "Pulsa su título para cerrarlo o abrirlo; se recuerda."
+    ],
+    "en": [
+     "«What to do now» can be collapsed",
+     "Click its title to close or open it; it is remembered."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.3.5",
   "fecha": "2026-11-23",
   "cambios": [
