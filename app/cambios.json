@@ -1,5 +1,31 @@
 [
  {
+  "version": "1.5.2",
+  "fecha": "2026-11-24",
+  "cambios": [
+   {
+    "icono": "link",
+    "es": ["Soul bind: pasivas bien valoradas", "Las pasivas ya no salen como «sobra» por pasar de 20 (ese tope es solo para las activas). Cuentan con lo que las lleva el top de daño de tu clase y entran en la pieza ideal."],
+    "en": ["Soul bind: passives valued right", "Passives no longer show as «extra» above level 20 (that cap is only for active skills). They count by how often your class's damage top uses them and appear in the ideal piece."]
+   },
+   {
+    "icono": "verified",
+    "es": ["Pieza ideal más clara", "La pieza ideal solo enseña las líneas que de verdad lleva el top, sin rellenar con líneas poco usadas."],
+    "en": ["Clearer ideal piece", "The ideal piece only shows the lines the top really uses, without padding with rarely used ones."]
+   },
+   {
+    "icono": "delete",
+    "es": ["Quitar personaje", "Ahora se quita al momento, con un botón de papelera en cada tarjeta del Panel y en el menú."],
+    "en": ["Remove character", "It now goes away right away, with a trash button on each Dashboard card and in the menu."]
+   },
+   {
+    "icono": "flight",
+    "es": ["Alas de la historia", "Las alas Daeva de la historia se dan por tenidas desde el nivel 45 y ya no te las recomienda."],
+    "en": ["Story wings", "The story Daeva wings count as owned from level 45 and are no longer recommended."]
+   }
+  ]
+ },
+ {
   "version": "1.5.1",
   "fecha": "2026-11-24",
   "cambios": [
