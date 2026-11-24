@@ -1,11 +1,11 @@
 {
- "version": "1.4.0",
- "notes": "Plan de mejoras con iconos y en orden de prioridad; botón de cómo conseguir cada ala; Qué hacer ahora plegable",
- "pub_date": "2026-11-24T12:57:54Z",
+ "version": "1.4.1",
+ "notes": "Daevanion: Auto hasta el máximo y Vaciar todo; app más bonita (barra de título, menú, ranking con podio)",
+ "pub_date": "2026-11-24T13:14:06Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQThtU3o3aEN5NkRBOHkwbzNLclQ4Zkx6VmJrWS9JeFVzckgwRkFHWDM3OGJ5REMzYjZmcitVMkVPdjBJSXgzOVAwMTF2VEUvZFc3Wnd5ZFZCaDhvalE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI1MDY5CWZpbGU6QXNjZW5kXzEuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuMAp5bWFFSnpDd2tkczArcXdxcVZWTUF4ZFJOKytGeVZISXB4NzRtaTljUjA2ejFkeXZBTW41Mkhmd1gycVpyc2NmY245N1ZSSnJ3U00yT2pOUkQxK0dEUT09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.4.0/Ascend_1.4.0_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXdtd2poNHZCS3puM293bnd4azloWDhJTTh3SStEOFpHRFJQcVJhOU04U1piRGN4WEpYMkt3bEdQNk9WSWdFZDY4WkFQcXE5ZmpKVi9ydkdNa0pSSGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI2MDQxCWZpbGU6QXNjZW5kXzEuNC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuMQpmZnZyUURucEh6YjBXVjJqY0ZFZmM4c1JBM2dyQ3hpQXhQOEpRTnl6KzRLbTRmV3VvVzJvWXMzVHFsdWJOU1JLQlQwblcrRW16OCtROVlMSXhSUmxBdz09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.4.1/Ascend_1.4.1_x64-setup.exe"
   }
  }
 }

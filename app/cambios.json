@@ -1,5 +1,33 @@
 [
  {
+  "version": "1.4.1",
+  "fecha": "2026-11-24",
+  "cambios": [
+   {
+    "icono": "hub",
+    "es": [
+     "Daevanion: Auto arma la mejor configuración",
+     "«Auto todos» y «Auto este tablero» empiezan de cero y llenan justo hasta el máximo de puntos de cada bolsa (o tu límite), sin pasarse. Nuevo botón «Vaciar todo» y el recuadro del top de tu clase dice cuánto te falta para su media."
+    ],
+    "en": [
+     "Daevanion: Auto builds the best setup",
+     "«Auto all» and «Auto this board» start from scratch and fill exactly up to each pool's max points (or your limit), never over. New «Reset all» button, and the class top box tells you how far you are from its average."
+    ]
+   },
+   {
+    "icono": "auto_awesome",
+    "es": [
+     "La app, más bonita",
+     "Barra de título propia con los colores de Ascend, menú lateral con más brillo, títulos dorados y el ranking con podio de oro, plata y bronce y una barra de CP por jugador."
+    ],
+    "en": [
+     "A prettier app",
+     "Custom title bar in Ascend colours, a shinier side menu, golden page titles and a ranking with a gold, silver and bronze podium and a CP bar per player."
+    ]
+   }
+  ]
+ },
+ {
   "version": "1.4.0",
   "fecha": "2026-11-24",
   "cambios": [
