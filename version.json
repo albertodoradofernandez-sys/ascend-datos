@@ -1,7 +1,7 @@
 {
- "version": "202611241536",
- "fecha": "2026-11-24T15:36:24",
- "notas": "Versión 1.5.4",
+ "version": "202611250145",
+ "fecha": "2026-11-25T01:45:59",
+ "notas": "Parche del 2026-11-25: modo solitario KR, hoja de ruta T2 y mercado mundial",
  "archivos": [
   "comun.db.gz",
   "parches.json",
