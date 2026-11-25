@@ -1,0 +1,501 @@
+{
+ "fecha": "2026-11-25",
+ "n": 60,
+ "clases": {
+  "Assassin": {
+   "n": 59,
+   "estigmas": [
+    {
+     "nombre": "Illusive Clone",
+     "pct": 98,
+     "nivel": 20.0
+    },
+    {
+     "nombre": "Swift Contract",
+     "pct": 90,
+     "nivel": 19.5
+    },
+    {
+     "nombre": "Triniel's Dagger",
+     "pct": 58,
+     "nivel": 17.5
+    },
+    {
+     "nombre": "Savage Fang",
+     "pct": 59,
+     "nivel": 17.2
+    },
+    {
+     "nombre": "Evasion Stance",
+     "pct": 42,
+     "nivel": 17.6
+    },
+    {
+     "nombre": "Throw Shadowblade",
+     "pct": 24,
+     "nivel": 18.6
+    },
+    {
+     "nombre": "Shadow Walk",
+     "pct": 15,
+     "nivel": 17.9
+    },
+    {
+     "nombre": "Spiral Slice",
+     "pct": 8,
+     "nivel": 20.0
+    },
+    {
+     "nombre": "Aerial Bind",
+     "pct": 3,
+     "nivel": 17.5
+    },
+    {
+     "nombre": "Shadowstep",
+     "pct": 2,
+     "nivel": 20.0
+    },
+    {
+     "nombre": "Evasion Contract",
+     "pct": 2,
+     "nivel": 20.0
+    },
+    {
+     "nombre": "Smoke Bomb",
+     "pct": 2,
+     "nivel": 1.0
+    }
+   ]
+  },
+  "Chanter": {
+   "n": 60,
+   "estigmas": [
+    {
+     "nombre": "Undefeated Mantra",
+     "pct": 100,
+     "nivel": 19.6
+    },
+    {
+     "nombre": "Power of the Storm",
+     "pct": 90,
+     "nivel": 18.9
+    },
+    {
+     "nombre": "Guardian Blessing",
+     "pct": 65,
+     "nivel": 18.7
+    },
+    {
+     "nombre": "Sprint Mantra",
+     "pct": 55,
+     "nivel": 17.9
+    },
+    {
+     "nombre": "Marchutan's Wrath",
+     "pct": 48,
+     "nivel": 17.5
+    },
+    {
+     "nombre": "Focused Defense",
+     "pct": 25,
+     "nivel": 16.1
+    },
+    {
+     "nombre": "Obliterate",
+     "pct": 7,
+     "nivel": 14.0
+    },
+    {
+     "nombre": "Fracturing Blow",
+     "pct": 5,
+     "nivel": 15.0
+    },
+    {
+     "nombre": "Ensnaring Mark",
+     "pct": 2,
+     "nivel": 20.0
+    },
+    {
+     "nombre": "Assault Shock",
+     "pct": 2,
+     "nivel": 20.0
+    },
+    {
+     "nombre": "Impeding Authority",
+     "pct": 2,
+     "nivel": 17.0
+    },
+    {
+     "nombre": "Healing Touch",
+     "pct": 2,
+     "nivel": 5.0
+    }
+   ]
+  },
+  "Cleric": {
+   "n": 60,
+   "estigmas": [
+    {
+     "nombre": "Earth Punishment",
+     "pct": 92,
+     "nivel": 18.6
+    },
+    {
+     "nombre": "Prayer of Amplification",
+     "pct": 85,
+     "nivel": 17.1
+    },
+    {
+     "nombre": "Light of Protection",
+     "pct": 77,
+     "nivel": 18.0
+    },
+    {
+     "nombre": "Noble Aura",
+     "pct": 75,
+     "nivel": 16.8
+    },
+    {
+     "nombre": "Yustiel's Power",
+     "pct": 17,
+     "nivel": 18.2
+    },
+    {
+     "nombre": "Summon Resurrection",
+     "pct": 23,
+     "nivel": 7.6
+    },
+    {
+     "nombre": "Benevolence",
+     "pct": 10,
+     "nivel": 16.2
+    },
+    {
+     "nombre": "Salvation",
+     "pct": 8,
+     "nivel": 19.0
+    },
+    {
+     "nombre": "Absolution",
+     "pct": 7,
+     "nivel": 17.5
+    },
+    {
+     "nombre": "Voice of Doom",
+     "pct": 7,
+     "nivel": 7.0
+    },
+    {
+     "nombre": "Assault Mark",
+     "pct": 2,
+     "nivel": 18.0
+    },
+    {
+     "nombre": "Power Burst",
+     "pct": 3,
+     "nivel": 5.5
+    }
+   ]
+  },
+  "Gladiator": {
+   "n": 59,
+   "estigmas": [
+    {
+     "nombre": "Lunge Stance",
+     "pct": 97,
+     "nivel": 19.4
+    },
+    {
+     "nombre": "Rage Burst",
+     "pct": 86,
+     "nivel": 18.9
+    },
+    {
+     "nombre": "Zikel's Blessing",
+     "pct": 86,
+     "nivel": 18.4
+    },
+    {
+     "nombre": "Focused Block",
+     "pct": 56,
+     "nivel": 14.1
+    },
+    {
+     "nombre": "Wave Armor",
+     "pct": 31,
+     "nivel": 19.4
+    },
+    {
+     "nombre": "Blade Toss",
+     "pct": 19,
+     "nivel": 15.4
+    },
+    {
+     "nombre": "Tenaciousness",
+     "pct": 14,
+     "nivel": 17.5
+    },
+    {
+     "nombre": "Lifestealing Blade",
+     "pct": 8,
+     "nivel": 17.6
+    },
+    {
+     "nombre": "Wrath Wave",
+     "pct": 7,
+     "nivel": 5.8
+    },
+    {
+     "nombre": "Armor of Balance",
+     "pct": 2,
+     "nivel": 3.0
+    }
+   ]
+  },
+  "Ranger": {
+   "n": 58,
+   "estigmas": [
+    {
+     "nombre": "Vaizel's Authority",
+     "pct": 98,
+     "nivel": 19.4
+    },
+    {
+     "nombre": "Bow of Blessing",
+     "pct": 95,
+     "nivel": 18.9
+    },
+    {
+     "nombre": "Supporting Fire",
+     "pct": 81,
+     "nivel": 18.2
+    },
+    {
+     "nombre": "Griffon Arrow",
+     "pct": 81,
+     "nivel": 17.9
+    },
+    {
+     "nombre": "Mother Nature's Breath",
+     "pct": 12,
+     "nivel": 17.3
+    },
+    {
+     "nombre": "Ambush Kick",
+     "pct": 7,
+     "nivel": 18.8
+    },
+    {
+     "nombre": "Explosive Arrow",
+     "pct": 14,
+     "nivel": 8.9
+    },
+    {
+     "nombre": "Sealing Arrow",
+     "pct": 3,
+     "nivel": 17.5
+    },
+    {
+     "nombre": "Arrow Storm",
+     "pct": 5,
+     "nivel": 10.0
+    },
+    {
+     "nombre": "Assault Smite",
+     "pct": 2,
+     "nivel": 20.0
+    },
+    {
+     "nombre": "Stealth",
+     "pct": 2,
+     "nivel": 15.0
+    },
+    {
+     "nombre": "Ensnaring Trap",
+     "pct": 2,
+     "nivel": 10.0
+    }
+   ]
+  },
+  "Sorcerer": {
+   "n": 60,
+   "estigmas": [
+    {
+     "nombre": "Element Enhancement",
+     "pct": 98,
+     "nivel": 19.7
+    },
+    {
+     "nombre": "Fire Wall",
+     "pct": 83,
+     "nivel": 18.9
+    },
+    {
+     "nombre": "Delayed Explosion",
+     "pct": 85,
+     "nivel": 18.2
+    },
+    {
+     "nombre": "Cold Storm",
+     "pct": 73,
+     "nivel": 17.3
+    },
+    {
+     "nombre": "Steel Barrier",
+     "pct": 27,
+     "nivel": 18.6
+    },
+    {
+     "nombre": "Soul Freeze",
+     "pct": 7,
+     "nivel": 17.5
+    },
+    {
+     "nombre": "Arctic Armor",
+     "pct": 8,
+     "nivel": 15.2
+    },
+    {
+     "nombre": "Hibernation",
+     "pct": 8,
+     "nivel": 14.6
+    },
+    {
+     "nombre": "Glacial Smite",
+     "pct": 3,
+     "nivel": 20.0
+    },
+    {
+     "nombre": "Curse: Tree",
+     "pct": 3,
+     "nivel": 17.0
+    },
+    {
+     "nombre": "Divine Burst",
+     "pct": 3,
+     "nivel": 15.0
+    }
+   ]
+  },
+  "Spiritmaster": {
+   "n": 59,
+   "estigmas": [
+    {
+     "nombre": "Enhance: Spirit's Benediction",
+     "pct": 100,
+     "nivel": 18.7
+    },
+    {
+     "nombre": "Summon: Ancient Spirit",
+     "pct": 97,
+     "nivel": 18.8
+    },
+    {
+     "nombre": "Flame Blessing",
+     "pct": 88,
+     "nivel": 17.6
+    },
+    {
+     "nombre": "Jointstrike: Corrode",
+     "pct": 93,
+     "nivel": 16.2
+    },
+    {
+     "nombre": "Jointstrike: Destructive Attack",
+     "pct": 7,
+     "nivel": 19.8
+    },
+    {
+     "nombre": "Seize Magic",
+     "pct": 5,
+     "nivel": 18.3
+    },
+    {
+     "nombre": "Command: Proxy",
+     "pct": 3,
+     "nivel": 20.0
+    },
+    {
+     "nombre": "Cry of Terror",
+     "pct": 2,
+     "nivel": 15.0
+    },
+    {
+     "nombre": "Siphon",
+     "pct": 3,
+     "nivel": 9.5
+    },
+    {
+     "nombre": "Assault Terror",
+     "pct": 2,
+     "nivel": 10.0
+    }
+   ]
+  },
+  "Templar": {
+   "n": 60,
+   "estigmas": [
+    {
+     "nombre": "Noble Armor",
+     "pct": 93,
+     "nivel": 18.6
+    },
+    {
+     "nombre": "Battlefield Banner",
+     "pct": 85,
+     "nivel": 19.9
+    },
+    {
+     "nombre": "Taunt",
+     "pct": 68,
+     "nivel": 19.6
+    },
+    {
+     "nombre": "Doom Shield",
+     "pct": 60,
+     "nivel": 19.0
+    },
+    {
+     "nombre": "Shield of Protection",
+     "pct": 48,
+     "nivel": 16.9
+    },
+    {
+     "nombre": "Empyrean Lord's Punishment",
+     "pct": 22,
+     "nivel": 18.1
+    },
+    {
+     "nombre": "Nezekan's Shield",
+     "pct": 8,
+     "nivel": 19.8
+    },
+    {
+     "nombre": "Second Skin",
+     "pct": 3,
+     "nivel": 20.0
+    },
+    {
+     "nombre": "Executing Blade",
+     "pct": 3,
+     "nivel": 17.5
+    },
+    {
+     "nombre": "Grapple",
+     "pct": 3,
+     "nivel": 15.0
+    },
+    {
+     "nombre": "Comrade in Arms",
+     "pct": 2,
+     "nivel": 20.0
+    },
+    {
+     "nombre": "Armor of Balance",
+     "pct": 2,
+     "nivel": 20.0
+    }
+   ]
+  }
+ }
+}
