@@ -1,11 +1,11 @@
 {
- "version": "1.6.0",
- "notes": "Actualizar personajes desde el menú, amplificar según la pieza y cuándo renta vincular el soul bind",
- "pub_date": "2026-11-25T14:41:30Z",
+ "version": "1.6.1",
+ "notes": "Vínculo en kinah y líneas de skill como top %",
+ "pub_date": "2026-11-25T14:53:10Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTVzWWliVmV2ajJnVWZQN2k4VUxEVlJTU0xaUWxHTi9FaDRMMHNId201bHRrQldqL2lBcFFKZnVPQWFKN3V0YnlwL0ZOWEdYUCt6YTFVVjhnM3RKZ1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjE3Njg0CWZpbGU6QXNjZW5kXzEuNi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjYuMAoyWk1KdUw3UXJFVUpuS21TL20rQmtIeXdnZ0J0R013cWZkZ20ydTRlVlFiN1NNd0hiV2w0eXdCSFhsUkYxSDlWMkZKeEVmVWRTU3E3QXNsQXhISXVCQT09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.6.0/Ascend_1.6.0_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQXkrTWxpV1JsM3l0N21sZkFHcDlZN0xLbkNVYVpGOGFNekQ4d3lKQ3U0QWhiUlJ4UEVNSGt5emU2RDJTOGwrZnVzbEJ6R2dmcThKaGl3aUs1UEZLaWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjE4Mzg1CWZpbGU6QXNjZW5kXzEuNi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjYuMQpKakg3L3I5c1dpUXZRam5QZGQzd0pxQXZYUHZ6VVJLZkVMbGtzczJsV3pOV3ZlcFJjZkNoa2RmWWRHSFFqNnlMZWhWa0RrUUI2V3J3bGhjZTBNZVpCUT09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.6.1/Ascend_1.6.1_x64-setup.exe"
   }
  }
 }

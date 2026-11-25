@@ -1,4 +1,5 @@
 [
+ {"version":"1.6.1","fecha":"2026-11-25","cambios":[{"icono":"link","es":["Vínculo en kinah","Cada pieza enseña la kinah que cuesta vincular al 100 %. Las líneas de pasiva y activa salen como «top N %» (lo que lleva el top) porque el vínculo no las cambia: siempre dan su nivel entero."],"en":["Binding in kinah","Each piece shows the kinah to bind to 100%. Passive and active lines show «top N%» (what the top carries) since binding does not change them: they always give their full level."]}]},
  {
   "version": "1.6.0",
   "fecha": "2026-11-25",
