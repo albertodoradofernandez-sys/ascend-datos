@@ -2,6 +2,137 @@
  "fuente": "Resumen de las notas oficiales de NC (y aion2hub.com para Corea), revisado el 2026-11-24.",
  "parches": [
   {
+   "region": "EU",
+   "fecha": "2026-11-25",
+   "titulo": "5 estigmas, mercado mundial y kina negativa",
+   "url": "https://aion2.plaync.com/en-us/board/update/view?articleId=6b0695806b68bef8bae9148e",
+   "resumen": "Nota oficial. Se pueden equipar 5 estigmas, llegan el Mercado e Intercambio mundiales (20 % de impuesto) y la kina negativa contra la venta con dinero real. Más Sync Stones semanales, nueva mazmorra diaria de kina y cambios a Templar, Ranger, Chanter y Spiritmaster.",
+   "cambios": [
+    {
+     "tipo": "nuevo",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "5 estigmas equipados",
+     "detalle": "Ya se pueden equipar hasta 5 habilidades de estigma. Se añaden 50 fragmentos de estigma (ligados) más: el límite en las tiendas de Mazmorras de pesadilla y del Festival Shugo sube de 35 a 50 por personaje, y los mercaderes de Wind Breeze venden 20 por personaje a 250.000 kina cada uno.",
+     "importante": true,
+     "titulo_en": "5 Stigmas equipped",
+     "detalle_en": "You can now equip up to 5 Stigma Skills. 50 more Stigma Shards (Bound) are added: the limit in the Nightmare Dungeon and Shugo Festival shops goes from 35 to 50 per character, and the Wind Breeze Merchants sell 20 per character at 250,000 Kina each."
+    },
+    {
+     "tipo": "nuevo",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Mercado e intercambio mundiales",
+     "detalle": "Llegan el Mercado mundial y el Intercambio mundial, con un impuesto del 20 % en todas las operaciones.",
+     "importante": true,
+     "titulo_en": "World Market and World Exchange",
+     "detalle_en": "World Market and World Exchange are added, with a 20% tax on every trade."
+    },
+    {
+     "tipo": "nuevo",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Kina negativa",
+     "detalle": "Para frenar la compraventa con dinero real, quien haga transacciones no autorizadas recibe kina negativa: sin comprar, vender ni cobrar en Mercado e Intercambio y sin cambio de servidor. Se recupera ganando kina no ligada (cazando, Odyle Energy Cubes, cofres de kina) hasta llegar a cero.",
+     "importante": false,
+     "titulo_en": "Negative Kina",
+     "detalle_en": "To curb real-money trading, players in unauthorized trades get Negative Kina: no buying, listing or settling on Market and Exchange and no server transfer. It is paid back by earning unbound Kina (hunting, Odyle Energy Cubes, Kina chests) until it reaches zero."
+    },
+    {
+     "tipo": "nuevo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Mazmorra diaria: Crobakhi's Secret Depository",
+     "detalle": "Nueva mazmorra diaria que da kina (ligada) según los puntos al terminarla. Comparte entradas con Daeva Bio-Research Base y Odylium Repository.",
+     "importante": false,
+     "titulo_en": "Daily Dungeon: Crobakhi's Secret Depository",
+     "detalle_en": "New daily dungeon that gives Kina (Bound) based on clear points. Shares entries with Daeva Bio-Research Base and Odylium Repository."
+    },
+    {
+     "tipo": "buff",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Más Sync Stones semanales",
+     "detalle": "Las misiones de temporada de Transcendence (Way of the Transcended Steps 1 a 3) dan 4 Sync Stones (Unique) cada una: el máximo semanal pasa de 3 a 12.",
+     "importante": true,
+     "titulo_en": "More weekly Sync Stones",
+     "detalle_en": "Transcendence Season Missions (Way of the Transcended Steps 1 to 3) give 4 Sync Stones (Unique) each: the weekly cap goes from 3 to 12."
+    },
+    {
+     "tipo": "cambio",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Corredor del Abismo",
+     "detalle": "Si el bando rival captura todos los artefactos en el asedio, aparece un portal al Corredor del Abismo en la base del bando en desventaja. Entrar así reduce un 30 % los Puntos del Abismo ganados.",
+     "importante": false,
+     "titulo_en": "Abyss Corridor",
+     "detalle_en": "If the enemy faction captures every Artifact in the siege, an Abyss Corridor portal appears at the losing faction's base. Entering that way cuts Abyss Points gained by 30%."
+    },
+    {
+     "tipo": "nerf",
+     "area": "clase",
+     "clase": "Templar",
+     "titulo": "Judgment: menos daño PvP",
+     "detalle": "Daño PvP de Judgment un 5 % menor aprox. El daño PvP extra contra objetivos con Impact de la Especialidad 2 y el bonus de daño PvP de la Especialidad 3 bajan un 10 % aprox.",
+     "importante": true,
+     "titulo_en": "Judgment: less PvP damage",
+     "detalle_en": "Judgment PvP damage reduced by about 5%. Bonus PvP damage against targets with Specialty 2 Impact and the Specialty 3 PvP damage bonus reduced by about 10%."
+    },
+    {
+     "tipo": "buff",
+     "area": "clase",
+     "clase": "Ranger",
+     "titulo": "Marking Shot y Bow of Blessing",
+     "detalle": "Marking Shot: la Especialidad 1 da Perfect Chance +10 % (antes +5 %). Bow of Blessing: reutilización de 2 min a 1 min 30 s.",
+     "importante": true,
+     "titulo_en": "Marking Shot and Bow of Blessing",
+     "detalle_en": "Marking Shot: Specialty 1 gives Perfect Chance +10% (was +5%). Bow of Blessing: cooldown from 2 min to 1 min 30 s."
+    },
+    {
+     "tipo": "nerf",
+     "area": "clase",
+     "clase": "Chanter",
+     "titulo": "Golpes sin ignorar bloqueo ni evasión",
+     "detalle": "Incandescent Blow y Bursting Blow (Especialidad 5) siguen siendo multigolpe pero ya no ignoran bloqueo ni evasión. Spinning Strike (Especialidad 5) sigue siendo crítico pero tampoco los ignora.",
+     "importante": true,
+     "titulo_en": "Strikes no longer ignore Block and Evasion",
+     "detalle_en": "Incandescent Blow and Bursting Blow (Specialty 5) still land as Multi-Hit but no longer ignore Block and Evasion. Spinning Strike (Specialty 5) still lands as Critical Hit but no longer ignores them either."
+    },
+    {
+     "tipo": "cambio",
+     "area": "clase",
+     "clase": "Spiritmaster",
+     "titulo": "Earth Tremor y Element Unification",
+     "detalle": "Cold Shock, Vacuum Explosion y Earth Tremor: la Especialidad 4 da +10 % de ataque con 1 acumulación (antes +2 % hasta 5) y ya no se quita con habilidades que eliminan buffs. Element Unification: daño crítico +5,5 % en nivel 1 (antes 1,1 %) y +0,5 % por nivel (antes 0,1 %), pero ya no se acumula.",
+     "importante": true,
+     "titulo_en": "Earth Tremor and Element Unification",
+     "detalle_en": "Cold Shock, Vacuum Explosion and Earth Tremor: Specialty 4 gives +10% Attack with 1 stack (was +2% up to 5) and can no longer be removed by buff removal skills. Element Unification: Critical Hit Damage +5.5% at level 1 (was 1.1%) and +0.5% per level (was 0.1%), but it no longer stacks."
+    },
+    {
+     "tipo": "nuevo",
+     "area": "evento",
+     "clase": null,
+     "titulo": "Eventos de Acción de Gracias",
+     "detalle": "Hasta el mantenimiento del 16 de diciembre (CET): asistencia de 14 días Bountiful Dawn, pase Bountiful Feast of Thanks y el santuario Corroded Decontamination Facility (jefe Bargott, stats igualadas, IL 2.100, 7 entradas por semana, monedas que se borran cada miércoles). Drops de Twitch del 25 de noviembre al 10 de diciembre.",
+     "importante": false,
+     "titulo_en": "Thanksgiving events",
+     "detalle_en": "Until the December 16 maintenance (CET): 14-day Bountiful Dawn attendance, Bountiful Feast of Thanks pass and the Corroded Decontamination Facility sanctuary (boss Bargott, normalized stats, IL 2,100, 7 entries per week, coins wiped every Wednesday). Twitch Drops from November 25 to December 10."
+    },
+    {
+     "tipo": "arreglo",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Objetivos en RvR",
+     "detalle": "Arreglado que no se pudiera seleccionar al bando rival en RvR.",
+     "importante": false,
+     "titulo_en": "RvR targeting",
+     "detalle_en": "Fixed being unable to target the enemy faction in RvR."
+    }
+   ],
+   "titulo_en": "5 Stigmas, World Market and Negative Kina",
+   "resumen_en": "Official notes. You can equip 5 Stigmas, World Market and World Exchange arrive (20% tax) along with Negative Kina against real-money trading. More weekly Sync Stones, a new daily Kina dungeon and changes to Templar, Ranger, Chanter and Spiritmaster."
+  },
+  {
    "region": "KR",
    "fecha": "2026-11-25",
    "url": "https://aion2.plaync.com/ko-kr/board/update/view?articleId=6b05e5b8fc9aef09c918ece8",
