@@ -1,7 +1,7 @@
 {
- "version": "202611251553",
- "fecha": "2026-11-25T15:53:47",
- "notas": "Versión 1.6.1",
+ "version": "202611251558",
+ "fecha": "2026-11-25T15:58:41",
+ "notas": "Semana del 25-11-2026: meta EU y KR tras el parche de 5 estigmas, Daevanion recalculado",
  "archivos": [
   "comun.db.gz",
   "parches.json",
