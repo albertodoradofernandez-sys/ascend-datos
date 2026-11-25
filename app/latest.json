@@ -1,11 +1,11 @@
 {
- "version": "1.5.4",
- "notes": "Los nombres cortados de la pieza ideal se deslizan con el ratón encima",
- "pub_date": "2026-11-24T14:35:54Z",
+ "version": "1.5.5",
+ "notes": "Estigma para el 5.º hueco, Auto del Daevanion con lo del top y 12 Sync Stones",
+ "pub_date": "2026-11-25T14:26:12Z",
  "platforms": {
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTRNdnB2ak9yeHJaTW42K2FOUG9DbGd1TTYrVno5NXFVUkZyZGF5alFOaGFjS283bm1MeTNqbVZwN21JTHJpTzkyRnNxTU5oTFRqTzF4cThtU1E0d1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTMwOTQ5CWZpbGU6QXNjZW5kXzEuNS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjUuNApwR1RXOHlpVk9SL09jUkVCYkw5RnFiT1dhQjBZbUV0SVJvWndEVlZXV3RaYVN1VHBRaUZVUVh5cGZFRThRRllFRGcrSWE1L2VmWit6djVFMWd0KytDdz09Cg==",
-   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.5.4/Ascend_1.5.4_x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmVsRk8xVkhiQTdxRW55YW9MYUlXSG5IZWlKWlJJc2xla05PbGVBTGVHbmtJN0hIdHJSeDBaZ2NWZy9JeXo2d25SMFJZWEd5MHZNbnhBekxYbDRUcnB0aVNWYTdvVlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjE2NzY3CWZpbGU6QXNjZW5kXzEuNS41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjUuNQorZDgvQldzaGE1S0tZSHFuS0FuMVkrcjJieDdsMU42YzhUVzVRMVB0Rm92Um44NzJab0hWVXdSbnphSXZaZkYweU5aVDJ2WGlYMlpNcGYvNy9GcDhDZz09Cg==",
+   "url": "https://github.com/albertodoradofernandez-sys/ascend-datos/releases/download/v1.5.5/Ascend_1.5.5_x64-setup.exe"
   }
  }
 }

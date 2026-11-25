@@ -1,5 +1,26 @@
 [
  {
+  "version": "1.5.5",
+  "fecha": "2026-11-25",
+  "cambios": [
+   {
+    "icono": "auto_awesome",
+    "es": ["Estigma para el 5.º hueco", "Desde el parche del 25 de noviembre se equipan 5 estigmas. El plan de estigmas te dice cuál poner en el hueco libre: el que más lleva el top de tu clase, y si ya lo tienes o te falta conseguirlo."],
+    "en": ["Stigma for the 5th slot", "Since the November 25 patch you can equip 5 stigmas. The stigma plan tells you which one to put in the free slot: the one your class's top carries most, and whether you already have it."]
+   },
+   {
+    "icono": "hub",
+    "es": ["Daevanion: Auto con lo del top", "Auto abre primero los nodos que lleva al menos el 70 % del top, aunque sean caros o no sumen daño, y luego reparte el resto por daño."],
+    "en": ["Daevanion: Auto follows the top", "Auto first opens the nodes at least 70% of the top opens, even if they are costly or add no damage, then spends the rest on damage."]
+   },
+   {
+    "icono": "event_repeat",
+    "es": ["Hasta 12 Sync Stones a la semana", "La rutina semanal ya cuenta las 12 Sync Stones de las misiones de temporada."],
+    "en": ["Up to 12 Sync Stones a week", "The weekly routine now counts the 12 Sync Stones from season missions."]
+   }
+  ]
+ },
+ {
   "version": "1.5.4",
   "fecha": "2026-11-24",
   "cambios": [
