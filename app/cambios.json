@@ -1,5 +1,26 @@
 [
  {
+  "version": "1.6.0",
+  "fecha": "2026-11-25",
+  "cambios": [
+   {
+    "icono": "sync",
+    "es": ["Actualizar personajes", "Botón bajo tu personaje en el menú: trae el CP y el equipo actuales de todos tus personajes, primero el principal y luego los demás."],
+    "en": ["Update characters", "Button under your character in the menu: fetches current CP and gear for all your characters, main first, then the rest."]
+   },
+   {
+    "icono": "bolt",
+    "es": ["Amplificar según la pieza", "Cada nivel de amplificación da +1 % de aumento de daño y +12 de ataque en arma y guard, la mitad en joyas y nada de daño en armadura. El plan de mejoras lo cuenta al ordenar por lo que da frente a lo que cuesta."],
+    "en": ["Amplify by piece", "Each amplification level gives +1% damage boost and +12 attack on weapon and guard, half on jewelry and no damage on armor. The upgrade plan counts it when ranking by gain versus cost."]
+   },
+   {
+    "icono": "link",
+    "es": ["¿Renta vincular el soul bind?", "Cada pieza enseña el daño que suma llevar el vínculo al 100 % (tus líneas a su valor máximo), los libros y kinah que faltan y si renta ya o hay que cambiar líneas antes. Arriba, dónde vincular primero."],
+    "en": ["Is binding worth it?", "Each piece shows the damage of binding to 100% (your lines at their max value), the codex and kinah left, and whether it pays off now or you should change lines first. On top, where to bind first."]
+   }
+  ]
+ },
+ {
   "version": "1.5.5",
   "fecha": "2026-11-25",
   "cambios": [
