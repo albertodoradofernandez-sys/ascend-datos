@@ -1,7 +1,7 @@
 {
- "version": "202611250145",
- "fecha": "2026-11-25T01:45:59",
- "notas": "Parche del 2026-11-25: modo solitario KR, hoja de ruta T2 y mercado mundial",
+ "version": "202611251247",
+ "fecha": "2026-11-25T12:47:19",
+ "notas": "Parche del 2026-11-25: 5 estigmas, mercado mundial y kina negativa",
  "archivos": [
   "comun.db.gz",
   "parches.json",
