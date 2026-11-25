@@ -2,6 +2,229 @@
  "fuente": "Resumen de las notas oficiales de NC (y aion2hub.com para Corea), revisado el 2026-11-24.",
  "parches": [
   {
+   "region": "KR",
+   "fecha": "2026-11-25",
+   "url": "https://aion2.plaync.com/ko-kr/board/update/view?articleId=6b05e5b8fc9aef09c918ece8",
+   "titulo": "Modo en solitario, fin del cambio de servidor y kinah negativo",
+   "titulo_en": "Solo mode, end of server transfers and negative kinah",
+   "resumen": "Nota oficial. Llega el modo en solitario en varias Expediciones y en Transcendence, se cierra el cambio de servidor, entra el kinah negativo contra el RMT, nuevo emparejamiento del Abismo y 10 huecos de cubo más para todos. Ajustes visuales y arreglos de clases.",
+   "resumen_en": "Official note. Solo mode arrives in several Expeditions and Transcendence, server transfers close, negative kinah arrives against RMT, new Abyss matchmaking and 10 extra cube slots for everyone. Visual tweaks and class fixes.",
+   "cambios": [
+    {
+     "tipo": "nuevo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Modo en solitario",
+     "detalle": "Se puede entrar solo, sin buscar grupo, en 11 Expediciones (entre ellas Draupnir, Urugugu Canyon y Fire Temple, varias en normal y difícil) y en Transcendence niveles 1 a 4. Dentro, el 50 % del aumento de daño por la espalda se suma al aumento de daño frontal.",
+     "importante": true,
+     "titulo_en": "Solo mode",
+     "detalle_en": "You can enter alone, without a party, in 11 Expeditions (including Draupnir, Urugugu Canyon and Fire Temple, several in normal and hard) and in Transcendence tiers 1 to 4. Inside, 50% of your back damage amplification is added to front damage amplification."
+    },
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Se acaba el cambio de servidor",
+     "detalle": "Termina el periodo de cambio de servidor y desaparece la pestaña de la tienda. Vuelven los límites de cobro del mercado según el nivel de confianza.",
+     "importante": true,
+     "titulo_en": "Server transfers end",
+     "detalle_en": "The server transfer period ends and the shop tab is removed. Market payout limits based on trust level apply again."
+    },
+    {
+     "tipo": "nuevo",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Kinah negativo contra el RMT",
+     "detalle": "A quien comercie con dinero real se le deja el kinah en negativo. Mientras dure no puede comprar, vender ni cobrar en mercado e intercambio ni cambiar de servidor. Se recupera con el kinah no vinculado que consiga cazando, con cubos de energía Od o cofres de kinah.",
+     "importante": true,
+     "titulo_en": "Negative kinah against RMT",
+     "detalle_en": "Players caught in real-money trading get a negative kinah balance. Until it is repaid they cannot buy, sell or claim on the market and exchange or transfer servers. It is repaid with unbound kinah from hunting, Od energy cubes or kinah chests."
+    },
+    {
+     "tipo": "cambio",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Nuevo emparejamiento del Abismo",
+     "detalle": "Se rehacen los 21 grupos de servidores. Se reinician la ocupación de artefactos y los corredores del Abismo.",
+     "importante": false,
+     "titulo_en": "New Abyss matchmaking",
+     "detalle_en": "The 21 server groups are reshuffled. Artifact control and Abyss corridors are reset."
+    },
+    {
+     "tipo": "buff",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Cubo: 40 → 50 huecos",
+     "detalle": "El cubo base pasa de 40 a 50 huecos y quien ya lo había ampliado recibe 10 más.",
+     "importante": false,
+     "titulo_en": "Cube: 40 → 50 slots",
+     "detalle_en": "The base cube goes from 40 to 50 slots and players who already expanded it get 10 more."
+    },
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Más castigo al fallar la verificación anti-bots",
+     "detalle": "El castigo crece con los fallos del día y ahora además transforma y expulsa del juego.",
+     "importante": false,
+     "titulo_en": "Harsher anti-bot check penalty",
+     "detalle_en": "The penalty grows with daily failures and now also transforms and kicks you from the game."
+    },
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Mejoras varias",
+     "detalle": "El dueño no cuenta para el límite de su feudo, los jefes de campo dan premio aunque mueran mientras te teletransportas, la pantalla de muerte ya no se oscurece y se pueden mover las ventanas de resurrección. Hay receta para convertir algunos vales de cambio de equipo en puntos de techo de mazmorras como Musphel.",
+     "importante": false,
+     "titulo_en": "Various improvements",
+     "detalle_en": "The owner no longer counts toward their estate limit, field bosses give rewards even if they die while you teleport, the death screen no longer darkens and resurrection windows can be moved. A recipe turns some gear exchange tickets into pity points for dungeons like Musphel."
+    },
+    {
+     "tipo": "cambio",
+     "area": "habilidad",
+     "clase": "Assassin",
+     "titulo": "Intención asesina más larga pero más débil",
+     "detalle": "Con Ambush y Beast Fang dura 7 s en vez de 5, pero da 2 % de golpe fuerte en vez de 3 %. Ambush ya cancela la habilidad anterior al pulsarlo.",
+     "importante": true,
+     "titulo_en": "Killing intent longer but weaker",
+     "detalle_en": "With Ambush and Beast Fang it lasts 7 s instead of 5, but gives 2% heavy strike instead of 3%. Ambush now cancels the previous skill when pressed."
+    },
+    {
+     "tipo": "cambio",
+     "area": "habilidad",
+     "clase": "Gladiator",
+     "titulo": "Golpe de ruina más rápido",
+     "detalle": "Cancela la habilidad anterior al pulsarlo. Cambian los efectos visuales de su estado especial.",
+     "importante": false,
+     "titulo_en": "Faster ruin strike",
+     "detalle_en": "It now cancels the previous skill when pressed. Visual effects of its special state change."
+    },
+    {
+     "tipo": "arreglo",
+     "area": "habilidad",
+     "clase": "Brawler",
+     "titulo": "Arreglo de Golpe al suelo",
+     "detalle": "Cancela la habilidad anterior al pulsarlo y ya funciona con la especialización 2.",
+     "importante": false,
+     "titulo_en": "Ground slam fix",
+     "detalle_en": "It now cancels the previous skill when pressed and works with specialization 2."
+    },
+    {
+     "tipo": "arreglo",
+     "area": "habilidad",
+     "clase": "Ranger",
+     "titulo": "Arreglo de Flecha explosiva",
+     "detalle": "La reducción de recarga de la especialización 5 ya no se acumula con 2 o más jugadores. Cambian los efectos visuales de su estado especial.",
+     "importante": false,
+     "titulo_en": "Explosive arrow fix",
+     "detalle_en": "Specialization 5 cooldown reduction no longer stacks with 2 or more players. Visual effects of its special state change."
+    },
+    {
+     "tipo": "arreglo",
+     "area": "habilidad",
+     "clase": "Spiritmaster",
+     "titulo": "Arreglo de Dominio del espacio",
+     "detalle": "Sin especialización, la ralentización ya afecta a los NPC. Cambian los efectos visuales de su estado especial.",
+     "importante": false,
+     "titulo_en": "Space domination fix",
+     "detalle_en": "Without specialization, the slow now applies to NPCs. Visual effects of its special state change."
+    },
+    {
+     "tipo": "arreglo",
+     "area": "habilidad",
+     "clase": "Chanter",
+     "titulo": "Texto de Hechizo de tormenta",
+     "detalle": "Se corrige el 10 % de golpe fuerte que mostraba la descripción con la especialización 5.",
+     "importante": false,
+     "titulo_en": "Storm spell tooltip",
+     "detalle_en": "Fixes the 10% heavy strike shown in the tooltip with specialization 5."
+    },
+    {
+     "tipo": "cambio",
+     "area": "habilidad",
+     "clase": null,
+     "titulo": "Efectos visuales de clases",
+     "detalle": "Cambian efectos visuales de Templar (Juicio), Sorcerer (Fuego infernal) y otras habilidades, sin cambios de daño.",
+     "importante": false,
+     "titulo_en": "Class visual effects",
+     "detalle_en": "Visual effects change for Templar (Judgment), Sorcerer (Hellfire) and other skills, with no damage changes."
+    },
+    {
+     "tipo": "arreglo",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Arreglos de jefes",
+     "detalle": "Se arreglan un efecto que seguía activo tras morir un jefe y una barra de aturdimiento que no se recuperaba, en dos Expediciones.",
+     "importante": false,
+     "titulo_en": "Boss fixes",
+     "detalle_en": "Fixes a boss effect that kept triggering after death and a stagger bar that did not recover, in two Expeditions."
+    },
+    {
+     "tipo": "cambio",
+     "area": "evento",
+     "clase": null,
+     "titulo": "Fin de la colaboración con fromis_9",
+     "detalle": "Termina la colaboración: los títulos y trajes cambian de nombre y los trajes pierden la transformación.",
+     "importante": false,
+     "titulo_en": "fromis_9 collab ends",
+     "detalle_en": "The collab ends: titles and outfits are renamed and outfits lose their transformation."
+    }
+   ]
+  },
+  {
+   "region": "EU",
+   "fecha": "2026-11-23",
+   "url": "https://aion2.plaync.com/en-us/board/notice/view?articleId=6b04bc90d66fab562628226c",
+   "titulo": "Hoja de ruta de la Temporada 2",
+   "titulo_en": "Season 2 roadmap",
+   "resumen": "Anuncio de NC. La Temporada 2 empieza el 16 de diciembre con la clase Brawler y en enero de 2027 llega el housing. Las fechas pueden cambiar.",
+   "resumen_en": "NC announcement. Season 2 starts on December 16 with the Brawler class and housing arrives in January 2027. Dates may change.",
+   "cambios": [
+    {
+     "tipo": "nuevo",
+     "area": "clase",
+     "clase": "Brawler",
+     "titulo": "Nueva clase: Brawler",
+     "detalle": "Llega con la Temporada 2 el 16 de diciembre. Pelea cuerpo a cuerpo, rápido y agresivo, con guanteletes.",
+     "importante": true,
+     "titulo_en": "New class: Brawler",
+     "detalle_en": "Arrives with Season 2 on December 16. Fast, aggressive melee fighter using gauntlets."
+    },
+    {
+     "tipo": "nuevo",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Housing en enero de 2027",
+     "detalle": "Una isla privada para colocar muebles y decoración a tu gusto.",
+     "importante": false,
+     "titulo_en": "Housing in January 2027",
+     "detalle_en": "A private island to place furniture and decorations as you like."
+    }
+   ]
+  },
+  {
+   "region": "EU",
+   "fecha": "2026-11-21",
+   "url": "https://aion2.plaync.com/en-us/board/notice/view?articleId=6b047f20d65afc4bb5d63c4e",
+   "titulo": "Mercado e intercambio mundiales desde el 25",
+   "titulo_en": "World Market and World Exchange from the 25th",
+   "resumen": "Anuncio de NC. Desde el 25 de noviembre se puede comerciar con jugadores de otros servidores de la misma facción y región. Solo con membresía.",
+   "resumen_en": "NC announcement. From November 25 you can trade with players on other servers of the same faction and region. Membership only.",
+   "cambios": [
+    {
+     "tipo": "nuevo",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Mercado e intercambio mundiales",
+     "detalle": "Abren tras el mantenimiento del 25, junto a los del servidor, que siguen igual. Impuesto del 20 %, máximo 10 ventas al día en cada uno y solo para usuarios con membresía.",
+     "importante": true,
+     "titulo_en": "World Market and World Exchange",
+     "detalle_en": "Open after the maintenance on the 25th, alongside the server ones, which stay the same. 20% sales tax, up to 10 listings per day on each and membership users only."
+    }
+   ]
+  },
+  {
    "region": "EU",
    "fecha": "2026-11-23",
    "url": null,
