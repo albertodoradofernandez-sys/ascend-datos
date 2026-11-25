@@ -1,7 +1,7 @@
 {
- "version": "202611251542",
- "fecha": "2026-11-25T15:42:07",
- "notas": "Versión 1.6.0",
+ "version": "202611251553",
+ "fecha": "2026-11-25T15:53:47",
+ "notas": "Versión 1.6.1",
  "archivos": [
   "comun.db.gz",
   "parches.json",
