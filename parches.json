@@ -3,6 +3,68 @@
  "parches": [
   {
    "region": "EU",
+   "fecha": "2026-11-26",
+   "url": "https://aion2.plaync.com/en-us/board/notice/view?articleId=6b079e1563dd78f52230e0fe",
+   "titulo": "Limpieza del Hall of Fame de Ludra y evento ampliado",
+   "titulo_en": "Ludra Hall of Fame cleanup and event extended",
+   "resumen": "Anuncio de NC. Sanciones contra RMT con recuperación de kina ilegítima, equipos con RMT fuera del Hall of Fame de Ludra y el evento Ludra Hunt ampliado hasta el 15 de diciembre.",
+   "resumen_en": "NC announcement. RMT sanctions with illegitimate Kina recovered, teams with RMT removed from the Ludra Hall of Fame and the Ludra Hunt event extended to December 15.",
+   "cambios": [
+    {
+     "tipo": "cambio",
+     "area": "sistema",
+     "clase": null,
+     "titulo": "Sanciones por RMT",
+     "detalle": "Cuentas que participaron en RMT sancionadas y la kina que entró de forma ilegítima, recuperada. Seguirán aplicando medidas las próximas semanas.",
+     "importante": false,
+     "titulo_en": "RMT sanctions",
+     "detalle_en": "Accounts that took part in RMT were sanctioned and the Kina that entered illegitimately was recovered. More measures will follow in the coming weeks."
+    },
+    {
+     "tipo": "cambio",
+     "area": "contenido",
+     "clase": null,
+     "titulo": "Hall of Fame de Ludra revisado",
+     "detalle": "Se quitan en todas las regiones los equipos con algún miembro que hizo RMT. Los que quedan son los ganadores definitivos.",
+     "importante": false,
+     "titulo_en": "Ludra Hall of Fame reviewed",
+     "detalle_en": "Teams with any member who took part in RMT were removed in every region. The remaining teams are the final winners."
+    },
+    {
+     "tipo": "cambio",
+     "area": "evento",
+     "clase": null,
+     "titulo": "Ludra Hunt ampliado hasta el 15 de diciembre",
+     "detalle": "El evento dura hasta el 15 de diciembre de 2026 antes del mantenimiento (PST). Superar Ludra normal o difícil da el título \"Ludra's Nemesis\". Quedan plazas libres en el ranking y los resultados saldrán al acabar el evento.",
+     "importante": true,
+     "titulo_en": "Ludra Hunt extended to December 15",
+     "detalle_en": "The event runs until December 15, 2026 before maintenance (PST). Clearing Ludra normal or hard grants the title \"Ludra's Nemesis\". Ranking spots have opened up and results will be revealed after the event ends."
+    }
+   ]
+  },
+  {
+   "region": "EU",
+   "fecha": "2026-11-26",
+   "url": "https://aion2.plaync.com/en-us/board/notice/view?articleId=6b07aec0e01c11ad96d82891",
+   "titulo": "Compensación en Europa por los problemas de red",
+   "titulo_en": "Europe compensation for network issues",
+   "resumen": "Anuncio de NC. Compensación solo para jugadores de Europa por los problemas de red, enviada al correo del juego (caduca en 14 días).",
+   "resumen_en": "NC announcement. Compensation for players in Europe only for the network issues, sent to in-game mail (expires in 14 days).",
+   "cambios": [
+    {
+     "tipo": "nuevo",
+     "area": "objeto",
+     "clase": null,
+     "titulo": "Compensación por los problemas de red",
+     "detalle": "10 Odyle Energy, 30 de cada pergamino (Battle Enhance, Superior Courage, Superior Benediction, Superior Speed y Status Effect Resist), 80 Soul Codex, 4 cofres de tickets de contenido, 3 tickets de Instant Clear de mazmorra diaria y 3 de Nightmare. Todo ligado. Odyle, cofres y tickets caducan el 16 de diciembre a las 08:00 CET.",
+     "importante": true,
+     "titulo_en": "Network issues compensation",
+     "detalle_en": "10 Odyle Energy, 30 of each scroll (Battle Enhance, Superior Courage, Superior Benediction, Superior Speed and Status Effect Resist), 80 Soul Codex, 4 Content Usage Ticket Selection Chests, 3 Instant Clear Tickets: Daily Dungeon and 3 Nightmare. All bound. Odyle, chests and tickets expire on December 16 at 08:00 CET."
+    }
+   ]
+  },
+  {
+   "region": "EU",
    "fecha": "2026-11-25",
    "titulo": "5 estigmas, mercado mundial y kina negativa",
    "url": "https://aion2.plaync.com/en-us/board/update/view?articleId=6b0695806b68bef8bae9148e",
