@@ -1,7 +1,7 @@
 {
- "version": "202611251558",
- "fecha": "2026-11-25T15:58:41",
- "notas": "Semana del 25-11-2026: meta EU y KR tras el parche de 5 estigmas, Daevanion recalculado",
+ "version": "202611261308",
+ "fecha": "2026-11-26T13:08:35",
+ "notas": "Parche del 2026-11-26: compensación EU y Ludra Hunt ampliado",
  "archivos": [
   "comun.db.gz",
   "parches.json",
